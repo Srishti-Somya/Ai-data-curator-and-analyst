@@ -1,0 +1,845 @@
+URL: https://www.nict.go.jp/en/topics/2023/04/13-1.html
+==================================================
+Japanese joint research group launches quantum computing cloud service
+National Institute of Advanced Industrial Science and Technology (AIST)
+National Institute of Information and Communications Technology (NICT)
+Osaka University
+Fujitsu Limited
+Nippon Telegraph and Telephone Corporation (NTT)
+Dawn of the Quantum Age: a new frontier in computing technology
+Research Methods and Results
+Joint Research Group Members
+RIKEN Center for Quantum Computing
+Yasunobu Nakamura, Ph.D., Director
+(Team Leader of the Superconducting Quantum Electronics Research Team)
+Shinichi Yorozu, Ph.D. Deputy Director
+Superconducting Quantum Electronics Research Team
+Shuhei Tamate, Ph.D., Research Scientist
+Koichi Kusuyama, Ph.D., Senior Technical Staff
+Superconducting Quantum Electronics Joint Research Unit
+Eisuke Abe, D.Sc., Unit Leader
+Superconducting Quantum Computing System Research Unit
+Yutaka Tabuchi, Ph.D., Unit Leader
+3D Integration System Group of the Device Technology Research Institute at the National Institute of Advanced Industrial Science and Technology (AIST)
+Katsuya Kikuchi, Ph.D., Group Leader
+Superconductive ICT Device Laboratory at the Kobe Frontier Research Center of the Advanced ICT Research Institute of the National Institute of Information and Communications Technology (NICT)
+Hirotaka Terai, Ph.D., Director
+Yuji Hishida, Ph.D., Fixed Term Research Engineer
+Center for Quantum Information and Quantum Biology at Osaka University
+Masahiro Kitagawa, Ph.D., Director and Professor
+(Professor, Graduate School of Engineering Science)
+Keisuke Fujii, Ph.D., Deputy Director and Professor
+(Professor, Graduate School of Engineering Science/Team Leader, Quantum Computing Theory Research Team, RIKEN Center for Quantum Computing)
+Makoto Negoro, Ph.D., Deputy Director and Associate Professor
+Takefumi Miyoshi, Ph.D., Specially Appointed Associate Professor
+(Director, e-trees.Japan, Inc.)
+Shunsuke Saruwatari, Ph.D., Associate Professor
+(Associate Professor, Graduate School of Information Science and Technology)
+Naoyuki Masumoto, Ph.D., Specially Appointed Researcher
+Quantum Laboratory at Fujitsu Research of Fujitsu Limited
+Shintaro Sato, Ph.D., Head of Quantum Laboratory
+NTT Computer & Data Science Laboratories
+Yuuki Tokunaga, Ph.D., Distinguished Researcher
+Yasunari Suzuki, Ph.D., Researcher
+Superconducting method:
+Quantum superposition and quantum entanglement:
+Noisy intermediate-scale quantum (NISQ) computer:
+Fault-tolerant quantum computing:
+About National Institute of Advanced Industrial Science and Technology (AIST)
+About National Institute of Information and Communications Technology (NICT)
+About Osaka University
+About Nippon Telegraph and Telephone Corporation (NTT)
+Global Communications
+National Institute of Advanced Industrial Science and Technology (AIST)
+Branding and Public Relations Department Media Relations Office
+National Institute of Information and Communications Technology (NICT)
+Press Office, Public Relations Department
+Osaka University
+Department of Research Promotion, Office for Center for Quantum Information and Quantum Biology
+Nippon Telegraph and Telephone Corporation (NTT)
+NTT Service Innovation Laboratory Group Public Relations
+Radio Research Institute
+Network Research Institute
+Cybersecurity Research Institute
+Universal Communication Research Institute
+Advanced ICT Research Institute
+Beyond 5G Research and Development Promotion Unit
+Quantum ICT Collaboration Center
+Innovation Design Initiative (IDI)
+Employment Information
+Copyright © National Institute of Information and Communications Technology. All Rights Reserved.
+Radio Research Institute
+Radio Propagation Research Center
+Electromagnetic Standards Research Center
+Applied Electromagnetic Research Center
+Network Research Institute
+Photonic ICT Research Center
+Wireless Networks Research Center
+Resilient ICT Research Center
+Cybersecurity Research Institute
+Cybersecurity Nexus
+National Cyber Training Center
+National Cyber Observation Center
+Universal Communication Research Institute
+Advanced Speech Translation Research and Development Promotion Center
+Data-driven Intelligent System Research Center
+Big Data Integration Research Center
+Advanced ICT Research Institute
+Kobe Frontier Research Center
+Koganei Frontier Research Center
+Center for Information and Neural Networks
+Cross-field R&D and other business
+Beyond 5G Research and Development Promotion Unit
+Terahertz Technology Research Center
+Quantum ICT Collaboration Center
+Open Innovation Promotion Headquarters
+- Radio Research Institute
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Network Research Institute
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Research Institute
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Universal Communication Research Institute
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Advanced ICT Research Institute
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Cross-field R&D and other business
+- Beyond 5G Research and Development Promotion Unit
+- Terahertz Technology Research Center
+- Quantum ICT Collaboration Center
+- Open Innovation Promotion Headquarters
+- Research Results
+- Open Innovation/IDI
+- International Cooperation
+- Employment Information
+- Radio Research Institute
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Network Research Institute
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Research Institute
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Universal Communication Research Institute
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Advanced ICT Research Institute
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Cross-field R&D and other business
+- Beyond 5G Research and Development Promotion Unit
+- Terahertz Technology Research Center
+- Quantum ICT Collaboration Center
+- Open Innovation Promotion Headquarters
+- Japanese joint research group launches quantum computing cloud service
+- Topics 2025
+- Topics 2024
+- Topics 2023
+- Topics 2022
+- Topics 2021
+- Topics 2018-2020
+- before 2017
+- Greeting from the President
+- Introduction of NICT Board Members
+- Organization
+- NICT Charter
+- Location of NICT Facilities
+- Advisory Committee
+- NICT Brand Statement
+- Introduction of NICT (NICT Video)
+- List of published papers
+- Promotion of Standardization Activity
+- Publicaions
+- Services and Applications available
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Terahertz Technology Research Center
+- Researcher and Research Engineer
+- Fixed Term Administrative Specialist
+- Latest News
+- Press Release
+- Publications
+- Youtube NICT channel
+- Site policy
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/press/2025/03/13-1.html
+==================================================
+Copyright © National Institute of Information and Communications Technology. All Rights Reserved.
+- NICT REPORT
+- Journal of NICT
+- NICT NEWS 2020 No.1
+- NICT NEWS 2020 No.2
+- NICT NEWS 2020 No.43
+- NICT NEWS 2020 No.4
+- NICT NEWS 2020 No.5
+- NICT NEWS 2020 No.6
+- NICT NEWS 2021 No.1
+- NICT NEWS 2021 No.2
+- NICT NEWS 2021 No.3
+- NICT NEWS 2021 No.4
+- NICT NEWS 2021 No.5
+- NICT NEWS 2021 No.6
+- NICT NEWS 2022 No.1
+- NICT NEWS 2022 No.2
+- NICT NEWS 2022 No.3
+- NICT NEWS 2022 No.4
+- NICT NEWS 2022 No.5
+- NICT NEWS 2022 No.6
+- NICT NEWS 2023 No.1
+- NICT NEWS 2023 No.2
+- NICT NEWS 2023 No.3
+- NICT NEWS 2023 No.4
+- NICT NEWS 2023 No.5
+- NICT NEWS 2023 No.6
+- NICT NEWS 2024 No.1
+- NICT NEWS 2024 No.2
+- NICT NEWS 2024 No.3
+- NICT NEWS 2024 No.4
+- NICT NEWS 2024 No.5
+- NICT NEWS 2024 No.6
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.2
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Network Architecture Laboratory
+- Advanced ICT Device Laboratory
+- NICT REPORT
+- Journal of NICT
+- NICT NEWS 2020 No.1
+- NICT NEWS 2020 No.2
+- NICT NEWS 2020 No.43
+- NICT NEWS 2020 No.4
+- NICT NEWS 2020 No.5
+- NICT NEWS 2020 No.6
+- NICT NEWS 2021 No.1
+- NICT NEWS 2021 No.2
+- NICT NEWS 2021 No.3
+- NICT NEWS 2021 No.4
+- NICT NEWS 2021 No.5
+- NICT NEWS 2021 No.6
+- NICT NEWS 2022 No.1
+- NICT NEWS 2022 No.2
+- NICT NEWS 2022 No.3
+- NICT NEWS 2022 No.4
+- NICT NEWS 2022 No.5
+- NICT NEWS 2022 No.6
+- NICT NEWS 2023 No.1
+- NICT NEWS 2023 No.2
+- NICT NEWS 2023 No.3
+- NICT NEWS 2023 No.4
+- NICT NEWS 2023 No.5
+- NICT NEWS 2023 No.6
+- NICT NEWS 2024 No.1
+- NICT NEWS 2024 No.2
+- NICT NEWS 2024 No.3
+- NICT NEWS 2024 No.4
+- NICT NEWS 2024 No.5
+- NICT NEWS 2024 No.6
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.2
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Network Architecture Laboratory
+- Advanced ICT Device Laboratory
+- X（旧Twitter）
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/en/press/2017/07/11-1.html
+==================================================
+> Press Release
+> World's First Demonstration of Space Quantum Communication Using a Microsatellite
+World's First Demonstration of Space Quantum Communication Using a Microsatellite
+- A big step toward building a truly-secure global communication network -
+June 3, 2015: Successful optical communication between a LEO (Low Earth Orbit) satellite and the ground
+Supplementary Information
+Masahide Sasaki
+Quantum ICT Advanced Development Center
+Advanced ICT Research Institute
+Tel: +81-42-327-6524E-mail:
+Morio Toyoshima
+Space Communications Laboratory
+Wireless Networks Research Center
+Tel: +81-42-327-5825E-mail:
+Sachiko Hirota
+Press Office
+Public Relations Department
+Tel: +81-42-327-6923
+Fax: +81-42-327-7587E-mail:
+- Successful demonstration of quantum communication between a satellite and a ground station
+- A big step toward the development of future satellite constellations using small satellites
+- It facilitates the adoption of this technology in a global truly-secure communication network
+- Successful demonstration of quantum communication between a satellite and a ground station
+- A big step toward the development of future satellite constellations using small satellites
+- It facilitates the adoption of this technology in a global truly-secure communication network
+- https://youtu.be/VuwvPNIg-iY
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/en/quantum/
+==================================================
+◆"Quantum interference of pulsed time-bin entanglement generated from silicon ring resonator"
+Sci Rep 14, 1051 (2024), has been added to the list of publications.
+(Jul 17, 2024）
+◆"Probabilistic state synthesis based on optimal convex approximation"
+npj Quantum Inf 10, 3 (2024), has been added to the list of publications.
+（Jul 17, 2024）
+◆"Multi-stage coherent beam combination of semiconductor optical amplifiers in ready-made fiber couplers"
+OPTICS EXPRESS Vol. 32, Issue 5, pp. 6903-6916 (2024), has been added to the list of publications.
+（Jul 17, 2024）
+◆"Advantage of the Key Relay Protocol Over Secure Network Coding"
+IEEE Transactions on Quantum Engineering, vol. 4, 4100517 (2023). arXiv:2111.13328, has been added to the list of publications.
+（Jul 17, 2024）
+◆"Demonstration of a bosonic quantum classifier with data re-uploading"
+Phys. Rev. Lett. 131, 013601 – Published 6 July 2023, has been added to the list of publications.
+（Jul 17, 2024）
+◆"Modified BB84 quantum key distribution protocol robust to source imperfections"
+Phys. Rev. Research 5, 023065 – Published 27 April 2023, has been added to the list of publications.
+（Jul 17, 2024）
+◆"A symmetry of potential function and non-relaxation theorems of heat flux in nonlinear lattice"
+Physica D: Nonlinear Phenomena 446,133638(2023), has been added to the list of publications.
+（Jul 17, 2024）
+◆"Quantum state tomography of qudits via Hong-Ou-Mandel interference"
+Phys. Rev. Applied 19, 014008 – Published 4 January 2023, has been added to the list of publications.
+（Jul 17, 2024）
+◆"Secure secondary utilization system of genomic data using quantum secure cloud"
+Sci Rep. 2022 Nov 2；12（1）：18530, has been added to the list of publications.
+（Jul 17, 2024）
+◆"Statistical verifications and deep-learning predictions for satellite-to-ground quantum atmospheric channels"
+COMMUNICATIONS PHYSICS Sep. 22, 2022, has been added to the list of publications.
+（Oct 4, 2022）
+◆"Long-term secure distributed storage using quantum key distribution network with third-party verification"
+IEEE Transactions on Quantum Engineering Vol. 3, No. 3135077, pp. 1-11, Feb. (2022), has been added to the list of publications.
+(February 8, 2022)
+◆"Advantage of the key relay protocal over secure network coding"
+The 39th Symposium on Cryptography and Information Security (SCIS2022), Jan. 18, 2022, has been added to the list of publications.
+(February 8, 2022)
+◆"Performance analysis of polar-code transmission experiments over 7.8-km terrestrial free-space optical link using channel equalization"
+Proceedings of International Conference on Space Optics (ICSO 2021), Jun. 11, 2021, has been added to the list of publications.
+(February 8, 2022)
+◆"Ultra-fast Hong-Ou-Mandel interferometry via temporal filtering"
+Optics Express, Vol. 29, No. 23, pp.37150-37160, Oct. (2021), has been added to the list of publications.
+(October 28, 2021)
+◆"Independently programmable frequency-multiplexed phase-sensitive optical parametric amplification in the optical telecommunication band"
+Optics Express, Vol. 29, No. 14, pp.21683-21697 (2021), has been added to the list of publications.
+(July 12, 2021)
+◆"A Novel error correction protocol for continuous variable quantum key distribution"
+Scientific Reports 11, Article number: 10465, May (2021), has been added to the list of publications.
+(July 12, 2021)
+◆"Creation of double-well potentials in a surface-electrode trap towards a nanofriction model emulator"
+Quantum Science and Technology, Volume 6 Number 2, Mar. (2021), has been added to the list of publications.
+(July 12, 2021)
+◆"Gaussian State-Based Quantum Illumination with Simple Photodetection"
+Optics Express 29 (6), pp. 8199 - 8215, Mar. (2021), has been added to the list of publications.
+(March 24, 2021)
+◆"Limit of Gaussian operations and measurements for Gaussian state discrimination and its application to state comparison"
+Physical Review A 103 (2), pp. 22423-1 - 002423-8, Feb. (2021), has been added to the list of publications.
+(March 24, 2021)
+◆"Compact multispectral pushframe camera for nanosatellites"
+Applied Optics 59 (27), pp. 8511 - 8518, Sep. (2020), has been added to the list of publications.
+(March 24, 2021)
+◆"Focus on quantum science and technology initiatives around the world"
+Quantum Sci. Technol. 5 (1), pp. (1) - (2), Jan. (2021), has been added to the list of publications.
+(March 24, 2021)
+◆"Classical simulaion of boson sampling with sparse output"
+Scientific Reports 10, pp.14739 (1) - 14739 (7), Sep. (2020), has been added to the list of publications.
+(March 24, 2021)
+►List of Publications
+R & D Promotion of Quantum Cryptography and Communications
+Macroscopic Quantum Physics Research Project
+Quantum ICT Collaboration  Center,NICT
+Quantum ICT Collaboration  Center,NICT
+Terms and Conditions of Use
+Quantum ICT Laboratory
+Koganei Frontier Research Center
+Advanced ICT Research Institute
+National Institute of Information and Communications Technology
+4-2-1 Nukui-Kitamachi, Koganei, Tokyo 184-8795, JAPAN
+Phone: +81-42-327-6051　　Fax: +81-42-327-6629
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/en/about/location.html
+==================================================
+4-2-1, Nukuikitamachi, Koganei-shi, Tokyo 184-8795, Japan
+Tel：+81-42-327-7429
+Universal Communication Research Institute
+3‑5 Hikaridai, Seika‑cho, Soraku‑gun, Kyoto, 619‑0289 Japan
+Tel：+81‑774‑98‑6300
+Advanced ICT Research Institute
+588-2, Iwaoka, Nishi-ku, Kobe-shi, Hyogo, 651-2492, Japan
+Tel：+81-78-969-2100
+Wireless Networks Research Center
+3-4, Hikarinooka, Yokosuka-shi, Kanagawa 239-0847, Japan
+Tel：+81-46-847-5050
+Center for Information and Neural Networks
+1-4 Yamadaoka, Suita-shi, Osaka, 565-0871, Japan
+2-7-1, Nihonbashi, Chuo-ku, Tokyo, 103-0027, Japan
+Tel：+81-3-6262-6683
+Resilient ICT Research Center
+2-1-3, Katahira, Aoba-ku, Sendai-shi, Miyagi, 980-0812, Japan
+Kashima Space Technology Center
+893-1, Hirai, Kashima-shi, Ibaraki, 314-8501, Japan
+Tel：+81-299-82-1211
+Hokuriku StarBED Technology Center
+2-12, Asahidai, Nomi-shi, Ishikawa, 923-1211, Japan
+Tel：+81-761-51-8118
+Okinawa Electromagnetic Technology Center
+4484, Onna, Onnason, Kunigami-gun, Okinawa, 904-0411, Japan
+Tel：+81-98-982-3705
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/en/contact.html
+==================================================
+For general inquiries
+For inquiries about public relations
+For inquiries about NICT facilities
+- Inquiry Form
+- Location of NICT facilities
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/index.html
+==================================================
+「ICT Mentor Platform “VC One on One Match 2025“powered by NICT」の開催・募集について
+Copyright © National Institute of Information and Communications Technology. All Rights Reserved.
+- NICT REPORT
+- Journal of NICT
+- NICT NEWS 2020 No.1
+- NICT NEWS 2020 No.2
+- NICT NEWS 2020 No.43
+- NICT NEWS 2020 No.4
+- NICT NEWS 2020 No.5
+- NICT NEWS 2020 No.6
+- NICT NEWS 2021 No.1
+- NICT NEWS 2021 No.2
+- NICT NEWS 2021 No.3
+- NICT NEWS 2021 No.4
+- NICT NEWS 2021 No.5
+- NICT NEWS 2021 No.6
+- NICT NEWS 2022 No.1
+- NICT NEWS 2022 No.2
+- NICT NEWS 2022 No.3
+- NICT NEWS 2022 No.4
+- NICT NEWS 2022 No.5
+- NICT NEWS 2022 No.6
+- NICT NEWS 2023 No.1
+- NICT NEWS 2023 No.2
+- NICT NEWS 2023 No.3
+- NICT NEWS 2023 No.4
+- NICT NEWS 2023 No.5
+- NICT NEWS 2023 No.6
+- NICT NEWS 2024 No.1
+- NICT NEWS 2024 No.2
+- NICT NEWS 2024 No.3
+- NICT NEWS 2024 No.4
+- NICT NEWS 2024 No.5
+- NICT NEWS 2024 No.6
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.2
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Network Architecture Laboratory
+- Advanced ICT Device Laboratory
+- NICT REPORT
+- Journal of NICT
+- NICT NEWS 2020 No.1
+- NICT NEWS 2020 No.2
+- NICT NEWS 2020 No.43
+- NICT NEWS 2020 No.4
+- NICT NEWS 2020 No.5
+- NICT NEWS 2020 No.6
+- NICT NEWS 2021 No.1
+- NICT NEWS 2021 No.2
+- NICT NEWS 2021 No.3
+- NICT NEWS 2021 No.4
+- NICT NEWS 2021 No.5
+- NICT NEWS 2021 No.6
+- NICT NEWS 2022 No.1
+- NICT NEWS 2022 No.2
+- NICT NEWS 2022 No.3
+- NICT NEWS 2022 No.4
+- NICT NEWS 2022 No.5
+- NICT NEWS 2022 No.6
+- NICT NEWS 2023 No.1
+- NICT NEWS 2023 No.2
+- NICT NEWS 2023 No.3
+- NICT NEWS 2023 No.4
+- NICT NEWS 2023 No.5
+- NICT NEWS 2023 No.6
+- NICT NEWS 2024 No.1
+- NICT NEWS 2024 No.2
+- NICT NEWS 2024 No.3
+- NICT NEWS 2024 No.4
+- NICT NEWS 2024 No.5
+- NICT NEWS 2024 No.6
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.1
+- NICT NEWS 2025 No.2
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Network Architecture Laboratory
+- Advanced ICT Device Laboratory
+- Latest News新着情報
+- InformationNICTについて
+「ICT Mentor Platform “VC One on One Match 2025“powered by NICT」の開催・募集について
+- 2025年7月11日
+「ICT Mentor Platform “VC One on One Match 2025“powered by NICT」の開催・募集について
+- X（旧Twitter）
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/en/about/index.html
+==================================================
+As Japan’s sole National Research and Development Agency specializing in the field of information and communications technology, NICT is charged with promoting ICT sector as well as research and development in ICT, which drives economic growth and creates an affluent, safe and secure society.
+Radio Research Institute
+Network Research Institute
+Cybersecurity Research Institute
+Universal Communication Research Institute
+Advanced ICT Research Institute
+Beyond 5G Research and Development Promotion Unit
+Quantum ICT Collaboration Center
+Innovation Design Initiative (IDI)
+Employment Information
+Copyright © National Institute of Information and Communications Technology. All Rights Reserved.
+Radio Research Institute
+Radio Propagation Research Center
+Electromagnetic Standards Research Center
+Applied Electromagnetic Research Center
+Network Research Institute
+Photonic ICT Research Center
+Wireless Networks Research Center
+Resilient ICT Research Center
+Cybersecurity Research Institute
+Cybersecurity Nexus
+National Cyber Training Center
+National Cyber Observation Center
+Universal Communication Research Institute
+Advanced Speech Translation Research and Development Promotion Center
+Data-driven Intelligent System Research Center
+Big Data Integration Research Center
+Advanced ICT Research Institute
+Kobe Frontier Research Center
+Koganei Frontier Research Center
+Center for Information and Neural Networks
+Cross-field R&D and other business
+Beyond 5G Research and Development Promotion Unit
+Terahertz Technology Research Center
+Quantum ICT Collaboration Center
+Open Innovation Promotion Headquarters
+- Radio Research Institute
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Network Research Institute
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Research Institute
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Universal Communication Research Institute
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Advanced ICT Research Institute
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Cross-field R&D and other business
+- Beyond 5G Research and Development Promotion Unit
+- Terahertz Technology Research Center
+- Quantum ICT Collaboration Center
+- Open Innovation Promotion Headquarters
+- Research Results
+- Open Innovation/IDI
+- International Cooperation
+- Employment Information
+- Radio Research Institute
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Network Research Institute
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Research Institute
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Universal Communication Research Institute
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Advanced ICT Research Institute
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Cross-field R&D and other business
+- Beyond 5G Research and Development Promotion Unit
+- Terahertz Technology Research Center
+- Quantum ICT Collaboration Center
+- Open Innovation Promotion Headquarters
+- Greeting from the President
+- Introduction of NICT Board Members
+- Organization
+- NICT Charter
+- Location of NICT Facilities
+- Advisory Committee
+- NICT Brand Statement
+- Greeting from the President
+- Introduction of NICT Board Members
+- Organization
+- NICT Charter
+- Location of NICT Facilities
+- Advisory Committee
+- NICT Brand Statement
+- Introduction of NICT (NICT Video)
+- List of published papers
+- Promotion of Standardization Activity
+- Publicaions
+- Services and Applications available
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Terahertz Technology Research Center
+- Researcher and Research Engineer
+- Fixed Term Administrative Specialist
+- Latest News
+- Press Release
+- Publications
+- Youtube NICT channel
+- Site policy
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/en/research/index.html
+==================================================
+As Japan’s sole National Research and Development Agency specializing in the field of information and communications technology, the National Institute of Information and Communications Technology (NICT) is charged with promoting ICT sector as well as research and development in ICT, which drives economic growth and creates an affluent, safe and secure society.
+Cutting-Edge ICT for Future
+As Japan’s sole National Research and Development Agency specializing in the field of information and communications technology, the National Institute of Information and Communications Technology (NICT) is charged with promoting ICT sector as well as research and development in ICT, which drives economic growth and creates an affluent, safe and secure society.
+Advanced Electromagnetic Research
+Researching technology that uses electromagnetic waves to gather, analyze, and visualize a variety of information related to daily life.
+Developing technology to enable multilayered connections between terrestrial, satellite and other networks, to deal with the explosive growth in communication traffic.
+Developing advanced cybersecurity technology to maintain security in the face of the rapid increase in sophisticated and increasingly complex cyber attacks.
+Universal Communication
+Building data utilization technology platforms for processing and analyzing a variety of information using artificial intelligence and other approaches.
+Researching and developing advanced technology platforms that lead to next-generation breakthroughs.
+Cross-field R&D and other business
+Beyond 5G Research and Development Promotion Unit
+Quantum ICT Collaboration Center
+Open Innovation Promotion Headquarters
+ICT Testbed Research and Development Promotion Center
+- Promotion of Beyond 5G R&D
+- Reinforcing industry-academia-government collaboration for open innovation
+- Strategic ICT human resources development
+- Construction and operation of verification platforms for technology demonstration of leading-edge ICT
+Radio Research Institute
+Network Research Institute
+Cybersecurity Research Institute
+Universal Communication Research Institute
+Advanced ICT Research Institute
+Beyond 5G Research and Development Promotion Unit
+Quantum ICT Collaboration Center
+Innovation Design Initiative (IDI)
+Employment Information
+Copyright © National Institute of Information and Communications Technology. All Rights Reserved.
+Radio Research Institute
+Radio Propagation Research Center
+Electromagnetic Standards Research Center
+Applied Electromagnetic Research Center
+Network Research Institute
+Photonic ICT Research Center
+Wireless Networks Research Center
+Resilient ICT Research Center
+Cybersecurity Research Institute
+Cybersecurity Nexus
+National Cyber Training Center
+National Cyber Observation Center
+Universal Communication Research Institute
+Advanced Speech Translation Research and Development Promotion Center
+Data-driven Intelligent System Research Center
+Big Data Integration Research Center
+Advanced ICT Research Institute
+Kobe Frontier Research Center
+Koganei Frontier Research Center
+Center for Information and Neural Networks
+Cross-field R&D and other business
+Beyond 5G Research and Development Promotion Unit
+Terahertz Technology Research Center
+Quantum ICT Collaboration Center
+Open Innovation Promotion Headquarters
+- Radio Research Institute
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Network Research Institute
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Research Institute
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Universal Communication Research Institute
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Advanced ICT Research Institute
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Cross-field R&D and other business
+- Beyond 5G Research and Development Promotion Unit
+- Terahertz Technology Research Center
+- Quantum ICT Collaboration Center
+- Open Innovation Promotion Headquarters
+- Research Results
+- Open Innovation/IDI
+- International Cooperation
+- Employment Information
+- Radio Research Institute
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Network Research Institute
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Research Institute
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Universal Communication Research Institute
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Advanced ICT Research Institute
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Cross-field R&D and other business
+- Beyond 5G Research and Development Promotion Unit
+- Terahertz Technology Research Center
+- Quantum ICT Collaboration Center
+- Open Innovation Promotion Headquarters
+- Advanced Electromagnetic Research
+- Innovative Networks
+- Cybersecurity
+- Universal Communication
+- Frontier Science
+- Cross-field R&D and other business
+- Radio Research Institute
+- Network Research Institute
+- Cybersecurity Research Institute
+- Universal Communication Research Institute
+- Advanced ICT Research Institute
+- Greeting from the President
+- Introduction of NICT Board Members
+- Organization
+- NICT Charter
+- Location of NICT Facilities
+- Advisory Committee
+- NICT Brand Statement
+- Introduction of NICT (NICT Video)
+- List of published papers
+- Promotion of Standardization Activity
+- Publicaions
+- Services and Applications available
+- Radio Propagation Research Center
+- Electromagnetic Standards Research Center
+- Applied Electromagnetic Research Center
+- Photonic ICT Research Center
+- Wireless Networks Research Center
+- Resilient ICT Research Center
+- Cybersecurity Nexus
+- National Cyber Training Center
+- National Cyber Observation Center
+- Advanced Speech Translation Research and Development Promotion Center
+- Data-driven Intelligent System Research Center
+- Big Data Integration Research Center
+- Kobe Frontier Research Center
+- Koganei Frontier Research Center
+- Center for Information and Neural Networks
+- Terahertz Technology Research Center
+- Researcher and Research Engineer
+- Fixed Term Administrative Specialist
+- Latest News
+- Press Release
+- Publications
+- Youtube NICT channel
+- Site policy
+
+--------------------------------------------------
+
+URL: https://www.nict.go.jp/sp/index.html
+==================================================
+Technology Utilizatuon技術活用
+Featured Technology注目技術
+Copyright © National Institute of Information and Communications Technology. All Rights Reserved.
+- Latest Research新着情報
+- Data Provided提供データ
+- Technology Utilization技術活用
+- Featured Technology注目技術
+- All Information Siteフル情報サイト
+- 「ICT Mentor Platform “VC One on One Match 2025“powered by NICT」の開催・募集について
+- NICT REPORT
+- NICT REPORT
+- NICT REPORT
+- Latest News
+- Publication
+
+--------------------------------------------------
+

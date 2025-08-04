@@ -1,0 +1,40 @@
+URL: https://www.artificialaiming.net/forum/home.php
+==================================================
+FortiGuard Intrusion Prevention - Access Blocked
+You have tried to access a web page that is in violation of your Internet usage policy.
+To have the rating of this web page re-evaluated please click here.
+
+--------------------------------------------------
+
+URL: https://www.artificialaiming.net/forum/german-speaking-forum/98858-hwid-spoofer.html
+==================================================
+FortiGuard Intrusion Prevention - Access Blocked
+You have tried to access a web page that is in violation of your Internet usage policy.
+To have the rating of this web page re-evaluated please click here.
+
+--------------------------------------------------
+
+URL: https://www.artificialaiming.net/forum/client_livesupport.php
+==================================================
+FortiGuard Intrusion Prevention - Access Blocked
+You have tried to access a web page that is in violation of your Internet usage policy.
+To have the rating of this web page re-evaluated please click here.
+
+--------------------------------------------------
+
+URL: https://www.artificialaiming.net/forum/search.php
+==================================================
+FortiGuard Intrusion Prevention - Access Blocked
+You have tried to access a web page that is in violation of your Internet usage policy.
+To have the rating of this web page re-evaluated please click here.
+
+--------------------------------------------------
+
+URL: https://www.artificialaiming.net/forum/news/145363-cod-fishing.html
+==================================================
+FortiGuard Intrusion Prevention - Access Blocked
+You have tried to access a web page that is in violation of your Internet usage policy.
+To have the rating of this web page re-evaluated please click here.
+
+--------------------------------------------------
+

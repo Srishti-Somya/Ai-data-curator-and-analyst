@@ -1,0 +1,998 @@
+URL: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean
+==================================================
+What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Python 3.8, := is actually a valid operator that allows for assignment of variables within expressions:
+See PEP 572 for more details.
+What you have found is pseudocode
+Pseudocode is an informal high-level description of the operating
+principle of a computer program or other algorithm.
+:= is actually the assignment operator. In Python this is simply =.
+To translate this pseudocode into Python you would need to know the data structures being referenced, and a bit more of the algorithm implementation.
+Some notes about psuedocode:
+Note the differences in brace usage and assignment operator.
+This symbol := is an assignment operator in Python (mostly called as the Walrus Operator). In a nutshell, the walrus operator compresses our code to make it a little shorter.
+Here's a very simple example:
+These codes are the same (and outputs the same thing), but as you can see, the version with the walrus operator is compressed in just two lines of code to make things more compact.
+Now, why would you use the walrus operator?
+First off, don't feel obligated.
+I myself even rarely use this one. I'm just using the walrus operator to compress my code a little bit, mostly when I'm working with regular expressions.
+The above snippet is equivalent to the following:
+You can also find your own use case of this. What's important is you have a rough idea about it and knows when it might be helpful when you encountered a problem like this one.
+PEP572 proposed support for the := operator in Python to allow variable assignments within expressions.
+This syntax is available in Python 3.8.
+The code in the question is pseudo-code; there, := represents assignment.
+For future visitors, though, the following might be more relevant: the next version of Python (3.8) will gain a new operator, :=, allowing assignment expressions (details, motivating examples, and discussion can be found in PEP 572, which was provisionally accepted in late June 2018).
+With this new operator, you can write things like these:
+Happy 3.8 Release on 14th of October!
+There is new syntax := that assigns values to variables as part of a larger expression. It is affectionately known as “the walrus operator” due to its resemblance to the eyes and tusks of a walrus.
+In this example, the assignment expression helps avoid calling len() twice:
+What’s New In Python 3.8 - Assignment expressions
+:= is also called as Walrus Operator.
+We can use this walrus operator to assign a value and do condition check at the same time.
+Without Walrus Operator:
+With Walrus Operator:
+So, we can use variable a not just in statement also after that. it will simply assign new value into variable and enables condition check.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- colon-equals
+- python-assignment-expression
+My guess is that this is pseudocode right from this wiki article and possibly the OP is asking how one interprets this code (which is an assignment) in Python
+– Michael Petch
+Sep 23, 2014 at 16:37
+Related: What does ":=" do?. There is some history here wrt mathematical notation where single equals  represents an equality test, hence the desire to disambiguate an assignment (:=) from an equality test (= or ==).
+Mar 21, 2023 at 14:08
+- I found this useful reading: medium.com/mlearning-ai/…
+Jun 22, 2023 at 1:57
+- := is the assignment operator or = in Python
+- = is the equality operator or == in Python
+- There are certain styles, and your mileage may vary:
+do they plan to add annotation available also ? like i : int = 1 to 100 do
+– pippo1980
+Dec 5, 2022 at 15:08
+- You can even shorten the first expression (which I find readable/clear enough) to: if match := pattern_search(data): which then shows the beauty even better imho
+Nov 14, 2023 at 16:48
+I don't think this is worth posting as a separate answer, but for people interested in an easy way to read this, you can translate it as "which equals", e.g. if foo := bar * 2: can be read as "if foo, which equals bar times two,..."
+May 28, 2024 at 22:06
+- Thanks for the answer. I am not a Python developer but was running a Node.js package update script that blew up on the ":=" syntax. At first I thought it might be something related to Pascal/Delphi syntax, which is how assignment is done in that language. After reading this I realize the Python3 running on the system is 3.7 so off to build a newer version.
+– Robert G. Schaffrath
+Jan 26 at 21:06
+@z33k The question was asked years before the PEP was created. This certainly doesn't answer the question. Could be a comment though...
+Jun 23, 2019 at 13:48
+@MaxRied I just found this answer via Google and it was exactly what I was looking for. Even if it wasn't relevant when the question was posed, it certainly is now.
+– Andreas T
+Feb 2, 2020 at 17:33
+PEP572 allows Python to have all the sort of nasty bugs that this operator allows people to have in C.
+Apr 8, 2020 at 14:41
+@vy32. The more you allow a competent user to do, the more bugs you allow to be introduced by everyone. That's not a reason to restrict, in case that's what you were implying.
+– Mad Physicist
+Apr 19, 2021 at 16:39
+- @MadPhysicist - I wasn't implying that this operator shouldn't be added to Python 3.8. I was merely pointing out that it would be a new source of bugs, and noting that the = assignment operator in C has a long and troubled history.
+Apr 19, 2021 at 17:25
+Time certainly is an arrow
+– chadlagore
+Mar 14, 2020 at 0:54
+- colon-equals
+- python-assignment-expression
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/11060506/is-there-a-not-equal-operator-in-python
+==================================================
+How would you say "does not equal"?
+Is there something similar to == that means "not equal"?
+Use !=. See comparison operators. For comparing object identities, you can use the keyword is and its negation is not.
+Not equal  !=  (vs equal ==)
+Are you asking about something like this?
+This Python - Basic Operators chart might be helpful.
+There's the != (not equal) operator that returns True when two values differ, though be careful with the types because "1" != 1. This will always return True and "1" == 1 will always return False, since the types differ. Python is dynamically, but strongly typed, and other statically typed languages would complain about comparing different types.
+There's also the else clause:
+The is operator is the object identity operator used to check if two objects in fact are the same:
+You can use both != or <>.
+However, note that != is preferred where <> is deprecated.
+Seeing as everyone else has already listed most of the other ways to say not equal I will just add:
+in this case it is simple switching the check of positive == (true) to negative and vise versa...
+You can use the != operator to check for inequality.
+Moreover in Python 2 there was <> operator which used to do the same thing, but it has been deprecated in Python 3.
+The standard operator module holds ne method which is a wrapper for != a.k.a. not equal operator.
+This is especially useful if you need to make comparisons in a setting where a function is expected.
+There are two operators in Python for the "not equal" condition -
+a.) != If values of the two operands are not equal, then the condition becomes true.
+(a != b) is true.
+b.) <> If values of the two operands are not equal, then the condition becomes true.
+(a <> b) is true. This is similar to the != operator.
+You can use "is not" for "not equal" or "!=". Please see the example below:
+The above code will print "true" as a = 2 assigned before the "if" condition. Now please see the code below for "not equal"
+The above code will print "not equal" as a = 2 as assigned earlier.
+Use != or <>. Both stands for not equal.
+The comparison operators <> and != are alternate spellings of the same operator. != is the preferred spelling; <> is obsolescent. (Reference: Python language reference)
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- comparison-operators
+Are you asking about else, != (optionally <>) or is not?
+Jun 16, 2012 at 3:25
+Attention that <> doesn't work any more in python 3, so use !=
+– Antonello
+Mar 7, 2016 at 10:38
+from python documentation: Python3 : The operators <, >, ==, >=, <=, and != compare the values of two objects. docs.python.org/3/reference/expressions.html#value-comparisons
+Nov 7, 2016 at 13:00
+from python documentation:  python2:  docs.python.org/2/reference/expressions.html#not-in
+Nov 7, 2016 at 13:05
+How would you compare two binary data?
+– Léo Léopold Hertz 준영
+Jul 9, 2015 at 15:48
+Just some info, PEP401 mentioned in the comments was an April Fool joke. <> is not supported in Python3 now.
+Jun 26, 2019 at 9:32
+Just for the record: Comparison operators in Python 3.7
+– Ocaso Protal
+Jul 9, 2019 at 13:08
+- @LéoLéopoldHertz준영 Did not know that you can compare binary data. I thought that objects are the most you can compare.
+Dec 6, 2020 at 14:22
+<> no longer exists in Python 3, you can only use !=.
+– Thierry Lathuille
+Aug 5, 2021 at 8:22
+- From a comment: "<> is deprecated and removed in Python 3."
+– Peter Mortensen
+Nov 11, 2022 at 18:07
+- From a comment: "<> is deprecated and removed in Python 3."
+– Peter Mortensen
+Nov 11, 2022 at 18:06
+Note that is not won't work for string comparison
+Jun 30, 2020 at 23:26
+This answer is simply wrong; is and is not do not test equality, they test identity.
+Jul 6, 2021 at 14:37
+- @kaya3, please help me to understand why "is not" will not work for my example.
+– Amir Md Amiruzzaman
+Jul 7, 2021 at 15:05
+- I suggest you read this other Q&A: stackoverflow.com/questions/13650293/…
+Jul 7, 2021 at 18:31
+- You may link to that reference, preferably with page anchors. But ************** without ************** "Edit:", "Update:", or similar - the answer should appear as if it was written today.
+– Peter Mortensen
+Nov 11, 2022 at 16:39
+From a comment: "<> is deprecated and removed in Python 3."
+– Peter Mortensen
+Nov 11, 2022 at 18:07
+- comparison-operators
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement
+==================================================
+Use and instead of &&.
+Python uses and and or conditionals.
+I'm getting an error in the IF conditional. What am I doing wrong?
+There reason that you get a SyntaxError is that there is no && operator in Python. Likewise || and ! are not valid Python operators.
+Some of the operators you may know from other languages have a different name in Python.
+The logical operators && and || are actually called and and or.
+Likewise the logical negation operator ! is called not.
+So you could just write:
+Some additional information (that might come in handy):
+I summarized the operator "equivalents" in this table:
+See also Python documentation: 6.11. Boolean operations.
+Besides the logical operators Python also has bitwise/binary operators:
+There is no bitwise negation in Python (just the bitwise inverse operator ~ - but that is not equivalent to not).
+See also 6.6. Unary arithmetic and bitwise/binary operations and 6.7. Binary arithmetic operations.
+The logical operators (like in many other languages) have the advantage that these are short-circuited.
+That means if the first operand already defines the result, then the second operator isn't evaluated at all.
+To show this I use a function that simply takes a value, prints it and returns it again. This is handy to see what is actually
+evaluated because of the print statements:
+As you can see only one print statement is executed, so Python really didn't even look at the right operand.
+This is not the case for the binary operators. Those always evaluate both operands:
+But if the first operand isn't enough then, of course, the second operator is evaluated:
+To summarize this here is another table:
+The True and False represent what bool(left-hand-side) returns, they don't have to be True or False, they just need to return True or False when bool is called on them (1).
+So in Pseudo-Code(!) the and and or functions work like these:
+Note that this is pseudo-code not Python code. In Python you cannot create functions called and or or because these are keywords.
+Also you should never use "evaluate" or if bool(...).
+Customizing the behavior of your own classes
+This implicit bool call can be used to customize how your classes behave with and, or and not.
+To show how this can be customized I use this class which again prints something to track what is happening:
+So let's see what happens with that class in combination with these operators:
+If you don't have a __bool__ method then Python also checks if the object has a __len__ method and if it returns a value greater than zero.
+That might be useful to know in case you create a sequence container.
+See also 4.1. Truth Value Testing.
+NumPy arrays and subclasses
+Probably a bit beyond the scope of the original question but in case you're dealing with NumPy arrays or subclasses (like Pandas Series or DataFrames) then the implicit bool call
+will raise the dreaded ValueError:
+In these cases you can use the logical and function from NumPy which performs an element-wise and (or or):
+If you're dealing just with boolean arrays you could also use the binary operators with NumPy, these do perform element-wise (but also binary) comparisons:
+That the bool call on the operands has to return True or False isn't completely correct. It's just the first operand that needs to return a boolean in it's __bool__ method:
+That's because and actually returns the first operand if the first operand evaluates to False and if it evaluates to True then it returns the second operand:
+Similarly for or but just the other way around:
+However if you use them in an if statement the if will also implicitly call bool on the result. So these finer points may not be relevant for you.
+I went with a purlely mathematical solution:
+You use and and or to perform logical operations like in C, C++. Like literally and is && and or is ||.
+Take a look at this fun example,
+Say you want to build Logic Gates in Python:
+Now try calling them:
+Probably this is not best code for this task, but is working -
+Use of "and" in conditional. I often use this when importing in Jupyter Notebook:
+A single & (not double &&) is enough or as the top answer suggests you can use 'and'.
+I also found this in pandas
+if we replace the "&" with "and", it won't work.
+- logical-and
+It seems to me that the interpreter should, rather than print out a cryptic "SyntaxError: invalid syntax" - detect that the user has used && and suggest to them that they might want to use the keyword and instead. Same goes for things like ++ and other common operators from other languages.
+– ArtOfWarfare
+Sep 26, 2013 at 17:28
+@physicsmichael "there should be one, and preferably only one, obvious way to do it." import this
+Sep 14, 2014 at 20:24
+and and or can also be used to evaluate the truthiness of expressions involving more than just boolean values. For more information, please see this post.
+Dec 29, 2018 at 12:07
+what should i do for this: if x=='n' and y =='a' or y=='b': <do something> Will it work !? @ChristopheD
+– diffracteD
+Apr 2, 2015 at 15:35
+@diffracteD: Use parentheses if you want to override standard operator precedence (which you can learn about here: ibiblio.org/g2swap/byteofpython/read/operator-precedence.html)
+– ChristopheD
+Apr 2, 2015 at 21:51
+I like that David Titarenco gave a cut-n-paste example
+– Alexx Roche
+May 27, 2015 at 16:33
+I arrived here after I typed both && and AND and got an error (not expecting python to want the lowercase word and).
+– Xeoncross
+Nov 22, 2016 at 17:28
+I think you should use & See: stackoverflow.com/questions/36921951/…
+– Reddspark
+Jul 27, 2017 at 20:24
+Don't forget that python also has not (well, and !)
+– inspectorG4dget
+Mar 21, 2010 at 2:54
+Does your example evaluate to "(if this and this) or that" OR "if this and (this or that)"?
+Feb 19, 2014 at 18:04
+@Jeff Your first way. and has higher precedence than or.
+Aug 26, 2014 at 19:05
+@Buge it looks like "or" is higher up in the table that you linked
+Dec 4, 2017 at 14:59
+@Matt the table goes from lowest precedence to highest. It's easier to remember the precedence if you've studied boolean algebra; "or" is addition and "and" is multiplication.
+– Michael Stroud
+Dec 5, 2017 at 19:02
+- Use and and or for logical operations in Python.
+- Use 4 spaces to indent instead of 2.  You will thank yourself later because your code will look pretty much the same as everyone else's code.  See PEP 8 for more details.
+This isn't an answer to the actual question.
+– Matthew Read
+Oct 26, 2017 at 17:33
+This question was asked and answered almost 7 years ago.  What does your answer add to those answers that are already here?  In general, unless you have something startlingly new to say, you should not add a new answer to an old question — where old is measured as multiple years — when there are good answers already available.
+– Jonathan Leffler
+Feb 4, 2017 at 0:52
+Single & won't short-circuit the expression (meaning both they will be evaluated regardless of the return value of the first expression)
+– user528025
+May 27, 2018 at 12:39
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python
+==================================================
+What does the @ symbol do in Python?
+An @ symbol at the beginning of a line is used for class and function decorators:
+Python Decorators - Python Wiki
+The most common Python decorators are:
+An @ in the middle of a line is probably matrix multiplication:
+This shows that the function/method/class you're defining after a decorator is just basically passed on as an argument to the function/method immediately after the @ sign.
+The microframework Flask introduces decorators from the very beginning in the following format:
+This in turn translates to:
+Realizing this finally allowed me to feel at peace with Flask.
+In Python 3.5 you can overload @ as an operator. It is named as __matmul__, because it is designed to do matrix multiplication, but it can be anything you want. See PEP465 for details.
+This is a simple implementation of matrix multiplication.
+Is equivalent to this code:
+In the definition of a decorator you can add some modified things that wouldn't be returned by a function normally.
+What does the “at” (@) symbol do in Python?
+In short, it is used in decorator syntax and for matrix multiplication.
+In the context of decorators, this syntax:
+is equivalent to this:
+In the context of matrix multiplication, a @ b invokes a.__matmul__(b) - making this syntax:
+where dot is, for example, the numpy matrix multiplication function and a and b are matrices.
+How could you discover this on your own?
+I also do not know what to search for as searching Python docs or Google does not return relevant results when the @ symbol is included.
+If you want to have a rather complete view of what a particular piece of python syntax does, look directly at the grammar file. For the Python 3 branch:
+We can see here that @ is used in three contexts:
+A google search for "decorator python docs" gives as one of the top results, the "Compound Statements" section of the "Python Language Reference." Scrolling down to the section on function definitions, which we can find by searching for the word, "decorator", we see that... there's a lot to read. But the word, "decorator" is a link to the glossary, which tells us:
+A function returning another function, usually applied as a function transformation using the @wrapper syntax. Common
+examples for decorators are classmethod() and staticmethod().
+The decorator syntax is merely syntactic sugar, the following two
+function definitions are semantically equivalent:
+The same concept exists for classes, but is less commonly used there.
+See the documentation for function definitions and class definitions
+for more about decorators.
+is semantically the same as:
+They are not exactly the same because Python evaluates the foo expression (which could be a dotted lookup and a function call) before bar with the decorator (@) syntax, but evaluates the foo expression after bar in the other case.
+(If this difference makes a difference in the meaning of your code, you should reconsider what you're doing with your life, because that would be pathological.)
+If we go back to the function definition syntax documentation, we see:
+is roughly equivalent to
+This is a demonstration that we can call a function that's a decorator first, as well as stack decorators. Functions, in Python, are first class objects - which means you can pass a function as an argument to another function, and return functions. Decorators do both of these things.
+If we stack decorators, the function, as defined, gets passed first to the decorator immediately above it, then the next, and so on.
+That about sums up the usage for @ in the context of decorators.
+In the lexical analysis section of the language reference, we have a section on operators, which includes @, which makes it also an operator:
+The following tokens are operators:
+and in the next page, the Data Model, we have the section Emulating Numeric Types,
+These methods are called to implement the binary arithmetic operations (+, -, *, @, /, //, [...]
+And we see that __matmul__ corresponds to @. If we search the documentation for "matmul" we get a link to What's new in Python 3.5 with "matmul" under a heading "PEP 465 - A dedicated infix operator for matrix multiplication".
+it can be implemented by defining __matmul__(), __rmatmul__(), and
+__imatmul__() for regular, reflected, and in-place matrix multiplication.
+(So now we learn that @= is the in-place version). It further explains:
+Matrix multiplication is a notably common operation in many fields of
+mathematics, science, engineering, and the addition of @ allows
+writing cleaner code:
+While this operator can be overloaded to do almost anything, in numpy, for example, we would use this syntax to calculate the inner and outer product of arrays and matrices:
+Inplace matrix multiplication: @=
+While researching the prior usage, we learn that there is also the inplace matrix multiplication. If we attempt to use it, we may find it is not yet implemented for numpy:
+When it is implemented, I would expect the result to look like this:
+What does the “at” (@) symbol do in Python?
+@ symbol is a syntactic sugar python provides to utilize decorator,
+to paraphrase the question, It's exactly about what does decorator do in Python?
+Put it simple decorator allow you to modify a given function's definition without touch its innermost (it's closure).
+It's the most case when you import wonderful package from third party. You can visualize it, you can use it, but you cannot touch its innermost and its heart.
+Here is a quick example,
+suppose I define a read_a_book function on Ipython
+You see, I forgot to add a name to it.
+How to solve such a problem? Of course, I could re-define the function as:
+Nevertheless, what if I'm not allowed to manipulate the original function, or if there are thousands of such function to be handled.
+Solve the problem by thinking different and define a new_function
+Tada, you see, I amended read_a_book without touching it inner closure. Nothing stops me equipped with decorator.
+@add_a_book is a fancy and handy way to say read_a_book = add_a_book(read_a_book), it's a syntactic sugar, there's nothing more fancier about it.
+If you are referring to some code in a python notebook which is using Numpy library, then @ operator means Matrix Multiplication. For example:
+Decorators were added in Python to make function and method wrapping (a function that receives a function and returns an enhanced one) easier to read and understand. The original use case was to be able to define the methods as class methods or static methods on the head of their definition. Without the decorator syntax, it would require a rather sparse and repetitive definition:
+If the decorator syntax is used for the same purpose, the code is shorter and easier to understand:
+General syntax and possible implementations
+The decorator is generally a named object ( lambda expressions are not allowed) that accepts a single argument when called (it will be the decorated function) and returns another callable object. "Callable" is used here instead of "function" with premeditation. While decorators are often discussed in the scope of methods and functions, they are not limited to them. In fact, anything that is callable (any object that implements the _call__ method is considered callable), can be used as a decorator and often objects returned by them are not simple functions but more instances of more complex classes implementing their own __call_ method.
+The decorator syntax is simply only a syntactic sugar. Consider the following decorator usage:
+This can always be replaced by an explicit decorator call and function reassignment:
+However, the latter is less readable and also very hard to understand if multiple decorators are used on a single function.
+Decorators can be used in multiple different ways as shown below:
+There are many ways to write custom decorators, but the simplest way is to write a function that returns a subfunction that wraps the original function call.
+The generic patterns is as follows:
+While decorators almost always can be implemented using functions, there are some situations when using user-defined classes is a better option. This is often true when the decorator needs complex parametrization or it depends on a specific state.
+The generic pattern for a nonparametrized decorator as a class is as follows:
+Parametrizing decorators
+In real code, there is often a need to use decorators that can be parametrized. When the function is used as a decorator, then the solution is simple—a second level of wrapping has to be used. Here is a simple example of the decorator that repeats the execution of a decorated function the specified number of times every time it is called:
+The decorator defined this way can accept parameters:
+Note that even if the parametrized decorator has default values for its arguments, the parentheses after its name is required. The correct way to use the preceding decorator with default arguments is as follows:
+Finally lets see decorators with Properties.
+The properties provide a built-in descriptor type that knows how to link an attribute to a set of methods. A property takes four optional arguments: fget , fset , fdel , and doc . The last one can be provided to define a docstring that is linked to the attribute as if it were a method. Here is an example of a Rectangle class that can be controlled either by direct access to attributes that store two corner points or by using the width , and height properties:
+The best syntax for creating properties is using property as a decorator. This will reduce the number of method signatures inside of the class
+and make code more readable and maintainable. With decorators the above class becomes:
+Starting with Python 3.5, the '@' is used as a dedicated infix symbol for MATRIX MULTIPLICATION (PEP 0465 -- see https://www.python.org/dev/peps/pep-0465/)
+Python decorator is like a wrapper of a function or a class. It’s still too conceptual.
+The above code is a definition of a decorator that decorates a function.
+function_decorator is the name of the decorator.
+wrapped_func is the name of the inner function, which is actually only used in this decorator definition. func is the function that is being decorated.
+In the inner function wrapped_func, we can do whatever before and after the func is called. After the decorator is defined, we simply use it as follows.
+Then, whenever we call the function func, the behaviours we’ve defined in the decorator will also be executed.
+@ can be a math operator or a DECORATOR but what you mean is a decorator.
+using decorators can be written like:
+Decorators can have arguments.
+You can see this GeeksforGeeks post: https://www.geeksforgeeks.org/decorators-in-python/
+It indicates that you are using a decorator. Here is Bruce Eckel's example from 2008.
+@ symbol is also used to access variables inside a plydata / pandas dataframe query, pandas.DataFrame.query.
+To say what others have in a different way:  yes, it is a decorator.
+In Python, it's like:
+This can be used for all kinds of useful things, made possible because functions are objects and just necessary just instructions.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- PEP 318: Decorators
+- Python Decorators - Python Wiki
+- The most common Python decorators are:
+@classmethod
+@staticmethod
+- @classmethod
+- @staticmethod
+- @classmethod
+- @staticmethod
+- @ as a binary operator.
+It looks like it can also be a matrix multiplication operator as well: stackoverflow.com/a/21563036/5049813
+Apr 25, 2018 at 22:47
+In the case Flasks's app.route("/"):  this function returns a function, which you invoke with your hello() as an argument
+Apr 3, 2018 at 20:34
+What's the syntactic or practical benefit of having decorators here, instead of (for example) just calling something like app.route("/", hello) immediately after defining hello, or even defining hello as a lambda in the arguments to app.route? (The latter example is common with Node.js http.Server and Express routes.)
+Oct 6, 2019 at 19:21
+It looks cool I guess
+Jan 21, 2023 at 3:08
+- @Morgan do you mind incorporating shaqed's comment to your answer? From your explanation of Flask it is not at all clear what's going on. Your explanation makes it sound like @app.route("/") does carrying, so in the end app.route("/", hello) gets called, which is not all the case. I'm not alone in understanding it that way, just look at iono's comment.
+Mar 15, 2024 at 14:14
+You also have the @= (in-place) operator, which is __imatmul__.
+– Ainsley H.
+Feb 25, 2018 at 12:40
+Are there any other overridable operators like this? I know __add__ and __sub__ are linked to + and - respectively, but never heard of the @ sign one before. Are there any others lurking out there?
+– Thomas Kimber
+Jul 18, 2019 at 18:35
+@ThomasKimber Sure. Check out everything under docs.python.org/3/reference/…
+Jun 24, 2020 at 18:10
+In this line s"ome_func = decorator(some_func)", the first some_func is a variable = to the function some_func, correct?
+Jul 7, 2019 at 19:26
+@Viragos you are defining the name some_func equal to a function given by decorator(some_func). So both some_func instances are function, the first is just being saved as the decorated version.
+– Eli Harold
+Jan 25, 2022 at 13:54
+- an operator between factors
+- an augmented assignment operator
+Fabulous overview. I love the How could you discover this on your own? section!
+May 14, 2023 at 15:58
+This is the absolute best page in this whole page, you explains things so well, ONLY after reading your answer I was able to understand it!! BRAVO!
+Dec 3, 2020 at 7:33
+While true, there are much simpler (or at least more elegant) ways to do this, at least in pandas. Following your example, you could just do df[df.foo > y] (or, more generally, df[df['foo'] > y]). The difference being that df.foo only behaves as expected when the column name contains only alphanumeric characters with no whitespace. df[df['foo'] > y] is more robust and will work no matter what the column header is, though personally I find df[df.foo > y] more aesthetically pleasing, so I prefer to use that when I can.
+– W. MacTurk
+May 28, 2021 at 14:34
+- Creating a function (follows under the @ call)
+- Calling another function to operate on your created function.  This returns a new function.  The function that you call is the argument of the @.
+- Replacing the function defined with the new function returned.
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/132988/is-there-a-difference-between-and-is
+==================================================
+My Google-fu has failed me.
+In Python, are the following two tests for equality equivalent?
+Does this hold true for objects where you would be comparing instances (a list say)?
+Okay, so this kind of answers my question:
+So == tests value where is tests to see if they are the same object?
+is will return True if two variables point to the same object (in memory), == if the objects referred to by the variables are equal.
+In your case, the second test only works because Python caches small integer objects, which is an implementation detail. For larger integers, this does not work:
+The same holds true for string literals:
+Please see this question as well.
+There is a simple rule of thumb to tell you when to use == or is.
+In general, when you are comparing something to a simple type, you are usually checking for value equality, so you should use ==. For example, the intention of your example is probably to check whether x has a value equal to 2 (==), not whether x is literally referring to the same object as 2.
+Something else to note: because of the way the CPython reference implementation works, you'll get unexpected and inconsistent results if you mistakenly use is to compare for reference equality on integers:
+That's pretty much what we expected: a and b have the same value, but are distinct entities. But what about this?
+This is inconsistent with the earlier result. What's going on here? It turns out the reference implementation of Python caches integer objects in the range -5..256 as singleton instances for performance reasons. Here's an example demonstrating this:
+This is another obvious reason not to use is: the behavior is left up to implementations when you're erroneously using it for value equality.
+Is there a difference between == and is in Python?
+Yes, they have a very important difference.
+==: check for equality - the semantics are that equivalent objects (that aren't necessarily the same object) will test as equal. As the documentation says:
+The operators <, >, ==, >=, <=, and != compare the values of two objects.
+is: check for identity - the semantics are that the object (as held in memory) is the object. Again, the documentation says:
+The operators is and is not test for object identity: x is y is true
+if and only if x and y are the same object. Object identity is
+determined using the id() function. x is not y yields the inverse
+truth value.
+Thus, the check for identity is the same as checking for the equality of the IDs of the objects. That is,
+where id is the builtin function that returns an integer that "is guaranteed to be unique among simultaneously existing objects" (see help(id)) and where a and b are any arbitrary objects.
+Other Usage Directions
+You should use these comparisons for their semantics. Use is to check identity and == to check equality.
+So in general, we use is to check for identity. This is usually useful when we are checking for an object that should only exist once in memory, referred to as a "singleton" in the documentation.
+Use cases for is include:
+Usual use cases for == include:
+The general use case, again, for ==, is the object you want may not be the same object, instead it may be an equivalent one
+PEP 8, the official Python style guide for the standard library also mentions two use-cases for is:
+Comparisons to singletons like None should always be done with is or
+is not, never the equality operators.
+Also, beware of writing if x when you really mean if x is not None --
+e.g. when testing whether a variable or argument that defaults to None
+was set to some other value. The other value might have a type (such
+as a container) that could be false in a boolean context!
+Inferring equality from identity
+If is is true, equality can usually be inferred - logically, if an object is itself, then it should test as equivalent to itself.
+In most cases this logic is true, but it relies on the implementation of the __eq__ special method. As the docs say,
+The default behavior for equality comparison (== and !=) is based on
+the identity of the objects. Hence, equality comparison of instances
+with the same identity results in equality, and equality comparison of
+instances with different identities results in inequality. A
+motivation for this default behavior is the desire that all objects
+should be reflexive (i.e. x is y implies x == y).
+and in the interests of consistency, recommends:
+Equality comparison should be reflexive. In other words, identical
+objects should compare equal:
+x is y implies x == y
+We can see that this is the default behavior for custom objects:
+The contrapositive is also usually true - if somethings test as not equal, you can usually infer that they are not the same object.
+Since tests for equality can be customized, this inference does not always hold true for all types.
+A notable exception is nan - it always tests as not equal to itself:
+Checking for identity can be much a much quicker check than checking for equality (which might require recursively checking members).
+But it cannot be substituted for equality where you may find more than one object as equivalent.
+Note that comparing equality of lists and tuples will assume that identity of objects are equal (because this is a fast check). This can create contradictions if the logic is inconsistent - as it is for nan:
+The question is attempting to use is to compare integers. You shouldn't assume that an instance of an integer is the same instance as one obtained by another reference. This story explains why.
+A commenter had code that relied on the fact that small integers (-5 to 256 inclusive) are singletons in Python, instead of checking for equality.
+Wow, this can lead to some insidious bugs. I had some code that checked if a is b, which worked as I wanted because a and b are typically small numbers. The bug only happened today, after six months in production, because a and b were finally large enough to not be cached. – gwg
+It worked in development. It may have passed some unittests.
+And it worked in production - until the code checked for an integer larger than 256, at which point it failed in production.
+This is a production failure that could have been caught in code review or possibly with a style-checker.
+Let me emphasize: do not use is to compare integers.
+== determines if the values are equal, while is determines if they are the exact same object.
+What's the difference between is and ==?
+== and is are different comparison! As others already said:
+In Python names refer to objects, for example in this case value1 and value2 refer to an int instance storing the value 1000:
+Because value2 refers to the same object is and == will give True:
+In the following example the names value1 and value2 refer to different int instances, even if both store the same integer:
+Because the same value (integer) is stored == will be True, that's why it's often called "value comparison". However is will return False because these are different objects:
+Generally is is a much faster comparison. That's why CPython caches (or maybe reuses would be the better term) certain objects like small integers, some strings, etc. But this should be treated as implementation detail that could (even if unlikely) change at any point without warning.
+You should only use is if you:
+want to check if two objects are really the same object (not just the same "value"). One example can be if you use a singleton object as constant.
+want to compare a value to a Python constant. The constants in Python are:
+In every other case you should use == to check for equality.
+Can I customize the behavior?
+There is some aspect to == that hasn't been mentioned already in the other answers: It's part of Pythons "Data model". That means its behavior can be customized using the __eq__ method. For example:
+This is just an artificial example to illustrate that the method is really called:
+Note that by default (if no other implementation of __eq__ can be found in the class or the superclasses) __eq__ uses is:
+So it's actually important to implement __eq__ if you want "more" than just reference-comparison for custom classes!
+On the other hand you cannot customize is checks. It will always compare just if you have the same reference.
+Will these comparisons always return a boolean?
+Because __eq__ can be re-implemented or overridden, it's not limited to return True or False. It could return anything (but in most cases it should return a boolean!).
+For example with NumPy arrays the == will return an array:
+But is checks will always return True or False!
+1 As Aaron Hall mentioned in the comments:
+Generally you shouldn't do any is True or is False checks because one normally uses these "checks" in a context that implicitly converts the condition to a boolean (for example in an if statement). So doing the is True comparison and the implicit boolean cast is doing more work than just doing the boolean cast - and you limit yourself to booleans (which isn't considered pythonic).
+Don't compare boolean values to True or False using ==.
+They are completely different.  is checks for object identity, while == checks for equality (a notion that depends on the two operands' types).
+It is only a lucky coincidence that "is" seems to work correctly with small integers (e.g. 5 == 4+1).  That is because CPython optimizes the storage of integers in the range (-5 to 256) by making them singletons. This behavior is totally implementation-dependent and not guaranteed to be preserved under all manner of minor transformative operations.
+For example, Python 3.5 also makes short strings singletons, but slicing them disrupts this behavior:
+https://docs.python.org/library/stdtypes.html#comparisons
+is tests for identity
+== tests for equality
+Each (small) integer value is mapped to a single value, so every 3 is identical and equal. This is an implementation detail, not part of the language spec though
+Your answer is correct. The is operator compares the identity of two objects.  The == operator compares the values of two objects.
+An object's identity never changes once it has been created; you may think of it as the object's address in memory.
+You can control comparison behaviour of object values by defining a __cmp__ method or a rich comparison method like __eq__.
+Have a look at Stack Overflow question Python's “is” operator behaves unexpectedly with integers.
+What it mostly boils down to is that "is" checks to see if they are the same object, not just equal to each other (the numbers below 256 are a special case).
+In a nutshell, is checks whether two references point to the same object or not.== checks whether two objects have the same value or not.
+As the other people in this post answer the question in details the difference between == and is for comparing Objects or variables, I would emphasize mainly the comparison between is and == for strings which can give different results and I would urge programmers to carefully use them.
+For string comparison, make sure to use == instead of is:
+But in the below example == and is will get different results:
+Conclusion and Analysis:
+Use is carefully to compare between strings.
+Since is for comparing objects and since in Python 3+ every variable such as string interpret as an object, let's see what happened in above paragraphs.
+In python there is id function that shows a unique constant of an object during its lifetime. This id is using in back-end of Python interpreter to compare two objects using is keyword.
+As John Feminella said, most of the time you will use == and != because your objective is to  compare values. I'd just like to categorise what you would do the rest of the time:
+There is one and only one instance of NoneType i.e. None is a singleton. Consequently foo == None and foo is None mean the same. However the is test is faster and the Pythonic convention is to use foo is None.
+If you are doing some introspection or mucking about with garbage collection or checking whether your custom-built string interning gadget is working or suchlike, then you probably have a use-case for foo is bar.
+True and False are also (now) singletons, but there is no use-case for foo == True and no use case for foo is True.
+Most of them already answered to the point. Just as an additional note (based on my understanding and experimenting but not from a documented source), the statement
+== if the objects referred to by the variables are equal
+from above answers should be read as
+== if the objects referred to by the variables are equal and objects belonging to the same type/class
+. I arrived at this conclusion based on the below test:
+Here the contents of the list and tuple are same but the type/class are different.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+I found that: echo 'import sys;tt=sys.argv[1];print(tt is "foo", tt == "foo", id(tt)==id("foo"))'| python3 - foo output: False True False.
+Jul 23, 2018 at 12:38
+- You lost me with the b = a[:] slice operator list copy part, so I've edited your answer to have a comment there. Looks like I just reached the threshold to not have to have my edits reviewed before they apply, so hopefully that's cool with you. Regardless, here's a useful reference for how to copy lists that I came across and had to reference to figure out what you were doing: stackoverflow.com/a/2612815/4561887
+– Gabriel Staples
+Jan 22, 2019 at 21:14
+1000 is 10**3 evaluates to True in Python 3.7 since 10**3 is type int. But 1000 is 1e3 evaluates to False since 1e3 is type float.
+– Ahmed Fasih
+Sep 8, 2019 at 1:13
+@AhmedFasih Whether or not 1000 is 10**3 is true is implementation dependent, and depends on the compiler pre-evaluating the expression 10**3. x=10; 1000 is x**3 evaluates to False.
+May 27, 2020 at 12:41
+Just a side note. Python 3.8 and onwards return a SyntaxWarning when comparing literal like 1000 is 10**3: SyntaxWarning: "is" with a literal. Did you mean "=="?
+– Santosh Kumar
+Jan 11, 2022 at 9:52
+- == is for value equality. Use it when you would like to know if two objects have the same value.
+- is is for reference equality. Use it when you would like to know if two references refer to the same object.
+With regards to the first example of a=500 and b=500, just wanted to point out that if you set a and b to an interger between [-5, 256], a is b actually returns True. More information here: stackoverflow.com/q/306313/7571052
+– AsheKetchum
+Jan 30, 2019 at 18:01
+@AsheKetchum, yes, note that I wrote "It turns out the reference implementation of Python caches integer objects in the range -5..256 as singleton instances for performance reasons."
+– John Feminella
+Jan 31, 2019 at 21:38
+- Just like to add my two bits here. Use is if you want to check if its the same object (say you have a list of city and route objects each; you could compare the locations, or merely check if its the same city or not - so is is the stronger comparison here). Else if you're only concerned about primitives, usually == will suffice. This is more of a thumb rule that will get violated when the going gets tough
+– user11991978
+Oct 30, 2020 at 9:59
+- enum values (when using Enums from the enum module)
+- usually modules
+- usually class objects resulting from class definitions
+- usually function objects resulting from function definitions
+- anything else that should only exist once in memory (all singletons, generally)
+- a specific object that you want by identity
+- numbers, including integers
+- dictionaries
+- custom mutable objects
+- other builtin immutable objects, in most cases
+- "do not use is at all" would be a good rule too. The idiomatic is None being an exception, but that said == None works too...
+– Jean-François Fabre
+Jul 24, 2019 at 6:20
+- @Jean-FrançoisFabre Another exception: The official documentation seems to recommend using is for comparing Enums.
+Feb 10, 2020 at 17:30
+- is that mean two custom classes compare, like a = Car("new"), B=Car("new"), if we use a==b, this is equal to a is b, am i right?
+Aug 6, 2020 at 6:23
+- @UniSize I don't think you are right. Problems: 1. you say a, and B, but then you say a==b (lowercase) and Python is case-sensitive. 2. you don't say whether a and b are supposed to be equivalent, but two instantiations with the same arguments imply that they are equivalent, but not the same objects, thus you would be wrong in your interpretation. Please reread my answer here and let me know what's missing, and be careful and explicit in your response.
+– Aaron Hall
+Aug 6, 2020 at 14:29
+- @AaronHall My appology, first of all, it's a typo. I revised it, a = Car("new"), b=Car("new"), if we use a==b, is this equal to a is b?  I understand that "is" is checking whether two objects are in the same memory location, and a==b is the comparison between two objects. Based on the testing, a==b return false, and a is b return false as well. With the same initialization, why will a==b return false?
+Aug 7, 2020 at 4:38
+- == compares the values of the objects.
+- is compares the references of the objects.
+- want to check if two objects are really the same object (not just the same "value"). One example can be if you use a singleton object as constant.
+- want to compare a value to a Python constant. The constants in Python are:
+NotImplemented
+classes (for example int is int or int is float)
+there could be additional constants in built-in modules or 3rd party modules. For example np.ma.masked from the NumPy module)
+- NotImplemented
+- classes (for example int is int or int is float)
+- there could be additional constants in built-in modules or 3rd party modules. For example np.ma.masked from the NumPy module)
+- NotImplemented
+- classes (for example int is int or int is float)
+- there could be additional constants in built-in modules or 3rd party modules. For example np.ma.masked from the NumPy module)
+I'm going to have to disagree on your assertion to compare "constants" with is - names that point to booleans should be checked with a boolean context - like if __debug__: or if not __debug__:. You should never do if __debug__ is True: or if __debug__ == True: - further, a constant is merely a constant semantic value, not a singleton, therefore checking with is in that case is not semantically correct. I challenge you to find a source to support your assertions - I do not think you will find one.
+– Aaron Hall
+Jan 20, 2018 at 2:09
+- @AaronHall What makes you think that the constants aren't singletons? Note that only None, True, False and __debug__ are what you would call "constant semantic value", because they cannot be reassigned. But all of them are singletons.
+Jan 20, 2018 at 2:37
+- Read PEP 8 - Ctrl-F and look for the word, "worse". - If you're unittesting, you'd use self.assertTrue
+– Aaron Hall
+Jan 20, 2018 at 2:44
+@AaronHall In some circumstances you really need the is True or if False check (but yeah, these are pretty rare - but if you do them you can do them using is). That's why even CPython uses them sometimes (for example here or here)
+Jan 20, 2018 at 2:57
+Why is is True worse than == True? Can True is True ever fail? If anything == True is likelier to fail, as __eq__ can be overridden to nonsense, but not is.
+– OverLordGoldDragon
+Jun 16, 2020 at 13:43
+- why does "is"" work like that for strings with spaces?
+Jun 6, 2018 at 8:58
+- According to the previous answers: It seems python performs caching on small integer and strings which means that it utilizes the same object reference for 'hello' string occurrences in this code snapshot, while it did not preform caching for 'hello sam' as it is relatively larger than 'hello' (i.e. it manages different references of 'hello sam' string, and that's why the 'is' operator returns false in later example) Please correct me if I am wrong
+– Rida Shamasneh
+Feb 19, 2019 at 19:49
+- @AkashGupta sorry for delay response. I just added some more explanation why this thing happened in Python interpreter. I hope it will be helpful.
+Jun 21, 2020 at 1:42
+I'm using Python 3.9 and str is 'hello' throws SyntaxWarning: "is" with a literal. Did you mean "=="?   This tells us that we need to use == for string comparison which is convenient.
+– user2761895
+Jan 31, 2022 at 16:15
+For foo=1, foo==True and foo is True are different.
+– Ted Brownlow
+Jul 9, 2022 at 18:29
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/collectives
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+Areas of practice, technology, and provider organizations already on Collectives:
+Collectives works for you
+Make your job easier with Collectives on Stack Overflow.
+Find trusted answers, fast
+Stop testing multiple solutions to your questions.
+Find the  answers recommended or provided by subject matter experts from the community or who build and support a company's technology.
+Find information about technologies that interest you in one place
+There’s no need to review multiple tag pages.
+The Collectives page provides a centralized view of questions and answers and content using tags associated with an area of technical practice or an organization’s technology.
+Engage with new content formats
+Because some topics require more than Q&A.
+Find in-depth knowledge on a topic or product with technical how-to guides and knowledge Articles, and get timely, relevant updates with Bulletins.
+Consider yourself an expert on Google Cloud? Think you know the most about Go Language?
+Earn a Recognized Member designation from the Admins of a Collective and/or your favorite technology companies. See your answers recommended and check where you rank on the Collectives leaderboard.
+Here’s what people are saying about Collectives on Stack Overflow
+I think both businesses and developers will benefit from Collectives because they make it easier to connect and keep in touch. Developers have been coming together and helping each other on the Stack Overflow platform for a long time. With Collectives, companies can now also become part of this active community.
+I’m most excited about the Recognized Member feature. Beyond reputation, I think the Recognized Member badge can more accurately reflect a user’s expertise in a domain. Endorsement by a Recognized Member can also help to increase the visibility of new, better, but not highly voted answers to old questions, encouraging developers to take a closer look before just adopting the highest voted answer.
+You have questions. We have answers.
+Explore content from the Help Center.
+What is Collectives™ on Stack Overflow?
+Collectives™ on Stack Overflow are dedicated spaces where developers can find content that’s organized around an area of technical practice or a technology provider's product suite. Read more on the Help Center
+What is a recommended answer?
+A recommended answer helps users quickly and easily identify the best solution to a question. Answers are recommended by subject matter experts who have been designated as Recognized Members of a collective. Learn more about recommended answers
+What are the different types of users in a Collective?
+Within Collectives, there are 4 Collective-specific user types: Member, Recognized Member, Admin, Employee. More about the user types
+How do you determine which tags are included in a Collective?
+Collective tags are based on technologies that are part of certain areas of practice or a technology provider’s product suite. Read more about tags
+How do I join a Collective?
+Anybody with a Stack Overflow account can join a collective! Visit a collective’s page (by clicking on the collectives badge on a question page) and press the “Join collective” button. The collective will now show up in the left sidebar. Join a collective
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean?lastactivity
+==================================================
+What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Python 3.8, := is actually a valid operator that allows for assignment of variables within expressions:
+See PEP 572 for more details.
+What you have found is pseudocode
+Pseudocode is an informal high-level description of the operating
+principle of a computer program or other algorithm.
+:= is actually the assignment operator. In Python this is simply =.
+To translate this pseudocode into Python you would need to know the data structures being referenced, and a bit more of the algorithm implementation.
+Some notes about psuedocode:
+Note the differences in brace usage and assignment operator.
+This symbol := is an assignment operator in Python (mostly called as the Walrus Operator). In a nutshell, the walrus operator compresses our code to make it a little shorter.
+Here's a very simple example:
+These codes are the same (and outputs the same thing), but as you can see, the version with the walrus operator is compressed in just two lines of code to make things more compact.
+Now, why would you use the walrus operator?
+First off, don't feel obligated.
+I myself even rarely use this one. I'm just using the walrus operator to compress my code a little bit, mostly when I'm working with regular expressions.
+The above snippet is equivalent to the following:
+You can also find your own use case of this. What's important is you have a rough idea about it and knows when it might be helpful when you encountered a problem like this one.
+PEP572 proposed support for the := operator in Python to allow variable assignments within expressions.
+This syntax is available in Python 3.8.
+The code in the question is pseudo-code; there, := represents assignment.
+For future visitors, though, the following might be more relevant: the next version of Python (3.8) will gain a new operator, :=, allowing assignment expressions (details, motivating examples, and discussion can be found in PEP 572, which was provisionally accepted in late June 2018).
+With this new operator, you can write things like these:
+Happy 3.8 Release on 14th of October!
+There is new syntax := that assigns values to variables as part of a larger expression. It is affectionately known as “the walrus operator” due to its resemblance to the eyes and tusks of a walrus.
+In this example, the assignment expression helps avoid calling len() twice:
+What’s New In Python 3.8 - Assignment expressions
+:= is also called as Walrus Operator.
+We can use this walrus operator to assign a value and do condition check at the same time.
+Without Walrus Operator:
+With Walrus Operator:
+So, we can use variable a not just in statement also after that. it will simply assign new value into variable and enables condition check.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- colon-equals
+- python-assignment-expression
+My guess is that this is pseudocode right from this wiki article and possibly the OP is asking how one interprets this code (which is an assignment) in Python
+– Michael Petch
+Sep 23, 2014 at 16:37
+Related: What does ":=" do?. There is some history here wrt mathematical notation where single equals  represents an equality test, hence the desire to disambiguate an assignment (:=) from an equality test (= or ==).
+Mar 21, 2023 at 14:08
+- I found this useful reading: medium.com/mlearning-ai/…
+Jun 22, 2023 at 1:57
+- := is the assignment operator or = in Python
+- = is the equality operator or == in Python
+- There are certain styles, and your mileage may vary:
+do they plan to add annotation available also ? like i : int = 1 to 100 do
+– pippo1980
+Dec 5, 2022 at 15:08
+- You can even shorten the first expression (which I find readable/clear enough) to: if match := pattern_search(data): which then shows the beauty even better imho
+Nov 14, 2023 at 16:48
+I don't think this is worth posting as a separate answer, but for people interested in an easy way to read this, you can translate it as "which equals", e.g. if foo := bar * 2: can be read as "if foo, which equals bar times two,..."
+May 28, 2024 at 22:06
+- Thanks for the answer. I am not a Python developer but was running a Node.js package update script that blew up on the ":=" syntax. At first I thought it might be something related to Pascal/Delphi syntax, which is how assignment is done in that language. After reading this I realize the Python3 running on the system is 3.7 so off to build a newer version.
+– Robert G. Schaffrath
+Jan 26 at 21:06
+@z33k The question was asked years before the PEP was created. This certainly doesn't answer the question. Could be a comment though...
+Jun 23, 2019 at 13:48
+@MaxRied I just found this answer via Google and it was exactly what I was looking for. Even if it wasn't relevant when the question was posed, it certainly is now.
+– Andreas T
+Feb 2, 2020 at 17:33
+PEP572 allows Python to have all the sort of nasty bugs that this operator allows people to have in C.
+Apr 8, 2020 at 14:41
+@vy32. The more you allow a competent user to do, the more bugs you allow to be introduced by everyone. That's not a reason to restrict, in case that's what you were implying.
+– Mad Physicist
+Apr 19, 2021 at 16:39
+- @MadPhysicist - I wasn't implying that this operator shouldn't be added to Python 3.8. I was merely pointing out that it would be a new source of bugs, and noting that the = assignment operator in C has a long and troubled history.
+Apr 19, 2021 at 17:25
+Time certainly is an arrow
+– chadlagore
+Mar 14, 2020 at 0:54
+- colon-equals
+- python-assignment-expression
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/tagged/python
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+Calling python function from C
+RuntimeWarning: coroutine <aiortc> was never awaited
+Selenium Headless vrs Non Headless. I can't get Selenium to set a field while using headless mode
+Is this Sumtracker API request correct?
+How to add automatic attributes to the Python Markdown library
+Close terminal window opened by .command Python script
+gdal2tiles.py hangs when run in Conda Docker environment
+Pylance in devcontainer is loading forever
+Error Example: TypeError from Mixing Types [duplicate]
+Truncation on Notion rollups
+Polars read function still blocks the process even if PyQt6 Threading/Runnable is used
+OSError: Can't synchronously read data (can't open directory) when trying to index retrieve values from a hdf5 file
+Find roman numerals case-insensitively in regular text
+Why am I getting a ModuleNotFoundError when trying to quickstart the Google Docs API in Python?
+How to PyInstaller a non-pure Python library?
+Hot Network Questions
+- Unanswered (my tags)
+- selenium-webdriver
+- headless-browser
+- python-requests
+- gdal2tiles.py
+- visual-studio-code
+- vscode-devcontainer
+- devcontainer
+- python-polars
+- compression
+- roman-numerals
+- google-docs
+- google-docs-api
+- pyinstaller
+- The Overflow Blog
+- Do AI coding tools help with imposter syndrome or make it worse?
+- Diving into the results of the 2025 Developer Survey
+- Featured on Meta
+- Will you help build our new visual identity?
+- Upcoming initiatives on Stack Overflow and across the Stack Exchange network...
+- Policy: Generative AI (e.g., ChatGPT) is banned
+- Stack Overflow Experiment: Safely expanding voting access
+- Updated design for the new live activity panel experiment
+- Further Experimentation with Comment Reputation Requirements
+- A spaceship full of refugees tries to settle on a planet with friendly aliens. It does not work out
+- Why is aid being airdropped into Gaza?
+- If President Trump's claimed authority to impose tariffs is taken away, who gets the 50-60 billion collected?
+- What is the maximum sustainable population of an all-female species that relies on monogamous human men to reproduce?
+- Current driving a 7-segment quad digit display
+- Submit a desk-rejected manuscript to a new journal or transfer it to a sister journal as recommended by the editor
+- Is a paracompact perfectly normal space hereditarily paracompact?
+- What does the world look like to astronauts in a neutral buoyancy pool?
+- What is the origin of using ‘kind of’ to mean (the adverb) ‘somewhat’?
+- SF story about a rich guy who develops technologies so advanced that everyone thinks they're evidence of an alien civilization
+- Cable replacement for remote suspension lockout
+- FOR XML PATH and OPTION() can't be together in query?
+- Single cryptic clue: Saw Zurich banker? (5)
+- ---- Wywy vyvy vw! ----
+- Which setup causes less drag underneath an airplane?
+- Why emphasize seeking wisdom as "silver” rather than gold?
+- Collection of Star Trek stories. Read between 1983 and 1988
+- Samsung fridge generates ice in the bottom of freezer and leaks water
+- What liquid solution is best to clean a (detachable, with a quicklink) bike chain?
+- Episode where people are lured/trapped and kept by an unseen experimenter
+- Recall ambiguity
+- Who decides on an official translation of common names?
+- I implemented FFT in C
+- Does intersubjectivity legitimize falsehoods?
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/tagged/colon-equals
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+Go Colon Equals Operator With One New Variable
+R - Error in `:=`(variable, as.character(variable))
+Colon-Equals operator proper usage
+deparse expressions containing `:=`?
+Adding a column in data.table with = vs := [duplicate]
+What's the difference between :- and := in Bash parameter substitution?
+Autohotkey: What's the difference between := and = assignment operator
+Elm Colon Equals Operator
+operator = and := in struct in Golang
+What's the difference between := and => in Ada?
+Using := multiple times in data.table
+What is the difference between := and = in Excel VBA
+What does the := operator mean in mysql?
+Meaning of `:=` Syntax in VBA methods
+Difference between = and := in MySQL
+Hot Network Questions
+- Unanswered (my tags)
+- colon-equals
+- colon-equals
+- data-science
+- colon-equals
+- colon-equals
+- assignment-operator
+- colon-equals
+- colon-equals
+- colon-equals
+- colon-equals
+- colon-equals
+- pass-by-reference
+- colon-equals
+- colon-equals
+- colon-equals
+- colon-equals
+- syntax-error
+- named-parameters
+- colon-equals
+- stored-procedures
+- colon-equals
+- The Overflow Blog
+- Do AI coding tools help with imposter syndrome or make it worse?
+- Diving into the results of the 2025 Developer Survey
+- Featured on Meta
+- Will you help build our new visual identity?
+- Upcoming initiatives on Stack Overflow and across the Stack Exchange network...
+- Policy: Generative AI (e.g., ChatGPT) is banned
+- Stack Overflow Experiment: Safely expanding voting access
+- Updated design for the new live activity panel experiment
+- Further Experimentation with Comment Reputation Requirements
+- Malicious curl request to remote server by a hidden script found in my user folder, am I safe with just removing the script?
+- A program to solve quadratic equations ax² + bx + c = 0 with imaginary results
+- ConTeXt: how to let ^^J have an effect?
+- Which setup causes less drag underneath an airplane?
+- Which movie first customized a production logo?
+- How to improve research productivity as an early-career postdoc
+- Episode where people are lured/trapped and kept by an unseen experimenter
+- How can I book a boat tour in the Edmund Gorge, Bohemian Switzerland National Park, Czechia?
+- What is the difference between Render Distance and Simulation Distance?
+- I implemented FFT in C
+- Why is it dangerous to connect a nonisolated device to USB?
+- Why are collision manifold points created inside objects instead of on their surfaces?
+- My lab is not equipped for me to do my postdoc work. Should I quit?
+- Using `find` to find a file in PATH
+- How do capacitors withstand internal electrostatic pressure?
+- Do I need an invitation letter to be a guest in Spain?
+- Why emphasize seeking wisdom as "silver” rather than gold?
+- Is CPP TrivialCopyable class effectively a C struct?
+- Stereographic projection in latex
+- ---- Wywy vyvy vw! ----
+- Who decides on an official translation of common names?
+- Excel Conditional Formatting Error
+- Understanding a function that finds the degree of a multi-variate polynomial
+- What is the origin of using ‘kind of’ to mean (the adverb) ‘somewhat’?
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/11060506/is-there-a-not-equal-operator-in-python?lastactivity
+==================================================
+How would you say "does not equal"?
+Is there something similar to == that means "not equal"?
+Use !=. See comparison operators. For comparing object identities, you can use the keyword is and its negation is not.
+Not equal  !=  (vs equal ==)
+Are you asking about something like this?
+This Python - Basic Operators chart might be helpful.
+There's the != (not equal) operator that returns True when two values differ, though be careful with the types because "1" != 1. This will always return True and "1" == 1 will always return False, since the types differ. Python is dynamically, but strongly typed, and other statically typed languages would complain about comparing different types.
+There's also the else clause:
+The is operator is the object identity operator used to check if two objects in fact are the same:
+You can use both != or <>.
+However, note that != is preferred where <> is deprecated.
+Seeing as everyone else has already listed most of the other ways to say not equal I will just add:
+in this case it is simple switching the check of positive == (true) to negative and vise versa...
+You can use the != operator to check for inequality.
+Moreover in Python 2 there was <> operator which used to do the same thing, but it has been deprecated in Python 3.
+The standard operator module holds ne method which is a wrapper for != a.k.a. not equal operator.
+This is especially useful if you need to make comparisons in a setting where a function is expected.
+There are two operators in Python for the "not equal" condition -
+a.) != If values of the two operands are not equal, then the condition becomes true.
+(a != b) is true.
+b.) <> If values of the two operands are not equal, then the condition becomes true.
+(a <> b) is true. This is similar to the != operator.
+You can use "is not" for "not equal" or "!=". Please see the example below:
+The above code will print "true" as a = 2 assigned before the "if" condition. Now please see the code below for "not equal"
+The above code will print "not equal" as a = 2 as assigned earlier.
+Use != or <>. Both stands for not equal.
+The comparison operators <> and != are alternate spellings of the same operator. != is the preferred spelling; <> is obsolescent. (Reference: Python language reference)
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- comparison-operators
+Are you asking about else, != (optionally <>) or is not?
+Jun 16, 2012 at 3:25
+Attention that <> doesn't work any more in python 3, so use !=
+– Antonello
+Mar 7, 2016 at 10:38
+from python documentation: Python3 : The operators <, >, ==, >=, <=, and != compare the values of two objects. docs.python.org/3/reference/expressions.html#value-comparisons
+Nov 7, 2016 at 13:00
+from python documentation:  python2:  docs.python.org/2/reference/expressions.html#not-in
+Nov 7, 2016 at 13:05
+How would you compare two binary data?
+– Léo Léopold Hertz 준영
+Jul 9, 2015 at 15:48
+Just some info, PEP401 mentioned in the comments was an April Fool joke. <> is not supported in Python3 now.
+Jun 26, 2019 at 9:32
+Just for the record: Comparison operators in Python 3.7
+– Ocaso Protal
+Jul 9, 2019 at 13:08
+- @LéoLéopoldHertz준영 Did not know that you can compare binary data. I thought that objects are the most you can compare.
+Dec 6, 2020 at 14:22
+<> no longer exists in Python 3, you can only use !=.
+– Thierry Lathuille
+Aug 5, 2021 at 8:22
+- From a comment: "<> is deprecated and removed in Python 3."
+– Peter Mortensen
+Nov 11, 2022 at 18:07
+- From a comment: "<> is deprecated and removed in Python 3."
+– Peter Mortensen
+Nov 11, 2022 at 18:06
+Note that is not won't work for string comparison
+Jun 30, 2020 at 23:26
+This answer is simply wrong; is and is not do not test equality, they test identity.
+Jul 6, 2021 at 14:37
+- @kaya3, please help me to understand why "is not" will not work for my example.
+– Amir Md Amiruzzaman
+Jul 7, 2021 at 15:05
+- I suggest you read this other Q&A: stackoverflow.com/questions/13650293/…
+Jul 7, 2021 at 18:31
+- You may link to that reference, preferably with page anchors. But ************** without ************** "Edit:", "Update:", or similar - the answer should appear as if it was written today.
+– Peter Mortensen
+Nov 11, 2022 at 16:39
+From a comment: "<> is deprecated and removed in Python 3."
+– Peter Mortensen
+Nov 11, 2022 at 18:07
+- comparison-operators
+
+--------------------------------------------------
+

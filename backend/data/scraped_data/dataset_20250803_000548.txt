@@ -1,0 +1,1407 @@
+URL: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean
+==================================================
+What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Python 3.8, := is actually a valid operator that allows for assignment of variables within expressions:
+See PEP 572 for more details.
+What you have found is pseudocode
+Pseudocode is an informal high-level description of the operating
+principle of a computer program or other algorithm.
+:= is actually the assignment operator. In Python this is simply =.
+To translate this pseudocode into Python you would need to know the data structures being referenced, and a bit more of the algorithm implementation.
+Some notes about psuedocode:
+Note the differences in brace usage and assignment operator.
+This symbol := is an assignment operator in Python (mostly called as the Walrus Operator). In a nutshell, the walrus operator compresses our code to make it a little shorter.
+Here's a very simple example:
+These codes are the same (and outputs the same thing), but as you can see, the version with the walrus operator is compressed in just two lines of code to make things more compact.
+Now, why would you use the walrus operator?
+First off, don't feel obligated.
+I myself even rarely use this one. I'm just using the walrus operator to compress my code a little bit, mostly when I'm working with regular expressions.
+The above snippet is equivalent to the following:
+You can also find your own use case of this. What's important is you have a rough idea about it and knows when it might be helpful when you encountered a problem like this one.
+PEP572 proposed support for the := operator in Python to allow variable assignments within expressions.
+This syntax is available in Python 3.8.
+The code in the question is pseudo-code; there, := represents assignment.
+For future visitors, though, the following might be more relevant: the next version of Python (3.8) will gain a new operator, :=, allowing assignment expressions (details, motivating examples, and discussion can be found in PEP 572, which was provisionally accepted in late June 2018).
+With this new operator, you can write things like these:
+Happy 3.8 Release on 14th of October!
+There is new syntax := that assigns values to variables as part of a larger expression. It is affectionately known as “the walrus operator” due to its resemblance to the eyes and tusks of a walrus.
+In this example, the assignment expression helps avoid calling len() twice:
+What’s New In Python 3.8 - Assignment expressions
+:= is also called as Walrus Operator.
+We can use this walrus operator to assign a value and do condition check at the same time.
+Without Walrus Operator:
+With Walrus Operator:
+So, we can use variable a not just in statement also after that. it will simply assign new value into variable and enables condition check.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- colon-equals
+- python-assignment-expression
+My guess is that this is pseudocode right from this wiki article and possibly the OP is asking how one interprets this code (which is an assignment) in Python
+– Michael Petch
+Sep 23, 2014 at 16:37
+Related: What does ":=" do?. There is some history here wrt mathematical notation where single equals  represents an equality test, hence the desire to disambiguate an assignment (:=) from an equality test (= or ==).
+Mar 21, 2023 at 14:08
+- I found this useful reading: medium.com/mlearning-ai/…
+Jun 22, 2023 at 1:57
+- := is the assignment operator or = in Python
+- = is the equality operator or == in Python
+- There are certain styles, and your mileage may vary:
+do they plan to add annotation available also ? like i : int = 1 to 100 do
+– pippo1980
+Dec 5, 2022 at 15:08
+- You can even shorten the first expression (which I find readable/clear enough) to: if match := pattern_search(data): which then shows the beauty even better imho
+Nov 14, 2023 at 16:48
+I don't think this is worth posting as a separate answer, but for people interested in an easy way to read this, you can translate it as "which equals", e.g. if foo := bar * 2: can be read as "if foo, which equals bar times two,..."
+May 28, 2024 at 22:06
+- Thanks for the answer. I am not a Python developer but was running a Node.js package update script that blew up on the ":=" syntax. At first I thought it might be something related to Pascal/Delphi syntax, which is how assignment is done in that language. After reading this I realize the Python3 running on the system is 3.7 so off to build a newer version.
+– Robert G. Schaffrath
+Jan 26 at 21:06
+@z33k The question was asked years before the PEP was created. This certainly doesn't answer the question. Could be a comment though...
+Jun 23, 2019 at 13:48
+@MaxRied I just found this answer via Google and it was exactly what I was looking for. Even if it wasn't relevant when the question was posed, it certainly is now.
+– Andreas T
+Feb 2, 2020 at 17:33
+PEP572 allows Python to have all the sort of nasty bugs that this operator allows people to have in C.
+Apr 8, 2020 at 14:41
+@vy32. The more you allow a competent user to do, the more bugs you allow to be introduced by everyone. That's not a reason to restrict, in case that's what you were implying.
+– Mad Physicist
+Apr 19, 2021 at 16:39
+- @MadPhysicist - I wasn't implying that this operator shouldn't be added to Python 3.8. I was merely pointing out that it would be a new source of bugs, and noting that the = assignment operator in C has a long and troubled history.
+Apr 19, 2021 at 17:25
+Time certainly is an arrow
+– chadlagore
+Mar 14, 2020 at 0:54
+- colon-equals
+- python-assignment-expression
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python
+==================================================
+What does the @ symbol do in Python?
+An @ symbol at the beginning of a line is used for class and function decorators:
+Python Decorators - Python Wiki
+The most common Python decorators are:
+An @ in the middle of a line is probably matrix multiplication:
+This shows that the function/method/class you're defining after a decorator is just basically passed on as an argument to the function/method immediately after the @ sign.
+The microframework Flask introduces decorators from the very beginning in the following format:
+This in turn translates to:
+Realizing this finally allowed me to feel at peace with Flask.
+In Python 3.5 you can overload @ as an operator. It is named as __matmul__, because it is designed to do matrix multiplication, but it can be anything you want. See PEP465 for details.
+This is a simple implementation of matrix multiplication.
+Is equivalent to this code:
+In the definition of a decorator you can add some modified things that wouldn't be returned by a function normally.
+What does the “at” (@) symbol do in Python?
+In short, it is used in decorator syntax and for matrix multiplication.
+In the context of decorators, this syntax:
+is equivalent to this:
+In the context of matrix multiplication, a @ b invokes a.__matmul__(b) - making this syntax:
+where dot is, for example, the numpy matrix multiplication function and a and b are matrices.
+How could you discover this on your own?
+I also do not know what to search for as searching Python docs or Google does not return relevant results when the @ symbol is included.
+If you want to have a rather complete view of what a particular piece of python syntax does, look directly at the grammar file. For the Python 3 branch:
+We can see here that @ is used in three contexts:
+A google search for "decorator python docs" gives as one of the top results, the "Compound Statements" section of the "Python Language Reference." Scrolling down to the section on function definitions, which we can find by searching for the word, "decorator", we see that... there's a lot to read. But the word, "decorator" is a link to the glossary, which tells us:
+A function returning another function, usually applied as a function transformation using the @wrapper syntax. Common
+examples for decorators are classmethod() and staticmethod().
+The decorator syntax is merely syntactic sugar, the following two
+function definitions are semantically equivalent:
+The same concept exists for classes, but is less commonly used there.
+See the documentation for function definitions and class definitions
+for more about decorators.
+is semantically the same as:
+They are not exactly the same because Python evaluates the foo expression (which could be a dotted lookup and a function call) before bar with the decorator (@) syntax, but evaluates the foo expression after bar in the other case.
+(If this difference makes a difference in the meaning of your code, you should reconsider what you're doing with your life, because that would be pathological.)
+If we go back to the function definition syntax documentation, we see:
+is roughly equivalent to
+This is a demonstration that we can call a function that's a decorator first, as well as stack decorators. Functions, in Python, are first class objects - which means you can pass a function as an argument to another function, and return functions. Decorators do both of these things.
+If we stack decorators, the function, as defined, gets passed first to the decorator immediately above it, then the next, and so on.
+That about sums up the usage for @ in the context of decorators.
+In the lexical analysis section of the language reference, we have a section on operators, which includes @, which makes it also an operator:
+The following tokens are operators:
+and in the next page, the Data Model, we have the section Emulating Numeric Types,
+These methods are called to implement the binary arithmetic operations (+, -, *, @, /, //, [...]
+And we see that __matmul__ corresponds to @. If we search the documentation for "matmul" we get a link to What's new in Python 3.5 with "matmul" under a heading "PEP 465 - A dedicated infix operator for matrix multiplication".
+it can be implemented by defining __matmul__(), __rmatmul__(), and
+__imatmul__() for regular, reflected, and in-place matrix multiplication.
+(So now we learn that @= is the in-place version). It further explains:
+Matrix multiplication is a notably common operation in many fields of
+mathematics, science, engineering, and the addition of @ allows
+writing cleaner code:
+While this operator can be overloaded to do almost anything, in numpy, for example, we would use this syntax to calculate the inner and outer product of arrays and matrices:
+Inplace matrix multiplication: @=
+While researching the prior usage, we learn that there is also the inplace matrix multiplication. If we attempt to use it, we may find it is not yet implemented for numpy:
+When it is implemented, I would expect the result to look like this:
+What does the “at” (@) symbol do in Python?
+@ symbol is a syntactic sugar python provides to utilize decorator,
+to paraphrase the question, It's exactly about what does decorator do in Python?
+Put it simple decorator allow you to modify a given function's definition without touch its innermost (it's closure).
+It's the most case when you import wonderful package from third party. You can visualize it, you can use it, but you cannot touch its innermost and its heart.
+Here is a quick example,
+suppose I define a read_a_book function on Ipython
+You see, I forgot to add a name to it.
+How to solve such a problem? Of course, I could re-define the function as:
+Nevertheless, what if I'm not allowed to manipulate the original function, or if there are thousands of such function to be handled.
+Solve the problem by thinking different and define a new_function
+Tada, you see, I amended read_a_book without touching it inner closure. Nothing stops me equipped with decorator.
+@add_a_book is a fancy and handy way to say read_a_book = add_a_book(read_a_book), it's a syntactic sugar, there's nothing more fancier about it.
+If you are referring to some code in a python notebook which is using Numpy library, then @ operator means Matrix Multiplication. For example:
+Decorators were added in Python to make function and method wrapping (a function that receives a function and returns an enhanced one) easier to read and understand. The original use case was to be able to define the methods as class methods or static methods on the head of their definition. Without the decorator syntax, it would require a rather sparse and repetitive definition:
+If the decorator syntax is used for the same purpose, the code is shorter and easier to understand:
+General syntax and possible implementations
+The decorator is generally a named object ( lambda expressions are not allowed) that accepts a single argument when called (it will be the decorated function) and returns another callable object. "Callable" is used here instead of "function" with premeditation. While decorators are often discussed in the scope of methods and functions, they are not limited to them. In fact, anything that is callable (any object that implements the _call__ method is considered callable), can be used as a decorator and often objects returned by them are not simple functions but more instances of more complex classes implementing their own __call_ method.
+The decorator syntax is simply only a syntactic sugar. Consider the following decorator usage:
+This can always be replaced by an explicit decorator call and function reassignment:
+However, the latter is less readable and also very hard to understand if multiple decorators are used on a single function.
+Decorators can be used in multiple different ways as shown below:
+There are many ways to write custom decorators, but the simplest way is to write a function that returns a subfunction that wraps the original function call.
+The generic patterns is as follows:
+While decorators almost always can be implemented using functions, there are some situations when using user-defined classes is a better option. This is often true when the decorator needs complex parametrization or it depends on a specific state.
+The generic pattern for a nonparametrized decorator as a class is as follows:
+Parametrizing decorators
+In real code, there is often a need to use decorators that can be parametrized. When the function is used as a decorator, then the solution is simple—a second level of wrapping has to be used. Here is a simple example of the decorator that repeats the execution of a decorated function the specified number of times every time it is called:
+The decorator defined this way can accept parameters:
+Note that even if the parametrized decorator has default values for its arguments, the parentheses after its name is required. The correct way to use the preceding decorator with default arguments is as follows:
+Finally lets see decorators with Properties.
+The properties provide a built-in descriptor type that knows how to link an attribute to a set of methods. A property takes four optional arguments: fget , fset , fdel , and doc . The last one can be provided to define a docstring that is linked to the attribute as if it were a method. Here is an example of a Rectangle class that can be controlled either by direct access to attributes that store two corner points or by using the width , and height properties:
+The best syntax for creating properties is using property as a decorator. This will reduce the number of method signatures inside of the class
+and make code more readable and maintainable. With decorators the above class becomes:
+Starting with Python 3.5, the '@' is used as a dedicated infix symbol for MATRIX MULTIPLICATION (PEP 0465 -- see https://www.python.org/dev/peps/pep-0465/)
+Python decorator is like a wrapper of a function or a class. It’s still too conceptual.
+The above code is a definition of a decorator that decorates a function.
+function_decorator is the name of the decorator.
+wrapped_func is the name of the inner function, which is actually only used in this decorator definition. func is the function that is being decorated.
+In the inner function wrapped_func, we can do whatever before and after the func is called. After the decorator is defined, we simply use it as follows.
+Then, whenever we call the function func, the behaviours we’ve defined in the decorator will also be executed.
+@ can be a math operator or a DECORATOR but what you mean is a decorator.
+using decorators can be written like:
+Decorators can have arguments.
+You can see this GeeksforGeeks post: https://www.geeksforgeeks.org/decorators-in-python/
+It indicates that you are using a decorator. Here is Bruce Eckel's example from 2008.
+@ symbol is also used to access variables inside a plydata / pandas dataframe query, pandas.DataFrame.query.
+To say what others have in a different way:  yes, it is a decorator.
+In Python, it's like:
+This can be used for all kinds of useful things, made possible because functions are objects and just necessary just instructions.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- PEP 318: Decorators
+- Python Decorators - Python Wiki
+- The most common Python decorators are:
+@classmethod
+@staticmethod
+- @classmethod
+- @staticmethod
+- @classmethod
+- @staticmethod
+- @ as a binary operator.
+It looks like it can also be a matrix multiplication operator as well: stackoverflow.com/a/21563036/5049813
+Apr 25, 2018 at 22:47
+In the case Flasks's app.route("/"):  this function returns a function, which you invoke with your hello() as an argument
+Apr 3, 2018 at 20:34
+What's the syntactic or practical benefit of having decorators here, instead of (for example) just calling something like app.route("/", hello) immediately after defining hello, or even defining hello as a lambda in the arguments to app.route? (The latter example is common with Node.js http.Server and Express routes.)
+Oct 6, 2019 at 19:21
+It looks cool I guess
+Jan 21, 2023 at 3:08
+- @Morgan do you mind incorporating shaqed's comment to your answer? From your explanation of Flask it is not at all clear what's going on. Your explanation makes it sound like @app.route("/") does carrying, so in the end app.route("/", hello) gets called, which is not all the case. I'm not alone in understanding it that way, just look at iono's comment.
+Mar 15, 2024 at 14:14
+You also have the @= (in-place) operator, which is __imatmul__.
+– Ainsley H.
+Feb 25, 2018 at 12:40
+Are there any other overridable operators like this? I know __add__ and __sub__ are linked to + and - respectively, but never heard of the @ sign one before. Are there any others lurking out there?
+– Thomas Kimber
+Jul 18, 2019 at 18:35
+@ThomasKimber Sure. Check out everything under docs.python.org/3/reference/…
+Jun 24, 2020 at 18:10
+In this line s"ome_func = decorator(some_func)", the first some_func is a variable = to the function some_func, correct?
+Jul 7, 2019 at 19:26
+@Viragos you are defining the name some_func equal to a function given by decorator(some_func). So both some_func instances are function, the first is just being saved as the decorated version.
+– Eli Harold
+Jan 25, 2022 at 13:54
+- an operator between factors
+- an augmented assignment operator
+Fabulous overview. I love the How could you discover this on your own? section!
+May 14, 2023 at 15:58
+This is the absolute best page in this whole page, you explains things so well, ONLY after reading your answer I was able to understand it!! BRAVO!
+Dec 3, 2020 at 7:33
+While true, there are much simpler (or at least more elegant) ways to do this, at least in pandas. Following your example, you could just do df[df.foo > y] (or, more generally, df[df['foo'] > y]). The difference being that df.foo only behaves as expected when the column name contains only alphanumeric characters with no whitespace. df[df['foo'] > y] is more robust and will work no matter what the column header is, though personally I find df[df.foo > y] more aesthetically pleasing, so I prefer to use that when I can.
+– W. MacTurk
+May 28, 2021 at 14:34
+- Creating a function (follows under the @ call)
+- Calling another function to operate on your created function.  This returns a new function.  The function that you call is the argument of the @.
+- Replacing the function defined with the new function returned.
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement
+==================================================
+Use and instead of &&.
+Python uses and and or conditionals.
+I'm getting an error in the IF conditional. What am I doing wrong?
+There reason that you get a SyntaxError is that there is no && operator in Python. Likewise || and ! are not valid Python operators.
+Some of the operators you may know from other languages have a different name in Python.
+The logical operators && and || are actually called and and or.
+Likewise the logical negation operator ! is called not.
+So you could just write:
+Some additional information (that might come in handy):
+I summarized the operator "equivalents" in this table:
+See also Python documentation: 6.11. Boolean operations.
+Besides the logical operators Python also has bitwise/binary operators:
+There is no bitwise negation in Python (just the bitwise inverse operator ~ - but that is not equivalent to not).
+See also 6.6. Unary arithmetic and bitwise/binary operations and 6.7. Binary arithmetic operations.
+The logical operators (like in many other languages) have the advantage that these are short-circuited.
+That means if the first operand already defines the result, then the second operator isn't evaluated at all.
+To show this I use a function that simply takes a value, prints it and returns it again. This is handy to see what is actually
+evaluated because of the print statements:
+As you can see only one print statement is executed, so Python really didn't even look at the right operand.
+This is not the case for the binary operators. Those always evaluate both operands:
+But if the first operand isn't enough then, of course, the second operator is evaluated:
+To summarize this here is another table:
+The True and False represent what bool(left-hand-side) returns, they don't have to be True or False, they just need to return True or False when bool is called on them (1).
+So in Pseudo-Code(!) the and and or functions work like these:
+Note that this is pseudo-code not Python code. In Python you cannot create functions called and or or because these are keywords.
+Also you should never use "evaluate" or if bool(...).
+Customizing the behavior of your own classes
+This implicit bool call can be used to customize how your classes behave with and, or and not.
+To show how this can be customized I use this class which again prints something to track what is happening:
+So let's see what happens with that class in combination with these operators:
+If you don't have a __bool__ method then Python also checks if the object has a __len__ method and if it returns a value greater than zero.
+That might be useful to know in case you create a sequence container.
+See also 4.1. Truth Value Testing.
+NumPy arrays and subclasses
+Probably a bit beyond the scope of the original question but in case you're dealing with NumPy arrays or subclasses (like Pandas Series or DataFrames) then the implicit bool call
+will raise the dreaded ValueError:
+In these cases you can use the logical and function from NumPy which performs an element-wise and (or or):
+If you're dealing just with boolean arrays you could also use the binary operators with NumPy, these do perform element-wise (but also binary) comparisons:
+That the bool call on the operands has to return True or False isn't completely correct. It's just the first operand that needs to return a boolean in it's __bool__ method:
+That's because and actually returns the first operand if the first operand evaluates to False and if it evaluates to True then it returns the second operand:
+Similarly for or but just the other way around:
+However if you use them in an if statement the if will also implicitly call bool on the result. So these finer points may not be relevant for you.
+I went with a purlely mathematical solution:
+You use and and or to perform logical operations like in C, C++. Like literally and is && and or is ||.
+Take a look at this fun example,
+Say you want to build Logic Gates in Python:
+Now try calling them:
+Probably this is not best code for this task, but is working -
+Use of "and" in conditional. I often use this when importing in Jupyter Notebook:
+A single & (not double &&) is enough or as the top answer suggests you can use 'and'.
+I also found this in pandas
+if we replace the "&" with "and", it won't work.
+- logical-and
+It seems to me that the interpreter should, rather than print out a cryptic "SyntaxError: invalid syntax" - detect that the user has used && and suggest to them that they might want to use the keyword and instead. Same goes for things like ++ and other common operators from other languages.
+– ArtOfWarfare
+Sep 26, 2013 at 17:28
+@physicsmichael "there should be one, and preferably only one, obvious way to do it." import this
+Sep 14, 2014 at 20:24
+and and or can also be used to evaluate the truthiness of expressions involving more than just boolean values. For more information, please see this post.
+Dec 29, 2018 at 12:07
+what should i do for this: if x=='n' and y =='a' or y=='b': <do something> Will it work !? @ChristopheD
+– diffracteD
+Apr 2, 2015 at 15:35
+@diffracteD: Use parentheses if you want to override standard operator precedence (which you can learn about here: ibiblio.org/g2swap/byteofpython/read/operator-precedence.html)
+– ChristopheD
+Apr 2, 2015 at 21:51
+I like that David Titarenco gave a cut-n-paste example
+– Alexx Roche
+May 27, 2015 at 16:33
+I arrived here after I typed both && and AND and got an error (not expecting python to want the lowercase word and).
+– Xeoncross
+Nov 22, 2016 at 17:28
+I think you should use & See: stackoverflow.com/questions/36921951/…
+– Reddspark
+Jul 27, 2017 at 20:24
+Don't forget that python also has not (well, and !)
+– inspectorG4dget
+Mar 21, 2010 at 2:54
+Does your example evaluate to "(if this and this) or that" OR "if this and (this or that)"?
+Feb 19, 2014 at 18:04
+@Jeff Your first way. and has higher precedence than or.
+Aug 26, 2014 at 19:05
+@Buge it looks like "or" is higher up in the table that you linked
+Dec 4, 2017 at 14:59
+@Matt the table goes from lowest precedence to highest. It's easier to remember the precedence if you've studied boolean algebra; "or" is addition and "and" is multiplication.
+– Michael Stroud
+Dec 5, 2017 at 19:02
+- Use and and or for logical operations in Python.
+- Use 4 spaces to indent instead of 2.  You will thank yourself later because your code will look pretty much the same as everyone else's code.  See PEP 8 for more details.
+This isn't an answer to the actual question.
+– Matthew Read
+Oct 26, 2017 at 17:33
+This question was asked and answered almost 7 years ago.  What does your answer add to those answers that are already here?  In general, unless you have something startlingly new to say, you should not add a new answer to an old question — where old is measured as multiple years — when there are good answers already available.
+– Jonathan Leffler
+Feb 4, 2017 at 0:52
+Single & won't short-circuit the expression (meaning both they will be evaluated regardless of the return value of the first expression)
+– user528025
+May 27, 2018 at 12:39
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch
+==================================================
+Could you explain to me what the difference is between calling
+It seems in both cases mymod1.py is called and sys.argv is
+So what is the -m switch for?
+Despite this question having been asked and answered several times (e.g., here, here, here, and here), in my opinion no existing answer fully or concisely captures all the implications of the -m flag. Therefore, the following will attempt to improve on what has come before.
+The -m flag does a lot of things, not all of which will be needed all the time. In short, it can be used to: (1) execute Python code from the command line via modulename rather than filename (2) add a directory to sys.path for use in import resolution and (3) execute Python code that contains relative imports from the command line.
+To explain the -m flag we first need to explain a little terminology.
+Python's primary organizational unit is known as a module. Modules come in one of two flavors: code modules and package modules. A code module is any file that contains Python executable code. A package module is any directory that contains other modules (either code modules or package modules). The most common type of code module is a *.py file while the most common type of package module is a directory containing an __init__.py file.
+Python allows modules to be uniquely identified in two ways: modulename and filename. In general, modules are identified by modulename in Python code (e.g., import <modulename>) and by filename on the command line (e.g., python <filename>). All Python interpreters are able to convert modulenames to filenames by following the same few, well-defined rules. These rules hinge on the sys.path variable. By altering this variable one can change how Python resolves modulenames into filenames (for more on how this is done see PEP 302).
+All modules (both code and package) can be executed (i.e., code associated with the module will be evaluated by the Python interpreter). Depending on the execution method (and module type) what code gets evaluated, and when, can change quite a bit. For example, if one executes a package module via python <filename> then <filename>/__main__.py will be executed. On the other hand, if one executes that same package module via import <modulename> then only the package's __init__.py will be executed.
+Historical Development of -m
+The -m flag was first introduced in Python 2.4.1. Initially its only purpose was to provide an alternative means of identifying the Python module to execute from the command line. That is, if we knew both the <filename> and <modulename> for a module then the following two commands were equivalent: python <filename> <args> and python -m <modulename> <args>. One constraint with this iteration, according to PEP 338, was that -m only worked with top level modulenames (i.e., modules that could be found directly on sys.path without any intervening package modules).
+With the completion of PEP 338 the -m feature was extended to support <modulename> representations beyond the top level. This meant names such as http.server were now fully supported. This extension also meant that each parent package in modulename was now evaluated (i.e., all parent package __init__.py files were evaluated) in addition to the module referenced by the modulename itself.
+The final major feature enhancement for -m came with PEP 366. With this upgrade -m gained the ability to support not only absolute imports but also explicit relative imports when executing modules. This was achieved by changing -m so that it set the __package__ variable to the parent module of the given modulename (in addition to everything else it already did).
+There are two notable use cases for the -m flag:
+To execute modules from the command line for which one may not know their filename. This use case takes advantage of the fact that the Python interpreter knows how to convert modulenames to filenames. This is particularly advantageous when one wants to run stdlib modules or 3rd-party module from the command line. For example, very few people know the filename for the http.server module but most people do know its modulename so we can execute it from the command line using python -m http.server.
+To execute a local package containing absolute or relative imports without needing to install it. This use case is detailed in PEP 338 and leverages the fact that the current working directory is added to sys.path rather than the module's directory. This use case is very similar to using pip install -e . to install a package in develop/edit mode.
+With all the enhancements made to -m over the years it still has one major shortcoming -- it can only execute modules written in Python (i.e., *.py). For example, if -m is used to execute a C compiled code module the following error will be produced, No code object available for <modulename> (see here for more details).
+Module execution via import statement (i.e., import <modulename>):
+Module execution via command line with filename (i.e., python <filename>):
+Module execution via command line with modulename (i.e., python -m <modulename>):
+The -m flag is, at its simplest, a means to execute python scripts from the command line by using modulenames rather than filenames. The real power of -m, however, is in its ability to combine the power of import statements (e.g., support for explicit relative imports and automatic package __init__ evaluation) with the convenience of the command line.
+The first line of the Rationale section of PEP 338 says:
+Python 2.4 adds the command line switch -m to allow modules to be located using the Python module namespace for execution as scripts. The motivating examples were standard library modules such as pdb and profile, and the Python 2.4 implementation is fine for this limited purpose.
+So you can specify any module in Python's search path this way, not just files in the current directory. You're correct that python mymod1.py mymod2.py args has exactly the same effect. The first line of the Scope of this proposal section states:
+In Python 2.4, a module located using -m is executed just as if its filename had been provided on the command line.
+With -m more is possible, like working with modules which are part of a package, etc. That's what the rest of PEP 338 is about. Read it for more info.
+It's worth mentioning this only works if the package has a file __main__.py Otherwise, this package can not be executed directly.
+The python interpreter will looking for a __main__.py file in the package path to execute. It's equivalent to:
+It will execute the content after:
+I just want to mention one potentially confusing case.
+Suppose you use pip3 to install a package foo, which contains a bar module. So this means you can execute python3 -m foo.bar from any directory. On the other hand, you have a directory structure like this:
+You are at src/. When you run python -m foo.bar, you are running the bar.py, instead of the installed module. However, if you are calling python -m foo.bar from any other directory, you are using the installed module.
+This behavior certainly doesn't happen if you are using python instead of python -m, and can be confusing for beginners. The reason is the order how Python searches for modules.
+In short, one of the best use case for 'python -m' switch is when you want to tell Python that you want to run a module instead of executing a .py file.
+Consider this example: you have a Python script in a file named 'venv' (without '.py' file extension). If you issue this command:
+then, Python will excute the 'venv' file in the current directory. However, if instead you want to create a new virtual environment using the 'python venv' module, you would run:
+in which case, Python will run the 'venv' module, not the file 'venv'.
+Another example, if you want to run Pyhton's built-in local http server and issue the command:
+you would get an error like:
+That's because Python tried to execute a file called 'http.server' and didn't find it.
+So instead, you want to issue the same command but with '-m' switch:
+so that Python knows you want the module 'http.server' not the file.
+Since this question comes up when you google Use of "python -m", I just wanted to add a quick reference for those who like to modularize code without creating full python packages or modifying PYTHONPATH or sys.path every time.
+Let's setup the following file structure
+Let the present path be m1.
+Using python -m instead of python ./*
+Use . qualified module names for the files (because they're being treated as modules now). For example, to run the contents in ./f1/test1.py, we do
+When using the module method, the sys.path in test1.py (when that is run) is m1. When using the ./ (relative file) method, the path is m1/f1.
+So we can access all files in m1 (and assume that it is a full python package) using -m. This is because the path to m1 is stored (as PYTHONPATH).
+If we want to run deeply nested "modules", we can still use . (just as we do in import statements).
+And in test2.py, we can do from f1.test1 import do_something without using any path gimmicks in it.
+Every time we do module imports this way, the __init__.py is automatically called. This is true even when we're nesting.
+When we do that, the ./f1/__init__.py is called, followed by ./f1/f2/__init__.py.
+The -m flag lets you run a script (module) from anywhere, as long as Python can find it.
+Assume we have a script my_script.py.
+You must run python my_script.py from the directory where the file is located.
+Alternatively - python path/to/my_script.py
+However, you can run python -m my_script (ie refer to the script by module name by omitting the .py) from anywhere, as long as Python can find it!
+Python searches as follows (not 100% sure about the order):
+To test it out, go ahead and place a "Hello World" script in either site-packages or set its directory in the PYTHONPATH env variable, and you will find that you can run it from anywhere on the command line.
+For more low-level but important differences, see other answers.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- command-line
+- Please correct me if I'm wrong, but -m seems to search for mymod1 in the default library path. Example: python -m SimpleHTTPServer works, whereas python SimpleHTTPServer fails with can't open file 'SimpleHTTPServer': [Errno 2] No such file or directory.
+Jan 1, 2018 at 12:10
+I actually found the answer here clearer: stackoverflow.com/questions/46319694/…
+Jan 9, 2018 at 7:27
+- To execute modules from the command line for which one may not know their filename. This use case takes advantage of the fact that the Python interpreter knows how to convert modulenames to filenames. This is particularly advantageous when one wants to run stdlib modules or 3rd-party module from the command line. For example, very few people know the filename for the http.server module but most people do know its modulename so we can execute it from the command line using python -m http.server.
+- To execute a local package containing absolute or relative imports without needing to install it. This use case is detailed in PEP 338 and leverages the fact that the current working directory is added to sys.path rather than the module's directory. This use case is very similar to using pip install -e . to install a package in develop/edit mode.
+- sys.path is not modified in any way
+- __name__ is set to the absolute form of <modulename>
+- __package__ is set to the immediate parent package in <modulename>
+- __init__.py is evaluated for all packages (including its own for package modules)
+- __main__.py is not evaluated for package modules; the code is evaluated for code modules
+- sys.path is modified to include the final directory in <filename>
+- __name__ is set to '__main__'
+- __package__ is set to None
+- __init__.py is not evaluated for any package (including its own for package modules)
+- __main__.py is evaluated for package modules; the code is evaluated for code modules.
+- sys.path is modified to include the current directory
+- __name__ is set to '__main__'
+- __package__ is set to the immediate parent package in <modulename>
+- __init__.py is evaluated for all packages (including its own for package modules)
+- __main__.py is evaluated for package modules; the code is evaluated for code modules
+Could you also add the use of invoking package using python -m packagename as mentioned here: stackoverflow.com/a/53772635/1779091
+Jul 16, 2020 at 7:01
+@variable good idea, I added a "Use Case" section that includes that.
+– Mark Rucker
+Jul 16, 2020 at 23:45
+This is the most comprehensive presentation on the subject that I have read. Thanks!
+– Géry Ogam
+Sep 16, 2020 at 11:34
+I think this sentence should be modified:  "For example, if one executes a package module via python <filename> then <filename>/__init__.py will be evaluated followed by <filename>/__main__.py."    - Did you try to say <dirname>? If that's the case, only <dirname>/__main__.py would be executed.
+Mar 16, 2021 at 1:52
+@starriet Oh, you're right. I sure thought I'd tested that but when I just tried again it behaved like you said. Oh looks like I got it right at the end. I guess I didn't go back and fix it. And yeah, I'm using <filename> to generally mean any path (including directories).
+– Mark Rucker
+Mar 16, 2021 at 2:58
+My favorite usage of -m is python -m SimpleHTTPServer. Really handy when I need to share some files without using a usb flash drive.
+Sep 30, 2011 at 12:18
+@arifwn Running Python3 requires a slight update as python -m http.server and this is still awesome!
+Feb 16, 2016 at 15:32
+TL;DR: 1) You can run python -m package.subpackage.module and the normal resolving machinery will be used, you don't have to point out the exact .py file. 2) It is possible to do relative imports from the module that is run, without any workarounds, because its package will be loaded along the way. 3) Absolute imports will be based on your current directory, not the directory where the .py file is ('' is at the head of sys.path, rather than /path/to/my, if the script is at /path/to/my/script.py).
+Sep 13, 2016 at 11:52
+What this answer doesn't make it clear is this only works on the subset of modules that are executable i.e. have a __main__.py file. Most don't and will break e.g. python -m sys 'print(sys.version)' fails with python: No code object available for sys. Suggest you make that clear in the answer.
+May 21, 2020 at 23:43
+What about the package init file? In presence of the main file, will init also be invoked?
+Oct 16, 2019 at 19:27
+@variable Yes init.py will be invoked before main.py is invoked
+– Mark Rucker
+Jul 15, 2020 at 21:52
+- this is not accurate. if you will try run directly the main .py of a package it would not work as you would run the package with python -m flag
+– Eliav Louski
+Oct 28, 2020 at 9:36
+What is the difference between  "python -m pip install sphinx" and "python pip install sphinx"?
+Mar 7, 2024 at 20:03
+- I really like this answer as it cuts to the chase and gives a simple answer.   @skan I don't think I've ever seen python pip install sphinx that would be a deviant usage and I'm not sure what its behavior would be (it may throw an error, or if you have a file named pip in your current directory, maybe it will work but I'd be careful).
+Mar 10 at 15:01
+- Use . qualified module names for the files (because they're being treated as modules now). For example, to run the contents in ./f1/test1.py, we do
+python -m f1.test1
+python ./f1/test1.py
+- When using the module method, the sys.path in test1.py (when that is run) is m1. When using the ./ (relative file) method, the path is m1/f1.
+So we can access all files in m1 (and assume that it is a full python package) using -m. This is because the path to m1 is stored (as PYTHONPATH).
+- If we want to run deeply nested "modules", we can still use . (just as we do in import statements).
+# This can be done
+python -m f1.f2.test2
+And in test2.py, we can do from f1.test1 import do_something without using any path gimmicks in it.
+- Every time we do module imports this way, the __init__.py is automatically called. This is true even when we're nesting.
+python -m f1.f2.test2
+When we do that, the ./f1/__init__.py is called, followed by ./f1/f2/__init__.py.
+- Current directory
+- Directories listed in the PYTHONPATH environment variable, if set
+- PythonXX\Lib (where the standard libraries live, like os or random
+- PythonXX\Lib\site-packages (where globally installed packages live)
+- command-line
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python
+==================================================
+Does * have a special meaning in Python as it does in C? I saw a function like this in the Python Cookbook:
+Would you please explain it to me or point out where I can find an answer (Google interprets the * as wild card character and thus I cannot find a satisfactory answer).
+See Function Definitions in the Language Reference.
+If the form *identifier is
+present, it is initialized to a tuple
+receiving any excess positional
+parameters, defaulting to the empty
+tuple. If the form **identifier is
+present, it is initialized to a new
+dictionary receiving any excess
+keyword arguments, defaulting to a new
+empty dictionary.
+Also, see Function Calls.
+Assuming that one knows what positional and keyword arguments are, here are some examples:
+As you can see in the above example, we only have parameters a, b, c in the signature of the foo function. Since d and k are not present, they are put into the args dictionary. The output of the program is:
+Here, since we're testing positional arguments, the excess ones have to be on the end, and *args packs them into a tuple, so the output of this program is:
+You can also unpack a dictionary or a tuple into arguments of a function:
+I only have one thing to add that wasn't clear from the other answers (for completeness's sake).
+You may also use the stars when calling the function.  For example, say you have code like this:
+You can pass the list l into foo like so...
+You can do the same for dictionaries...
+All of the above answers were perfectly clear and complete, but just for the record I'd like to confirm that the meaning of * and ** in python has absolutely no similarity with the meaning of similar-looking operators in C.
+They are called the argument-unpacking and keyword-argument-unpacking operators.
+A single star means that the variable 'a' will be a tuple of extra parameters that were supplied to the function.  The double star means the variable 'kw' will be a variable-size dictionary of extra parameters that were supplied with keywords.
+Although the actual behavior is spec'd out, it still sometimes can be very non-intuitive.  Writing some sample functions and calling them with various parameter styles may help you understand what is allowed and what the results are.
+I find * useful when writing a function that takes another callback function as a parameter:
+That way, callers can pass in arbitrary extra parameters that will be passed through to their callback function.  The nice thing is that the callback function can use normal function parameters.  That is, it doesn't need to use the * syntax at all.  Here's an example:
+Of course, closures provide another way of doing the same thing without requiring you to pass x, y, and z through some_function() and into my_callback_function().
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+See also stackoverflow.com/questions/14301967/… for a bare asterisk
+– naught101
+Dec 13, 2018 at 3:44
+- Is this still a duplicate? The referenced question is specifically about parameters to functions, while this question (at least from its title) would also cover syntax like [*my_dict]
+– dumbledad
+Mar 13, 2020 at 11:46
+Whilst this is a very precise definition, it is a very bad explanation; and highly unlikely to actually help a struggling programmer.
+– LittleBobbyTables
+Aug 2, 2013 at 21:29
+The links to the documentation are broken.
+Mar 26, 2014 at 18:28
+- What does the asterisk mean when there is no argument name? For example in some functions of the class pprint.
+Apr 14, 2015 at 12:24
+It separates regular parameters from keyword-only parameters. From the doc index page for '*': docs.python.org/dev/reference/compound_stmts.html#index-22
+Oct 30, 2015 at 23:40
+I find this explanation very enlightening. The commenter stated clearly "Assuming that one knows what positional and keyword arguments are." So he did a very great job. It is good explanation by all standards
+Dec 31, 2016 at 22:06
+Sorry to bring this up 7 years later, but if you removed ** from the fn declaration to just have def foo(argd): and you ran foo(d) you would get the same result. Why then are ** used?
+Oct 9, 2015 at 23:42
+@David yes, you're right.  The example is just to demonstrate how to "unpack" a dict and then "repack" it inside the function.  For example, foo(a="b", c="d") would also provide the same output as foo(**d).
+– laughingbovine
+Dec 2, 2015 at 18:04
+I saw the first answer and I was like , "Noo, this is not what I wanted", and then I saw your answer :)
+– abhayAndPoorvisDad
+Feb 7, 2017 at 10:06
+For clarity, this example is using * for unpacking a sequence (such as a list)  when passed as an argument to a function that uses *args for an arbitrary number of positional arguments.
+– howdoicode
+Sep 26, 2020 at 18:55
+- @howtocode No, * is actually unpacking the arguments - no need for *args in the function definition.  The same goes for **params.  To others, to clarify, it unpacks both positional and named arguments from a list, respectively.  So :david, your example only works because one argument is unpacked into one argument.
+– Gerard ONeill
+Dec 18, 2023 at 4:50
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/collectives
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+Areas of practice, technology, and provider organizations already on Collectives:
+Collectives works for you
+Make your job easier with Collectives on Stack Overflow.
+Find trusted answers, fast
+Stop testing multiple solutions to your questions.
+Find the  answers recommended or provided by subject matter experts from the community or who build and support a company's technology.
+Find information about technologies that interest you in one place
+There’s no need to review multiple tag pages.
+The Collectives page provides a centralized view of questions and answers and content using tags associated with an area of technical practice or an organization’s technology.
+Engage with new content formats
+Because some topics require more than Q&A.
+Find in-depth knowledge on a topic or product with technical how-to guides and knowledge Articles, and get timely, relevant updates with Bulletins.
+Consider yourself an expert on Google Cloud? Think you know the most about Go Language?
+Earn a Recognized Member designation from the Admins of a Collective and/or your favorite technology companies. See your answers recommended and check where you rank on the Collectives leaderboard.
+Here’s what people are saying about Collectives on Stack Overflow
+I think both businesses and developers will benefit from Collectives because they make it easier to connect and keep in touch. Developers have been coming together and helping each other on the Stack Overflow platform for a long time. With Collectives, companies can now also become part of this active community.
+I’m most excited about the Recognized Member feature. Beyond reputation, I think the Recognized Member badge can more accurately reflect a user’s expertise in a domain. Endorsement by a Recognized Member can also help to increase the visibility of new, better, but not highly voted answers to old questions, encouraging developers to take a closer look before just adopting the highest voted answer.
+You have questions. We have answers.
+Explore content from the Help Center.
+What is Collectives™ on Stack Overflow?
+Collectives™ on Stack Overflow are dedicated spaces where developers can find content that’s organized around an area of technical practice or a technology provider's product suite. Read more on the Help Center
+What is a recommended answer?
+A recommended answer helps users quickly and easily identify the best solution to a question. Answers are recommended by subject matter experts who have been designated as Recognized Members of a collective. Learn more about recommended answers
+What are the different types of users in a Collective?
+Within Collectives, there are 4 Collective-specific user types: Member, Recognized Member, Admin, Employee. More about the user types
+How do you determine which tags are included in a Collective?
+Collective tags are based on technologies that are part of certain areas of practice or a technology provider’s product suite. Read more about tags
+How do I join a Collective?
+Anybody with a Stack Overflow account can join a collective! Visit a collective’s page (by clicking on the collectives badge on a question page) and press the “Join collective” button. The collective will now show up in the left sidebar. Join a collective
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/ask
+==================================================
+You must be logged in to ask a question on Stack Overflow
+Log in below or sign up
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean?lastactivity
+==================================================
+What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Python 3.8, := is actually a valid operator that allows for assignment of variables within expressions:
+See PEP 572 for more details.
+What you have found is pseudocode
+Pseudocode is an informal high-level description of the operating
+principle of a computer program or other algorithm.
+:= is actually the assignment operator. In Python this is simply =.
+To translate this pseudocode into Python you would need to know the data structures being referenced, and a bit more of the algorithm implementation.
+Some notes about psuedocode:
+Note the differences in brace usage and assignment operator.
+This symbol := is an assignment operator in Python (mostly called as the Walrus Operator). In a nutshell, the walrus operator compresses our code to make it a little shorter.
+Here's a very simple example:
+These codes are the same (and outputs the same thing), but as you can see, the version with the walrus operator is compressed in just two lines of code to make things more compact.
+Now, why would you use the walrus operator?
+First off, don't feel obligated.
+I myself even rarely use this one. I'm just using the walrus operator to compress my code a little bit, mostly when I'm working with regular expressions.
+The above snippet is equivalent to the following:
+You can also find your own use case of this. What's important is you have a rough idea about it and knows when it might be helpful when you encountered a problem like this one.
+PEP572 proposed support for the := operator in Python to allow variable assignments within expressions.
+This syntax is available in Python 3.8.
+The code in the question is pseudo-code; there, := represents assignment.
+For future visitors, though, the following might be more relevant: the next version of Python (3.8) will gain a new operator, :=, allowing assignment expressions (details, motivating examples, and discussion can be found in PEP 572, which was provisionally accepted in late June 2018).
+With this new operator, you can write things like these:
+Happy 3.8 Release on 14th of October!
+There is new syntax := that assigns values to variables as part of a larger expression. It is affectionately known as “the walrus operator” due to its resemblance to the eyes and tusks of a walrus.
+In this example, the assignment expression helps avoid calling len() twice:
+What’s New In Python 3.8 - Assignment expressions
+:= is also called as Walrus Operator.
+We can use this walrus operator to assign a value and do condition check at the same time.
+Without Walrus Operator:
+With Walrus Operator:
+So, we can use variable a not just in statement also after that. it will simply assign new value into variable and enables condition check.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- colon-equals
+- python-assignment-expression
+My guess is that this is pseudocode right from this wiki article and possibly the OP is asking how one interprets this code (which is an assignment) in Python
+– Michael Petch
+Sep 23, 2014 at 16:37
+Related: What does ":=" do?. There is some history here wrt mathematical notation where single equals  represents an equality test, hence the desire to disambiguate an assignment (:=) from an equality test (= or ==).
+Mar 21, 2023 at 14:08
+- I found this useful reading: medium.com/mlearning-ai/…
+Jun 22, 2023 at 1:57
+- := is the assignment operator or = in Python
+- = is the equality operator or == in Python
+- There are certain styles, and your mileage may vary:
+do they plan to add annotation available also ? like i : int = 1 to 100 do
+– pippo1980
+Dec 5, 2022 at 15:08
+- You can even shorten the first expression (which I find readable/clear enough) to: if match := pattern_search(data): which then shows the beauty even better imho
+Nov 14, 2023 at 16:48
+I don't think this is worth posting as a separate answer, but for people interested in an easy way to read this, you can translate it as "which equals", e.g. if foo := bar * 2: can be read as "if foo, which equals bar times two,..."
+May 28, 2024 at 22:06
+- Thanks for the answer. I am not a Python developer but was running a Node.js package update script that blew up on the ":=" syntax. At first I thought it might be something related to Pascal/Delphi syntax, which is how assignment is done in that language. After reading this I realize the Python3 running on the system is 3.7 so off to build a newer version.
+– Robert G. Schaffrath
+Jan 26 at 21:06
+@z33k The question was asked years before the PEP was created. This certainly doesn't answer the question. Could be a comment though...
+Jun 23, 2019 at 13:48
+@MaxRied I just found this answer via Google and it was exactly what I was looking for. Even if it wasn't relevant when the question was posed, it certainly is now.
+– Andreas T
+Feb 2, 2020 at 17:33
+PEP572 allows Python to have all the sort of nasty bugs that this operator allows people to have in C.
+Apr 8, 2020 at 14:41
+@vy32. The more you allow a competent user to do, the more bugs you allow to be introduced by everyone. That's not a reason to restrict, in case that's what you were implying.
+– Mad Physicist
+Apr 19, 2021 at 16:39
+- @MadPhysicist - I wasn't implying that this operator shouldn't be added to Python 3.8. I was merely pointing out that it would be a new source of bugs, and noting that the = assignment operator in C has a long and troubled history.
+Apr 19, 2021 at 17:25
+Time certainly is an arrow
+– chadlagore
+Mar 14, 2020 at 0:54
+- colon-equals
+- python-assignment-expression
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/tagged/python
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+How to use index to find position of JSON record
+Calling python function from C
+RuntimeWarning: coroutine <aiortc> was never awaited
+Selenium Headless vrs Non Headless. I can't get Selenium to set a field while using headless mode
+Is this Sumtracker API request correct?
+How to add automatic attributes to the Python Markdown library
+Close terminal window opened by .command Python script
+gdal2tiles.py hangs when run in Conda Docker environment
+Pylance in devcontainer is loading forever
+Error Example: TypeError from Mixing Types [duplicate]
+Truncation on Notion rollups
+Polars read function still blocks the process even if PyQt6 Threading/Runnable is used
+OSError: Can't synchronously read data (can't open directory) when trying to index retrieve values from a hdf5 file
+Find roman numerals case-insensitively in regular text
+Why am I getting a ModuleNotFoundError when trying to quickstart the Google Docs API in Python?
+Hot Network Questions
+- Unanswered (my tags)
+- beautifulsoup
+- selenium-webdriver
+- headless-browser
+- python-requests
+- gdal2tiles.py
+- visual-studio-code
+- vscode-devcontainer
+- devcontainer
+- python-polars
+- compression
+- roman-numerals
+- google-docs
+- google-docs-api
+- The Overflow Blog
+- Do AI coding tools help with imposter syndrome or make it worse?
+- Diving into the results of the 2025 Developer Survey
+- Featured on Meta
+- Will you help build our new visual identity?
+- Upcoming initiatives on Stack Overflow and across the Stack Exchange network...
+- Policy: Generative AI (e.g., ChatGPT) is banned
+- Stack Overflow Experiment: Safely expanding voting access
+- Updated design for the new live activity panel experiment
+- Further Experimentation with Comment Reputation Requirements
+- How best to model an input connector?
+- Understanding a function that finds the degree of a multi-variate polynomial
+- Throughout the book, did Job try to justify himself to the point of questioning God's justice?
+- Why would a piece of music be written with first and second endings that are the same?
+- Excel Conditional Formatting Error
+- Episode where people are lured/trapped and kept by an unseen experimenter
+- How to create a shunt resistor using a PCB track
+- How can a space station allow ships to do a slingshot manoeuvre around it?
+- how to define when a key (or a secret in general) has become too old?
+- Post-apocalyptic book about mutated kid living in an abandoned school with his dad
+- Pre-heating bicycle chain with fire
+- Could going the speed limit while everyone else speeds be impeding traffic?
+- My lab is not equipped for me to do my postdoc work. Should I quit?
+- Best strategy to maximize number of tokens obtained
+- What does the world look like to astronauts in a neutral buoyancy pool?
+- How to do this trigonometric calculation?
+- Regaining key for renaming in GNU screen
+- Need Advice - 140m Ethernet Run Between Buildings
+- How did 8088/86 PCs Implement flood-fill before SIMD or GPUs?
+- Hilbert curve in tikz
+- apt seems to be ignoring Signed-By
+- Malicious curl request to remote server by a hidden script found in my user folder, am I safe with just removing the script?
+- Is there a contradiction between Matthew 9:14-15 and Mark 9:28-29 regarding when and why fasting should be practiced?
+- Is a paracompact perfectly normal space hereditarily paracompact?
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/tagged/colon-equals
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+Go Colon Equals Operator With One New Variable
+R - Error in `:=`(variable, as.character(variable))
+Colon-Equals operator proper usage
+deparse expressions containing `:=`?
+Adding a column in data.table with = vs := [duplicate]
+What's the difference between :- and := in Bash parameter substitution?
+Autohotkey: What's the difference between := and = assignment operator
+Elm Colon Equals Operator
+operator = and := in struct in Golang
+What's the difference between := and => in Ada?
+Using := multiple times in data.table
+What is the difference between := and = in Excel VBA
+What does the := operator mean in mysql?
+Meaning of `:=` Syntax in VBA methods
+Difference between = and := in MySQL
+Hot Network Questions
+- Unanswered (my tags)
+- colon-equals
+- colon-equals
+- data-science
+- colon-equals
+- colon-equals
+- assignment-operator
+- colon-equals
+- colon-equals
+- colon-equals
+- colon-equals
+- colon-equals
+- pass-by-reference
+- colon-equals
+- colon-equals
+- colon-equals
+- colon-equals
+- syntax-error
+- named-parameters
+- colon-equals
+- stored-procedures
+- colon-equals
+- The Overflow Blog
+- Do AI coding tools help with imposter syndrome or make it worse?
+- Diving into the results of the 2025 Developer Survey
+- Featured on Meta
+- Will you help build our new visual identity?
+- Upcoming initiatives on Stack Overflow and across the Stack Exchange network...
+- Policy: Generative AI (e.g., ChatGPT) is banned
+- Stack Overflow Experiment: Safely expanding voting access
+- Updated design for the new live activity panel experiment
+- Further Experimentation with Comment Reputation Requirements
+- Post-apocalyptic book about mutated kid living in an abandoned school with his dad
+- When CAN'T I use "put out" to replace "produce" when it comes to making things for sale?
+- How do capacitors withstand internal electrostatic pressure?
+- Excel Conditional Formatting Error
+- apt seems to be ignoring Signed-By
+- Do I need an invitation letter to be a guest in Spain?
+- How to create a shunt resistor using a PCB track
+- Submit a desk-rejected manuscript to a new journal or transfer it to a sister journal as recommended by the editor
+- What are some good options for securing p-trap for sink
+- NVMe Write performance a fraction of expected in Ubuntu, Windows on same system works fine
+- Why emphasize seeking wisdom as "silver” rather than gold?
+- Negate the effect of parskip on \item
+- YA Novel from the 40s-50s About a Generation Ship and teen relationships
+- How was the Universal Pictures 1936 opening logo created?
+- Episode where people are lured/trapped and kept by an unseen experimenter
+- How do I attach non-edible flowers to cake?
+- I implemented FFT in C
+- How to balance a glow grenade?
+- Why would a piece of music be written with first and second endings that are the same?
+- Where's this road in front of mountains, near Joseph Oregon?
+- Is there any way to see the string that was matched in grep?
+- How to improve research productivity as an early-career postdoc
+- What is the difference between Render Distance and Simulation Distance?
+- If President Trump's claimed authority to impose tariffs is taken away, who gets the 50-60 billion collected?
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python?lastactivity
+==================================================
+What does the @ symbol do in Python?
+An @ symbol at the beginning of a line is used for class and function decorators:
+Python Decorators - Python Wiki
+The most common Python decorators are:
+An @ in the middle of a line is probably matrix multiplication:
+This shows that the function/method/class you're defining after a decorator is just basically passed on as an argument to the function/method immediately after the @ sign.
+The microframework Flask introduces decorators from the very beginning in the following format:
+This in turn translates to:
+Realizing this finally allowed me to feel at peace with Flask.
+In Python 3.5 you can overload @ as an operator. It is named as __matmul__, because it is designed to do matrix multiplication, but it can be anything you want. See PEP465 for details.
+This is a simple implementation of matrix multiplication.
+Is equivalent to this code:
+In the definition of a decorator you can add some modified things that wouldn't be returned by a function normally.
+What does the “at” (@) symbol do in Python?
+In short, it is used in decorator syntax and for matrix multiplication.
+In the context of decorators, this syntax:
+is equivalent to this:
+In the context of matrix multiplication, a @ b invokes a.__matmul__(b) - making this syntax:
+where dot is, for example, the numpy matrix multiplication function and a and b are matrices.
+How could you discover this on your own?
+I also do not know what to search for as searching Python docs or Google does not return relevant results when the @ symbol is included.
+If you want to have a rather complete view of what a particular piece of python syntax does, look directly at the grammar file. For the Python 3 branch:
+We can see here that @ is used in three contexts:
+A google search for "decorator python docs" gives as one of the top results, the "Compound Statements" section of the "Python Language Reference." Scrolling down to the section on function definitions, which we can find by searching for the word, "decorator", we see that... there's a lot to read. But the word, "decorator" is a link to the glossary, which tells us:
+A function returning another function, usually applied as a function transformation using the @wrapper syntax. Common
+examples for decorators are classmethod() and staticmethod().
+The decorator syntax is merely syntactic sugar, the following two
+function definitions are semantically equivalent:
+The same concept exists for classes, but is less commonly used there.
+See the documentation for function definitions and class definitions
+for more about decorators.
+is semantically the same as:
+They are not exactly the same because Python evaluates the foo expression (which could be a dotted lookup and a function call) before bar with the decorator (@) syntax, but evaluates the foo expression after bar in the other case.
+(If this difference makes a difference in the meaning of your code, you should reconsider what you're doing with your life, because that would be pathological.)
+If we go back to the function definition syntax documentation, we see:
+is roughly equivalent to
+This is a demonstration that we can call a function that's a decorator first, as well as stack decorators. Functions, in Python, are first class objects - which means you can pass a function as an argument to another function, and return functions. Decorators do both of these things.
+If we stack decorators, the function, as defined, gets passed first to the decorator immediately above it, then the next, and so on.
+That about sums up the usage for @ in the context of decorators.
+In the lexical analysis section of the language reference, we have a section on operators, which includes @, which makes it also an operator:
+The following tokens are operators:
+and in the next page, the Data Model, we have the section Emulating Numeric Types,
+These methods are called to implement the binary arithmetic operations (+, -, *, @, /, //, [...]
+And we see that __matmul__ corresponds to @. If we search the documentation for "matmul" we get a link to What's new in Python 3.5 with "matmul" under a heading "PEP 465 - A dedicated infix operator for matrix multiplication".
+it can be implemented by defining __matmul__(), __rmatmul__(), and
+__imatmul__() for regular, reflected, and in-place matrix multiplication.
+(So now we learn that @= is the in-place version). It further explains:
+Matrix multiplication is a notably common operation in many fields of
+mathematics, science, engineering, and the addition of @ allows
+writing cleaner code:
+While this operator can be overloaded to do almost anything, in numpy, for example, we would use this syntax to calculate the inner and outer product of arrays and matrices:
+Inplace matrix multiplication: @=
+While researching the prior usage, we learn that there is also the inplace matrix multiplication. If we attempt to use it, we may find it is not yet implemented for numpy:
+When it is implemented, I would expect the result to look like this:
+What does the “at” (@) symbol do in Python?
+@ symbol is a syntactic sugar python provides to utilize decorator,
+to paraphrase the question, It's exactly about what does decorator do in Python?
+Put it simple decorator allow you to modify a given function's definition without touch its innermost (it's closure).
+It's the most case when you import wonderful package from third party. You can visualize it, you can use it, but you cannot touch its innermost and its heart.
+Here is a quick example,
+suppose I define a read_a_book function on Ipython
+You see, I forgot to add a name to it.
+How to solve such a problem? Of course, I could re-define the function as:
+Nevertheless, what if I'm not allowed to manipulate the original function, or if there are thousands of such function to be handled.
+Solve the problem by thinking different and define a new_function
+Tada, you see, I amended read_a_book without touching it inner closure. Nothing stops me equipped with decorator.
+@add_a_book is a fancy and handy way to say read_a_book = add_a_book(read_a_book), it's a syntactic sugar, there's nothing more fancier about it.
+If you are referring to some code in a python notebook which is using Numpy library, then @ operator means Matrix Multiplication. For example:
+Decorators were added in Python to make function and method wrapping (a function that receives a function and returns an enhanced one) easier to read and understand. The original use case was to be able to define the methods as class methods or static methods on the head of their definition. Without the decorator syntax, it would require a rather sparse and repetitive definition:
+If the decorator syntax is used for the same purpose, the code is shorter and easier to understand:
+General syntax and possible implementations
+The decorator is generally a named object ( lambda expressions are not allowed) that accepts a single argument when called (it will be the decorated function) and returns another callable object. "Callable" is used here instead of "function" with premeditation. While decorators are often discussed in the scope of methods and functions, they are not limited to them. In fact, anything that is callable (any object that implements the _call__ method is considered callable), can be used as a decorator and often objects returned by them are not simple functions but more instances of more complex classes implementing their own __call_ method.
+The decorator syntax is simply only a syntactic sugar. Consider the following decorator usage:
+This can always be replaced by an explicit decorator call and function reassignment:
+However, the latter is less readable and also very hard to understand if multiple decorators are used on a single function.
+Decorators can be used in multiple different ways as shown below:
+There are many ways to write custom decorators, but the simplest way is to write a function that returns a subfunction that wraps the original function call.
+The generic patterns is as follows:
+While decorators almost always can be implemented using functions, there are some situations when using user-defined classes is a better option. This is often true when the decorator needs complex parametrization or it depends on a specific state.
+The generic pattern for a nonparametrized decorator as a class is as follows:
+Parametrizing decorators
+In real code, there is often a need to use decorators that can be parametrized. When the function is used as a decorator, then the solution is simple—a second level of wrapping has to be used. Here is a simple example of the decorator that repeats the execution of a decorated function the specified number of times every time it is called:
+The decorator defined this way can accept parameters:
+Note that even if the parametrized decorator has default values for its arguments, the parentheses after its name is required. The correct way to use the preceding decorator with default arguments is as follows:
+Finally lets see decorators with Properties.
+The properties provide a built-in descriptor type that knows how to link an attribute to a set of methods. A property takes four optional arguments: fget , fset , fdel , and doc . The last one can be provided to define a docstring that is linked to the attribute as if it were a method. Here is an example of a Rectangle class that can be controlled either by direct access to attributes that store two corner points or by using the width , and height properties:
+The best syntax for creating properties is using property as a decorator. This will reduce the number of method signatures inside of the class
+and make code more readable and maintainable. With decorators the above class becomes:
+Starting with Python 3.5, the '@' is used as a dedicated infix symbol for MATRIX MULTIPLICATION (PEP 0465 -- see https://www.python.org/dev/peps/pep-0465/)
+Python decorator is like a wrapper of a function or a class. It’s still too conceptual.
+The above code is a definition of a decorator that decorates a function.
+function_decorator is the name of the decorator.
+wrapped_func is the name of the inner function, which is actually only used in this decorator definition. func is the function that is being decorated.
+In the inner function wrapped_func, we can do whatever before and after the func is called. After the decorator is defined, we simply use it as follows.
+Then, whenever we call the function func, the behaviours we’ve defined in the decorator will also be executed.
+@ can be a math operator or a DECORATOR but what you mean is a decorator.
+using decorators can be written like:
+Decorators can have arguments.
+You can see this GeeksforGeeks post: https://www.geeksforgeeks.org/decorators-in-python/
+It indicates that you are using a decorator. Here is Bruce Eckel's example from 2008.
+@ symbol is also used to access variables inside a plydata / pandas dataframe query, pandas.DataFrame.query.
+To say what others have in a different way:  yes, it is a decorator.
+In Python, it's like:
+This can be used for all kinds of useful things, made possible because functions are objects and just necessary just instructions.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- PEP 318: Decorators
+- Python Decorators - Python Wiki
+- The most common Python decorators are:
+@classmethod
+@staticmethod
+- @classmethod
+- @staticmethod
+- @classmethod
+- @staticmethod
+- @ as a binary operator.
+It looks like it can also be a matrix multiplication operator as well: stackoverflow.com/a/21563036/5049813
+Apr 25, 2018 at 22:47
+In the case Flasks's app.route("/"):  this function returns a function, which you invoke with your hello() as an argument
+Apr 3, 2018 at 20:34
+What's the syntactic or practical benefit of having decorators here, instead of (for example) just calling something like app.route("/", hello) immediately after defining hello, or even defining hello as a lambda in the arguments to app.route? (The latter example is common with Node.js http.Server and Express routes.)
+Oct 6, 2019 at 19:21
+It looks cool I guess
+Jan 21, 2023 at 3:08
+- @Morgan do you mind incorporating shaqed's comment to your answer? From your explanation of Flask it is not at all clear what's going on. Your explanation makes it sound like @app.route("/") does carrying, so in the end app.route("/", hello) gets called, which is not all the case. I'm not alone in understanding it that way, just look at iono's comment.
+Mar 15, 2024 at 14:14
+You also have the @= (in-place) operator, which is __imatmul__.
+– Ainsley H.
+Feb 25, 2018 at 12:40
+Are there any other overridable operators like this? I know __add__ and __sub__ are linked to + and - respectively, but never heard of the @ sign one before. Are there any others lurking out there?
+– Thomas Kimber
+Jul 18, 2019 at 18:35
+@ThomasKimber Sure. Check out everything under docs.python.org/3/reference/…
+Jun 24, 2020 at 18:10
+In this line s"ome_func = decorator(some_func)", the first some_func is a variable = to the function some_func, correct?
+Jul 7, 2019 at 19:26
+@Viragos you are defining the name some_func equal to a function given by decorator(some_func). So both some_func instances are function, the first is just being saved as the decorated version.
+– Eli Harold
+Jan 25, 2022 at 13:54
+- an operator between factors
+- an augmented assignment operator
+Fabulous overview. I love the How could you discover this on your own? section!
+May 14, 2023 at 15:58
+This is the absolute best page in this whole page, you explains things so well, ONLY after reading your answer I was able to understand it!! BRAVO!
+Dec 3, 2020 at 7:33
+While true, there are much simpler (or at least more elegant) ways to do this, at least in pandas. Following your example, you could just do df[df.foo > y] (or, more generally, df[df['foo'] > y]). The difference being that df.foo only behaves as expected when the column name contains only alphanumeric characters with no whitespace. df[df['foo'] > y] is more robust and will work no matter what the column header is, though personally I find df[df.foo > y] more aesthetically pleasing, so I prefer to use that when I can.
+– W. MacTurk
+May 28, 2021 at 14:34
+- Creating a function (follows under the @ call)
+- Calling another function to operate on your created function.  This returns a new function.  The function that you call is the argument of the @.
+- Replacing the function defined with the new function returned.
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/tagged/syntax
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+Adjusting syntax table for a derived mode in .emacs
+I have an Analysis in Quicksight AWS and I want to create a vlookup to select a row within the dataset
+Why does only .Range("A2") work when I'm setting a value between two sheets? How can I make variable references work?
+VIM keywords in syntax regex
+Windows PowerShell parsing json - bracket vs dot
+Timestamp format fix needed
+Could anyone explain this syntax of XAML?
+Linking union query to subquery
+What is the proper syntax for Postgres SET expression
+if (a is not 1 and not 2) vs if(a is not 1 and 2)
+Why does Python use different syntax for split() and join()? [duplicate]
+Declaring volatile pointer to a pointer which points to non-volatile data
+Is there something better than <<- EOF in bash?
+Const expression optional fields
+Reusable subroutine in batch file
+Hot Network Questions
+- Unanswered (my tags)
+- amazon-web-services
+- amazon-quicksight
+- runtime-error
+- pscustomobject
+- if-statement
+- metaprogramming
+- The Overflow Blog
+- Do AI coding tools help with imposter syndrome or make it worse?
+- Diving into the results of the 2025 Developer Survey
+- Featured on Meta
+- Will you help build our new visual identity?
+- Upcoming initiatives on Stack Overflow and across the Stack Exchange network...
+- Policy: Generative AI (e.g., ChatGPT) is banned
+- Stack Overflow Experiment: Safely expanding voting access
+- Updated design for the new live activity panel experiment
+- Further Experimentation with Comment Reputation Requirements
+- Password storage with gatherer plugin in Python
+- How could the BLS jobs created in May and June 2025 have been so far off?
+- Does intersubjectivity legitimize falsehoods?
+- When CAN'T I use "put out" to replace "produce" when it comes to making things for sale?
+- Single cryptic clue: Saw Zurich banker? (5)
+- YA Novel from the 40s-50s About a Generation Ship and teen relationships
+- Episode where people are lured/trapped and kept by an unseen experimenter
+- Which setup causes less drag underneath an airplane?
+- How to create a shunt resistor using a PCB track
+- What is the origin of using ‘kind of’ to mean (the adverb) ‘somewhat’?
+- how to define when a key (or a secret in general) has become too old?
+- Why is aid being airdropped into Gaza?
+- Location of a fictional star system in our night sky
+- How best to model an input connector?
+- Btrfs read-only file system and corruption errors
+- How to Make Lifelong Rulers Responsive to Popular Demand?
+- My lab is not equipped for me to do my postdoc work. Should I quit?
+- Regaining key for renaming in GNU screen
+- Need Advice - 140m Ethernet Run Between Buildings
+- How can a space station allow ships to do a slingshot manoeuvre around it?
+- Raspberry-like berries, but with maple-shaped leaves
+- Why are collision manifold points created inside objects instead of on their surfaces?
+- Usage of replacement
+- Post-apocalyptic book about mutated kid living in an abandoned school with his dad
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement?lastactivity
+==================================================
+Use and instead of &&.
+Python uses and and or conditionals.
+I'm getting an error in the IF conditional. What am I doing wrong?
+There reason that you get a SyntaxError is that there is no && operator in Python. Likewise || and ! are not valid Python operators.
+Some of the operators you may know from other languages have a different name in Python.
+The logical operators && and || are actually called and and or.
+Likewise the logical negation operator ! is called not.
+So you could just write:
+Some additional information (that might come in handy):
+I summarized the operator "equivalents" in this table:
+See also Python documentation: 6.11. Boolean operations.
+Besides the logical operators Python also has bitwise/binary operators:
+There is no bitwise negation in Python (just the bitwise inverse operator ~ - but that is not equivalent to not).
+See also 6.6. Unary arithmetic and bitwise/binary operations and 6.7. Binary arithmetic operations.
+The logical operators (like in many other languages) have the advantage that these are short-circuited.
+That means if the first operand already defines the result, then the second operator isn't evaluated at all.
+To show this I use a function that simply takes a value, prints it and returns it again. This is handy to see what is actually
+evaluated because of the print statements:
+As you can see only one print statement is executed, so Python really didn't even look at the right operand.
+This is not the case for the binary operators. Those always evaluate both operands:
+But if the first operand isn't enough then, of course, the second operator is evaluated:
+To summarize this here is another table:
+The True and False represent what bool(left-hand-side) returns, they don't have to be True or False, they just need to return True or False when bool is called on them (1).
+So in Pseudo-Code(!) the and and or functions work like these:
+Note that this is pseudo-code not Python code. In Python you cannot create functions called and or or because these are keywords.
+Also you should never use "evaluate" or if bool(...).
+Customizing the behavior of your own classes
+This implicit bool call can be used to customize how your classes behave with and, or and not.
+To show how this can be customized I use this class which again prints something to track what is happening:
+So let's see what happens with that class in combination with these operators:
+If you don't have a __bool__ method then Python also checks if the object has a __len__ method and if it returns a value greater than zero.
+That might be useful to know in case you create a sequence container.
+See also 4.1. Truth Value Testing.
+NumPy arrays and subclasses
+Probably a bit beyond the scope of the original question but in case you're dealing with NumPy arrays or subclasses (like Pandas Series or DataFrames) then the implicit bool call
+will raise the dreaded ValueError:
+In these cases you can use the logical and function from NumPy which performs an element-wise and (or or):
+If you're dealing just with boolean arrays you could also use the binary operators with NumPy, these do perform element-wise (but also binary) comparisons:
+That the bool call on the operands has to return True or False isn't completely correct. It's just the first operand that needs to return a boolean in it's __bool__ method:
+That's because and actually returns the first operand if the first operand evaluates to False and if it evaluates to True then it returns the second operand:
+Similarly for or but just the other way around:
+However if you use them in an if statement the if will also implicitly call bool on the result. So these finer points may not be relevant for you.
+I went with a purlely mathematical solution:
+You use and and or to perform logical operations like in C, C++. Like literally and is && and or is ||.
+Take a look at this fun example,
+Say you want to build Logic Gates in Python:
+Now try calling them:
+Probably this is not best code for this task, but is working -
+Use of "and" in conditional. I often use this when importing in Jupyter Notebook:
+A single & (not double &&) is enough or as the top answer suggests you can use 'and'.
+I also found this in pandas
+if we replace the "&" with "and", it won't work.
+- logical-and
+It seems to me that the interpreter should, rather than print out a cryptic "SyntaxError: invalid syntax" - detect that the user has used && and suggest to them that they might want to use the keyword and instead. Same goes for things like ++ and other common operators from other languages.
+– ArtOfWarfare
+Sep 26, 2013 at 17:28
+@physicsmichael "there should be one, and preferably only one, obvious way to do it." import this
+Sep 14, 2014 at 20:24
+and and or can also be used to evaluate the truthiness of expressions involving more than just boolean values. For more information, please see this post.
+Dec 29, 2018 at 12:07
+what should i do for this: if x=='n' and y =='a' or y=='b': <do something> Will it work !? @ChristopheD
+– diffracteD
+Apr 2, 2015 at 15:35
+@diffracteD: Use parentheses if you want to override standard operator precedence (which you can learn about here: ibiblio.org/g2swap/byteofpython/read/operator-precedence.html)
+– ChristopheD
+Apr 2, 2015 at 21:51
+I like that David Titarenco gave a cut-n-paste example
+– Alexx Roche
+May 27, 2015 at 16:33
+I arrived here after I typed both && and AND and got an error (not expecting python to want the lowercase word and).
+– Xeoncross
+Nov 22, 2016 at 17:28
+I think you should use & See: stackoverflow.com/questions/36921951/…
+– Reddspark
+Jul 27, 2017 at 20:24
+Don't forget that python also has not (well, and !)
+– inspectorG4dget
+Mar 21, 2010 at 2:54
+Does your example evaluate to "(if this and this) or that" OR "if this and (this or that)"?
+Feb 19, 2014 at 18:04
+@Jeff Your first way. and has higher precedence than or.
+Aug 26, 2014 at 19:05
+@Buge it looks like "or" is higher up in the table that you linked
+Dec 4, 2017 at 14:59
+@Matt the table goes from lowest precedence to highest. It's easier to remember the precedence if you've studied boolean algebra; "or" is addition and "and" is multiplication.
+– Michael Stroud
+Dec 5, 2017 at 19:02
+- Use and and or for logical operations in Python.
+- Use 4 spaces to indent instead of 2.  You will thank yourself later because your code will look pretty much the same as everyone else's code.  See PEP 8 for more details.
+This isn't an answer to the actual question.
+– Matthew Read
+Oct 26, 2017 at 17:33
+This question was asked and answered almost 7 years ago.  What does your answer add to those answers that are already here?  In general, unless you have something startlingly new to say, you should not add a new answer to an old question — where old is measured as multiple years — when there are good answers already available.
+– Jonathan Leffler
+Feb 4, 2017 at 0:52
+Single & won't short-circuit the expression (meaning both they will be evaluated regardless of the return value of the first expression)
+– user528025
+May 27, 2018 at 12:39
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/tagged/logical-and
+==================================================
+Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy to search.
+Evaluate Postfix and Logical Operators in C with no short-circuiting approach
+How to change a bool from true to false using an if statement that has user input as its condition?
+Conditional statement `if ( ( i != '7' ) && ( j != '8' ) && ( k != '9' ) )` yields erratic results [closed]
+if-else unpredictable behaviour
+Consolidating multiple OR and AND conditions in R
+How to use "AND" operators in SAS Macro?
+& performance difference (lazy evaluation) from R 4.2.0 to R 4.3.1
+How are logical expressions that include increment and decrement operators evaluated in C?
+difference between "&&" and "and" in kotlin
+Why does the following expression in Javascript with logical AND operator is giving syntax Error?
+Why is my C program not showing any output in the terminal when I try to find the youngest person's age among three given ages?
+Can you change the value of a variable inside of a printf statement in C?
+Why my codes 'if statement' doesn't work in C?
+If statement in a do while loop being ignored [closed]
+Why isn't the ++y part executing? [duplicate]
+Hot Network Questions
+- Unanswered (my tags)
+- logical-operators
+- post-increment
+- logical-and
+- if-statement
+- logical-and
+- if-statement
+- logical-and
+- if-statement
+- logical-and
+- logical-operators
+- logical-and
+- logical-operators
+- logical-and
+- lazy-evaluation
+- logical-and
+- logical-operators
+- logical-and
+- logical-operators
+- logical-and
+- logical-operators
+- logical-and
+- if-statement
+- logical-and
+- relational-operators
+- pre-increment
+- logical-and
+- if-statement
+- logical-and
+- if-statement
+- logical-and
+- if-statement
+- post-increment
+- logical-and
+- The Overflow Blog
+- Do AI coding tools help with imposter syndrome or make it worse?
+- Diving into the results of the 2025 Developer Survey
+- Featured on Meta
+- Will you help build our new visual identity?
+- Upcoming initiatives on Stack Overflow and across the Stack Exchange network...
+- Policy: Generative AI (e.g., ChatGPT) is banned
+- Stack Overflow Experiment: Safely expanding voting access
+- Updated design for the new live activity panel experiment
+- Further Experimentation with Comment Reputation Requirements
+- Can 开始 be used with a noun as an object, such as 开始会议?
+- Hilbert curve in tikz
+- Is there any way to see the string that was matched in grep?
+- Technology Singularity
+- Location of a fictional star system in our night sky
+- How can a space station allow ships to do a slingshot manoeuvre around it?
+- Why would a piece of music be written with first and second endings that are the same?
+- 72:B9:13:17:79:EF Belongs to what device
+- Could going the speed limit while everyone else speeds be impeding traffic?
+- How to Make Lifelong Rulers Responsive to Popular Demand?
+- how to define when a key (or a secret in general) has become too old?
+- ConTeXt: how to let ^^J have an effect?
+- Why emphasize seeking wisdom as "silver” rather than gold?
+- Is a paracompact perfectly normal space hereditarily paracompact?
+- Post-apocalyptic book about mutated kid living in an abandoned school with his dad
+- apt seems to be ignoring Signed-By
+- Cable replacement for remote suspension lockout
+- How to improve research productivity as an early-career postdoc
+- Countability of models of ZFC
+- Where's this road in front of mountains, near Joseph Oregon?
+- Does intersubjectivity legitimize falsehoods?
+- How to create a shunt resistor using a PCB track
+- Can the UK take action if Iran continues covert influence activities through its embassy?
+- Usage of replacement
+
+--------------------------------------------------
+
+URL: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch?lastactivity
+==================================================
+Could you explain to me what the difference is between calling
+It seems in both cases mymod1.py is called and sys.argv is
+So what is the -m switch for?
+Despite this question having been asked and answered several times (e.g., here, here, here, and here), in my opinion no existing answer fully or concisely captures all the implications of the -m flag. Therefore, the following will attempt to improve on what has come before.
+The -m flag does a lot of things, not all of which will be needed all the time. In short, it can be used to: (1) execute Python code from the command line via modulename rather than filename (2) add a directory to sys.path for use in import resolution and (3) execute Python code that contains relative imports from the command line.
+To explain the -m flag we first need to explain a little terminology.
+Python's primary organizational unit is known as a module. Modules come in one of two flavors: code modules and package modules. A code module is any file that contains Python executable code. A package module is any directory that contains other modules (either code modules or package modules). The most common type of code module is a *.py file while the most common type of package module is a directory containing an __init__.py file.
+Python allows modules to be uniquely identified in two ways: modulename and filename. In general, modules are identified by modulename in Python code (e.g., import <modulename>) and by filename on the command line (e.g., python <filename>). All Python interpreters are able to convert modulenames to filenames by following the same few, well-defined rules. These rules hinge on the sys.path variable. By altering this variable one can change how Python resolves modulenames into filenames (for more on how this is done see PEP 302).
+All modules (both code and package) can be executed (i.e., code associated with the module will be evaluated by the Python interpreter). Depending on the execution method (and module type) what code gets evaluated, and when, can change quite a bit. For example, if one executes a package module via python <filename> then <filename>/__main__.py will be executed. On the other hand, if one executes that same package module via import <modulename> then only the package's __init__.py will be executed.
+Historical Development of -m
+The -m flag was first introduced in Python 2.4.1. Initially its only purpose was to provide an alternative means of identifying the Python module to execute from the command line. That is, if we knew both the <filename> and <modulename> for a module then the following two commands were equivalent: python <filename> <args> and python -m <modulename> <args>. One constraint with this iteration, according to PEP 338, was that -m only worked with top level modulenames (i.e., modules that could be found directly on sys.path without any intervening package modules).
+With the completion of PEP 338 the -m feature was extended to support <modulename> representations beyond the top level. This meant names such as http.server were now fully supported. This extension also meant that each parent package in modulename was now evaluated (i.e., all parent package __init__.py files were evaluated) in addition to the module referenced by the modulename itself.
+The final major feature enhancement for -m came with PEP 366. With this upgrade -m gained the ability to support not only absolute imports but also explicit relative imports when executing modules. This was achieved by changing -m so that it set the __package__ variable to the parent module of the given modulename (in addition to everything else it already did).
+There are two notable use cases for the -m flag:
+To execute modules from the command line for which one may not know their filename. This use case takes advantage of the fact that the Python interpreter knows how to convert modulenames to filenames. This is particularly advantageous when one wants to run stdlib modules or 3rd-party module from the command line. For example, very few people know the filename for the http.server module but most people do know its modulename so we can execute it from the command line using python -m http.server.
+To execute a local package containing absolute or relative imports without needing to install it. This use case is detailed in PEP 338 and leverages the fact that the current working directory is added to sys.path rather than the module's directory. This use case is very similar to using pip install -e . to install a package in develop/edit mode.
+With all the enhancements made to -m over the years it still has one major shortcoming -- it can only execute modules written in Python (i.e., *.py). For example, if -m is used to execute a C compiled code module the following error will be produced, No code object available for <modulename> (see here for more details).
+Module execution via import statement (i.e., import <modulename>):
+Module execution via command line with filename (i.e., python <filename>):
+Module execution via command line with modulename (i.e., python -m <modulename>):
+The -m flag is, at its simplest, a means to execute python scripts from the command line by using modulenames rather than filenames. The real power of -m, however, is in its ability to combine the power of import statements (e.g., support for explicit relative imports and automatic package __init__ evaluation) with the convenience of the command line.
+The first line of the Rationale section of PEP 338 says:
+Python 2.4 adds the command line switch -m to allow modules to be located using the Python module namespace for execution as scripts. The motivating examples were standard library modules such as pdb and profile, and the Python 2.4 implementation is fine for this limited purpose.
+So you can specify any module in Python's search path this way, not just files in the current directory. You're correct that python mymod1.py mymod2.py args has exactly the same effect. The first line of the Scope of this proposal section states:
+In Python 2.4, a module located using -m is executed just as if its filename had been provided on the command line.
+With -m more is possible, like working with modules which are part of a package, etc. That's what the rest of PEP 338 is about. Read it for more info.
+It's worth mentioning this only works if the package has a file __main__.py Otherwise, this package can not be executed directly.
+The python interpreter will looking for a __main__.py file in the package path to execute. It's equivalent to:
+It will execute the content after:
+I just want to mention one potentially confusing case.
+Suppose you use pip3 to install a package foo, which contains a bar module. So this means you can execute python3 -m foo.bar from any directory. On the other hand, you have a directory structure like this:
+You are at src/. When you run python -m foo.bar, you are running the bar.py, instead of the installed module. However, if you are calling python -m foo.bar from any other directory, you are using the installed module.
+This behavior certainly doesn't happen if you are using python instead of python -m, and can be confusing for beginners. The reason is the order how Python searches for modules.
+In short, one of the best use case for 'python -m' switch is when you want to tell Python that you want to run a module instead of executing a .py file.
+Consider this example: you have a Python script in a file named 'venv' (without '.py' file extension). If you issue this command:
+then, Python will excute the 'venv' file in the current directory. However, if instead you want to create a new virtual environment using the 'python venv' module, you would run:
+in which case, Python will run the 'venv' module, not the file 'venv'.
+Another example, if you want to run Pyhton's built-in local http server and issue the command:
+you would get an error like:
+That's because Python tried to execute a file called 'http.server' and didn't find it.
+So instead, you want to issue the same command but with '-m' switch:
+so that Python knows you want the module 'http.server' not the file.
+Since this question comes up when you google Use of "python -m", I just wanted to add a quick reference for those who like to modularize code without creating full python packages or modifying PYTHONPATH or sys.path every time.
+Let's setup the following file structure
+Let the present path be m1.
+Using python -m instead of python ./*
+Use . qualified module names for the files (because they're being treated as modules now). For example, to run the contents in ./f1/test1.py, we do
+When using the module method, the sys.path in test1.py (when that is run) is m1. When using the ./ (relative file) method, the path is m1/f1.
+So we can access all files in m1 (and assume that it is a full python package) using -m. This is because the path to m1 is stored (as PYTHONPATH).
+If we want to run deeply nested "modules", we can still use . (just as we do in import statements).
+And in test2.py, we can do from f1.test1 import do_something without using any path gimmicks in it.
+Every time we do module imports this way, the __init__.py is automatically called. This is true even when we're nesting.
+When we do that, the ./f1/__init__.py is called, followed by ./f1/f2/__init__.py.
+The -m flag lets you run a script (module) from anywhere, as long as Python can find it.
+Assume we have a script my_script.py.
+You must run python my_script.py from the directory where the file is located.
+Alternatively - python path/to/my_script.py
+However, you can run python -m my_script (ie refer to the script by module name by omitting the .py) from anywhere, as long as Python can find it!
+Python searches as follows (not 100% sure about the order):
+To test it out, go ahead and place a "Hello World" script in either site-packages or set its directory in the PYTHONPATH env variable, and you will find that you can run it from anywhere on the command line.
+For more low-level but important differences, see other answers.
+Required, but never shown
+Required, but never shown
+By clicking “Post Your Answer”, you agree to our terms of service and acknowledge you have read our privacy policy.
+Start asking to get answers
+Find the answer to your question by asking.
+Explore related questions
+See similar questions with these tags.
+- command-line
+- Please correct me if I'm wrong, but -m seems to search for mymod1 in the default library path. Example: python -m SimpleHTTPServer works, whereas python SimpleHTTPServer fails with can't open file 'SimpleHTTPServer': [Errno 2] No such file or directory.
+Jan 1, 2018 at 12:10
+I actually found the answer here clearer: stackoverflow.com/questions/46319694/…
+Jan 9, 2018 at 7:27
+- To execute modules from the command line for which one may not know their filename. This use case takes advantage of the fact that the Python interpreter knows how to convert modulenames to filenames. This is particularly advantageous when one wants to run stdlib modules or 3rd-party module from the command line. For example, very few people know the filename for the http.server module but most people do know its modulename so we can execute it from the command line using python -m http.server.
+- To execute a local package containing absolute or relative imports without needing to install it. This use case is detailed in PEP 338 and leverages the fact that the current working directory is added to sys.path rather than the module's directory. This use case is very similar to using pip install -e . to install a package in develop/edit mode.
+- sys.path is not modified in any way
+- __name__ is set to the absolute form of <modulename>
+- __package__ is set to the immediate parent package in <modulename>
+- __init__.py is evaluated for all packages (including its own for package modules)
+- __main__.py is not evaluated for package modules; the code is evaluated for code modules
+- sys.path is modified to include the final directory in <filename>
+- __name__ is set to '__main__'
+- __package__ is set to None
+- __init__.py is not evaluated for any package (including its own for package modules)
+- __main__.py is evaluated for package modules; the code is evaluated for code modules.
+- sys.path is modified to include the current directory
+- __name__ is set to '__main__'
+- __package__ is set to the immediate parent package in <modulename>
+- __init__.py is evaluated for all packages (including its own for package modules)
+- __main__.py is evaluated for package modules; the code is evaluated for code modules
+Could you also add the use of invoking package using python -m packagename as mentioned here: stackoverflow.com/a/53772635/1779091
+Jul 16, 2020 at 7:01
+@variable good idea, I added a "Use Case" section that includes that.
+– Mark Rucker
+Jul 16, 2020 at 23:45
+This is the most comprehensive presentation on the subject that I have read. Thanks!
+– Géry Ogam
+Sep 16, 2020 at 11:34
+I think this sentence should be modified:  "For example, if one executes a package module via python <filename> then <filename>/__init__.py will be evaluated followed by <filename>/__main__.py."    - Did you try to say <dirname>? If that's the case, only <dirname>/__main__.py would be executed.
+Mar 16, 2021 at 1:52
+@starriet Oh, you're right. I sure thought I'd tested that but when I just tried again it behaved like you said. Oh looks like I got it right at the end. I guess I didn't go back and fix it. And yeah, I'm using <filename> to generally mean any path (including directories).
+– Mark Rucker
+Mar 16, 2021 at 2:58
+My favorite usage of -m is python -m SimpleHTTPServer. Really handy when I need to share some files without using a usb flash drive.
+Sep 30, 2011 at 12:18
+@arifwn Running Python3 requires a slight update as python -m http.server and this is still awesome!
+Feb 16, 2016 at 15:32
+TL;DR: 1) You can run python -m package.subpackage.module and the normal resolving machinery will be used, you don't have to point out the exact .py file. 2) It is possible to do relative imports from the module that is run, without any workarounds, because its package will be loaded along the way. 3) Absolute imports will be based on your current directory, not the directory where the .py file is ('' is at the head of sys.path, rather than /path/to/my, if the script is at /path/to/my/script.py).
+Sep 13, 2016 at 11:52
+What this answer doesn't make it clear is this only works on the subset of modules that are executable i.e. have a __main__.py file. Most don't and will break e.g. python -m sys 'print(sys.version)' fails with python: No code object available for sys. Suggest you make that clear in the answer.
+May 21, 2020 at 23:43
+What about the package init file? In presence of the main file, will init also be invoked?
+Oct 16, 2019 at 19:27
+@variable Yes init.py will be invoked before main.py is invoked
+– Mark Rucker
+Jul 15, 2020 at 21:52
+- this is not accurate. if you will try run directly the main .py of a package it would not work as you would run the package with python -m flag
+– Eliav Louski
+Oct 28, 2020 at 9:36
+What is the difference between  "python -m pip install sphinx" and "python pip install sphinx"?
+Mar 7, 2024 at 20:03
+- I really like this answer as it cuts to the chase and gives a simple answer.   @skan I don't think I've ever seen python pip install sphinx that would be a deviant usage and I'm not sure what its behavior would be (it may throw an error, or if you have a file named pip in your current directory, maybe it will work but I'd be careful).
+Mar 10 at 15:01
+- Use . qualified module names for the files (because they're being treated as modules now). For example, to run the contents in ./f1/test1.py, we do
+python -m f1.test1
+python ./f1/test1.py
+- When using the module method, the sys.path in test1.py (when that is run) is m1. When using the ./ (relative file) method, the path is m1/f1.
+So we can access all files in m1 (and assume that it is a full python package) using -m. This is because the path to m1 is stored (as PYTHONPATH).
+- If we want to run deeply nested "modules", we can still use . (just as we do in import statements).
+# This can be done
+python -m f1.f2.test2
+And in test2.py, we can do from f1.test1 import do_something without using any path gimmicks in it.
+- Every time we do module imports this way, the __init__.py is automatically called. This is true even when we're nesting.
+python -m f1.f2.test2
+When we do that, the ./f1/__init__.py is called, followed by ./f1/f2/__init__.py.
+- Current directory
+- Directories listed in the PYTHONPATH environment variable, if set
+- PythonXX\Lib (where the standard libraries live, like os or random
+- PythonXX\Lib\site-packages (where globally installed packages live)
+- command-line
+
+--------------------------------------------------
+

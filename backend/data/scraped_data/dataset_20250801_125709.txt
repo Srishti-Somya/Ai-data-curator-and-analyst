@@ -1,0 +1,1115 @@
+URL: https://www.climatechangewriters.com/stories/climate-change-solutions-from-carbon-capture-to-renewable-energy
+==================================================
+Ibrahim Ismail Elnafat
+Climate Change Solutions: From Carbon Capture to Renewable Energy
+Most Read Stories Today
+Climate Change is a pressing global issue, driven by increasing greenhouse gas emissions, particularly carbon dioxide (CO2), resulting from human activities. This demands urgent action without fundamentally altering how we generate and utilize energy, and safeguarding the environment.
+The world population is predicted to reach about 9.9 billion by 2050, (IISD, 2020), with over 80% increase in energy demand (IEA, 2020). Countries worldwide are increasingly adopting alternate energy sources, transitioning to Renewable Energy such as solar, wind, hydroelectric, and geothermal power, by storing or repurposing captured carbon, to reduce reliance on fossil fuels. (Hassan et al., 2024).
+Carbon Capture and Storage (CCS), Potentials, and Challenges.
+Carbon Capture and Storage (CCS) is a technology designed to reduce CO2 emissions from industrial processes and power plants by capturing CO2 at the source and storing it underground. The captured CO2 is then transported to storage sites in geological formations where it can be securely sequestered. This process provides a pragmatic solution for transitioning to low-carbon economies without entirely dismantling current energy systems. The CCS technology has demonstrated considerable potential in reducing global CO2 emissions by at least 19%, by 2050. (IEA, 2020).
+Despite its potential, CCS faces several challenges, especially of high cost of capturing and storing the CO2, which is estimated at $50 to $100 per ton. The process also requires extensive infrastructure for transportation and storage, posing logistical challenges. (Global CCS Institute, 2021). These included concerns over the long-term security of the stored CO2, with the risk of leakage potentially undermining its overall benefits.
+Transitioning Of Renewable Energy Sources And Its Impact On Climate Change.
+Renewable energy sources, such as solar, wind, and hydropower, harness natural processes to generate electricity without producing greenhouse gases. The effectiveness of renewable energy in mitigating climate change is well-documented, and these sources are pivotal to transitioning towards a sustainable and low-carbon energy system.
+For instance, a study by Jacobson et al. (2017) demonstrated that transitioning to 100% renewable energy could significantly reduce global CO2 emissions, decrease air pollution, and improve public health.
+There is also exponential growth in the scalability of renewable energy, driven by declining costs and technological advancements. Although the cost of solar photovoltaics (PV) has declined by 89% since 2010, while the onshore wind energy costs have fallen by 69% during the same period (LCOE, 2023), the intermittent nature of solar and wind energy is still discussed as a major concern, raised by reliability issues.
+In contrast, energy storage solutions, such as batteries have been presented to address this challenge, but somewhat add up to the overall cost and complexity of the renewable energy systems. The environmental impact of manufacturing and disposing of renewable energy infrastructure, such as solar panels and wind turbines, cannot also be overlooked.
+Integration of Carbon Capture & Storage (CCS) and Renewable Energy.
+Carbon Capture & Storage (CCS) provides a reliable backup for intermittent renewable energy sources, ensuring a steady supply of low-carbon electricity. Conversely, the growth of renewable energy can reduce the overall demand for CCS, making it more feasible and cost-effective to deploy in sectors where emissions are hardest to abate, such as heavy industry and aviation.
+Artificial Intelligence in Energy Efficiency.
+The global energy sector often faced with increasing challenges and rising demands, as well as efficiency concerns and lack of necessary analytics for effective management.
+AI-driven solutions can transform energy operations across numerous industries and assist in addressing complex challenges in various sectors, including education, agriculture, healthcare, energy, and manufacturing (EMRC, 2023).
+In smart grids, for instance, AI-driven Sensors and Real-time data analysis can be used to integrate renewable energy sources into existing energy infrastructure to balance supply and demand. This allows consumers to adjust their energy usage based on real-time pricing or grid conditions.
+Use Of AI To Harness and Optimize Clean Energy Sources.
+1. Machine Learning Algorithms: AI can analyze vast amount of data with speed and precision using weather patterns, generation, consumption, and equipment performance to make real-time decisions based on its predictive capabilities. For instance, AI models can be used to maximize energy capture by automating and adjusting the solar panels or the pitch of the wind turbine blades.
+2. Weather Forecasting: AI learning models can forecast solar and wind energy generation accurately based on historical data and meteorological factors to enable grid operators to anticipate fluctuations in the energy supply. This is essential in efficient energy transition and stability without much energy wastage.
+3. Energy Production and Storage Optimization: AI in renewable energy empower systems to learn from data, adapt, and improve over time to coordinate energy generation, storage, and distribution. AI enhances the storage of excess energy generated during peak periods to be used when the generation is extremely low, enhancing resilience and reliability. For example, In microgrid management, AI can be used to analyze energy consumption patterns to identify areas for energy savings.
+Policy, Investment, and Economic Considerations.
+Effective policy frameworks and economic incentives are crucial to the successful deployment of both AI and CCS. Governments play a vital role in creating an enabling environment through regulations, subsidies, and carbon pricing mechanisms. The European Union's Emissions Trading System (EU ETS) is an example of a successful policy initiative that has incentivized the adoption of low-carbon technologies, including CCS and renewable energy (European Commission, 2020).
+There is also need for international cooperation to bridge the gap between regions with varying levels of technological advancement and economic development. Developed countries need to support developing nations by providing financial aid, technology transfer, and capacity-building initiatives.
+Carbon capture and renewable energy are two critical solutions with the potential to significantly reduce global greenhouse gas emissions. As the world embraces renewable energy to combat climate change, AI emerges as a significant vehicle to achieve a greener and more sustainable energy future.
+While the potential benefits of AI in the energy sector are undeniably compelling, if supported by effective policies and international cooperation; their integration to anticipate ecological consequences will enable stakeholders to make informed decisions that minimize harm to ecosystems and wildlife.
+The integration of Artificial Intelligence (AI) into the renewable energy sector can empower energy companies with unprecedented precision and efficiency. This, not only benefits energy providers by enhancing productivity, but also makes a substantial contribution to global efforts to combat climate change.
+AleaSoft Energy Forecasting, (September 29, 2023). The drop in the LCOE (Levelized Cost Of Electricity) of renewable energies over the past decade drives the energy transition. https://aleasoft.com/drop-lcoe-renewable-energies-past-decade-drives-energy-transition/
+Attanayake K, Wickramage I, Samarasinghe U, Ranmini Y, Ehalapitiya S, et al. (2024) Renewable energy as a solution to climate change: Insights from a comprehensive study across nations. PLOS ONE 19(6): e0299807. https://doi.org/10.1371/journal.pone.0299807
+Chen, L., Chen, Z., Zhang, Y. et al. (2023). Artificial intelligence-based solutions for climate change: a review. Environ Chem Lett 21, (2525–2557). https://doi.org/10.1007/s10311-023-01617-y
+Energy Market And Rates Consultant; (November 2, 2023), Transforming Renewable Energy Using Artificial Intelligence. https://www.energymrc.ng/transforming-renewable-energy-using-artificial-intelligence/
+European Commission; Development of EU ETS (2005-2020). Retrieved from https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/development-eu-ets-2005-2020_en
+IISD (International Institute for Sustainable Development), SDG Knowledge Hub, (August 6, 2020). World Population to Reach 9.9 Billion by 2050, https://sdg.iisd.org/news/world-population-to-reach-9-9-billion-by-2050/
+International Energy Agency (IEA). (2020). Energy Technology Perspectives 2020. Retrieved from (https://www.iea.org/reports/energy-technology-perspectives-2020)
+Jacobson, M. Z., et al. (2017). 100% Clean and Renewable Wind, Water, and Sunlight All-Sector Energy Roadmaps for 139 Countries of the World. *Joule*, *1*(1), 108-121. https://doi.org/10.1016/j.joule.2017.07.005
+Qusay Hassan, Patrik Viktor, Tariq J. Al-Musawi, Bashar Mahmood Ali, Sameer Algburi, Haitham M. Alzoubi, Ali Khudhair Al-Jiboory, Aws Zuhair Sameen, Hayder M. Salman, Marek Jaszczur. (2024).
+Degenerative Impact of Hydrocarbons On The Environment.
+Are African Plants Getting Ignored Amidst the Climate Change?
+The Threat of Hydrocarbons on our Environment
+- Water Scarcity and Artificial Rainfall: The Positive and The Negative Effects of Cloud Seeding, including Health Hazards and Climate Implications.
+- Renewable Energy in Rural Areas: Challenges, Opportunities, and Successful Rural Projects
+- Pakistan's Agriculture at Risk Due to Climate Variability
+- South Korea's floods: root causes and prevention strategies.
+- South Africa's Recent Floods: Is Climate Change to Blame?
+- Our Oceans, Our Future: The South African Dilemma of Overfishing
+- Degenerative Impact of Hydrocarbons On The Environment.
+- Bridging the Gulf Between Scientific Knowledge and Public Understanding.
+- Negative Impacts of Climate Change on Food Security in South Africa
+- Successes and Failures of Paris Agreement
+- AleaSoft Energy Forecasting, (September 29, 2023). The drop in the LCOE (Levelized Cost Of Electricity) of renewable energies over the past decade drives the energy transition. https://aleasoft.com/drop-lcoe-renewable-energies-past-decade-drives-energy-transition/
+- Attanayake K, Wickramage I, Samarasinghe U, Ranmini Y, Ehalapitiya S, et al. (2024) Renewable energy as a solution to climate change: Insights from a comprehensive study across nations. PLOS ONE 19(6): e0299807. https://doi.org/10.1371/journal.pone.0299807
+- Chen, L., Chen, Z., Zhang, Y. et al. (2023). Artificial intelligence-based solutions for climate change: a review. Environ Chem Lett 21, (2525–2557). https://doi.org/10.1007/s10311-023-01617-y
+- Energy Market And Rates Consultant; (November 2, 2023), Transforming Renewable Energy Using Artificial Intelligence. https://www.energymrc.ng/transforming-renewable-energy-using-artificial-intelligence/
+- European Commission; Development of EU ETS (2005-2020). Retrieved from https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/development-eu-ets-2005-2020_en
+- IISD (International Institute for Sustainable Development), SDG Knowledge Hub, (August 6, 2020). World Population to Reach 9.9 Billion by 2050, https://sdg.iisd.org/news/world-population-to-reach-9-9-billion-by-2050/
+- International Energy Agency (IEA). (2020). Energy Technology Perspectives 2020. Retrieved from (https://www.iea.org/reports/energy-technology-perspectives-2020)
+- Jacobson, M. Z., et al. (2017). 100% Clean and Renewable Wind, Water, and Sunlight All-Sector Energy Roadmaps for 139 Countries of the World. *Joule*, *1*(1), 108-121. https://doi.org/10.1016/j.joule.2017.07.005
+- Qusay Hassan, Patrik Viktor, Tariq J. Al-Musawi, Bashar Mahmood Ali, Sameer Algburi, Haitham M. Alzoubi, Ali Khudhair Al-Jiboory, Aws Zuhair Sameen, Hayder M. Salman, Marek Jaszczur. (2024).
+- Degenerative Impact of Hydrocarbons On The Environment.
+19 August 2022
+- Are African Plants Getting Ignored Amidst the Climate Change?
+26 February 2022
+- The Threat of Hydrocarbons on our Environment
+29 January 2022
+
+--------------------------------------------------
+
+URL: https://www.prescouter.com/report/top-ten-carbon-capture-projects-2024/
+==================================================
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they as essential for the working of basic functionalities of the website.
+We also use third-party cookies that help us analyze and understand how you use this website, to store user preferences and provide them with content and advertisements that are relevant to you. These cookies will only be stored on your browser with your consent to do so. You also have the option to opt-out of these cookies.But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary cookies are crucial for the basic functions of the website and the website will not work in its intended way without them.
+These cookies do not store any personally identifiable data.
+‘AEC’ cookies ensure that requests within a browsing session are made by the user, and not by other sites. These cookies prevent malicious sites from acting on behalf of a user without that user’s knowledge
+The “NID” cookie is used to play YouTube videos embedded on the website.
+Google Ads Optimization cookie to provide ad delivery or retargeting. These cookies track and collect data to deliver and retarget ads tailored to user preferences based on specific websites visited.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Used to store consent of guests regarding the use of cookies for non-essential purposes
+Cookie is placed by Amazon Application Load Balancer to provide load balancing functionality. Includes the same information as the original stickiness cookie plus this SameSite attribute
+This cookie is used by Typeform to track the visitor's cookie consent and ensure compliance.
+Cookie provided by AWS Elastic Load Balancer. It's used to honor sticky sessions and enable target group stickness.
+To read if cookies can be placed
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+No cookies to display.
+Advertisement cookies are used to deliver visitors with customized advertisements based on the pages they visited before and analyze the effectiveness of the ad campaign.
+First-party cookie set by ZoomInfo to identify unique visitors.
+The __Secure-ROLLOUT_TOKEN cookie is used by YouTube to manage the phased rollout of new features and updates. This cookie helps assign users to specific test groups for experimental features, such as changes to the user interface or video player. The __Secure- prefix indicates that the cookie is only transmitted over a secure HTTPS connection, enhancing data security.
+Stands for "first-party cookie" and is set by the AdRoll domain. It helps us track user interactions and engagement with our ads and services.
+This cookie is associated with AdRoll's attribution and tracking efforts, providing insights into the effectiveness of our campaigns.
+Cookie by Bing Ads to store and track visits across websites
+Used by Microsoft Advertising to store a unique, anonymized visitor ID to personalize marketing.
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+No cookies to display.
+The top 10 carbon capture projects in 2024
+As atmospheric CO₂ levels rise to a record high this year, the attention turns to carbon capture projects to make the vision of net-zero emissions by 2050 a reality. This report reviews the leading carbon capture projects and examines their potential to reduce greenhouse gas emissions. It provides insights into each project’s capacity, technology, partners, and storage strategies.
+As of 2024, it has become increasingly clear that reducing greenhouse gas emissions alone is not enough to achieve net-zero targets by 2050. To bridge this gap, carbon capture and storage (CCS) is emerging as an essential solution for mitigating climate change.
+Although CCS deployment has yet to reach its full potential, the surge in advanced carbon capture projects in 2024 marks a turning point, reinforcing its role in global climate strategies.
+Get access to more than 1,110 carbon capture projects!
+CCS project capacity growth since 2023:
+Since 2023, CCS capacity has expanded rapidly. By July 2024, capture capacity in development had risen by 15%, adding approximately 55 million tons of CO₂. Globally, 50 facilities were operational, with another 44 under construction.
+The total number of CCS projects reached 628, a 60% increase from 2023. Moreover, the capacity of projects under construction grew by 57%, reflecting strong industry commitment.
+Why are carbon capture projects important?
+Here are some of the key reasons that make carbon capture projects essential:
+Global initiatives in carbon capture:
+Nations worldwide are facilitating the implementation of CCS projects to meet ambitious emissions reduction targets. The global CCS landscape is evolving with positive regional initiatives to support decarbonization.
+North America: Strong regulatory and financial backing
+North America continues to lead in CCS adoption. The United States federal government allocated over $2.2 billion for CCS projects, with a record 231 CO₂ injection well permits filed across 18 states. Louisiana has taken a pioneering role, developing specific CO₂ storage regulations to give states more control.
+Canada, for its part, has increased its carbon price to CA$80/ton and introduced carbon contracts for difference (CCfD) through the Canada Growth Fund. The aim is to provide stable pricing to boost investor confidence in CCS projects.
+Europe: Coordinated policies and cross-border collaboration
+Europe’s 2024 CCS approach centers on expanding storage capacity and promoting cross-border CO₂ transport. The European Union’s Net-Zero Industry Act mandates an ambitious 50 Mtpa CO₂ storage target by 2030. Cross-border CO₂ pipelines connecting Belgium, France, and Denmark are in development, creating a unified European CCS network.
+The UK is investing £21.7 billion ($28.04 billion) into CCS clusters in Teesside and Merseyside. Germany and France are revising regulations to support offshore and domestic storage.
+Middle East and Africa: Large-scale national targets
+The UAE plans to capture 10 Mtpa by 2030, and Saudi Arabia’s goal is 14 Mtpa by 2035, contributing to a broader national target of 44 Mtpa. Oman has also introduced a work program to develop a CCS regulatory framework, positioning itself as a growing player in the low-carbon market.
+Asia: China is leading CCS with policy support and major projects
+Financial support is provided to key decarbonization projects through the Implementation Plan for Green and Low-Carbon Technology Demonstration, launched by the Chinese government. Among these, six CCS projects are set to capture 1.5 million tons of CO₂ annually. China National Petroleum Corporation began building a CCS project in Xinjiang that will capture 2 million tons per year, with the first phase expected to be ready by 2026.
+Asia-Pacific: Rapid policy shifts and technological integration
+Asian countries are integrating CCS into their energy policies with supportive legislation. Japan enacted the CCUS Business Act in 2024, aiming to simplify permitting and incentivize carbon capture and storage projects as a core part of its energy strategy.
+Australia’s private sector is advancing CCS through projects like the Cygnus CCS Hub in Western Australia. This project will serve as a multi-user carbon capture facility, supporting the reduction of emissions from multiple industrial sources.
+Exploring the top 10 carbon capture projects of 2024:
+Here, we examine the top carbon capture projects of 2024, showcasing the latest advancements in carbon capture technology to address climate change.
+Kemi Bioproduct Mill CO₂ Capture Project
+Located in Finland, this project by Metsä Group and ANDRITZ aims to capture 4.2 million tons of carbon dioxide annually. Using amine-based technology, the CO₂ will be converted into renewable fuels or raw materials. A pilot will start in 2025 to test the process.
+S-Hub Consortium CCS Project
+In Singapore, ExxonMobil, Shell, and the government are working together to capture 2.5 million tons of CO₂ annually. This project will use underground and seabed storage to reduce emissions in urban areas.
+Orchard One Large-Scale DACCS Facility
+Based in Wyoming, Orchard One Large-Scale DACCS Facility by Spiritus will capture 2 million tons of CO₂ annually from the air and store it in rock formations. Supported by partners, this carbon capture storage project aims to offer carbon credits for businesses.
+Mongstad Industrial Transformation Project
+At Norway’s largest refinery, Equinor and Aker Solutions will produce blue hydrogen and capture 1.7 million tons of CO₂. The Mongstad Industrial Transformation Project also plans to convert waste into aviation fuel, cutting emissions by 70%.
+SCHWENK Latvija and Capsol CCS Project
+Located in Latvia, the SCHWENK Latvija and Capsol CCS Project will capture 750,000 tons of CO₂ annually from a cement plant. The CO₂ may be stored in the North Sea, helping reduce Europe’s industrial emissions.
+The Ravenna CCS Project
+Italy’s first major CCS project, The Ravenna CCS Project, led by Eni and Snam, captures CO₂ from a gas facility. Starting with 25,000 tons annually, it aims to expand to 4 million tons by 2030.
+Mammoth Direct Air Capture and Storage Facility
+In Iceland, Climeworks’ Mammoth Direct Air Capture and Storage Facility captures 36,000 tons of CO₂ from the air each year, powered by renewable energy. The CO₂ is stored underground, making Iceland a leader in long-term carbon storage.
+H1 and H2 CCS Project, Holyoke, Massachusetts
+This H1 and H2 CCS Project in Massachusetts, led by ESG Clean Energy, captures up to 15,000 tons of CO₂ from two gas-fired plants. Advanced technology boosts its efficiency close to 100%.
+ArcelorMittal Gent Carbon Capture Pilot Project
+At a steel plant in Belgium, the ArcelorMittal Gent Carbon Capture Pilot Project captures CO₂ and converts it into carbon monoxide, which is reused in steelmaking. This reduces the plant’s reliance on fossil fuels.
+C-Capture Glass Industry Carbon Capture Project
+In the UK, C-Capture’s technology at Pilkington’s glass facility captures 30,000 tons of CO₂ annually. This project, supported by Innovate UK, addresses the glass industry’s emissions challenges.
+Looking into the future:
+The future of CCS is filled with promise. As CCS technologies mature, each new project brings us closer to making CCS a key strategy for meeting global climate goals. By building on lessons learned from other successful environmental technologies, we are paving the way for CCS to become a powerful tool in reducing emissions.
+Schedule a demo for PreScouter’s CCUS database here or email us at ccus@prescouter.com to speak to our sustainability experts.
+Never miss an insight
+Get insights delivered right to your inbox
+More of Our Insights & Work
+Carbon capture, utilization, and storage in the oil & gas industry
+How AI is quietly transforming grocery stores and steel plants
+Big Beautiful Bill: Who wins, who loses, and what’s next for industry leaders
+Unlocking CCUS: Technology, collaboration, and commercial readiness
+Big Beautiful Bill: Who wins, who loses, and what’s next for industry leaders
+Smart shoes: Innovations revolutionizing the future of footwear
+What are the disadvantages of cryptocurrencies?
+SearchGPT vs Google: Is AI-powered search the future?
+PCR plastic and its role in sustainable packaging
+Never miss an insight
+Get exclusive insights delivered right to your inbox
+By signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy. You can unsubscribe at anytime.
+- Cookiecookielawinfo-checkbox-necessary
+- Duration1 year
+- DescriptionSet by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the "Necessary" category .
+- Cookiecookielawinfo-checkbox-functional
+- Duration1 year
+- DescriptionThe cookie is set by the GDPR Cookie Consent plugin to record the user consent for the cookies in the category "Functional".
+- Cookiecookielawinfo-checkbox-performance
+- Duration1 year
+- DescriptionSet by the GDPR Cookie Consent plugin, this cookie is used to store the user consent for cookies in the category "Performance".
+- Cookiecookielawinfo-checkbox-analytics
+- Duration1 year
+- DescriptionSet by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the "Analytics" category .
+- Cookiecookielawinfo-checkbox-advertisement
+- Duration1 year
+- DescriptionSet by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the "Advertisement" category .
+- Cookiecookielawinfo-checkbox-others
+- Duration1 year
+- DescriptionSet by the GDPR Cookie Consent plugin, this cookie is used to store the user consent for cookies in the category "Others".
+- CookiecookieyesID
+- Duration1 year
+- DescriptionCookieYes sets this cookie as a unique identifier for visitors according to their consent.
+- Cookiecky-consent
+- Duration1 year
+- DescriptionThe cookie is set by CookieYes to remember the users's consent settings so that the website recognizes the users the next time they visit.
+- Cookiecookieyes-necessary
+- Duration1 year
+- DescriptionCookieYes sets this cookie to remember the consent of users for the use of cookies in the 'Necessary' category.
+- Cookiecookieyes-functional
+- Duration1 year
+- DescriptionCookieYes sets this cookie to remember the consent of users for the use of cookies in the 'Functional' category.
+- Cookiecookieyes-analytics
+- Duration1 year
+- DescriptionCookieYes sets this cookie to remember the consent of users for the use of cookies in the 'Analytics' category.
+- Cookiecookieyes-performance
+- Duration1 year
+- DescriptionCookieYes sets this cookie to remember the consent of users for the use of cookies in the 'Performance' category.
+- Cookiecookieyes-advertisement
+- Duration1 year
+- DescriptionCookieYes sets this cookie to remember the consent of users for the use of cookies in the 'Advertisement' category.
+- Cookie__cf_bm
+- Duration1 hour
+- DescriptionThis cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+- Cookie__cfruid
+- Durationsession
+- DescriptionCloudflare sets this cookie to identify trusted web traffic.
+- Cookie_cfuvid
+- Durationsession
+- DescriptionCalendly sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services
+- Cookiecky-action
+- Duration1 year
+- DescriptionCookieYes sets this cookie to remember the action taken by the user.
+- Cookieelementor
+- DurationNever Expires
+- DescriptionThe website's WordPress theme uses this cookie. It allows the website owner to implement or change the website's content in real-time.
+- Cookierc::a
+- DurationNever Expires
+- DescriptionThis cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+- Cookierc::c
+- Durationsession
+- DescriptionThis cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+- Cookiecookieyes-other
+- Duration1 year
+- DescriptionCookieYes sets this cookie to remember the consent of users for the use of cookies in the 'Other' category.
+- Durationsession
+- DescriptionThis is a Google UserID cookie that tracks users across various website segments.
+- Cookie_calendly_session
+- Duration21 days
+- DescriptionCalendly, a Meeting Schedulers, sets this cookie to allow the meeting scheduler to function within the website and to add events into the visitor’s calendar.
+- Duration6 months
+- Description‘AEC’ cookies ensure that requests within a browsing session are made by the user, and not by other sites. These cookies prevent malicious sites from acting on behalf of a user without that user’s knowledge
+- Duration6 months
+- DescriptionThe “NID” cookie is used to play YouTube videos embedded on the website.
+- Duration1 day
+- DescriptionGoogle Ads Optimization cookie to provide ad delivery or retargeting. These cookies track and collect data to deliver and retarget ads tailored to user preferences based on specific websites visited.
+- Cookieli_gc
+- Duration6 months
+- DescriptionUsed to store consent of guests regarding the use of cookies for non-essential purposes
+- Cookiebcookie
+- Duration1 year
+- DescriptionLinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser ID.
+- Duration1 day
+- DescriptionLinkedIn sets the lidc cookie to facilitate data center selection.
+- CookieAWSALBTGCORS
+- Duration7 days
+- DescriptionCookie is placed by Amazon Application Load Balancer to provide load balancing functionality. Includes the same information as the original stickiness cookie plus this SameSite attribute
+- Cookietf_respondent_cc
+- Duration6 months
+- DescriptionThis cookie is used by Typeform to track the visitor's cookie consent and ensure compliance.
+- Cookiedebug
+- DurationNever Expires
+- Description
+This cookie is used by Typeform
+- CookieAWSALBTG
+- Duration7 days
+- DescriptionCookie provided by AWS Elastic Load Balancer. It's used to honor sticky sessions and enable target group stickness.
+- Cookieytidb::LAST_RESULT_ENTRY_KEY
+- DurationNever Expires
+- DescriptionThe cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.
+- Cookieyt-remote-session-name
+- Durationsession
+- DescriptionThe yt-remote-session-name cookie is used by YouTube to store the user's video player preferences using embedded YouTube video.
+- Cookieyt-remote-fast-check-period
+- Durationsession
+- DescriptionThe yt-remote-fast-check-period cookie is used by YouTube to store the user's video player preferences for embedded YouTube videos.
+- Cookieyt-remote-session-app
+- Durationsession
+- DescriptionThe yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player.
+- Cookieyt-remote-cast-available
+- Durationsession
+- DescriptionThe yt-remote-cast-available cookie is used to store the user's preferences regarding whether casting is available on their YouTube video player.
+- Cookieyt-remote-cast-installed
+- Durationsession
+- DescriptionThe yt-remote-cast-installed cookie is used to store the user's video player preferences using embedded YouTube video.
+- Cookiewordpress_test_cookie
+- Duration1 session
+- DescriptionTo read if cookies can be placed
+- Cookie_gcl_au
+- Duration3 months
+- DescriptionProvided by Google Tag Manager to experiment advertisement efficiency of websites using their services.
+- Duration1 year 1 month 4 days
+- DescriptionThe _ga cookie, installed by Google Analytics, calculates visitor, session and campaign data and also keeps track of site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognize unique visitors.
+- Duration1 day
+- DescriptionInstalled by Google Analytics, _gid cookie stores information on how visitors use a website, while also creating an analytics report of the website's performance. Some of the data that are collected include the number of visitors, their source, and the pages they visit anonymously.
+- Cookie_ga_*
+- Duration1 year 1 month 4 days
+- DescriptionGoogle Analytics sets this cookie to store and count page views.
+- Cookie_gat_UA-*
+- Duration1 minute
+- DescriptionGoogle Analytics sets this cookie for user behaviour tracking.
+- Cookieattribution_user_id
+- Duration1 year
+- DescriptionThis cookie is set by Typeform for usage statistics and is used in context with the website's pop-up questionnaires and messengering.
+- Cookietest_cookie
+- Duration15 minutes
+- DescriptionThe test_cookie is set by doubleclick.net and is used to determine if the user's browser supports cookies.
+- Duration3 months
+- DescriptionThis cookie is set by Facebook to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising, after visiting the website.
+- Durationsession
+- DescriptionYSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages.
+- CookieVISITOR_INFO1_LIVE
+- Duration6 months
+- DescriptionA cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface.
+- Cookieyt-remote-device-id
+- DurationNever Expires
+- DescriptionYouTube sets this cookie to store the video preferences of the user using embedded YouTube video.
+- Cookieyt.innertube::requests
+- DurationNever Expires
+- DescriptionThis cookie, set by YouTube, registers a unique ID to store data on what videos from YouTube the user has seen.
+- Cookieyt.innertube::nextId
+- DurationNever Expires
+- DescriptionThis cookie, set by YouTube, registers a unique ID to store data on what videos from YouTube the user has seen.
+- Cookieyt-remote-connected-devices
+- DurationNever Expires
+- DescriptionYouTube sets this cookie to store the video preferences of the user using embedded YouTube video.
+- Cookie_zitok
+- Duration1 year
+- DescriptionFirst-party cookie set by ZoomInfo to identify unique visitors.
+- Cookie__Secure-ROLLOUT_TOKEN
+- Duration6 months
+- DescriptionThe __Secure-ROLLOUT_TOKEN cookie is used by YouTube to manage the phased rollout of new features and updates. This cookie helps assign users to specific test groups for experimental features, such as changes to the user interface or video player. The __Secure- prefix indicates that the cookie is only transmitted over a secure HTTPS connection, enhancing data security.
+- Cookierl_anonymous_id
+- DurationNever Expires
+- DescriptionRudderStack set this cookie to store statistical data of users' behaviour on the website, which can be used for internal analytics by the website operator.
+- Cookierl_group_trait
+- DurationNever Expires
+- DescriptionRudderstack sets this cookie, which is used to store performed actions on the website.
+- Cookierl_group_id
+- DurationNever Expires
+- DescriptionRudderStack sets this cookie to collect user activity on the web.
+- Cookierl_trait
+- DurationNever Expires
+- DescriptionRudderstack sets this cookie, which is used to store performed actions on the website.
+- Cookierl_user_id
+- DurationNever Expires
+- DescriptionRudderStack set this cookie to store a unique user ID for the Marketing/Tracking purpose.
+- CookieVISITOR_PRIVACY_METADATA
+- Duration6 months
+- DescriptionYouTube sets this cookie to store the user's cookie consent state for the current domain.
+- Cookie__adroll_fpc
+- Durationunknown
+- DescriptionStands for "first-party cookie" and is set by the AdRoll domain. It helps us track user interactions and engagement with our ads and services.
+- Cookie__ar_v4
+- Durationpersistent
+- DescriptionThis cookie is associated with AdRoll's attribution and tracking efforts, providing insights into the effectiveness of our campaigns.
+- Cookie_uetsid
+- Duration1 day
+- DescriptionCookie by Bing Ads to store and track visits across websites
+- Cookie_uetvid
+- Duration1 day
+- DescriptionUsed by Microsoft Advertising to store a unique, anonymized visitor ID to personalize marketing.
+- Our Insights & Work
+- How We Help Clients
+- Download Report
+- Reduces atmospheric CO₂: Carbon capture projects help lower carbon dioxide levels by trapping emissions before release. This process keeps excess carbon out of the air, minimizing climate impact.
+- Supports industrial transition: These projects allow industrial plants to reduce carbon emissions without complete structural changes. This approach maintains industrial facility operations while adapting to cleaner practices.
+- Helps to achieve climate targets: Carbon capture is essential for reaching net-zero emissions, as outlined in international agreements. It plays a key role in limiting global temperature increases and protecting the environment.
+- Creates jobs: The development of carbon capture projects promotes new innovations in the low-carbon sector. This growth opens doors for job creation and strengthens the green economy.
+- Enables clean hydrogen production: Captured carbon allows for the creation of low-carbon hydrogen, a critical energy resource. This clean hydrogen aids in reducing emissions across sectors like transport and heating.
+
+--------------------------------------------------
+
+URL: https://www.sciencedirect.com/science/article/pii/S2666845924002010
+==================================================
+There was a problem providing the content you requested
+contact our support team
+for more information and provide the details below.
+- Reference number: 96839ba5991f1712
+- IP Address: 182.78.44.206
+- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36
+- Timestamp: 2025-08-01 07:26:34 UTC
+
+--------------------------------------------------
+
+URL: https://link.springer.com/article/10.1007/s42114-024-00955-x
+==================================================
+Climate change and its impact on the environment and human health have become alarming concerns in recent years. The use of traditional energy sources such as coal, oil, and gas is a major contributor to the rise in carbon dioxide emissions, which is the primary driving force behind climate change. As a result, significant efforts have been made to develop more sustainable and efficient methods of using carbon-based resources to reduce net carbon dioxide emissions. This review delves into the latest advanced techniques for converting carbon dioxide into high-value chemical products and renewable energy. By employing these innovative approaches, remarkable progress can be made towards enhancing the environment and promoting economic growth, ultimately leading to carbon neutrality.
+This is a preview of subscription content, log in via an institution
+to check access.
+Price includes VAT (India)
+Instant access to the full article PDF.
+Institutional subscriptions
+Similar content being viewed by others
+Decarbonization: Direction to the Sustainable Future in Industries
+Carbon Derivatives from CO2
+Introduction to CO2 Separation, Purification and Conversion to Chemicals and Fuels
+Explore related subjects
+No datasets were generated or analysed during the current study.
+Brierley AS, Kingsford MJ (2009) Impacts of Climate Change on Marine Organisms and Ecosystems. Curr Biol 19(14):R602–R614. https://doi.org/10.1016/j.cub.2009.05.046
+Google Scholar
+Neeraj YS (2020) Carbon storage by mineral carbonation and industrial applications of CO2. Mater Sci Energ Technol 3:494–500. https://doi.org/10.1016/j.mset.2020.03.005
+Google Scholar
+CO2 Emissions (2020) https://www.worldometers.info/co2-emissions/
+Pata UK (2018) Renewable energy consumption, urbanization, financial development, income and CO2 emissions in Turkey: testing EKC hypothesis with structural breaks. J Clean Prod 187:770–779. https://doi.org/10.1016/j.jclepro.2018.03.236
+Google Scholar
+Shahbaz M, Tiwari AK, Nasir M (2013) The effects of financial development, economic growth, coal consumption and trade openness on CO2 emissions in South Africa. Energ Policy 61:1452–1459. https://doi.org/10.1016/j.enpol.2013.07.006
+Google Scholar
+UNFCC (2015) Adoption of the Paris Agreement. Proposal by the President Draft Decision: CP.21. https://unfccc.int/resource/docs/2015/cop21/eng/l09r01.pdf, Accessed 26th Apr 2023
+Kanyama AC, Kanyama KC, Wester M, Snickare L, Soderberg IL (2018) Climate change mitigation efforts among transportation and manufacturing companies: The current state of efforts in Sweden according to available documentation. J Clean Prod 196:588–593. https://doi.org/10.1016/j.jclepro.2018.06.007
+Google Scholar
+Martínez MCV, Santos-Jaén JM, Román RS, Martín-Cervantes PA (2022) Are gender and cultural diversities on board related to corporate CO2 emissions. J Clean Prod 363. https://doi.org/10.1016/j.jclepro.2022.132638
+Aldieri L, Grafström J, Sundström K, Vinci CP (2019) Wind power and job creation. Sustainability 12(1):45. https://doi.org/10.3390/su12010045
+Google Scholar
+Ali G, Pumijumnong N, Cui S (2017) Decarbonization action plans using hybrid modeling for a low-carbon society: The case of Bangkok Metropolitan Area. J Clean Prod 168:940–951. https://doi.org/10.1016/j.jclepro.2017.09.049
+Google Scholar
+Adedoyin F, Ozturk I, Abubakar I, Kumeka T, Folarin O, Bekun FV (2020) Structural breaks in CO2 emissions: Are they caused by climate change protests or other factors? J Environ Manage 266. https://doi.org/10.1016/j.jenvman.2020.110628
+Luis Miguez J, Porteiro J, Perez-Orozco R, Patino D, Rodriguez S (2018) Evolution of CO2 capture technology between 2007 and 2017 through the study of patent activity. Appl Energ 211:1282–1296. https://doi.org/10.1016/j.apenergy.2017.11.107
+Google Scholar
+Pastero L, Curetti N, Ortenzi MA, Schiavoni M, Destefanis E, Pavese A (2019) CO2 capture and sequestration in stable Ca-oxalate, via Ca-ascorbate promoted green reaction. Sci Total Environ 666:1232–1244. https://doi.org/10.1016/j.scitotenv.2019.02.114
+Google Scholar
+Leung DYC, Caramanna G, Maroto-Valer MM (2014) An overview of current status of carbon dioxide capture and storage technologies. Renew Sust Energ Rev 39:426–443. https://doi.org/10.1016/j.rser.2014.07.093
+Google Scholar
+Sohaib Q, Muhammad A, Younas M, Rezakazemi M (2020) Modeling pre-combustion CO2 capture with tubular membrane contactor using ionic liquids at elevated temperatures. Sep Purif Technol 241. https://doi.org/10.1016/j.seppur.2020.116677
+Schwiderowski P, Ruland H, Muhler M (2022) Current developments in CO2 hydrogenation towards methanol: A review related to industrial application. Curr Opin Green Sust Chem 38:100688. https://doi.org/10.1016/j.cogsc.2022.100688
+Google Scholar
+Bao J, Lu WH, Zhao J, Bi XT (2018) Greenhouses for CO2 sequestration from atmosphere. Carbon Res Convers 1(2):183–190. https://doi.org/10.1016/j.crcon.2018.08.002
+Google Scholar
+SundarRajan P, Gopinath KP, Greetham D, Antonysamy AJ (2019) A review on cleaner production of biofuel feedstock from integrated CO2 sequestration and wastewater treatment system. J Clean Prod 210:445–458. https://doi.org/10.1016/j.jclepro.2018.11.010
+Google Scholar
+Kareya MS, Mariam I, Nesamma AA, Jutur PP (2020) CO2 sequestration by hybrid integrative photosynthesis (CO2-SHIP): A green initiative for multi-product biorefineries. Mater Sci Energ Technol 3:420–428. https://doi.org/10.1016/j.mset.2020.03.002
+Google Scholar
+Köhl M, Martes LM (2023) Forests: A passive CO2 sink or an active CO2 pump? Forest Policy Econ 155:103040. https://doi.org/10.1016/j.forpol.2023.103040
+Google Scholar
+Sgouridis F, Reay M, Cotchim S, Ma JJ, Radu A, Ullah S (2023) Stimulation of soil gross nitrogen transformations and nitrous oxide emission under free air CO2 enrichment in a mature temperate oak forest at BIFoR-FACE. Soil Biol Biochem 184:109072. https://doi.org/10.1016/j.soilbio.2023.109072
+Google Scholar
+Wang ZS, Li RQ, Guo QC, Wang ZJ, Huang M, Cai CJ, Chen B (2023) Learning ensembles of process-based models for high accurately evaluating the one-hundred-year carbon sink potential of China’s forest. Heliyon 9(6):e17243
+PubMed Central
+Google Scholar
+Zwart RWR, Boerrigter H, van der Drift A (2006) The impact of biomass pretreatment on the feasibility of overseas biomass conversion to Fischer-Tropsch products. Energy Fuels 20(5):2192–2197. https://doi.org/10.1021/ef060089f
+Google Scholar
+Grossman AR, Bhaya D, Apt KE, Kehoe DM (1995) Light-harvesting complexes in oxygenic photosynthesis: diversity, control, and evolution. Annu Rev Genet 29:231–288. https://doi.org/10.1146/annurev.ge.29.120195.001311
+Google Scholar
+Huang B, Chen YE, Zhao YQ, Ding CB, Liao JQ, Hu C, Zhou LJ, Zhang ZW, Yuan S, Yuan M (2019) Exogenous Melatonin Alleviates Oxidative Damages and Protects Photosystem II in Maize Seedlings Under Drought Stress. Front Plant Sci 10. https://doi.org/10.3389/fpls.2019.00677
+Ramzan M, Aslam MN, Akram S, Shah AA, Danish S, Islam W, Mustafa AMA, Al-Ghamdi AA, Alajmi AH (2021) Exogenous glutathione revealed protection to bacterial spot disease: Modulation of photosystem II and H2O2 scavenging antioxidant enzyme system in Capsicum annum L. J King Saud Univ Sci 33(1). https://doi.org/10.1016/j.jksus.2020.10.020
+Sherin G, Aswathi KPR, Puthur JT (2022) Photosynthetic functions in plants subjected to stresses are positively influenced by priming. Plant Stress 4:100079. https://doi.org/10.1016/j.stress.2022.100079
+Google Scholar
+Lotfi R, Ghassemi-Golezani K, Pessarakli M (2020) Salicylic acid regulates photosynthetic electron transfer and stomatal conductance of mung bean (Vigna radiata L.) under salinity stress. Biocatal Agr Biotechnol 26:101635. https://doi.org/10.1016/j.bcab.2020.101635
+Google Scholar
+Liang D, Ni ZY, Xia H, Xie Y, Lv XL, Wang J, Lin LJ, Deng QX, Luo X (2019) Exogenous melatonin promotes biomass accumulation and photosynthesis of kiwifruit seedlings under drought stress. Sci Hortic-amsterdam 246:34–43. https://doi.org/10.1016/j.scienta.2018.10.058
+Google Scholar
+Chavoushi M, Najafi F, Salimi A, Angaji SA (2020) Effect of salicylic acid and sodium nitroprusside on growth parameters, photosynthetic pigments and secondary metabolites of safflower under drought stress. Sci Hortic-amsterdam 259. https://doi.org/10.1016/j.scienta.2019.108823
+Kataria S, Jain M, Rastogi A, Brestic M (2021) Static magnetic field treatment enhanced photosynthetic performance in soybean under supplemental ultraviolet-B radiation. Photosynth Res 150(1–3):263–278. https://doi.org/10.1007/s11120-021-00850-2
+Google Scholar
+Mendanha T, Rosenqvist E, Hyldgaard BN, Doonan JH, Ottosen CO (2020) Drought priming effects on alleviating the photosynthetic limitations of wheat cultivars (Triticum aestivum L.) with contrasting tolerance to abiotic stresses. J Agron Crop Sci 206(6):651–664. https://doi.org/10.1111/jac.12404
+Google Scholar
+Tankari M, Wang C, Ma HY, Li XN, Li L, Soothar RK, Cui NB, Zaman-Allah M, Hao WP, Liu FL, Wang YS (2021) Drought priming improved water status, photosynthesis and water productivity of cowpea during post-anthesis drought stress. Agr Water Manage 245. https://doi.org/10.1016/j.agwat.2020.106565
+Hussain I, Siddique A, Ashraf MA, Rasheed R, Ibrahim M, Iqbal M, Akbar S, Imran M (2017) Does exogenous application of ascorbic acid modulate growth, photosynthetic pigments and oxidative defense in okra (Abelmoschus esculentus (L.) Moench) under lead stress? Acta Physiol Plant 39(6):144. https://doi.org/10.1007/s11738-017-2439-0
+Google Scholar
+Liu B, Zhang L, Rusalepp L, Kaurilind E, Sulaiman HY, Püssa T, Niinemets Ü (2021) Heat priming improved heat tolerance of photosynthesis, enhanced terpenoid and benzenoid emission and phenolics accumulation in Achillea millefolium. Plant Cell Environ 44(7):2365–2385. https://doi.org/10.1111/pce.13830
+Google Scholar
+Huang LP, Zhang L, Zeng RE, Wang XY, Zhang HJ, Wang LD, Liu SY, Wang XW, Chen TT (2020) Brassinosteroid priming improves peanut drought tolerance via eliminating inhibition on genes in photosynthesis and hormone signaling. Genes 11(8):919. https://doi.org/10.3390/genes11080919
+PubMed Central
+Google Scholar
+Akram NA, Hafeez N, Farid-ul-Haq M, Ahmad A, Sadiq M, Ashraf M (2020) Foliage application and seed priming with nitric oxide causes mitigation of salinity-induced metabolic adversaries in broccoli (Brassica oleracea L.) plants. Acta Physiol Plant 42(10):155. https://doi.org/10.1007/s11738-020-03140-x
+Google Scholar
+Huang P, He LL, Abbas A, Hussain S, Hussain S, Du DL, Hafeez MB, Balooch S, Zahra N, Ren XL, Rafiq M, Saqib M (2021) Seed priming with sorghum water extract improves the performance of camelina (Camelina sativa (L.) crantz.) under salt stress. Plants 10(4):749. https://doi.org/10.3390/plants10040749
+PubMed Central
+Google Scholar
+Waraich EA, Ahmad M, Soufan W, Manzoor MT, Ahmad Z, Habib-Ur-Rahman M, El Sabagh A (2021) Seed priming with sulfhydral thiourea enhances the performance of Camelina sativa L. under heat stress conditions. Agronomy 11(9):1875. https://doi.org/10.3390/agronomy11091875
+Google Scholar
+Nadali F, Asghari HR, Abbasdokht H, Dorostkar V (2021) Bagheri M (2021) Improved Quinoa Growth, Physiological Response, and Yield by Hydropriming Under Drought Stress Conditions. Gesunde Pflanzen 73:53–66. https://doi.org/10.1007/s10343-020-00527-1
+Google Scholar
+Ji Z, Liu Z, Han Y, Sun Y (2022) Exogenous dopamine promotes photosynthesis and carbohydrate metabolism of downy mildew-infected cucumber. Sci Hortic-amsterdam 295:110842. https://doi.org/10.1016/j.scienta.2021.110842
+Google Scholar
+Liu FJ, Zhang XW, Cai BB, Pan DY, Fu X, Bi HG, Ai XZ (2020) Physiological response and transcription profiling analysis reveal the role of glutathione in H2S-induced chilling stress tolerance of cucumber seedlings. Plant Sci 291:110363. https://doi.org/10.1007/s11120-021-00850-2
+Google Scholar
+Kataria S, Jain M, Rastogi A, Brestic M (2021) Static magnetic field treatment enhanced photosynthetic performance in soybean under supplemental ultraviolet-B radiation. Photosynth Res 150:263–278. https://doi.org/10.1007/s11120-021-00850-2
+Google Scholar
+Baghel L, Kataria S, Guruprasad KN (2018) Effect of static magnetic field pretreatment on growth, photosynthetic performance and yield of soybean under water stress. 56:718–730. https://doi.org/10.1007/s11099-017-0722-3
+Fodorpataki L, Molnar K, Tompa B, Plugaru SRC (2019) Priming with vitamin U enhances cold tolerance of lettuce (Lactuca sativa L). Not Bot Horti Agrobo 47(3):592–598. https://doi.org/10.15835/NBHA47311433
+Google Scholar
+Antoniou C, Xenofontos R, Chatzimichail G, Christou A, Kashfi K, Fotopoulos V (2020) Exploring the potential of nitric oxide and hydrogen sulfide (NOSH)-releasing synthetic compounds as novel priming agents against drought stress in Medicago sativa plants. Biomolecules 10(1):120. https://doi.org/10.3390/biom10010120
+PubMed Central
+Google Scholar
+Umnajkitikorn K, Fukudome M, Uchiumi T, Teaumroong N (2021) Elevated nitrogen priming induced oxinitro-responses and water deficit tolerance in rice. Plants 10(2):381. https://doi.org/10.3390/plants10020381
+PubMed Central
+Google Scholar
+Shasmita, Mohapatra D, Mohapatra PK, Naik SK, Mukherjee AK (2019) Priming with salicylic acid induces defense against bacterial blight disease by modulating rice plant photosystem II and antioxidant enzymes activity. Physiol Molecul Plant P 108:101427. https://doi.org/10.1016/j.pmpp.2019.101427
+Sen A, Puthur JT (2021) Halo-and UV-B priming-mediated drought tolerance and recovery in rice seedlings. Plant Stress 2:100011. https://doi.org/10.1016/j.stress.2021.100011
+Google Scholar
+Thomas TTD, Dinakar C, Puthur JT (2020) Effect of UV-B priming on the abiotic stress tolerance of stress-sensitive rice seedlings: Priming imprints and cross-tolerance. Plant Physiol Bioch 147:21–30. https://doi.org/10.1016/j.plaphy.2019.12.002
+Google Scholar
+Sheteiwy MS, Gong DT, Gao Y, Pan RH, Hu J, Guan YJ (2018) Priming with methyl jasmonate alleviates polyethylene glycol-induced osmotic stress in rice seeds by regulating the seed metabolic profile. Environ Exp Bot 153:236–248. https://doi.org/10.1016/j.envexpbot.2018.06.001
+Google Scholar
+Joshi NC, Yadav D, Ratner K, Kamara I, Aviv-Sharon E, Irihimovitch V, Charuvi D (2020) Sodium hydrosulfide priming improves the response of photosynthesis to overnight frost and day high light in avocado (Persea americana Mill, cv.‘Hass’). Physiol Plant 168(2):394–405. https://doi.org/10.1111/ppl.13023
+Google Scholar
+Ahmad F, Kamal A, Singh A, Ashfaque F, Alamri S, Siddiqui MH, Khan MIR (2021) Seed priming with gibberellic acid induces high salinity tolerance in Pisum sativum through antioxidants, secondary metabolites and up-regulation of antiporter genes. Plant Biol 23:113–121. https://doi.org/10.1111/plb.13187
+Google Scholar
+Nazir F, Hussain A, Fariduddin Q (2019) Hydrogen peroxide modulate photosynthesis and antioxidant systems in tomato (Solanum lycopersicum L.) plants under copper stress. Chemosphere 230:544–558. https://doi.org/10.1016/j.chemosphere.2019.05.001
+Google Scholar
+Fan Y, Ma C, Huang Z, Abid M, Jiang S, Dai T, Zhang W, Ma S, Jiang D, Han X (2018) Heat priming during early reproductive stages enhances thermo-tolerance to post-anthesis heat stress via improving photosynthesis and plant productivity in winter wheat (Triticum aestivum L.). Front Plant Sci 9:805. https://doi.org/10.3389/fpls.2018.00805
+PubMed Central
+Google Scholar
+Gao J, Luo Q, Sun C, Hu H, Wang F, Tian Z, Jiang D, Cao W, Dai T (2019) Low nitrogen priming enhances photosynthesis adaptation to water-deficit stress in winter wheat (Triticum aestivum L.) seedlings. Front Plant Sci 10:818. https://doi.org/10.3389/fpls.2019.00818
+PubMed Central
+Google Scholar
+Habib N, Ali Q, Ali S, Javed MT, Haider MZ, Perveen R, Shahid MR, Rizwan M, Abdel-Daim MM, Elkelish A, Bin-Jumah M (2020) Use of nitric oxide and hydrogen peroxide for better yield of wheat (Triticum aestivum L.) under water deficit conditions: growth, osmoregulation, and antioxidative defense mechanism. Plants 9(2):285. https://doi.org/10.3390/plants9020285
+PubMed Central
+Google Scholar
+Abid M, Hakeem A, Shao YH, Liu Y, Zahoor R, Fan YH, Jiang SY, Ata-Ul-Karim ST, Tian ZW, Jiang D, Snider JL, Dai TB (2018) Seed osmopriming invokes stress memory against post-germinative drought stress in wheat (Triticum aestivum L.). Environ Exp Bot 145:12–20. https://doi.org/10.1016/j.envexpbot.2017.10.002
+Google Scholar
+Hussain A, Rizwan M, Ali Q, Ali S (2019) Seed priming with silicon nanoparticles improved the biomass and yield while reduced the oxidative stress and cadmium concentration in wheat grains. Environ Sci Pollut Res Int 26(7579–7588):1. https://doi.org/10.1007/s11356-019-04210-5
+Google Scholar
+Sagervanshi A, Naeem A, Geilfus CM, Kaiser H, Mühling KH (2021) One-time abscisic acid priming induces long-term salinity resistance in Vicia faba: Changes in key transcripts, metabolites, and ionic relations. Physiol Plant 172(1):146–161. https://doi.org/10.1111/ppl.13315
+Google Scholar
+Nouairi I, Jalali K, Zribi F, Barhoumi F, Zribi K, Mhadhbi H (2019) Seed priming with calcium chloride improves the photosynthesis performance of faba bean plants subjected to cadmium stress. Photosynthetica 57(2):438–445. https://doi.org/10.32615/ps.2019.055
+Google Scholar
+Tankari M, Wang C, Ma HY, Li XN, Li L, Soothar RK, Cui NB, Zaman-Allah M, Hao WP, Liu FL, Wang YS (2021) Drought priming improved water status, photosynthesis and water productivity of cowpea during post-anthesis drought stress. Ag Water Manage 245:106565. https://doi.org/10.1016/j.agwat.2020.106565
+Google Scholar
+Araújo GD, Paula-Marinho SD, Pinheiro SKD, Miguel ED, Lopes LD, Marques EC, de Carvalho HH, Gomes E (2021) H2O2 priming promotes salt tolerance in maize by protecting chloroplasts ultrastructure and primary metabolites modulation. Plant Sci 303:110774. https://doi.org/10.1016/j.plantsci.2020.110774
+Google Scholar
+Salam A, Khan AR, Liu L, Yang SQ, Azhar W, Ulhassan Z, Zeeshan M, Wu JY, Fan XM, Gan YB (2022) Seed priming with zinc oxide nanoparticles downplayed ultrastructural damage and improved photosynthetic apparatus in maize under cobalt stress. J Hazard Mater 423:127021. https://doi.org/10.1016/j.jhazmat.2021.127021
+Google Scholar
+Sayre R (2010) Microalgae: The Potential for Carbon Capture. Bioscience 60(9):722–727. https://doi.org/10.1525/bio.2010.60.9.9
+Google Scholar
+Cancela Á, Álvarez X, Sánchez Á, Ortiz L, Somoza L (2019) Microalgae cultivation and harvesting for bioenergy production. Bioresour Technol Rep 8:100333. https://doi.org/10.1016/j.biteb.2019.100333
+Google Scholar
+Valdovinos-Garcia EM, Barajas-Fernandez J, Olan-Acosta MD, Petriz-Prieto MA, Guzman-Lopez A, Bravo-Sanchez MG (2020) Techno-Economic Study of CO2 Capture of a Thermoelectric Plant Using Microalgae (Chlorella vulgaris) for Production of Feedstock for Bioenergy. Energies 13(2):413. https://doi.org/10.3390/en13020413
+Google Scholar
+Morales M, Sanchez L, Revah S (2018) The impact of environmental factors on carbon dioxide fixation by microalgae. Fems Microbiol Lett 365(3). https://doi.org/10.1093/femsle/fnx262
+Guarnieri MT, Pienkos PT (2015) Algal omics: unlocking bioproduct diversity in algae cell factories. Photosynth Res 123(3):255–263. https://doi.org/10.1007/s11120-014-9989-4
+Google Scholar
+Valledor L, Furuhashi T, Hanak AM, Weckwerth W (2013) Systemic Cold Stress Adaptation of Chlamydomonas reinhardtii. Mol Cell Proteomics 12(8):2032–2047. https://doi.org/10.1074/mcp.M112.026765
+PubMed Central
+Google Scholar
+Manjre S, Paul K, Patil S, Pai P, Banerjee A, Sarkar P, Teredesai A, Shukla MR, Dasgupta S (2022) Evaluating the effect of seasonal conditions on metabolism and photosynthetic performance of Picochlorum sp. and its influence on biomass productivity. Bioresour Technol Rep 18:101029. https://doi.org/10.1016/j.biteb.2022.101029
+Google Scholar
+Artz J, Muller TE, Thenert K, Kleinekorte J, Meys R, Sternberg A, Bardow A, Leitner W (2018) Sustainable Conversion of Carbon Dioxide: An Integrated Review of Catalysis and Life Cycle Assessment. Chem Rev 118(2):434–504. https://doi.org/10.1021/acs.chemrev.7b00435
+Google Scholar
+Zhu YQ, Romain C, Williams CK (2016) Sustainable polymers from renewable resources. Nature 540(7633):354–362. https://doi.org/10.1038/nature21001
+Google Scholar
+Grignard B, Gennen S, Jérôme C, Kleij AW, Detrembleur C (2019) Advances in the use of CO2 as a renewable feedstock for the synthesis of polymers. Chem Soc Rev 48(16):4466–4514. https://doi.org/10.1039/C9CS00047J
+Google Scholar
+Liu Q, Wu LP, Jackstell R, Beller M (2015) Using carbon dioxide as a building block in organic synthesis. Nat Commun 6. https://doi.org/10.1038/ncomms6933
+Zhang XY, Fevre M, Jones GO, Waymouth RM (2018) Catalysis as an Enabling Science for Sustainable Polymers. Chem Rev 118(2):839–885. https://doi.org/10.1021/acs.chemrev.7b00329
+Google Scholar
+Huang J, Worch JC, Dove P, Coulembier O (2020) Update and Challenges in Carbon Dioxide-Based Polycarbonate Synthesis. ChemSusChem 13(3):469–487. https://doi.org/10.1002/cssc.201902719
+Google Scholar
+Wang YY, Darensbourg DJ (2018) Carbon dioxide-based functional polycarbonates: Metal catalyzed copolymerization of CO2 and epoxides. Coordin Chem Rev 372:85–100. https://doi.org/10.1016/j.ccr.2018.06.004
+Google Scholar
+Muthuraj R, Mekonnen T (2018) Recent progress in carbon dioxide (CO2) as feedstock for sustainable materials development: Co-polymers and polymer blends. Polymer 145:348–373. https://doi.org/10.1016/j.polymer.2018.04.078
+Google Scholar
+Deacy AC, Kilpatrick AFR, Regoutz A, Williams CK (2020) Understanding metal synergy in heterodinuclear catalysts for the copolymerization of CO2 and epoxides. Nat Chem 12(4):372–380. https://doi.org/10.1038/s41557-020-0450-3
+Google Scholar
+von der Assen N, Bardow A (2014) Life cycle assessment of polyols for polyurethane production using CO2 as feedstock: insights from an industrial case study. Green Chem 16(6):3272–3280. https://doi.org/10.1039/c4gc00513a
+Google Scholar
+Lu XB, Ren WM, Wu GP (2012) CO2 Copolymers from Epoxides: Catalyst Activity, Product Selectivity, and Stereochemistry Control. Acc Chem Res 45(10):1721–1735. https://doi.org/10.1021/ar300035z
+Google Scholar
+Zhang YY, Wu GP, Darensbourg DJ (2020) CO2-based block copolymers: Present and future designs. Trends Chem 2:750–763. https://doi.org/10.1016/j.trechm.2020.05.002
+Google Scholar
+Liu MS, Wang X, Jiang YC, Sun JM, Arai M (2019) Hydrogen bond activation strategy for cyclic carbonates synthesis from epoxides and CO2: current state-of-the art of catalyst development and reaction analysis. Catal Rev 61(2):214–269. https://doi.org/10.1080/01614940.2018.1550243
+Google Scholar
+Taherimehr M, Pescarmona PP (2014) Green Polycarbonates Prepared by the Copolymerization of CO2 with Epoxides. J Appl Polym Sci 131(21):41141. https://doi.org/10.1002/app.41141
+Google Scholar
+Taherimehr M, Al-Amsyar SM, Whiteoak CJ, Kleij AW, Pescarmona PP (2013) High activity and switchable selectivity in the synthesis of cyclic and polymeric cyclohexene carbonates with iron amino triphenolate catalysts. Green Chem 15(11):3083–3090. https://doi.org/10.1039/c3gc41303a
+Google Scholar
+Pescarmona PP, Taherimehr M (2012) Challenges in the catalytic synthesis of cyclic and polymeric carbonates from epoxides and CO2. Catal Sci Technol 2(11):2169–2187. https://doi.org/10.1039/c2cy20365k
+Google Scholar
+Kamphuis AJ, Picchioni F, Pescarmona PP (2019) CO2-fixation into cyclic and polymeric carbonates: principles and applications. Green Chem 21(3):406–448. https://doi.org/10.1039/c8gc03086c
+Google Scholar
+Mousavi B, Chaemchuen S, Moosavi B, Zhou K, Yusubov M, Verpoort F (2017) CO2 Cycloaddition to Epoxides by using M-DABCO Metal-Organic Frameworks and the Influence of the Synthetic Method on Catalytic Reactivity. Chemistryopen 6(5):674–680. https://doi.org/10.1002/open.201700060
+PubMed Central
+Google Scholar
+Chen C, Zhang J, Li GH, Shen P, Jin HC, Zhang N (2014) Two coordination polymers constructed from a multidentate carboxylic acid ligand with a tertiary amine serve as acid-base catalysts for the synthesis of chloropropene carbonate from CO2 under atmospheric pressure. Dalton T 43(37):13965–13971. https://doi.org/10.1039/c4dt00908h
+Google Scholar
+Huh S (2019) Direct Catalytic Conversion of CO2 to Cyclic Organic Carbonates under Mild Reaction Conditions by Metal-Organic Frameworks. Catalysts 9(1). https://doi.org/10.3390/catal9010034
+Singh M, Solanki P, Patel P, Mondal A, Neogi S (2019) Highly Active Ultrasmall Ni Nanoparticle Embedded Inside a Robust Metal-Organic Framework: Remarkably Improved Adsorption, Selectivity, and Solvent-Free Efficient Fixation of CO2. Inorg Chem 58(12):8100–8110. https://doi.org/10.1021/acs.inorgchem.9b00833
+Google Scholar
+Mazari SA, Hossain N, Basirun WJ, Mubarak NM, Abro R, Sabzoi N, Shah A (2021) An overview of catalytic conversion of CO2 into fuels and chemicals using metal organic frameworks. Process Saf Environ 149:67–92. https://doi.org/10.1016/j.psep.2020.10.025
+Google Scholar
+Li XY, Ma LN, Liu Y, Hou L, Wang YY, Zhu ZH (2018) Honeycomb Metal-Organic Framework with Lewis Acidic and Basic Bifunctional Sites: Selective Adsorption and CO2 Catalytic Fixation. ACS Appl Mater Inter 10(13):10965–10973. https://doi.org/10.1021/acsami.8b01291
+Google Scholar
+Anastas P, Eghbali N (2010) Green Chemistry: Principles and Practice. Chem Soc Rev 39(1):301–312. https://doi.org/10.1039/b918763b
+Google Scholar
+Yu KMK, Curcic I, Gabriel J, Tsang SCE (2008) Recent Advances in CO2 Capture and Utilization. Chemsuschem 1(11):893–899. https://doi.org/10.1002/cssc.200800169
+Google Scholar
+Chauvy R, Meunier N, Thomas D, de Weireld G (2019) Selecting emerging CO2 utilization products for short- to mid-term deployment. Appl Energ 236:662–680. https://doi.org/10.1016/j.apenergy.2018.11.096
+Google Scholar
+Zhang L, Merino-Garcia I, Albo J, Sanchez-Sanchez CM (2020) Electrochemical CO2 reduction reaction on cost-effective oxide-derived copper and transition metal-nitrogen-carbon catalysts. Curr Opin Electroche 23:65–73. https://doi.org/10.1016/j.coelec.2020.04.005
+Google Scholar
+Jia FL, Yu XX, Zhang LZ (2014) Enhanced selectivity for the electrochemical reduction of CO2 to alcohols in aqueous solution with nanostructured Cu-Au alloy as catalyst. J Power Sources 252:85–89. https://doi.org/10.1016/j.jpowsour.2013.12.002
+Google Scholar
+Roymahapatra G, Dash MK, Ghosh A, Bag A, Mishra S, Maity S (2022) Hydrogen Storage on Lithium Chloride / Lithium Bromide Surface at Cryogenic Temperature. ES Energy Environ 18:90–100. https://doi.org/10.30919/esee8c756
+Google Scholar
+Huang Z, Grim G, Schaidle J, Tao L (2020) Using waste CO2 to increase ethanol production from corn ethanol biorefineries: Techno-economic analysis. Appl Energ 280. https://doi.org/10.1016/j.apenergy.2020.115964
+Tang YH, Huang Y, Gan WT, Xia A, Liao Q, Zhu XQ (2021) Ethanol production from gas fermentation: Rapid enrichment and domestication of bacterial community with continuous CO/CO2 gas. Renew Energ 175:337–344. https://doi.org/10.1016/j.renene.2021.04.134
+Google Scholar
+Jack J, Lo J, Donohue B, Maness PC, Ren ZJ (2020) High rate CO2 valorization to organics via CO mediated silica nanoparticle enhanced fermentation. Appl Energ 279:115725. https://doi.org/10.1016/j.apenergy.2020.115725
+Google Scholar
+Wu YJ, Ge SB, Xia CL, Cai LP, Mei CT, Sonne C, Park YK, Kim YM, Chen WH, Chang JS, Lam SS (2020) Using low carbon footprint high-pressure carbon dioxide in bioconversion of aspen branch waste for sustainable bioethanol production. Bioresour Technol 313:123675. https://doi.org/10.1016/j.biortech.2020.123675
+Google Scholar
+Lu Q, Jiao F (2016) Electrochemical CO2 reduction: Electrocatalyst, reaction mechanism, and process engineering. Nano Energy 29:439–456. https://doi.org/10.1016/j.nanoen.2016.04.009
+Google Scholar
+Ma YP, Hou CX, Kimura H, Xie XB, Jiang HY, Sun XQ, Yang XY, Zhang YP, Du W (2023) Recent advances in the application of carbon-based electrode materials for high-performance zinc ion capacitors: a mini review. Adv Compos Hybrid Ma 6(2):59. https://doi.org/10.1007/s42114-023-00636-1
+Google Scholar
+Hou CX, Yang WY, Kimura H, Xie XB, Zhang XY, Sun XQ, Yu ZP, Yang XY, Zhang YP, Wang B, Xu BB, Sridhar D, Algadi H, Guo ZH, Du W (2023) Boosted lithium storage performance by local build-in electric field derived by oxygen vacancies in 3D holey N-doped carbon structure decorated with molybdenum dioxide. J Mater Sci Technol 142:185–195. https://doi.org/10.30919/es1017
+Google Scholar
+Yang H, Hu YW, Chen JJ, Balogun MS, Fang PP, Zhang SQ, Chen J, Tong YX (2019) Intermediates Adsorption Engineering of CO2 Electroreduction Reaction in Highly Selective Heterostructure Cu-Based Electrocatalysts for CO Production. Adv Energy Mater 9(27). https://doi.org/10.1002/aenm.201901396
+Cui H, Guo Y, Guo L, Wang L, Zhou Z, Peng Z (2018) Heteroatom-doped carbon materials and their composites as electrocatalysts for CO2 reduction. J Mater Chem A 6(39):18782–18793. https://doi.org/10.1039/C8TA07430E
+Google Scholar
+Gao D, Sinev I, Scholten F, Arán-Ais RM, Divins NJ, Kvashnina K, Timoshenko J, Roldan Cuenya B (2019) Selective CO2 Electroreduction to Ethylene and Multicarbon Alcohols via Electrolyte-Driven Nanostructuring. Angew Chem Int Ed Engl 58(47):17047–17053. https://doi.org/10.1002/anie.201910155
+PubMed Central
+Google Scholar
+Li YC, Wang Z, Yuan T, Nam DH, Luo M, Wicks J, Chen B, Li J, Li F, de Arquer FPG, Wang Y, Dinh CT, Voznyy O, Sinton D, Sargent EH (2019) Binding Site Diversity Promotes CO2 Electroreduction to Ethanol. J Am Chem Soc 141(21):8584–8591. https://doi.org/10.1021/jacs.9b02945
+Google Scholar
+Zhang HQ, Liu HI, Mai JP, Ren YX, Wang RJ, Li Xin, Deng QJ, Zhang RZ, Wang N (2022) Design of Self-Wetting Interface between Garnet Solid Electrolyte and Lithium Metal Electrode. Eng Sci 20:199–208. https://doi.org/10.30919/es8e698
+Google Scholar
+Sirikasemsuk S, Vengsungnle P, Eiamsa-ard S, Naphon P (2024) Thermal Management of Prismatic LiFePO4 Battery Module with Inversed-Zigzag Channeled Ferrofluid Flows. Eng Sci 27:1017. https://doi.org/10.30919/es1017
+Google Scholar
+Lv KL, Fan YC, Zhu Y, Yuan Y, Wang JR, Zhu Y, Zhang QF (2018) Elastic Ag-anchored N-doped graphene/carbon foam for the selective electrochemical reduction of carbon dioxide to ethanol. J Mater Chem A 6(12):5025–5031. https://doi.org/10.1039/c7ta10802h
+Google Scholar
+Popovic S, Smiljanic M, Jovanovic P, Vavra J, Buonsanti R, Hodnik N (2020) Stability and Degradation Mechanisms of Copper-Based Catalysts for Electrochemical CO2 Reduction. Angew Chem Int Edit 59(35):14736–14746. https://doi.org/10.1002/anie.202000617
+Google Scholar
+Su XZ, Jiang ZL, Zhou J, Liu HJ, Zhou DN, Shang HS, Ni XM, Peng Z, Yang F, Chen WX, Qi ZM, Wang DS, Wang Y (2022) Complementary Operando Spectroscopy identification of in-situ generated metastable charge-asymmetry Cu2-CuN3 clusters for CO2 reduction to ethanol. Nat Commun 13(1). https://doi.org/10.1038/s41467-022-29035-8
+Karapinar D, Huan NT, Sahraie NR, Li JK, Wakerley D, Touati N, Zanna S, Taverna D, Tizei LHG, Zitolo A, Jaouen F, Mougel V, Fontecave M (2019) Electroreduction of CO2 on Single-Site Copper-Nitrogen-Doped Carbon Material: Selective Formation of Ethanol and Reversible Restructuration of the Metal Sites. Angew Chem Int Edit 58(42):15098–15103. https://doi.org/10.1002/anie.201907994
+Google Scholar
+Kim JY, Park W, Choi C, Kim G, Cho KM, Lim J, Kim SJ, Al-Saggaf A, Gereige I, Lee H, Jung WB, Jung Y, Jung HT (2021) High Facets on Nanowrinkled Cu via Chemical Vapor Deposition Graphene Growth for Efficient CO2 Reduction into Ethanol. ACS Catal 11(9):5658–5665. https://doi.org/10.1021/acscatal.0c05263
+Google Scholar
+Ren D, Ang BSH, Yeo BS (2016) Tuning the Selectivity of Carbon Dioxide Electroreduction toward Ethanol on Oxide-Derived CuxZn Catalysts. ACS Catal 6(12):8239–8247. https://doi.org/10.1021/acscatal.6b02162
+Google Scholar
+Dongare S, Singh N, Bhunia H, Bajpai PK (2021) Electrochemical reduction of CO2 using oxide based Cu and Zn bimetallic catalyst. Electrochim Acta 392:138988. https://doi.org/10.1016/j.electacta.2021.138988
+Google Scholar
+Wang P, Yang H, Tang C, Wu Y, Zheng Y, Cheng T, Davey K, Huang XQ, Qiao SZ (2022) Boosting electrocatalytic CO2–to–ethanolproduction via asymmetric C-C coupling. Nat Commun 13:3754. https://doi.org/10.1038/s41467-022-31427-9
+PubMed Central
+Google Scholar
+Wang JH, Yang H, Liu QQ, Liu Q, Li XT, Lv XZ, Cheng T, Wu HB (2021) Fastening Br- Ions at Copper-Molecule Interface Enables Highly Efficient Electroreduction of CO2 to Ethanol. ACS Energ Lett 6(2):437–444. https://doi.org/10.1021/acsenergylett.0c02364
+Google Scholar
+Wang ZJ, Song H, Liu HM, Ye JH (2020) Coupling of Solar Energy and Thermal Energy for Carbon Dioxide Reduction: Status and Prospects. Angew Chem Int Edit 59(21):8016–8035. https://doi.org/10.1002/anie.201907443
+Google Scholar
+Zhou YF, Feng WF, Xu YB, Liu XG, Wang S, Lv ZQ, Li X, Burcar E, Wang Z, Yang ZL (2024) Development of Silicon-Based Anode for Lithium-ion Batteries and Its Application in Solid-State Electrolytes. Eng Sci 28:1060. https://doi.org/10.30919/es1060
+Google Scholar
+Liu HM, Li M, Dao TD, Liu YY, Zhou W, Liu LQ, Meng XG, Nagao T, Ye JH (2016) Design of PdAu alloy plasmonic nanoparticles for improved catalytic performance in CO2 reduction with visible light irradiation. Nano Energy 26:398–404. https://doi.org/10.1016/j.nanoen.2016.05.045
+Google Scholar
+Li XD, Sun YF, Xu JQ, Shao YJ, Wu J, Xu XL, Pan Y, Ju HX, Zhu JF, Xie Y (2019) Selective visible-light-driven photocatalytic CO2 reduction to CH4 mediated by atomically thin CuIn5S8 layers. Nat Energy 4(8):690–699. https://doi.org/10.1038/s41560-019-0431-1
+Google Scholar
+Wu YMA, McNulty I, Liu C, Lau KC, Liu Q, Paulikas AP, Sun CJ, Cai ZH, Guest JR, Ren Y, Stamenkovic V, Curtiss LA, Liu YZ (2019) Rajh T (2020) Facet-dependent active sites of a single Cu2O particle photocatalyst for CO2 reduction to methanol (vol 74, pg 251. Nat Energy 5(1):89–89. https://doi.org/10.1038/s41560-019-0523-y
+Google Scholar
+Singh MR, Bell AT (2016) Design of an artificial photosynthetic system for production of alcohols in high concentration from CO2. Energ Environ Sci 9(1):193–199. https://doi.org/10.1039/c5ee02783g
+Google Scholar
+Sans J, Sanz V, Turon P, Aleman C (2021) Enhanced CO2 Conversion into Ethanol by Permanently Polarized Hydroxyapatite through C-C Coupling. ChemCatChem 13(23):5025–5033. https://doi.org/10.1002/cctc.202101157
+Google Scholar
+Kumaravel V, Bartlett J, Pillai SC (2020) Photoelectrochemical Conversion of Carbon Dioxide (CO2) into Fuels and Value-Added Products. ACS Energy Lett 5(2):486–519. https://doi.org/10.1021/acsenergylett.9b02585
+Google Scholar
+Xu YJ, Wang S, Yang J, Han B, Nie R, Wang JX, Wang JG, Jing HW (2018) In-situ grown nanocrystal TiO2 on 2D Ti3C2 nanosheets for artificial photosynthesis of chemical fuels. Nano Energy 51:442–450. https://doi.org/10.1016/j.nanoen.2018.06.086
+Google Scholar
+Dai WL, Xu H, Yu JJ, Hu X, Luo XB, Tu XM, Yang LX (2015) Photocatalytic reduction of CO2 into methanol and ethanol over conducting polymers modified Bi2WO6 microspheres under visible light. Appl Surf Sci 356:173–180. https://doi.org/10.1016/j.apsusc.2015.08.059
+Google Scholar
+Wang YS, Jia H, Gong H, Zhou LF, Qiu ZY, Fang X, Du T (2021) Fabrication of trimodal porous silica/g-C3N4 nanotubes for efficient visible light photocatalytic reduction of CO2 to ethanol. Chem Eng J 426. https://doi.org/10.1016/j.cej.2021.130877
+Cheng M, Yang S, Chen R, Zhu X, Liao Q, Huang Y (2017) Copper-decorated TiO2 nanorod thin films in optofluidic planar reactors for efficient photocatalytic reduction of CO2. Internat J Hydrogen Energ 42(15):9722–9732. https://doi.org/10.1016/j.ijhydene.2017.01.126
+Google Scholar
+Li PY, Liu L, An WJ, Wang H, Guo HX, Liang YH, Cui WQ (2020) Ultrathin porous g-C3N4 nanosheets modified with AuCu alloy nanoparticles and C-C coupling photothermal catalytic reduction of CO2 to ethanol. Appl Catal B-Environ 266. https://doi.org/10.1016/j.apcatb.2020.118618
+Elavarasan M, Yang WL, Velmurugan S, Chen JN, Yang TCK, Yokoi T (2022) Highly Efficient Photothermal Reduction of CO2 on Pd2Cu Dispersed TiO2 Photocatalyst and Operando DRIFT Spectroscopic Analysis of Reactive Intermediates. Nanomaterials 12(3). https://doi.org/10.3390/nano12030332
+Seeharaj P, Kongmun P, Paiplod P, Prakobmit S, Sriwong C, Kim-Lohsoontorn P, Vittayakorn N (2019) Ultrasonically-assisted surface modified TiO2/rGO/CeO2 heterojunction photocatalysts for conversion of CO2 to methanol and ethanol. Ultrason Sonochem 58. https://doi.org/10.1016/j.ultsonch.2019.104657
+Centi G, Quadrelli EA, Perathoner S (2013) Catalysis for CO2 conversion: a key technology for rapid introduction of renewable energy in the value chain of chemical industries. Energ Environ Sci 6(6):1711–1731. https://doi.org/10.1039/c3ee00056g
+Google Scholar
+Atsbha TA, Yoon T, Seongho P, Lee CJ (2021) A review on the catalytic conversion of CO2 using H2 for synthesis of CO, methanol, and hydrocarbons. J CO2 Util 44 https://doi.org/10.1016/j.jcou.2020.101413
+Snehesh AS, Mukunda HS, Mahapatra S, Dasappa S (2017) Fischer-Tropsch route for the conversion of biomass to liquid fuels - Technical and economic analysis. Energy 130:182–191. https://doi.org/10.1016/j.energy.2017.04.101
+Google Scholar
+Tock L, Gassner M, Marechal F (2010) Thermochemical production of liquid fuels from biomass: Thermo-economic modeling, process design and process integration analysis. Biomass Bioenerg 34(12):1838–1854. https://doi.org/10.1016/j.biombioe.2010.07.018
+Google Scholar
+Alsayegh S, Johnson JR, Ohs B, Wessling M (2019) Methanol production via direct carbon dioxide hydrogenation using hydrogen from photocatalytic water splitting: process development and techno-economic analysis. J Clean Prod 208:1446–1458. https://doi.org/10.1016/j.jclepro.2018.10.132
+Google Scholar
+Kim J, Henao CA, Johnson TA, Dedrick DE, Miller JE, Stechel EB, Maravelias CT (2011) Methanol production from CO2 using solar-thermal energy: process development and techno-economic analysis. Energ Environ Sci 4(9):3122–3132. https://doi.org/10.1016/J.JCLEPRO.2018.10.132
+Google Scholar
+Snehesh AS, Mukunda HS, Mahapatra S, Dasappa S (2017) Fischer-Tropsch route for the conversion of biomass to liquid fuels-Technical and economic analysis. Energy 130:182–191. https://doi.org/10.1016/j.energy.2017.04.101
+Google Scholar
+Asif M, Gao X, Lv HJ, Xi XG, Dong PY (2018) Catalytic hydrogenation of CO2 from 600 MW supercritical coal power plant to produce methanol: A techno-economic analysis. Int J Hydrogen Energ 43(5):2726–2741. https://doi.org/10.1016/j.ijhydene.2017.12.086
+Google Scholar
+Zhang C, Jun KW, Gao R, Kwak G, Park HG (2017) Carbon dioxide utilization in a gas-to-methanol process combined with CO2/Steam-mixed reforming: Techno-economic analysis. Fuel 190:303–311. https://doi.org/10.1016/j.fuel.2016.11.008
+Google Scholar
+Do TN, Kim J (2020) Green C2–C4 hydrocarbon production through direct CO2 hydrogenation with renewable hydrogen: process development and techno-economic analysis. Energ Convers Manage 214:112866. https://doi.org/10.1016/j.enconman.2020.112866
+Google Scholar
+Szima S, Cormos CC (2018) Improving methanol synthesis from carbon-free H2 and captured CO2: A techno-economic and environmental evaluation. J CO2 Util 24:555–563. https://doi.org/10.1016/j.jcou.2018.02.007
+Thonemann N (2019) Pizzol M (2019) Consequential life cycle assessment of carbon capture and utilization technologies within the chemical industry. Energ Environ Sci 12:2253–2263. https://doi.org/10.1039/c9ee00914k
+Google Scholar
+Cuellar-Franca RM, Azapagic A (2015) Carbon capture, storage and utilization technologies: a critical analysis and comparison of their life cycle environmental impacts. J CO2 Util 9:82–102. https://doi.org/10.1016/j.jcou.2014.12.001
+Galusnyak SC, Petrescu L, Chisalita DA, Cormos CC (2022) Life cycle assessment of methanol production and conversion into various chemical intermediates and products. Energy 259. https://doi.org/10.1016/j.energy.2022.124784
+All the authors thank Prof. Su Shiung Lam for revising the manuscript. And also thank the authorizations for figures and tables from all publishers.
+This work was financially supported by the Longzi Lake New Energy Laboratory project (No. LZHLH2023010) and Zhongyuan Scholar Workstation Funding Project (No.224400520013 and No.234400510016).
+Authors and Affiliations
+Henan Province Engineering Research Center for Forest Biomass Value-Added Products, School of Forestry, Henan Agricultural University, Zhengzhou, 450002, China
+Yiyang Li, Wenjie Lu, Haiping Gu, Wanxi Peng & Yifeng He
+College of Biology and Food Engineering, Huanghuai University, Zhumadian, 463000, China
+Department of Agricultural and Forestry Sciences, Henan Zhumadian Agricultural School, Zhumadian, 463000, China
+National and Local United Engineering Laboratory of Integrative Utilization Technology of Eucommia Ulmoides, College of Chemistry and Chemical Engineering, Jishou University, Jishou, 416000, People’s Republic of China
+College of Materials Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024, China
+Advanced Materials Division, Engineered Multifunctional Composites (EMC) Nanotech LLC, Knoxville, TN, 37934, USA
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Yiyang Li, Hui Ouyang, Wenjie Lu and Haiping Gu wrote the main manuscript text. Juanna Ren and Hua Hou prepared all the figures. FengYun Zhu, Erdong Liu, and Yifeng He edited the main manuscript text. Wanxi Peng revised and supported funding.
+Corresponding authors
+Correspondence to
+Wenjie Lu, Haiping Gu, Wanxi Peng or Yifeng He.
+Institutional review board statement
+Informed consent statement
+The authors declare no competing interests.
+Additional information
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Yiyang Li, Hui Ouyang, Wenjie Lu are Co-first authors.
+Supplementary Information
+Below is the link to the electronic supplementary material.
+Supplementary file1 (DOCX 1441 KB)
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+Li, Y., Zhu, F., Liu, E. et al. Carbon dioxide capture and green conversion to clean energy against global warming.
+Adv Compos Hybrid Mater 7, 147 (2024). https://doi.org/10.1007/s42114-024-00955-x
+Received: 23 February 2024
+Revised: 12 August 2024
+Accepted: 06 September 2024
+Published: 20 September 2024
+DOI: https://doi.org/10.1007/s42114-024-00955-x
+Anyone you share the following link with will be able to read this content:
+Sorry, a shareable link is not currently available for this article.
+Provided by the Springer Nature SharedIt content-sharing initiative
+- Get 10 units per month
+- Download Article/Chapter or eBook
+- 1 Unit = 1 Article or 1 Chapter
+- Cancel anytime
+- Climate Change Mitigation
+- Energy Conservation
+- Environmental Policy
+- Green Chemistry
+- Renewable Energy
+- Sustainability
+- Brierley AS, Kingsford MJ (2009) Impacts of Climate Change on Marine Organisms and Ecosystems. Curr Biol 19(14):R602–R614. https://doi.org/10.1016/j.cub.2009.05.046Article
+Google Scholar
+- Neeraj YS (2020) Carbon storage by mineral carbonation and industrial applications of CO2. Mater Sci Energ Technol 3:494–500. https://doi.org/10.1016/j.mset.2020.03.005Article
+Google Scholar
+- CO2 Emissions (2020) https://www.worldometers.info/co2-emissions/
+- Pata UK (2018) Renewable energy consumption, urbanization, financial development, income and CO2 emissions in Turkey: testing EKC hypothesis with structural breaks. J Clean Prod 187:770–779. https://doi.org/10.1016/j.jclepro.2018.03.236Article
+Google Scholar
+- Shahbaz M, Tiwari AK, Nasir M (2013) The effects of financial development, economic growth, coal consumption and trade openness on CO2 emissions in South Africa. Energ Policy 61:1452–1459. https://doi.org/10.1016/j.enpol.2013.07.006Article
+Google Scholar
+- UNFCC (2015) Adoption of the Paris Agreement. Proposal by the President Draft Decision: CP.21. https://unfccc.int/resource/docs/2015/cop21/eng/l09r01.pdf, Accessed 26th Apr 2023
+- Kanyama AC, Kanyama KC, Wester M, Snickare L, Soderberg IL (2018) Climate change mitigation efforts among transportation and manufacturing companies: The current state of efforts in Sweden according to available documentation. J Clean Prod 196:588–593. https://doi.org/10.1016/j.jclepro.2018.06.007Article
+Google Scholar
+- Martínez MCV, Santos-Jaén JM, Román RS, Martín-Cervantes PA (2022) Are gender and cultural diversities on board related to corporate CO2 emissions. J Clean Prod 363. https://doi.org/10.1016/j.jclepro.2022.132638
+- Aldieri L, Grafström J, Sundström K, Vinci CP (2019) Wind power and job creation. Sustainability 12(1):45. https://doi.org/10.3390/su12010045Article
+Google Scholar
+- Ali G, Pumijumnong N, Cui S (2017) Decarbonization action plans using hybrid modeling for a low-carbon society: The case of Bangkok Metropolitan Area. J Clean Prod 168:940–951. https://doi.org/10.1016/j.jclepro.2017.09.049Article
+Google Scholar
+- Adedoyin F, Ozturk I, Abubakar I, Kumeka T, Folarin O, Bekun FV (2020) Structural breaks in CO2 emissions: Are they caused by climate change protests or other factors? J Environ Manage 266. https://doi.org/10.1016/j.jenvman.2020.110628
+- Luis Miguez J, Porteiro J, Perez-Orozco R, Patino D, Rodriguez S (2018) Evolution of CO2 capture technology between 2007 and 2017 through the study of patent activity. Appl Energ 211:1282–1296. https://doi.org/10.1016/j.apenergy.2017.11.107Article
+Google Scholar
+- Pastero L, Curetti N, Ortenzi MA, Schiavoni M, Destefanis E, Pavese A (2019) CO2 capture and sequestration in stable Ca-oxalate, via Ca-ascorbate promoted green reaction. Sci Total Environ 666:1232–1244. https://doi.org/10.1016/j.scitotenv.2019.02.114Article
+Google Scholar
+- Leung DYC, Caramanna G, Maroto-Valer MM (2014) An overview of current status of carbon dioxide capture and storage technologies. Renew Sust Energ Rev 39:426–443. https://doi.org/10.1016/j.rser.2014.07.093Article
+Google Scholar
+- Sohaib Q, Muhammad A, Younas M, Rezakazemi M (2020) Modeling pre-combustion CO2 capture with tubular membrane contactor using ionic liquids at elevated temperatures. Sep Purif Technol 241. https://doi.org/10.1016/j.seppur.2020.116677
+- Schwiderowski P, Ruland H, Muhler M (2022) Current developments in CO2 hydrogenation towards methanol: A review related to industrial application. Curr Opin Green Sust Chem 38:100688. https://doi.org/10.1016/j.cogsc.2022.100688Article
+Google Scholar
+- Bao J, Lu WH, Zhao J, Bi XT (2018) Greenhouses for CO2 sequestration from atmosphere. Carbon Res Convers 1(2):183–190. https://doi.org/10.1016/j.crcon.2018.08.002Article
+Google Scholar
+- SundarRajan P, Gopinath KP, Greetham D, Antonysamy AJ (2019) A review on cleaner production of biofuel feedstock from integrated CO2 sequestration and wastewater treatment system. J Clean Prod 210:445–458. https://doi.org/10.1016/j.jclepro.2018.11.010Article
+Google Scholar
+- Kareya MS, Mariam I, Nesamma AA, Jutur PP (2020) CO2 sequestration by hybrid integrative photosynthesis (CO2-SHIP): A green initiative for multi-product biorefineries. Mater Sci Energ Technol 3:420–428. https://doi.org/10.1016/j.mset.2020.03.002Article
+Google Scholar
+- Köhl M, Martes LM (2023) Forests: A passive CO2 sink or an active CO2 pump? Forest Policy Econ 155:103040. https://doi.org/10.1016/j.forpol.2023.103040Article
+Google Scholar
+- Sgouridis F, Reay M, Cotchim S, Ma JJ, Radu A, Ullah S (2023) Stimulation of soil gross nitrogen transformations and nitrous oxide emission under free air CO2 enrichment in a mature temperate oak forest at BIFoR-FACE. Soil Biol Biochem 184:109072. https://doi.org/10.1016/j.soilbio.2023.109072Article
+Google Scholar
+- Wang ZS, Li RQ, Guo QC, Wang ZJ, Huang M, Cai CJ, Chen B (2023) Learning ensembles of process-based models for high accurately evaluating the one-hundred-year carbon sink potential of China’s forest. Heliyon 9(6):e17243Article
+PubMed Central
+Google Scholar
+- Zwart RWR, Boerrigter H, van der Drift A (2006) The impact of biomass pretreatment on the feasibility of overseas biomass conversion to Fischer-Tropsch products. Energy Fuels 20(5):2192–2197. https://doi.org/10.1021/ef060089fArticle
+Google Scholar
+- Grossman AR, Bhaya D, Apt KE, Kehoe DM (1995) Light-harvesting complexes in oxygenic photosynthesis: diversity, control, and evolution. Annu Rev Genet 29:231–288. https://doi.org/10.1146/annurev.ge.29.120195.001311Article
+Google Scholar
+- Huang B, Chen YE, Zhao YQ, Ding CB, Liao JQ, Hu C, Zhou LJ, Zhang ZW, Yuan S, Yuan M (2019) Exogenous Melatonin Alleviates Oxidative Damages and Protects Photosystem II in Maize Seedlings Under Drought Stress. Front Plant Sci 10. https://doi.org/10.3389/fpls.2019.00677
+- Ramzan M, Aslam MN, Akram S, Shah AA, Danish S, Islam W, Mustafa AMA, Al-Ghamdi AA, Alajmi AH (2021) Exogenous glutathione revealed protection to bacterial spot disease: Modulation of photosystem II and H2O2 scavenging antioxidant enzyme system in Capsicum annum L. J King Saud Univ Sci 33(1). https://doi.org/10.1016/j.jksus.2020.10.020
+- Sherin G, Aswathi KPR, Puthur JT (2022) Photosynthetic functions in plants subjected to stresses are positively influenced by priming. Plant Stress 4:100079. https://doi.org/10.1016/j.stress.2022.100079Article
+Google Scholar
+- Lotfi R, Ghassemi-Golezani K, Pessarakli M (2020) Salicylic acid regulates photosynthetic electron transfer and stomatal conductance of mung bean (Vigna radiata L.) under salinity stress. Biocatal Agr Biotechnol 26:101635. https://doi.org/10.1016/j.bcab.2020.101635Article
+Google Scholar
+- Liang D, Ni ZY, Xia H, Xie Y, Lv XL, Wang J, Lin LJ, Deng QX, Luo X (2019) Exogenous melatonin promotes biomass accumulation and photosynthesis of kiwifruit seedlings under drought stress. Sci Hortic-amsterdam 246:34–43. https://doi.org/10.1016/j.scienta.2018.10.058Article
+Google Scholar
+- Chavoushi M, Najafi F, Salimi A, Angaji SA (2020) Effect of salicylic acid and sodium nitroprusside on growth parameters, photosynthetic pigments and secondary metabolites of safflower under drought stress. Sci Hortic-amsterdam 259. https://doi.org/10.1016/j.scienta.2019.108823
+- Kataria S, Jain M, Rastogi A, Brestic M (2021) Static magnetic field treatment enhanced photosynthetic performance in soybean under supplemental ultraviolet-B radiation. Photosynth Res 150(1–3):263–278. https://doi.org/10.1007/s11120-021-00850-2Article
+Google Scholar
+- Mendanha T, Rosenqvist E, Hyldgaard BN, Doonan JH, Ottosen CO (2020) Drought priming effects on alleviating the photosynthetic limitations of wheat cultivars (Triticum aestivum L.) with contrasting tolerance to abiotic stresses. J Agron Crop Sci 206(6):651–664. https://doi.org/10.1111/jac.12404Article
+Google Scholar
+- Tankari M, Wang C, Ma HY, Li XN, Li L, Soothar RK, Cui NB, Zaman-Allah M, Hao WP, Liu FL, Wang YS (2021) Drought priming improved water status, photosynthesis and water productivity of cowpea during post-anthesis drought stress. Agr Water Manage 245. https://doi.org/10.1016/j.agwat.2020.106565
+- Hussain I, Siddique A, Ashraf MA, Rasheed R, Ibrahim M, Iqbal M, Akbar S, Imran M (2017) Does exogenous application of ascorbic acid modulate growth, photosynthetic pigments and oxidative defense in okra (Abelmoschus esculentus (L.) Moench) under lead stress? Acta Physiol Plant 39(6):144. https://doi.org/10.1007/s11738-017-2439-0Article
+Google Scholar
+- Liu B, Zhang L, Rusalepp L, Kaurilind E, Sulaiman HY, Püssa T, Niinemets Ü (2021) Heat priming improved heat tolerance of photosynthesis, enhanced terpenoid and benzenoid emission and phenolics accumulation in Achillea millefolium. Plant Cell Environ 44(7):2365–2385. https://doi.org/10.1111/pce.13830Article
+Google Scholar
+- Huang LP, Zhang L, Zeng RE, Wang XY, Zhang HJ, Wang LD, Liu SY, Wang XW, Chen TT (2020) Brassinosteroid priming improves peanut drought tolerance via eliminating inhibition on genes in photosynthesis and hormone signaling. Genes 11(8):919. https://doi.org/10.3390/genes11080919Article
+PubMed Central
+Google Scholar
+- Akram NA, Hafeez N, Farid-ul-Haq M, Ahmad A, Sadiq M, Ashraf M (2020) Foliage application and seed priming with nitric oxide causes mitigation of salinity-induced metabolic adversaries in broccoli (Brassica oleracea L.) plants. Acta Physiol Plant 42(10):155. https://doi.org/10.1007/s11738-020-03140-xArticle
+Google Scholar
+- Huang P, He LL, Abbas A, Hussain S, Hussain S, Du DL, Hafeez MB, Balooch S, Zahra N, Ren XL, Rafiq M, Saqib M (2021) Seed priming with sorghum water extract improves the performance of camelina (Camelina sativa (L.) crantz.) under salt stress. Plants 10(4):749. https://doi.org/10.3390/plants10040749Article
+PubMed Central
+Google Scholar
+- Waraich EA, Ahmad M, Soufan W, Manzoor MT, Ahmad Z, Habib-Ur-Rahman M, El Sabagh A (2021) Seed priming with sulfhydral thiourea enhances the performance of Camelina sativa L. under heat stress conditions. Agronomy 11(9):1875. https://doi.org/10.3390/agronomy11091875Article
+Google Scholar
+- Nadali F, Asghari HR, Abbasdokht H, Dorostkar V (2021) Bagheri M (2021) Improved Quinoa Growth, Physiological Response, and Yield by Hydropriming Under Drought Stress Conditions. Gesunde Pflanzen 73:53–66. https://doi.org/10.1007/s10343-020-00527-1Article
+Google Scholar
+- Ji Z, Liu Z, Han Y, Sun Y (2022) Exogenous dopamine promotes photosynthesis and carbohydrate metabolism of downy mildew-infected cucumber. Sci Hortic-amsterdam 295:110842. https://doi.org/10.1016/j.scienta.2021.110842Article
+Google Scholar
+- Liu FJ, Zhang XW, Cai BB, Pan DY, Fu X, Bi HG, Ai XZ (2020) Physiological response and transcription profiling analysis reveal the role of glutathione in H2S-induced chilling stress tolerance of cucumber seedlings. Plant Sci 291:110363. https://doi.org/10.1007/s11120-021-00850-2Article
+Google Scholar
+- Kataria S, Jain M, Rastogi A, Brestic M (2021) Static magnetic field treatment enhanced photosynthetic performance in soybean under supplemental ultraviolet-B radiation. Photosynth Res 150:263–278. https://doi.org/10.1007/s11120-021-00850-2Article
+Google Scholar
+- Baghel L, Kataria S, Guruprasad KN (2018) Effect of static magnetic field pretreatment on growth, photosynthetic performance and yield of soybean under water stress. 56:718–730. https://doi.org/10.1007/s11099-017-0722-3
+- Fodorpataki L, Molnar K, Tompa B, Plugaru SRC (2019) Priming with vitamin U enhances cold tolerance of lettuce (Lactuca sativa L). Not Bot Horti Agrobo 47(3):592–598. https://doi.org/10.15835/NBHA47311433Article
+Google Scholar
+- Antoniou C, Xenofontos R, Chatzimichail G, Christou A, Kashfi K, Fotopoulos V (2020) Exploring the potential of nitric oxide and hydrogen sulfide (NOSH)-releasing synthetic compounds as novel priming agents against drought stress in Medicago sativa plants. Biomolecules 10(1):120. https://doi.org/10.3390/biom10010120Article
+PubMed Central
+Google Scholar
+- Umnajkitikorn K, Fukudome M, Uchiumi T, Teaumroong N (2021) Elevated nitrogen priming induced oxinitro-responses and water deficit tolerance in rice. Plants 10(2):381. https://doi.org/10.3390/plants10020381Article
+PubMed Central
+Google Scholar
+- Shasmita, Mohapatra D, Mohapatra PK, Naik SK, Mukherjee AK (2019) Priming with salicylic acid induces defense against bacterial blight disease by modulating rice plant photosystem II and antioxidant enzymes activity. Physiol Molecul Plant P 108:101427. https://doi.org/10.1016/j.pmpp.2019.101427
+- Sen A, Puthur JT (2021) Halo-and UV-B priming-mediated drought tolerance and recovery in rice seedlings. Plant Stress 2:100011. https://doi.org/10.1016/j.stress.2021.100011Article
+Google Scholar
+- Thomas TTD, Dinakar C, Puthur JT (2020) Effect of UV-B priming on the abiotic stress tolerance of stress-sensitive rice seedlings: Priming imprints and cross-tolerance. Plant Physiol Bioch 147:21–30. https://doi.org/10.1016/j.plaphy.2019.12.002Article
+Google Scholar
+- Sheteiwy MS, Gong DT, Gao Y, Pan RH, Hu J, Guan YJ (2018) Priming with methyl jasmonate alleviates polyethylene glycol-induced osmotic stress in rice seeds by regulating the seed metabolic profile. Environ Exp Bot 153:236–248. https://doi.org/10.1016/j.envexpbot.2018.06.001Article
+Google Scholar
+- Joshi NC, Yadav D, Ratner K, Kamara I, Aviv-Sharon E, Irihimovitch V, Charuvi D (2020) Sodium hydrosulfide priming improves the response of photosynthesis to overnight frost and day high light in avocado (Persea americana Mill, cv.‘Hass’). Physiol Plant 168(2):394–405. https://doi.org/10.1111/ppl.13023Article
+Google Scholar
+- Ahmad F, Kamal A, Singh A, Ashfaque F, Alamri S, Siddiqui MH, Khan MIR (2021) Seed priming with gibberellic acid induces high salinity tolerance in Pisum sativum through antioxidants, secondary metabolites and up-regulation of antiporter genes. Plant Biol 23:113–121. https://doi.org/10.1111/plb.13187Article
+Google Scholar
+- Nazir F, Hussain A, Fariduddin Q (2019) Hydrogen peroxide modulate photosynthesis and antioxidant systems in tomato (Solanum lycopersicum L.) plants under copper stress. Chemosphere 230:544–558. https://doi.org/10.1016/j.chemosphere.2019.05.001Article
+Google Scholar
+- Fan Y, Ma C, Huang Z, Abid M, Jiang S, Dai T, Zhang W, Ma S, Jiang D, Han X (2018) Heat priming during early reproductive stages enhances thermo-tolerance to post-anthesis heat stress via improving photosynthesis and plant productivity in winter wheat (Triticum aestivum L.). Front Plant Sci 9:805. https://doi.org/10.3389/fpls.2018.00805Article
+PubMed Central
+Google Scholar
+- Gao J, Luo Q, Sun C, Hu H, Wang F, Tian Z, Jiang D, Cao W, Dai T (2019) Low nitrogen priming enhances photosynthesis adaptation to water-deficit stress in winter wheat (Triticum aestivum L.) seedlings. Front Plant Sci 10:818. https://doi.org/10.3389/fpls.2019.00818Article
+PubMed Central
+Google Scholar
+- Habib N, Ali Q, Ali S, Javed MT, Haider MZ, Perveen R, Shahid MR, Rizwan M, Abdel-Daim MM, Elkelish A, Bin-Jumah M (2020) Use of nitric oxide and hydrogen peroxide for better yield of wheat (Triticum aestivum L.) under water deficit conditions: growth, osmoregulation, and antioxidative defense mechanism. Plants 9(2):285. https://doi.org/10.3390/plants9020285Article
+PubMed Central
+Google Scholar
+- Abid M, Hakeem A, Shao YH, Liu Y, Zahoor R, Fan YH, Jiang SY, Ata-Ul-Karim ST, Tian ZW, Jiang D, Snider JL, Dai TB (2018) Seed osmopriming invokes stress memory against post-germinative drought stress in wheat (Triticum aestivum L.). Environ Exp Bot 145:12–20. https://doi.org/10.1016/j.envexpbot.2017.10.002Article
+Google Scholar
+- Hussain A, Rizwan M, Ali Q, Ali S (2019) Seed priming with silicon nanoparticles improved the biomass and yield while reduced the oxidative stress and cadmium concentration in wheat grains. Environ Sci Pollut Res Int 26(7579–7588):1. https://doi.org/10.1007/s11356-019-04210-5Article
+Google Scholar
+- Sagervanshi A, Naeem A, Geilfus CM, Kaiser H, Mühling KH (2021) One-time abscisic acid priming induces long-term salinity resistance in Vicia faba: Changes in key transcripts, metabolites, and ionic relations. Physiol Plant 172(1):146–161. https://doi.org/10.1111/ppl.13315Article
+Google Scholar
+- Nouairi I, Jalali K, Zribi F, Barhoumi F, Zribi K, Mhadhbi H (2019) Seed priming with calcium chloride improves the photosynthesis performance of faba bean plants subjected to cadmium stress. Photosynthetica 57(2):438–445. https://doi.org/10.32615/ps.2019.055Article
+Google Scholar
+- Tankari M, Wang C, Ma HY, Li XN, Li L, Soothar RK, Cui NB, Zaman-Allah M, Hao WP, Liu FL, Wang YS (2021) Drought priming improved water status, photosynthesis and water productivity of cowpea during post-anthesis drought stress. Ag Water Manage 245:106565. https://doi.org/10.1016/j.agwat.2020.106565Article
+Google Scholar
+- Araújo GD, Paula-Marinho SD, Pinheiro SKD, Miguel ED, Lopes LD, Marques EC, de Carvalho HH, Gomes E (2021) H2O2 priming promotes salt tolerance in maize by protecting chloroplasts ultrastructure and primary metabolites modulation. Plant Sci 303:110774. https://doi.org/10.1016/j.plantsci.2020.110774Article
+Google Scholar
+- Salam A, Khan AR, Liu L, Yang SQ, Azhar W, Ulhassan Z, Zeeshan M, Wu JY, Fan XM, Gan YB (2022) Seed priming with zinc oxide nanoparticles downplayed ultrastructural damage and improved photosynthetic apparatus in maize under cobalt stress. J Hazard Mater 423:127021. https://doi.org/10.1016/j.jhazmat.2021.127021Article
+Google Scholar
+- Sayre R (2010) Microalgae: The Potential for Carbon Capture. Bioscience 60(9):722–727. https://doi.org/10.1525/bio.2010.60.9.9Article
+Google Scholar
+- Cancela Á, Álvarez X, Sánchez Á, Ortiz L, Somoza L (2019) Microalgae cultivation and harvesting for bioenergy production. Bioresour Technol Rep 8:100333. https://doi.org/10.1016/j.biteb.2019.100333Article
+Google Scholar
+- Valdovinos-Garcia EM, Barajas-Fernandez J, Olan-Acosta MD, Petriz-Prieto MA, Guzman-Lopez A, Bravo-Sanchez MG (2020) Techno-Economic Study of CO2 Capture of a Thermoelectric Plant Using Microalgae (Chlorella vulgaris) for Production of Feedstock for Bioenergy. Energies 13(2):413. https://doi.org/10.3390/en13020413Article
+Google Scholar
+- Morales M, Sanchez L, Revah S (2018) The impact of environmental factors on carbon dioxide fixation by microalgae. Fems Microbiol Lett 365(3). https://doi.org/10.1093/femsle/fnx262
+- Guarnieri MT, Pienkos PT (2015) Algal omics: unlocking bioproduct diversity in algae cell factories. Photosynth Res 123(3):255–263. https://doi.org/10.1007/s11120-014-9989-4Article
+Google Scholar
+- Valledor L, Furuhashi T, Hanak AM, Weckwerth W (2013) Systemic Cold Stress Adaptation of Chlamydomonas reinhardtii. Mol Cell Proteomics 12(8):2032–2047. https://doi.org/10.1074/mcp.M112.026765Article
+PubMed Central
+Google Scholar
+- Manjre S, Paul K, Patil S, Pai P, Banerjee A, Sarkar P, Teredesai A, Shukla MR, Dasgupta S (2022) Evaluating the effect of seasonal conditions on metabolism and photosynthetic performance of Picochlorum sp. and its influence on biomass productivity. Bioresour Technol Rep 18:101029. https://doi.org/10.1016/j.biteb.2022.101029Article
+Google Scholar
+- Artz J, Muller TE, Thenert K, Kleinekorte J, Meys R, Sternberg A, Bardow A, Leitner W (2018) Sustainable Conversion of Carbon Dioxide: An Integrated Review of Catalysis and Life Cycle Assessment. Chem Rev 118(2):434–504. https://doi.org/10.1021/acs.chemrev.7b00435Article
+Google Scholar
+- Zhu YQ, Romain C, Williams CK (2016) Sustainable polymers from renewable resources. Nature 540(7633):354–362. https://doi.org/10.1038/nature21001Article
+Google Scholar
+- Grignard B, Gennen S, Jérôme C, Kleij AW, Detrembleur C (2019) Advances in the use of CO2 as a renewable feedstock for the synthesis of polymers. Chem Soc Rev 48(16):4466–4514. https://doi.org/10.1039/C9CS00047JArticle
+Google Scholar
+- Liu Q, Wu LP, Jackstell R, Beller M (2015) Using carbon dioxide as a building block in organic synthesis. Nat Commun 6. https://doi.org/10.1038/ncomms6933
+- Zhang XY, Fevre M, Jones GO, Waymouth RM (2018) Catalysis as an Enabling Science for Sustainable Polymers. Chem Rev 118(2):839–885. https://doi.org/10.1021/acs.chemrev.7b00329Article
+Google Scholar
+- Huang J, Worch JC, Dove P, Coulembier O (2020) Update and Challenges in Carbon Dioxide-Based Polycarbonate Synthesis. ChemSusChem 13(3):469–487. https://doi.org/10.1002/cssc.201902719Article
+Google Scholar
+- Wang YY, Darensbourg DJ (2018) Carbon dioxide-based functional polycarbonates: Metal catalyzed copolymerization of CO2 and epoxides. Coordin Chem Rev 372:85–100. https://doi.org/10.1016/j.ccr.2018.06.004Article
+Google Scholar
+- Muthuraj R, Mekonnen T (2018) Recent progress in carbon dioxide (CO2) as feedstock for sustainable materials development: Co-polymers and polymer blends. Polymer 145:348–373. https://doi.org/10.1016/j.polymer.2018.04.078Article
+Google Scholar
+- Deacy AC, Kilpatrick AFR, Regoutz A, Williams CK (2020) Understanding metal synergy in heterodinuclear catalysts for the copolymerization of CO2 and epoxides. Nat Chem 12(4):372–380. https://doi.org/10.1038/s41557-020-0450-3Article
+Google Scholar
+- von der Assen N, Bardow A (2014) Life cycle assessment of polyols for polyurethane production using CO2 as feedstock: insights from an industrial case study. Green Chem 16(6):3272–3280. https://doi.org/10.1039/c4gc00513aArticle
+Google Scholar
+- Lu XB, Ren WM, Wu GP (2012) CO2 Copolymers from Epoxides: Catalyst Activity, Product Selectivity, and Stereochemistry Control. Acc Chem Res 45(10):1721–1735. https://doi.org/10.1021/ar300035zArticle
+Google Scholar
+- Zhang YY, Wu GP, Darensbourg DJ (2020) CO2-based block copolymers: Present and future designs. Trends Chem 2:750–763. https://doi.org/10.1016/j.trechm.2020.05.002Article
+Google Scholar
+- Liu MS, Wang X, Jiang YC, Sun JM, Arai M (2019) Hydrogen bond activation strategy for cyclic carbonates synthesis from epoxides and CO2: current state-of-the art of catalyst development and reaction analysis. Catal Rev 61(2):214–269. https://doi.org/10.1080/01614940.2018.1550243Article
+Google Scholar
+- Taherimehr M, Pescarmona PP (2014) Green Polycarbonates Prepared by the Copolymerization of CO2 with Epoxides. J Appl Polym Sci 131(21):41141. https://doi.org/10.1002/app.41141Article
+Google Scholar
+- Taherimehr M, Al-Amsyar SM, Whiteoak CJ, Kleij AW, Pescarmona PP (2013) High activity and switchable selectivity in the synthesis of cyclic and polymeric cyclohexene carbonates with iron amino triphenolate catalysts. Green Chem 15(11):3083–3090. https://doi.org/10.1039/c3gc41303aArticle
+Google Scholar
+- Pescarmona PP, Taherimehr M (2012) Challenges in the catalytic synthesis of cyclic and polymeric carbonates from epoxides and CO2. Catal Sci Technol 2(11):2169–2187. https://doi.org/10.1039/c2cy20365kArticle
+Google Scholar
+- Kamphuis AJ, Picchioni F, Pescarmona PP (2019) CO2-fixation into cyclic and polymeric carbonates: principles and applications. Green Chem 21(3):406–448. https://doi.org/10.1039/c8gc03086cArticle
+Google Scholar
+- Mousavi B, Chaemchuen S, Moosavi B, Zhou K, Yusubov M, Verpoort F (2017) CO2 Cycloaddition to Epoxides by using M-DABCO Metal-Organic Frameworks and the Influence of the Synthetic Method on Catalytic Reactivity. Chemistryopen 6(5):674–680. https://doi.org/10.1002/open.201700060Article
+PubMed Central
+Google Scholar
+- Chen C, Zhang J, Li GH, Shen P, Jin HC, Zhang N (2014) Two coordination polymers constructed from a multidentate carboxylic acid ligand with a tertiary amine serve as acid-base catalysts for the synthesis of chloropropene carbonate from CO2 under atmospheric pressure. Dalton T 43(37):13965–13971. https://doi.org/10.1039/c4dt00908hArticle
+Google Scholar
+- Huh S (2019) Direct Catalytic Conversion of CO2 to Cyclic Organic Carbonates under Mild Reaction Conditions by Metal-Organic Frameworks. Catalysts 9(1). https://doi.org/10.3390/catal9010034
+- Singh M, Solanki P, Patel P, Mondal A, Neogi S (2019) Highly Active Ultrasmall Ni Nanoparticle Embedded Inside a Robust Metal-Organic Framework: Remarkably Improved Adsorption, Selectivity, and Solvent-Free Efficient Fixation of CO2. Inorg Chem 58(12):8100–8110. https://doi.org/10.1021/acs.inorgchem.9b00833Article
+Google Scholar
+- Mazari SA, Hossain N, Basirun WJ, Mubarak NM, Abro R, Sabzoi N, Shah A (2021) An overview of catalytic conversion of CO2 into fuels and chemicals using metal organic frameworks. Process Saf Environ 149:67–92. https://doi.org/10.1016/j.psep.2020.10.025Article
+Google Scholar
+- Li XY, Ma LN, Liu Y, Hou L, Wang YY, Zhu ZH (2018) Honeycomb Metal-Organic Framework with Lewis Acidic and Basic Bifunctional Sites: Selective Adsorption and CO2 Catalytic Fixation. ACS Appl Mater Inter 10(13):10965–10973. https://doi.org/10.1021/acsami.8b01291Article
+Google Scholar
+- Anastas P, Eghbali N (2010) Green Chemistry: Principles and Practice. Chem Soc Rev 39(1):301–312. https://doi.org/10.1039/b918763bArticle
+Google Scholar
+- Yu KMK, Curcic I, Gabriel J, Tsang SCE (2008) Recent Advances in CO2 Capture and Utilization. Chemsuschem 1(11):893–899. https://doi.org/10.1002/cssc.200800169Article
+Google Scholar
+- Chauvy R, Meunier N, Thomas D, de Weireld G (2019) Selecting emerging CO2 utilization products for short- to mid-term deployment. Appl Energ 236:662–680. https://doi.org/10.1016/j.apenergy.2018.11.096Article
+Google Scholar
+- Zhang L, Merino-Garcia I, Albo J, Sanchez-Sanchez CM (2020) Electrochemical CO2 reduction reaction on cost-effective oxide-derived copper and transition metal-nitrogen-carbon catalysts. Curr Opin Electroche 23:65–73. https://doi.org/10.1016/j.coelec.2020.04.005Article
+Google Scholar
+- Jia FL, Yu XX, Zhang LZ (2014) Enhanced selectivity for the electrochemical reduction of CO2 to alcohols in aqueous solution with nanostructured Cu-Au alloy as catalyst. J Power Sources 252:85–89. https://doi.org/10.1016/j.jpowsour.2013.12.002Article
+Google Scholar
+- Roymahapatra G, Dash MK, Ghosh A, Bag A, Mishra S, Maity S (2022) Hydrogen Storage on Lithium Chloride / Lithium Bromide Surface at Cryogenic Temperature. ES Energy Environ 18:90–100. https://doi.org/10.30919/esee8c756Article
+Google Scholar
+- Huang Z, Grim G, Schaidle J, Tao L (2020) Using waste CO2 to increase ethanol production from corn ethanol biorefineries: Techno-economic analysis. Appl Energ 280. https://doi.org/10.1016/j.apenergy.2020.115964
+- Tang YH, Huang Y, Gan WT, Xia A, Liao Q, Zhu XQ (2021) Ethanol production from gas fermentation: Rapid enrichment and domestication of bacterial community with continuous CO/CO2 gas. Renew Energ 175:337–344. https://doi.org/10.1016/j.renene.2021.04.134Article
+Google Scholar
+- Jack J, Lo J, Donohue B, Maness PC, Ren ZJ (2020) High rate CO2 valorization to organics via CO mediated silica nanoparticle enhanced fermentation. Appl Energ 279:115725. https://doi.org/10.1016/j.apenergy.2020.115725Article
+Google Scholar
+- Wu YJ, Ge SB, Xia CL, Cai LP, Mei CT, Sonne C, Park YK, Kim YM, Chen WH, Chang JS, Lam SS (2020) Using low carbon footprint high-pressure carbon dioxide in bioconversion of aspen branch waste for sustainable bioethanol production. Bioresour Technol 313:123675. https://doi.org/10.1016/j.biortech.2020.123675Article
+Google Scholar
+- Lu Q, Jiao F (2016) Electrochemical CO2 reduction: Electrocatalyst, reaction mechanism, and process engineering. Nano Energy 29:439–456. https://doi.org/10.1016/j.nanoen.2016.04.009Article
+Google Scholar
+- Ma YP, Hou CX, Kimura H, Xie XB, Jiang HY, Sun XQ, Yang XY, Zhang YP, Du W (2023) Recent advances in the application of carbon-based electrode materials for high-performance zinc ion capacitors: a mini review. Adv Compos Hybrid Ma 6(2):59. https://doi.org/10.1007/s42114-023-00636-1Article
+Google Scholar
+- Hou CX, Yang WY, Kimura H, Xie XB, Zhang XY, Sun XQ, Yu ZP, Yang XY, Zhang YP, Wang B, Xu BB, Sridhar D, Algadi H, Guo ZH, Du W (2023) Boosted lithium storage performance by local build-in electric field derived by oxygen vacancies in 3D holey N-doped carbon structure decorated with molybdenum dioxide. J Mater Sci Technol 142:185–195. https://doi.org/10.30919/es1017Article
+Google Scholar
+- Yang H, Hu YW, Chen JJ, Balogun MS, Fang PP, Zhang SQ, Chen J, Tong YX (2019) Intermediates Adsorption Engineering of CO2 Electroreduction Reaction in Highly Selective Heterostructure Cu-Based Electrocatalysts for CO Production. Adv Energy Mater 9(27). https://doi.org/10.1002/aenm.201901396
+- Cui H, Guo Y, Guo L, Wang L, Zhou Z, Peng Z (2018) Heteroatom-doped carbon materials and their composites as electrocatalysts for CO2 reduction. J Mater Chem A 6(39):18782–18793. https://doi.org/10.1039/C8TA07430EArticle
+Google Scholar
+- Gao D, Sinev I, Scholten F, Arán-Ais RM, Divins NJ, Kvashnina K, Timoshenko J, Roldan Cuenya B (2019) Selective CO2 Electroreduction to Ethylene and Multicarbon Alcohols via Electrolyte-Driven Nanostructuring. Angew Chem Int Ed Engl 58(47):17047–17053. https://doi.org/10.1002/anie.201910155Article
+PubMed Central
+Google Scholar
+- Li YC, Wang Z, Yuan T, Nam DH, Luo M, Wicks J, Chen B, Li J, Li F, de Arquer FPG, Wang Y, Dinh CT, Voznyy O, Sinton D, Sargent EH (2019) Binding Site Diversity Promotes CO2 Electroreduction to Ethanol. J Am Chem Soc 141(21):8584–8591. https://doi.org/10.1021/jacs.9b02945Article
+Google Scholar
+- Zhang HQ, Liu HI, Mai JP, Ren YX, Wang RJ, Li Xin, Deng QJ, Zhang RZ, Wang N (2022) Design of Self-Wetting Interface between Garnet Solid Electrolyte and Lithium Metal Electrode. Eng Sci 20:199–208. https://doi.org/10.30919/es8e698Article
+Google Scholar
+- Sirikasemsuk S, Vengsungnle P, Eiamsa-ard S, Naphon P (2024) Thermal Management of Prismatic LiFePO4 Battery Module with Inversed-Zigzag Channeled Ferrofluid Flows. Eng Sci 27:1017. https://doi.org/10.30919/es1017Article
+Google Scholar
+- Lv KL, Fan YC, Zhu Y, Yuan Y, Wang JR, Zhu Y, Zhang QF (2018) Elastic Ag-anchored N-doped graphene/carbon foam for the selective electrochemical reduction of carbon dioxide to ethanol. J Mater Chem A 6(12):5025–5031. https://doi.org/10.1039/c7ta10802hArticle
+Google Scholar
+- Popovic S, Smiljanic M, Jovanovic P, Vavra J, Buonsanti R, Hodnik N (2020) Stability and Degradation Mechanisms of Copper-Based Catalysts for Electrochemical CO2 Reduction. Angew Chem Int Edit 59(35):14736–14746. https://doi.org/10.1002/anie.202000617Article
+Google Scholar
+- Su XZ, Jiang ZL, Zhou J, Liu HJ, Zhou DN, Shang HS, Ni XM, Peng Z, Yang F, Chen WX, Qi ZM, Wang DS, Wang Y (2022) Complementary Operando Spectroscopy identification of in-situ generated metastable charge-asymmetry Cu2-CuN3 clusters for CO2 reduction to ethanol. Nat Commun 13(1). https://doi.org/10.1038/s41467-022-29035-8
+- Karapinar D, Huan NT, Sahraie NR, Li JK, Wakerley D, Touati N, Zanna S, Taverna D, Tizei LHG, Zitolo A, Jaouen F, Mougel V, Fontecave M (2019) Electroreduction of CO2 on Single-Site Copper-Nitrogen-Doped Carbon Material: Selective Formation of Ethanol and Reversible Restructuration of the Metal Sites. Angew Chem Int Edit 58(42):15098–15103. https://doi.org/10.1002/anie.201907994Article
+Google Scholar
+- Kim JY, Park W, Choi C, Kim G, Cho KM, Lim J, Kim SJ, Al-Saggaf A, Gereige I, Lee H, Jung WB, Jung Y, Jung HT (2021) High Facets on Nanowrinkled Cu via Chemical Vapor Deposition Graphene Growth for Efficient CO2 Reduction into Ethanol. ACS Catal 11(9):5658–5665. https://doi.org/10.1021/acscatal.0c05263Article
+Google Scholar
+- Ren D, Ang BSH, Yeo BS (2016) Tuning the Selectivity of Carbon Dioxide Electroreduction toward Ethanol on Oxide-Derived CuxZn Catalysts. ACS Catal 6(12):8239–8247. https://doi.org/10.1021/acscatal.6b02162Article
+Google Scholar
+- Dongare S, Singh N, Bhunia H, Bajpai PK (2021) Electrochemical reduction of CO2 using oxide based Cu and Zn bimetallic catalyst. Electrochim Acta 392:138988. https://doi.org/10.1016/j.electacta.2021.138988Article
+Google Scholar
+- Wang P, Yang H, Tang C, Wu Y, Zheng Y, Cheng T, Davey K, Huang XQ, Qiao SZ (2022) Boosting electrocatalytic CO2–to–ethanolproduction via asymmetric C-C coupling. Nat Commun 13:3754. https://doi.org/10.1038/s41467-022-31427-9Article
+PubMed Central
+Google Scholar
+- Wang JH, Yang H, Liu QQ, Liu Q, Li XT, Lv XZ, Cheng T, Wu HB (2021) Fastening Br- Ions at Copper-Molecule Interface Enables Highly Efficient Electroreduction of CO2 to Ethanol. ACS Energ Lett 6(2):437–444. https://doi.org/10.1021/acsenergylett.0c02364Article
+Google Scholar
+- Wang ZJ, Song H, Liu HM, Ye JH (2020) Coupling of Solar Energy and Thermal Energy for Carbon Dioxide Reduction: Status and Prospects. Angew Chem Int Edit 59(21):8016–8035. https://doi.org/10.1002/anie.201907443Article
+Google Scholar
+- Zhou YF, Feng WF, Xu YB, Liu XG, Wang S, Lv ZQ, Li X, Burcar E, Wang Z, Yang ZL (2024) Development of Silicon-Based Anode for Lithium-ion Batteries and Its Application in Solid-State Electrolytes. Eng Sci 28:1060. https://doi.org/10.30919/es1060Article
+Google Scholar
+- Liu HM, Li M, Dao TD, Liu YY, Zhou W, Liu LQ, Meng XG, Nagao T, Ye JH (2016) Design of PdAu alloy plasmonic nanoparticles for improved catalytic performance in CO2 reduction with visible light irradiation. Nano Energy 26:398–404. https://doi.org/10.1016/j.nanoen.2016.05.045Article
+Google Scholar
+- Li XD, Sun YF, Xu JQ, Shao YJ, Wu J, Xu XL, Pan Y, Ju HX, Zhu JF, Xie Y (2019) Selective visible-light-driven photocatalytic CO2 reduction to CH4 mediated by atomically thin CuIn5S8 layers. Nat Energy 4(8):690–699. https://doi.org/10.1038/s41560-019-0431-1Article
+Google Scholar
+- Wu YMA, McNulty I, Liu C, Lau KC, Liu Q, Paulikas AP, Sun CJ, Cai ZH, Guest JR, Ren Y, Stamenkovic V, Curtiss LA, Liu YZ (2019) Rajh T (2020) Facet-dependent active sites of a single Cu2O particle photocatalyst for CO2 reduction to methanol (vol 74, pg 251. Nat Energy 5(1):89–89. https://doi.org/10.1038/s41560-019-0523-yArticle
+Google Scholar
+- Singh MR, Bell AT (2016) Design of an artificial photosynthetic system for production of alcohols in high concentration from CO2. Energ Environ Sci 9(1):193–199. https://doi.org/10.1039/c5ee02783gArticle
+Google Scholar
+- Sans J, Sanz V, Turon P, Aleman C (2021) Enhanced CO2 Conversion into Ethanol by Permanently Polarized Hydroxyapatite through C-C Coupling. ChemCatChem 13(23):5025–5033. https://doi.org/10.1002/cctc.202101157Article
+Google Scholar
+- Kumaravel V, Bartlett J, Pillai SC (2020) Photoelectrochemical Conversion of Carbon Dioxide (CO2) into Fuels and Value-Added Products. ACS Energy Lett 5(2):486–519. https://doi.org/10.1021/acsenergylett.9b02585Article
+Google Scholar
+- Xu YJ, Wang S, Yang J, Han B, Nie R, Wang JX, Wang JG, Jing HW (2018) In-situ grown nanocrystal TiO2 on 2D Ti3C2 nanosheets for artificial photosynthesis of chemical fuels. Nano Energy 51:442–450. https://doi.org/10.1016/j.nanoen.2018.06.086Article
+Google Scholar
+- Dai WL, Xu H, Yu JJ, Hu X, Luo XB, Tu XM, Yang LX (2015) Photocatalytic reduction of CO2 into methanol and ethanol over conducting polymers modified Bi2WO6 microspheres under visible light. Appl Surf Sci 356:173–180. https://doi.org/10.1016/j.apsusc.2015.08.059Article
+Google Scholar
+- Wang YS, Jia H, Gong H, Zhou LF, Qiu ZY, Fang X, Du T (2021) Fabrication of trimodal porous silica/g-C3N4 nanotubes for efficient visible light photocatalytic reduction of CO2 to ethanol. Chem Eng J 426. https://doi.org/10.1016/j.cej.2021.130877
+- Cheng M, Yang S, Chen R, Zhu X, Liao Q, Huang Y (2017) Copper-decorated TiO2 nanorod thin films in optofluidic planar reactors for efficient photocatalytic reduction of CO2. Internat J Hydrogen Energ 42(15):9722–9732. https://doi.org/10.1016/j.ijhydene.2017.01.126Article
+Google Scholar
+- Li PY, Liu L, An WJ, Wang H, Guo HX, Liang YH, Cui WQ (2020) Ultrathin porous g-C3N4 nanosheets modified with AuCu alloy nanoparticles and C-C coupling photothermal catalytic reduction of CO2 to ethanol. Appl Catal B-Environ 266. https://doi.org/10.1016/j.apcatb.2020.118618
+- Elavarasan M, Yang WL, Velmurugan S, Chen JN, Yang TCK, Yokoi T (2022) Highly Efficient Photothermal Reduction of CO2 on Pd2Cu Dispersed TiO2 Photocatalyst and Operando DRIFT Spectroscopic Analysis of Reactive Intermediates. Nanomaterials 12(3). https://doi.org/10.3390/nano12030332
+- Seeharaj P, Kongmun P, Paiplod P, Prakobmit S, Sriwong C, Kim-Lohsoontorn P, Vittayakorn N (2019) Ultrasonically-assisted surface modified TiO2/rGO/CeO2 heterojunction photocatalysts for conversion of CO2 to methanol and ethanol. Ultrason Sonochem 58. https://doi.org/10.1016/j.ultsonch.2019.104657
+- Centi G, Quadrelli EA, Perathoner S (2013) Catalysis for CO2 conversion: a key technology for rapid introduction of renewable energy in the value chain of chemical industries. Energ Environ Sci 6(6):1711–1731. https://doi.org/10.1039/c3ee00056gArticle
+Google Scholar
+- Atsbha TA, Yoon T, Seongho P, Lee CJ (2021) A review on the catalytic conversion of CO2 using H2 for synthesis of CO, methanol, and hydrocarbons. J CO2 Util 44 https://doi.org/10.1016/j.jcou.2020.101413
+- Snehesh AS, Mukunda HS, Mahapatra S, Dasappa S (2017) Fischer-Tropsch route for the conversion of biomass to liquid fuels - Technical and economic analysis. Energy 130:182–191. https://doi.org/10.1016/j.energy.2017.04.101Article
+Google Scholar
+- Tock L, Gassner M, Marechal F (2010) Thermochemical production of liquid fuels from biomass: Thermo-economic modeling, process design and process integration analysis. Biomass Bioenerg 34(12):1838–1854. https://doi.org/10.1016/j.biombioe.2010.07.018Article
+Google Scholar
+- Alsayegh S, Johnson JR, Ohs B, Wessling M (2019) Methanol production via direct carbon dioxide hydrogenation using hydrogen from photocatalytic water splitting: process development and techno-economic analysis. J Clean Prod 208:1446–1458. https://doi.org/10.1016/j.jclepro.2018.10.132Article
+Google Scholar
+- Kim J, Henao CA, Johnson TA, Dedrick DE, Miller JE, Stechel EB, Maravelias CT (2011) Methanol production from CO2 using solar-thermal energy: process development and techno-economic analysis. Energ Environ Sci 4(9):3122–3132. https://doi.org/10.1016/J.JCLEPRO.2018.10.132Article
+Google Scholar
+- Snehesh AS, Mukunda HS, Mahapatra S, Dasappa S (2017) Fischer-Tropsch route for the conversion of biomass to liquid fuels-Technical and economic analysis. Energy 130:182–191. https://doi.org/10.1016/j.energy.2017.04.101Article
+Google Scholar
+- Asif M, Gao X, Lv HJ, Xi XG, Dong PY (2018) Catalytic hydrogenation of CO2 from 600 MW supercritical coal power plant to produce methanol: A techno-economic analysis. Int J Hydrogen Energ 43(5):2726–2741. https://doi.org/10.1016/j.ijhydene.2017.12.086Article
+Google Scholar
+- Zhang C, Jun KW, Gao R, Kwak G, Park HG (2017) Carbon dioxide utilization in a gas-to-methanol process combined with CO2/Steam-mixed reforming: Techno-economic analysis. Fuel 190:303–311. https://doi.org/10.1016/j.fuel.2016.11.008Article
+Google Scholar
+- Do TN, Kim J (2020) Green C2–C4 hydrocarbon production through direct CO2 hydrogenation with renewable hydrogen: process development and techno-economic analysis. Energ Convers Manage 214:112866. https://doi.org/10.1016/j.enconman.2020.112866Article
+Google Scholar
+- Szima S, Cormos CC (2018) Improving methanol synthesis from carbon-free H2 and captured CO2: A techno-economic and environmental evaluation. J CO2 Util 24:555–563. https://doi.org/10.1016/j.jcou.2018.02.007
+- Thonemann N (2019) Pizzol M (2019) Consequential life cycle assessment of carbon capture and utilization technologies within the chemical industry. Energ Environ Sci 12:2253–2263. https://doi.org/10.1039/c9ee00914kArticle
+Google Scholar
+- Cuellar-Franca RM, Azapagic A (2015) Carbon capture, storage and utilization technologies: a critical analysis and comparison of their life cycle environmental impacts. J CO2 Util 9:82–102. https://doi.org/10.1016/j.jcou.2014.12.001
+- Galusnyak SC, Petrescu L, Chisalita DA, Cormos CC (2022) Life cycle assessment of methanol production and conversion into various chemical intermediates and products. Energy 259. https://doi.org/10.1016/j.energy.2022.124784
+- Henan Province Engineering Research Center for Forest Biomass Value-Added Products, School of Forestry, Henan Agricultural University, Zhengzhou, 450002, ChinaYiyang Li, Wenjie Lu, Haiping Gu, Wanxi Peng & Yifeng He
+- College of Biology and Food Engineering, Huanghuai University, Zhumadian, 463000, ChinaFengYun Zhu
+- Department of Agricultural and Forestry Sciences, Henan Zhumadian Agricultural School, Zhumadian, 463000, ChinaErdong Liu
+- National and Local United Engineering Laboratory of Integrative Utilization Technology of Eucommia Ulmoides, College of Chemistry and Chemical Engineering, Jishou University, Jishou, 416000, People’s Republic of ChinaHui Ouyang
+- College of Materials Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024, ChinaJuanna Ren & Hua Hou
+- Advanced Materials Division, Engineered Multifunctional Composites (EMC) Nanotech LLC, Knoxville, TN, 37934, USAJuanna Ren
+- Yiyang LiView author publicationsSearch author on:PubMed Google Scholar
+- FengYun ZhuView author publicationsSearch author on:PubMed Google Scholar
+- Erdong LiuView author publicationsSearch author on:PubMed Google Scholar
+- Hui OuyangView author publicationsSearch author on:PubMed Google Scholar
+- Wenjie LuView author publicationsSearch author on:PubMed Google Scholar
+- Haiping GuView author publicationsSearch author on:PubMed Google Scholar
+- Juanna RenView author publicationsSearch author on:PubMed Google Scholar
+- Wanxi PengView author publicationsSearch author on:PubMed Google Scholar
+- Hua HouView author publicationsSearch author on:PubMed Google Scholar
+- Yifeng HeView author publicationsSearch author on:PubMed Google Scholar
+- Received: 23 February 2024
+- Revised: 12 August 2024
+- Accepted: 06 September 2024
+- Published: 20 September 2024
+- DOI: https://doi.org/10.1007/s42114-024-00955-x
+- Carbon dioxide
+- Epoxy compounds
+
+--------------------------------------------------
+
+URL: https://www.climatechangewriters.com/stories/water-scarcity-and-artificial-rainfall-the-positive-and-the-negative-effects-of-cloud-seeding-including-health-hazards-and-climate-implications
+==================================================
+Ibrahim Ismail Elnafat
+Water Scarcity and Artificial Rainfall: The Positive and The Negative Effects of Cloud Seeding, including Health Hazards and Climate Implications.
+Most Read Stories Today
+Globally, over 2 billion people lack access to safe drinking water due to scarcity, including sanitation and hygiene services.
+Climate change is one of the factors exacerbating the issue of lack of equitable access to safe drinking water and sanitation, particularly in rural and remote areas, leading to increased health complications for older people, individuals with disabilities, and children.
+According to Samantha Stratton-Short, —UNOPS Head of Strategic Initiatives, “Climate change, conflicts, and water pollution are widening the gap to ensuring clean water and sanitation for all, especially for women and marginalized groups.”
+Artificial Rainfall is a scientific weather modification technique, in which silver iodide is used to generate or enhance more rainfall to augment sufficient water supplies in arid regions and combat droughts. However, it is still a scientific process engulfed with a complex web of risks and health uncertainties.
+There are many safety concerns, especially on flooding, ecosystems, and biodiversity. These concerns were focused on human health and its implications for our changing climate, as part of its potential downside.
+Cloud seeding involves infusing clouds with silver iodide particles to stimulate condensation and precipitation. While it has been used for decades, recent interest has resurfaced due to worsening water shortages and climate-related disruptions.
+What is Silver Iodine?
+Silver iodide is a chemical compound composed of silver and iodine that has been used in the production of agricultural pesticides, antiseptics in medicine, cloud seeding, and as a yellowish-white powder used in photography, as a pigment. It's also used in manufacturing certain types of glass and is sometimes found in some air pollution control devices. The AgI is slightly soluble in water and is more toxic than silver.
+Silver iodide (AgI) is considered the most common nucleating material used in cloud seeding. Many studies concluded that AgI are too low to induce a toxicological effect because they only remain in soils and sediments for some time, but emphasized cumulative environmental effects from continuous practice.
+As early as 1965, the National Science Foundation called for research into the human consequences of weather modification. Unfortunately, these concerns remain under-explored.
+The silver iodide used in cloud seeding raises questions about its impact on human health and is linked to numerous health risks such as toxicity, reproductive disorders, developmental defects, and cancer. When oxidized, may also lead to Iodism, a type of poisoning caused by iodine, causing skin rashes, headaches, and respiratory issues. Prolonged exposure to silver iodide can cause argyria, a condition that causes the human tissues to turn blue or gray when too much of it is deposited in the body.
+The silver ion is also known to inhibit glutathione peroxidase and Sodium-Potassium ions- ATPase activity, disrupting and reducing chemical reactions, oxidation, and intracellular ion concentrations. These nanoparticles are believed to disrupt the mitochondrial respiratory chain, causing oxidative stress, reduced ATP synthesis, and DNA damage.
+Environmental Hazards
+Cloud seeding introduces potentially harmful chemicals (AgI) into the atmosphere. While proponents claim little evidence of harm, the long-term effects remain uncertain. These chemicals, once exposed to the environment, the particles spread and pollute the atmosphere.
+There is also a growing concern about carbon dioxide masking, underlying the sensitivity of our climate to rising carbon dioxide levels. For instance, If pre-industrial cloud cover was higher than previously thought, the masking effect may have been overestimated, affecting climate projections.
+THE CLIMATE IMPLICATIONS
+1. Cloud Cover and Cooling: Historically, scientists assumed that pre-industrial skies were sunnier, but recent experiments challenge this notion. The clouds play a vital role in regulating solar energy. Increased cloud cover reflects sunlight back into space, contributing to an overall cooling effect.
+2. Rain Enhancement Research Programs: The Advancement of rain enhancement science projects such as nanotechnology and cloud seeding are projects embarked on to maximize water vapor condensation and rainfall, aiming to secure water supplies and mitigate the effects of climate change.
+For example, in 2016, the UAE Presidential Court launched a global research initiative, and the UAE Research Program for Rain Enhancement Science (UAEREP), under the administration of the National Center of Meteorology (NCM), to address the critical issue of water security in the field of rain enhancement.
+The UAEREP funded millions of dollars for research projects, ongoing training programs, and capacity building involving worldwide scientists and scientific institutions, contributing to global efforts in water resource management, climate adaptation, and sustainable development. The UAE has been involved in cloud-seeding operations since the late 1990s.
+In November 2023, a four-year pilot joint project was also launched in the US with an aim to increase precipitation from 5% to 15% by the Santa Ana Watershed Project Authority (SAWPA), from five water districts by the Eastern Municipal Water District, Inland Empire Utilities Agency, Orange County Water District, San Bernardino Valley Municipal Water District and Western Municipal Water District.
+The SAWPA is the state-approved Regional Water Management group that brings together the watershed community and serves as a Joint Powers Authority for addressing regional water issues, to reduce imported, more expensive, and less reliable sources of drinking water in the region. The project was aimed at increasing local water production by up to 40 percent and supporting its member agencies for long-term restoration of their degraded environment.
+Cloud seeding offers hope for water-scarce regions, but remains a double-edged sword that requires rigorous research, transparency, and consideration of associated health risks.
+It's essential to weigh in the benefits and the risks, to ensure that our silver bullets do not inadvertently harm the very communities we aim to develop. As they say, every cloud has its shadow; therefore, it will be wise to make sure the one we have above us is not a toxic one.
+Degenerative Impact of Hydrocarbons On The Environment.
+Are African Plants Getting Ignored Amidst the Climate Change?
+The Threat of Hydrocarbons on our Environment
+- Water Scarcity and Artificial Rainfall: The Positive and The Negative Effects of Cloud Seeding, including Health Hazards and Climate Implications.
+- Renewable Energy in Rural Areas: Challenges, Opportunities, and Successful Rural Projects
+- Pakistan's Agriculture at Risk Due to Climate Variability
+- South Korea's floods: root causes and prevention strategies.
+- South Africa's Recent Floods: Is Climate Change to Blame?
+- Our Oceans, Our Future: The South African Dilemma of Overfishing
+- Degenerative Impact of Hydrocarbons On The Environment.
+- Bridging the Gulf Between Scientific Knowledge and Public Understanding.
+- Negative Impacts of Climate Change on Food Security in South Africa
+- Successes and Failures of Paris Agreement
+- https://thebulletin.org/2022/08/dodging-silver-bullets-how-cloud-seeding-could-go-wrong/
+- https://connectusfund.org/12-important-pros-and-cons-of-cloud-seeding
+- https://www.scientificamerican.com/article/cloud-seeding-surprise-could-improve-climate-predictions/
+- https://www.technologyreview.com/2022/03/28/1048275/scientists-advance-cloud-seeding-capabilities-with-nanotechnology/
+- https://psl.noaa.gov/outreach/education/science/clouds_and_climate.html
+- https://www.popsci.com/environment/cloud-seeding-drought-climate-change/
+- https://en.m.wikipedia.org/wiki/The_UAE_Research_Program_for_Rain_Enhancement_Science
+- https://www.uaerep.ae/mobile
+- https://www.sbvmwd.com/about-us/santa-ana-watershed-project-authority
+- https://www.unops.org/news-and-stories/news/developing-inclusive-water-sanitation-and-hygiene-infrastructure
+- https://abc7.com/amp/southern-california-water-cloud-seeding-riverside-county-inland-empire/14341706/
+- https://pubmed.ncbi.nlm.nih.gov/27517140/
+- https://www.icliniq.com/articles/first-aid-and-emergencies/silver-iodide-toxicity
+- https://www.toxno.com.au/toxins/substance_id_7822.html
+- Degenerative Impact of Hydrocarbons On The Environment.
+19 August 2022
+- Are African Plants Getting Ignored Amidst the Climate Change?
+26 February 2022
+- The Threat of Hydrocarbons on our Environment
+29 January 2022
+
+--------------------------------------------------
+

@@ -1,0 +1,272 @@
+URL: https://www.weforum.org/stories/2021/04/what-is-blockchain/
+==================================================
+Blockchain is mostly associated with money and finance, it can be used widely.
+Image: Unsplash/Pascal Bernardon
+Explore and monitor how Social Protection is affecting economies, industries and global issues
+Every time you make an electronic payment, whether from your mobile, online, or with a card, that transaction passes through multiple systems. Each of them plays a role in processing that payment and forms part of the sequence of checks and balances that exist between payer and payee.
+4 predictions for blockchain in 2021 – from cryptocurrencies to art
+Using blockchain to monitor the COVID-19 vaccine supply chain
+Supply chains can be a climate game-changer. Here's why
+It can be a long, complex and costly chain of connections, with each taking a small fee from every transaction. Typically, it involves a series of banks or other large payment processing businesses who keep track of the money on its journey from A to B. Identities are verified, creditworthiness is established and sums of money are accurately reconciled between accounts.
+Without such processes, how could trusted payments take place? Enter blockchain, which has the potential to disrupt that process completely. And not just for payments, but other forms of transaction including the flow of goods and information around the world.
+Blockchain can seem complicated and a little impenetrable, which is ironic as one of the core tenets of this technology is its openness and transparency.
+How does blockchain work?
+Blockchain allows consumers and suppliers to connect directly, removing the need for a third party such as a bank.
+There are some fundamentals to understanding blockchain, including the notion of a distributed ledger. Using cryptography to keep exchanges secure, blockchain provides a decentralized database, or “digital ledger”, of transactions that everyone on the network can see. This network is essentially a chain of computers that must all approve an exchange before it can be verified and recorded.
+Consulting firm Deloitte explains it as follows: “You (a ‘node’) have a file of transactions on your computer (a ‘ledger’). Two government accountants (let's call them ‘miners’) have the same file on theirs (so it’s ‘distributed’). As you make a transaction, your computer sends an email to each accountant to inform them … the first to check and validate hits REPLY ALL, attaching their logic for verifying the transaction (‘proof of work’). If the other accountant agrees, everyone updates their file.”
+In theory, it could be completely open on the public internet, or blockchain can be used within defined networks - there are different configurations for different use cases. In the latter configuration, the data pertaining to a transaction will be stored, simultaneously on the dozens, or hundreds, or thousands of computers within that defined network. That data will update in close to real time, so that anyone on the network can see everyone else’s entries.
+Instead of having to outsource the idea of being able to trust in a transaction to banks and other intermediaries, blockchain puts trust out in the open by making everything visible. And because it is open and distributed, no single party on the network can exert undue control or influence on the ledger – or anyone attached to it.
+It has a long way to go, though, before it really becomes part of the mainstream. Concerns around trust and regulatory compliance are among the top reasons for its slow adoption, according to the data journalism organization, Statista.
+More than money and bitcoins
+Although cryptocurrencies depend on blockchain and are frequently cited as how blockchain works, they are far from being its only application.
+It can be used to record and track the ownership of a photographic image or a piece of music or a patent for a new gadget. It can even be used to track the provenance of food – from farm to plate – and medical supplies, including vaccines.
+IBM describes blockchain as: “A shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.”
+Through its Food Trust network, IBM is working with businesses from the length of the food supply chain, including Carrefour, Nestlé and others. On the Food Network website, Chris Tyas, Global Head of Supply Chain for Nestlé, says: “People want to know, quite rightly, where ingredients they give to their baby have come from. We wanted a product in which trust meant something.”
+“You are building a halo effect – ‘If I can trust Carrefour with this chicken, I can also trust Carrefour for their apples or cheese,’” Emmanuel Delerm, Carrefour’s blockchain project manager, told the news agency Reuters in 2019.
+Accept our marketing cookies to access this content.
+These cookies are currently disabled in your browser.
+Don't miss any update on this topic
+Create a free account and access your personalized content collection with our latest publications and analyses.
+License and Republishing
+World Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.
+The views expressed in this article are those of the author alone and not the World Economic Forum.
+Forum Stories newsletter
+Bringing you weekly curated insights and analysis on the global issues that matter.
+More on Emerging TechnologiesSee all
+Enterprise AI is at a tipping Point, here’s what comes next
+Deepfake legislation: Denmark moves to protect digital identity
+What are ‘sensitive’ organizations and why are they crucial in the age of AI?
+Why AI literacy is crucial for safe, inclusive and strategic AI transformation
+Should governments act like start-ups?
+Trust is the new currency in the AI agent economy
+- Blockchain is a distributed ledger that allows for more transparent and verifiable record keeping.
+- Although associated mostly with money and finance, it can be used widely.
+- There are still many barriers to its widespread adoption, including confidence and regulation.
+- 4 predictions for blockchain in 2021 – from cryptocurrencies to art
+- Using blockchain to monitor the COVID-19 vaccine supply chain
+- Supply chains can be a climate game-changer. Here's why
+
+--------------------------------------------------
+
+URL: https://www.weforum.org/stories/2024/01/blockchain-change-world-finance-stablecoins-internet/
+==================================================
+Blockchain is back in from the cold after a turbulent 2022, and its impact on the world of finance is set to be far-reaching.
+Image: Getty Images/iStockphoto
+Over the past 12 months, more types of financial activity are migrating to the blockchain as the underlying technology matures and sensible regulations take effect in major global jurisdictions.
+Payments, credit intermediation, trade settlement and other transactions are increasingly being carried out via the new internet financial system due to its unprecedented speed, cost-effectiveness, transparency and programmability.
+This growing embrace of blockchain is reflected in the strong interest among traditional financial firms. In just the last few months, BlackRock, JP Morgan, Standard Chartered, HSBC, Goldman Sachs and other major financial institutions have all announced projects that deepen their involvement with blockchain. Bank of America predicts blockchain infrastructure may reshape how value is exchanged and stored — not just in finance, but in every industry. The World Economic Forum expects 10% of global GDP could be tokenized and stored on the blockchain by 2027.
+Japan, Singapore, Hong Kong, the UK and Europe have already enacted legislation to govern digital assets, and other markets are following closely behind.
+Davos 2024: Who's coming and what to expect
+How blockchain can improve data security in healthcare
+How central banks can use blockchain responsibly
+Blockchain in from the cold
+It is no coincidence that this happening now, despite the turmoil this sector faced during 2022. These traditional finance powerhouses and policy makers see something in blockchain that makes it compelling.
+At its core, blockchain networks provide a new operating system infrastructure layer for the internet that is ideal for handling applications where trust and data and transaction integrity are crucial. This infrastructure is poised to eat the world of money, just as other forms of software devoured almost every analog industry a generation ago by making them faster, cheaper and easier to consume while reducing barriers to entry.
+Stablecoins – blockchain-native versions of fiat currencies like the US dollar – are the critical element that underpin this new internet financial system.
+Having founded and run internet technology businesses for nearly 30 years, I believe that the continued migration of finance to the blockchain will be the next wave of the decades-long trend of digitized creative destruction unleashed by the original internet in the 1990s. This time, the social and economic impact could be even larger.
+Trillions of dollars of real economic activity could take place on the internet financial system in the next few years.
+The advantage of blockchain networks
+Finance is better on blockchain networks. Building a new financial system directly into the fabric of the internet unleashes benefits on multiple levels. First, it can give individuals more autonomy over their money, property and digital identity. With the emergence of blockchain networks, the way people interact with the internet is evolving from browser to social to wallet. This gives people more control over their financial lives and personal data.
+Second, stablecoins on blockchain networks enable value-exchange that is nearly instant, nearly free and global in scale. Beyond the obvious commercial applications, we are already seeing stablecoins creating an immense impact for people who lack access to traditional brick-and-mortar finance. Ukrainian war refugees, Venezuelan healthcare workers and migrant worker families are among the early examples of people who receive value over the internet — frequently dollars — and store it in a blockchain wallet where it’s portable and usable anywhere. Stablecoins are proliferating in markets around the world where people lack access to safe and trusted banking systems.
+Preparing for the stablecoin-first future
+Until now, it has been far too difficult for most people and businesses to do much with the internet financial system. Hard-to-grasp concepts, technical complexities and digital asset volatility have thus far made it almost impossible to create breakthrough experiences for mass audiences. That era is ending.
+We’re entering a new phase where the complexity is fading into the background. The blockchains that power this activity are becoming faster and safer. Smart contracts that can automatically move billions of dollars in seconds are proving resilient through a wide range of market cycles and becoming easier to build upon. Software developers are making it easier for consumers to access and use blockchain apps and services.
+This is paving the way for a future in which billions of people will interact with the internet financial system on a daily basis without needing to understand how it works, just as they use email, messaging apps and browsers to access the internet without directly touching complexity. Many may not even realize they are using stablecoins on blockchain networks. It will simply run in the background, just like today’s commerce infrastructure but faster, cheaper and more accessible.
+Perhaps the most exciting thing about this new phase is that we can’t predict what kind of financial innovations will thrive — many haven’t even been conceived of today. Thirty years ago, when the original internet was beginning to emerge, there was a rush to replicate analog experiences online. The New York Times debuted on AOL in 1994, followed by the launch of nytimes.com two years later. Who could have predicted that within a generation, billions of people around the world would be able to stream Hollywood movies on handheld mobile phones while riding the subway, access all of the world’s knowledge instantly at no cost and be able to buy or sell nearly any product made and delivered from any corner of the world?
+This same level of innovation is now possible for the world of money. New applications built for the internet financial system are likely to blow our minds in ways we can’t yet anticipate, much as the internet has done over and over again as online networks and software have proliferated around the world. A better financial system is within our reach that can unlock more economic potential globally. Now it’s time to build it.
+Accept our marketing cookies to access this content.
+These cookies are currently disabled in your browser.
+Don't miss any update on this topic
+Create a free account and access your personalized content collection with our latest publications and analyses.
+License and Republishing
+World Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.
+The views expressed in this article are those of the author alone and not the World Economic Forum.
+Forum Stories newsletter
+Bringing you weekly curated insights and analysis on the global issues that matter.
+More on Financial and Monetary SystemsSee all
+The GENIUS Act is designed to regulate stablecoins in the US, but how will it work?
+Sandra Waliczek and Harry Yeung
+How air pollution affects healthy ageing and what to do about it
+Pranidhi Sawhney and Adam Skali
+How to simplify transition finance to unlock capital and executive buy-in
+David Carlin and Sourajit Aiyer
+The ripple effect of financial education from students to parents
+There's a potential $400 trillion retirement savings gap. How leaders can fix it
+What's the real cost of disinformation for corporations?
+- After a turbulent 2022, blockchain and stablecoins are coming back into the limelight — this time with the involvement of major financial institutions.
+- This marks a step-change in the world of finance, and is set to fundamentally alter how we exchange value.
+- The coming change could be just as disruptive as the emergence of the internet.
+- Davos 2024: Who's coming and what to expect
+- How blockchain can improve data security in healthcare
+- How central banks can use blockchain responsibly
+
+--------------------------------------------------
+
+URL: https://www.weforum.org/stories/2024/05/global-cryptocurrency-regulations-changing/
+==================================================
+Here’s a round-up of the latest regulatory changes for cryptocurrencies.
+Image: Unsplash/Kanchanara
+Explore and monitor how Blockchain is affecting economies, industries and global issues
+Crypto Impact and Sustainability Accelerator
+Cryptocurrency has often been synonymous with a lack of regulation. However, this is rapidly starting to change, with governments around the world now considering rules for digital currencies.
+Regulation for crypto assets has been under consideration for some time, but there was a heightened sense of urgency after a series of bank collapses that were tied to crypto asset activities.
+The incidents seem to have prompted the moves to propose accounting and reporting guidance for crypto assets, as Reuters reported last year. In the EU, rules were being worked on before the bankruptcy of crypto exchange FTX.
+From US legislation to British stablecoin regulation, here’s a round-up of the latest regulatory changes for cryptocurrencies.
+Is the US FIT for the 21st century?
+In 2023, developments in the US brought it closer to having a regulatory framework for cryptocurrencies. Since then however, federal legislative efforts have generally stalled.
+Two bills in particular, the Financial Innovation and Technology (FIT) for the 21st Century Act and the Blockchain Regulatory Certainty Act helped define when a cryptocurrency is a security or a commodity, expand oversight of the industry, and clarify the roles of different bodies in managing crypto. But while they have been introduced, they have not progressed further.
+What are central bank digital currencies and what could they mean for the average person?
+How are CBDCs different from cryptocurrencies and stablecoins?
+What are non-fungible tokens (NFTs) and where are they useful?
+EU’s cryptocurrency regulation
+The European Union introduced the world’s first comprehensive cryptocurrency regulations in May 2023, known as the Markets in Crytpo-Assets Regulation (MiCA).
+The European Security and Markets Authority is currently in a consultation process with the public on a number of measures.
+Any company issuing or trading cryptocurrency will need a licence, and from January 2026 all service providers will have to obtain the name of senders and beneficiaries, whatever the amount being transferred. Further, any self-hosted wallets holding over 1,000 euros will need to undergo wallet ownership verification for transactions.
+The collapse of FTX underlined the “urgent need for imposing rules which will better protect Europeans who have invested in these assets, and prevent the misuse of [the] crypto industry for the purposes of money laundering and financing of terrorism,” said Elisabeth Svantesson, Finance Minister for Sweden, which holds the EU presidency.
+Accept our marketing cookies to access this content.
+These cookies are currently disabled in your browser.
+Asian digital currency laws
+Asia is a leader on crypto use around the world, but regulations vary significantly among countries in the region.
+Japan is open to crypto use, recognizing it as a type of money and as legal property. As such, crypto and yen transactions are both managed by the country’s Financial Services Agency, and citizens of the country are free to own or invest in crypto. The country has recently toughened its rules on sharing customer information between crypto exchanges, in an attempt to tackle money laundering.
+South Korea is progressing with regulation for crypto and other virtual assets after the Virtual Asset Users Protection Act was passed in 2023. The regulation creates stronger protections for users by adding requirements around record keeping and transparency.
+The financial authorities are set to publish guidelines for listing virtual assets by the end of April 2024, or in May, according to News 1.
+China is one of the strictest countries when it comes to cryptocurrency, with bans on exchanges, trading, and crypto mining.
+India also had a ban on crypto, but its Supreme Court removed it in 2020. Following this, a Cryptocurrency and Regulation of Official Digital Currency Bill has been scheduled to pass through parliament but faced delays. It would aim to enable the creation of an official digital currency by the Reserve Bank Of India.
+'Industries in the Intelligent Age' at Davos 2025
+How can business leaders strike a balance between the short-term goals and long-term imperatives in the transformation of their industries?
+Industries in the Intelligent Age is one of five thematic pillars of the Annual Meeting 2025.
+Industries have had to adapt their business strategies to account for major geo-economic and technological shifts. Recent surveys indicate that technology is now the primary driver of change and disruption for businesses across sectors and leaders will need to be equipped with a new leadership toolkit to adapt to and fully capitalize on these deep and structural changes.
+While advancements in AI, quantum computing, biotech, robotics and automation and other fields present numerous opportunities, new technologies are also hiking energy demand. Electricity demand from the sector could reach 1,000 terawatt hours (TWh) in 2026, as compared to 460 TWh today.
+In this context, it's crucial for businesses, governments, and civil society to work together to find common solutions and take decisive action. Through its Centres, the World Economic Forum integrates public-private efforts to achieve greater impact. Read more about this work:
+Brazil instated cryptocurrency regulation in June 2023, when it made the central bank the supervisor for crypto assets. The Cryptoassets Act sets rules for any company providing services linked to virtual assets, with a central aim of preventing scams related to cryptocurrency.
+The regulation outlines what constitutes criminal practices in the use of crypto, and outlines penalties that will be enforced if crypto is used in fraud or money laundering.
+How is the World Economic Forum promoting the responsible use of blockchain?
+The World Economic Forum's Platform for Shaping the Future of Blockchain and Digital Assets ensures equity, interoperability, transparency, and trust in the governance of this technology for everyone in society to benefit from blockchain’s transformative potential.
+Accept our marketing cookies to access this content.
+These cookies are currently disabled in your browser.
+Contact us for more information on how to get involved.
+Brazil's central bank governor has since said he wants to impose tighter cryptocurrency regulation. This follows a near 45% rise in Brazil’s cryptocurrency imports in January to August 2023 compared with a year earlier, representing a total of 7.4 billion USD.
+The Governor of Banco Central do Brasil, Roberto Campos Neto, said among the cryptocurrencies being used by Brazilians, local demand had shifted toward stablecoins, with people using cryptocurrencies more as a means of payment rather than just for investment.
+Britain’s crypto and stablecoin regulation
+Britain is actively building rules for the crypto sector. Of note, it has mandated that any company offering a digital currency has to be authorized by the country’s Financial Conduct Authority (FCA).
+"The government’s position is that firms dealing directly with UK retail consumers should be required to be authorized irrespective of where they are located," the finance ministry says.
+The FCA and Bank of England have also proposed regulations for stablecoins. Stablecoins are designed to be more stable in value than cryptocurrency by having their value tied to that of another asset. You can find out more about the differences between cryptocurrencies and stablecoins in our explainer.
+The Bank of England says its regulation would aim to “harness the potential benefits stablecoins could provide to UK consumers and retailers, in particular by making payments faster and cheaper” while working to protect consumers by preventing money laundering and safeguarding financial stability.
+What about global principles for crypto regulation?
+The International Organization of Securities Commissions has laid out its 18 recommendations for global rules on managing crypto and digital assets.
+It sees a need for greater consistency on the regulation and oversight of crypto assets activities given the cross-border nature of the markets, which creates “significant risk of harm” for investors.
+The World Economic Forum’s Pathways to the Regulation of Crypto-Assets: A Global Approach describes international alignment on certain cryptocurrency rules as “not just desirable but necessary”.
+“A global approach is needed to maximize the advantages from the underlying technology and to manage the risks,” the paper says. “However, given the different stages of market maturity, the development of regional hubs and the varying capacity of regulators, it is prudent to holistically focus also on the important role that international organizations and national/regional regulators as well as industry actors can play in ensuring responsible regulatory evolution.”
+Accept our marketing cookies to access this content.
+These cookies are currently disabled in your browser.
+Don't miss any update on this topic
+Create a free account and access your personalized content collection with our latest publications and analyses.
+License and Republishing
+World Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.
+The views expressed in this article are those of the author alone and not the World Economic Forum.
+Forum Stories newsletter
+Bringing you weekly curated insights and analysis on the global issues that matter.
+More on Financial and Monetary SystemsSee all
+The GENIUS Act is designed to regulate stablecoins in the US, but how will it work?
+Sandra Waliczek and Harry Yeung
+How air pollution affects healthy ageing and what to do about it
+Pranidhi Sawhney and Adam Skali
+How to simplify transition finance to unlock capital and executive buy-in
+David Carlin and Sourajit Aiyer
+The ripple effect of financial education from students to parents
+There's a potential $400 trillion retirement savings gap. How leaders can fix it
+What's the real cost of disinformation for corporations?
+- Governments around the world are building out new rules for cryptocurrencies.
+- The International Organization of Securities Commissions has also laid out its 18 recommendations for global rules on managing crypto and digital assets.
+- The World Economic Forum’s Pathways to the Regulation of Crypto-Assets details key regulatory developments over the past few years.
+- The Forum is actively working on the Digital Assets Regulatory (DAR) initiative, which analyzes outcomes of different national approaches to digital asset regulation.
+- What are central bank digital currencies and what could they mean for the average person?
+- How are CBDCs different from cryptocurrencies and stablecoins?
+- What are non-fungible tokens (NFTs) and where are they useful?
+- Centre for the Fourth Industrial Revolution
+- Centre for Cybersecurity
+- Centre for Advanced Manufacturing and Supply Chains
+- The Forum helped central banks build, pilot and scale innovative policy frameworks to guide the implementation of blockchain, with a focus on central bank digital currencies.
+- The Redesigning Trust with Blockchain in the Supply Chain initiative is helping supply chain decision-makers implement blockchain, while ensuring that this technology is utilized in a secure, responsible and inclusive way.
+- The Centre for the Fourth Industrial Revolution UAE is testing the application of digital assets and tokenization to improve financial systems.
+
+--------------------------------------------------
+
+URL: https://www.weforum.org/stories/2016/06/blockchain-explained-simply/
+==================================================
+It's a crowd-managed distributed secure database. Does that help?
+Image: REUTERS/Benoit Tessier
+Explore and monitor how Social Protection is affecting economies, industries and global issues
+Many people know it as the technology behind Bitcoin, but blockchain’s potential uses extend far beyond digital currencies.
+Its admirers include Bill Gates and Richard Branson, and banks and insurers are falling over one another to be the first to work out how to use it.
+So what exactly is blockchain, and why are Wall Street and Silicon Valley so excited about it?
+Currently, most people use a trusted middleman such as a bank to make a transaction. But blockchain allows consumers and suppliers to connect directly, removing the need for a third party.
+These 11 questions will help you decide if blockchain is right for your business
+Blockchain Beyond the Hype
+Using cryptography to keep exchanges secure, blockchain provides a decentralized database, or “digital ledger”, of transactions that everyone on the network can see. This network is essentially a chain of computers that must all approve an exchange before it can be verified and recorded.
+Accept our marketing cookies to access this content.
+These cookies are currently disabled in your browser.
+How does it work in practice?
+In the case of Bitcoin, blockchain stores the details of every transaction of the digital currency, and the technology stops the same Bitcoin being spent more than once.
+Why is it so revolutionary?
+The technology can work for almost every type of transaction involving value, including money, goods and property. Its potential uses are almost limitless: from collecting taxes to enabling migrants to send money back to family in countries where banking is difficult.
+Blockchain could also help to reduce fraud because every transaction would be recorded and distributed on a public ledger for anyone to see.
+In theory, if blockchain goes mainstream, anyone with access to the internet would be able to use it to make transactions.
+Currently only a very small proportion of global GDP (around 0.025%, or $20 billion) is held in the blockchain, according to a survey by the World Economic Forum’s Global Agenda Council.
+But the Forum’s research suggests this will increase significantly in the next decade, as banks, insurers and tech firms see the technology as a way to speed up settlements and cut costs.
+Companies racing to adapt blockchain include UBS, Microsoft, IBM and PwC. The Bank of Canada is also experimenting with the technology.
+A report from financial technology consultant Aite estimated that banks spent $75 million last year on blockchain. And Silicon Valley venture capitalists are also queuing up to back it.
+Have you read?This is how blockchain will change your life Will blockchain change the world? What’s the future of blockchain?
+Don't miss any update on this topic
+Create a free account and access your personalized content collection with our latest publications and analyses.
+License and Republishing
+World Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.
+The views expressed in this article are those of the author alone and not the World Economic Forum.
+Forum Stories newsletter
+Bringing you weekly curated insights and analysis on the global issues that matter.
+More on Emerging TechnologiesSee all
+Enterprise AI is at a tipping Point, here’s what comes next
+Deepfake legislation: Denmark moves to protect digital identity
+What are ‘sensitive’ organizations and why are they crucial in the age of AI?
+Why AI literacy is crucial for safe, inclusive and strategic AI transformation
+Should governments act like start-ups?
+Trust is the new currency in the AI agent economy
+- These 11 questions will help you decide if blockchain is right for your business
+- Blockchain Beyond the Hype
+
+--------------------------------------------------
+
+URL: https://www.weforum.org/stories/2016/06/the-blockchain/
+==================================================
+Image: REUTERS/Benoit Tessier
+Explore and monitor how Financial and Monetary Systems is affecting economies, industries and global issues
+Financial and Monetary Systems
+Blockchain – the technology behind the bitcoin digital currency – is a decentralized public ledger of transactions that no one person or company owns or controls. Instead, every user can access the entire blockchain, and every transfer of funds from one account to another is recorded in a secure and verifiable form by using mathematical techniques borrowed from cryptography. With copies of the blockchain scattered all over the planet, it is considered to be effectively tamper-proof.
+The challenges that bitcoin poses to law enforcement and international currency controls have been widely discussed. But the blockchain ledger has uses far beyond simple monetary transactions.
+Like the Internet, the blockchain is an open, global infrastructure upon which other technologies and applications can be built. And like the Internet, it allows people to bypass traditional intermediaries in their dealings with each other, thereby lowering or even eliminating transaction costs.
+Accept our marketing cookies to access this content.
+These cookies are currently disabled in your browser.
+By using the blockchain, individuals can exchange money or purchase insurance securely without a bank account, even across national borders—a feature that could be transformative for the two billion people in the world currently underserved by financial institutions. Blockchain technology lets strangers record simple, enforceable contracts without a lawyer. It makes it possible to sell real estate, event tickets, stocks, and almost any other kind of property or right without a broker.
+The long-term consequences for professional intermediaries, such as banks, attorneys and brokers, could be profound—and not necessarily in negative ways, because these industries themselves pay huge amounts of transaction fees as a cost of doing business. Analysts at Santander InnoVentures, for example, have estimated that by 2022, blockchain technology could save banks more $20 billion annually in costs.
+Some 50 big-name banks have announced blockchain initiatives. Investors have poured more than $1 billion in the past year into start-ups formed to exploit the blockchain for a wide range of businesses. Tech giants such as Microsoft, IBM and Google all have blockchain projects underway. Many of these companies are attracted by the potential to use the blockchain to address the privacy and security problems that continue to plague Internet commerce.
+Because blockchain transactions are recorded using public and private keys—long strings of characters that are unreadable by humans—people can choose to remain anonymous while enabling third parties to verify that they shook, digitally, on an agreement. And not just people: an institution can use the blockchain to store public records and binding promises. Researchers at the University of Cambridge in the U.K., for example, have shown how drug companies could be required to add detailed descriptions of their upcoming clinical drug trials to the blockchain. This would prevent the companies from later moving the goalposts if the trial did not pan out as anticipated, an all-too-common tactic. In London, mayoral candidate George Galloway has proposed putting the city’s annual budget on the blockchain ledger to foster collective auditing by citizens.
+Perhaps the most encouraging benefit of blockchain technology is the incentive it creates for participants to work honestly where rules apply equally to all. Bitcoin did lead to some famous abuses in trading of contraband, and some nefarious applications of blockchain technology are probably inevitable. The technology doesn’t make theft impossible, just harder. But as an infrastructure that improves society’s public records repository and reinforces representative and participatory legal and governance systems, blockchain technology has the potential to enhance privacy, security and freedom of conveyance of data—which surely ranks up there with life, liberty and the pursuit of happiness.
+This is part of a series on the top 10 emerging technologies of 2016, developed in collaboration with Scientific American.
+A brain breakthrough that offers new hope for Parkinson's and depression Face it: you're a worse driver than an autonomous car Solar power has big limitations. This wonder material could change that
+Don't miss any update on this topic
+Create a free account and access your personalized content collection with our latest publications and analyses.
+License and Republishing
+World Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.
+The views expressed in this article are those of the author alone and not the World Economic Forum.
+Forum Stories newsletter
+Bringing you weekly curated insights and analysis on the global issues that matter.
+More on Emerging TechnologiesSee all
+Enterprise AI is at a tipping Point, here’s what comes next
+Deepfake legislation: Denmark moves to protect digital identity
+What are ‘sensitive’ organizations and why are they crucial in the age of AI?
+Why AI literacy is crucial for safe, inclusive and strategic AI transformation
+Should governments act like start-ups?
+Trust is the new currency in the AI agent economy
+
+--------------------------------------------------
+

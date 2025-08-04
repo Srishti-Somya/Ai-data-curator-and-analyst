@@ -1,0 +1,327 @@
+INFO:     Will watch for changes in these directories: ['/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [13748] using StatReload
+INFO:     Started server process [13816]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+['/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/bin', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python313.zip', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/lib/python3.13/site-packages']
+INFO:     127.0.0.1:64073 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64090 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64094 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64140 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64162 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64162 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64164 - "OPTIONS /process HTTP/1.1" 200 OK
+Received request: query='artificial intelligence trends 2024' keywords=['machine learning', 'AI development'] columns_to_save=['Person', 'Org', 'Date', 'Loc']
+INFO:     127.0.0.1:64181 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64203 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64165 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64234 - "GET /docs HTTP/1.1" 200 OK
+Response from scraper: 500 {"detail":"Error during scraping: 404: No relevant content found"}
+here
+Error: 500 {"detail":"Error during scraping: 404: No relevant content found"}
+INFO:     127.0.0.1:64164 - "POST /process HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:64260 - "GET /docs HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'Scrapping_modules_init/scrapper.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [13816]
+INFO:     Started server process [15914]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+['/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/bin', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python313.zip', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/lib/python3.13/site-packages']
+INFO:     127.0.0.1:64287 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  StatReload detected changes in 'Scrapping_modules_init/scrapper.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15914]
+INFO:     Started server process [15972]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+['/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/bin', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python313.zip', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/lib/python3.13/site-packages']
+INFO:     127.0.0.1:64328 - "GET /docs HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'Scrapping_modules_init/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15972]
+INFO:     Started server process [16054]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+['/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/bin', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python313.zip', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13', '/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload', '/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/venv/lib/python3.13/site-packages']
+INFO:     127.0.0.1:64363 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64367 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64382 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64404 - "GET /docs HTTP/1.1" 200 OK
+Received request: query='python programming' keywords=['python'] columns_to_save=['Person', 'Org', 'Date', 'Loc']
+INFO:     127.0.0.1:64472 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64478 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64494 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64504 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64512 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64512 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64512 - "GET /docs HTTP/1.1" 200 OK
+Received request: query='space exploration missions 2024' keywords=['NASA', 'Mars', 'satellite'] columns_to_save=['Person', 'Org', 'Date', 'Loc']
+INFO:     127.0.0.1:64533 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64544 - "GET /docs HTTP/1.1" 200 OK
+Response from scraper: 200 {"message":"Scraping completed successfully","filename":"dataset_20250803_000548.txt","pages_scraped":15,"total_content_length":110963,"urls":["https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean","https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python","https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement","https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch","https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python","https://stackoverflow.com/collectives","https://stackoverflow.com/questions/ask","https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean?lastactivity","https://stackoverflow.com/questions/tagged/python","https://stackoverflow.com/questions/tagged/colon-equals","https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python?lastactivity","https://stackoverflow.com/questions/tagged/syntax","https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement?lastactivity","https://stackoverflow.com/questions/tagged/logical-and","https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch?lastactivity"]}
+here
+Scrape successful: {'message': 'Scraping completed successfully', 'filename': 'dataset_20250803_000548.txt', 'pages_scraped': 15, 'total_content_length': 110963, 'urls': ['https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean', 'https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python', 'https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement', 'https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch', 'https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python', 'https://stackoverflow.com/collectives', 'https://stackoverflow.com/questions/ask', 'https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean?lastactivity', 'https://stackoverflow.com/questions/tagged/python', 'https://stackoverflow.com/questions/tagged/colon-equals', 'https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python?lastactivity', 'https://stackoverflow.com/questions/tagged/syntax', 'https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement?lastactivity', 'https://stackoverflow.com/questions/tagged/logical-and', 'https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch?lastactivity']}
+here1
+here1
+Processing NLP for file: /Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server/filtered_info.txt
+Text content length: 30130 characters
+Extracted 131 entities
+CSV saved to: structured_data.csv
+CSV shape: (34, 8)
+Creating visualization with 131 entities
+Visualization saved to relationships.svg
+SVG size: 8993 characters
+SVG saved to: relationships.svg
+INFO:     127.0.0.1:64407 - "POST /process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64820 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64891 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:65174 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65353 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49246 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49560 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49720 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49784 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50026 - "GET /docs HTTP/1.1" 200 OK
+Response from scraper: 200 {"message":"Scraping completed successfully","filename":"dataset_20250803_000946.txt","pages_scraped":15,"total_content_length":40937,"urls":["https://www.sciencenews.org/topic/space","https://forums.space.com/threads/hypercone-hypothesis-rethinking-light-cones-in-a-hyperspherical-universe.71601/","https://forums.space.com/threads/light-in-the-existence.71766/page-2","https://www.sciencenews.org/article/space-missions-in-2024-recap","https://forums.space.com/threads/questions-about-the-spacex-launch-of-24th-of-march.70842/","https://www.sciencenews.org/topic/astronomy","https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star","https://www.sciencenews.org/author/mckenzie-prillaman","https://www.sciencenews.org/topic/quantum-physics","https://www.sciencenews.org/article/quantum-computer-space-physics","https://www.sciencenews.org/article/space-missions-in-2024-recap?share=facebook&nb=1","https://www.sciencenews.org/article/space-missions-in-2024-recap?share=reddit&nb=1","https://www.sciencenews.org/author/lisa-grossman","https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end","https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole"]}
+here
+Scrape successful: {'message': 'Scraping completed successfully', 'filename': 'dataset_20250803_000946.txt', 'pages_scraped': 15, 'total_content_length': 40937, 'urls': ['https://www.sciencenews.org/topic/space', 'https://forums.space.com/threads/hypercone-hypothesis-rethinking-light-cones-in-a-hyperspherical-universe.71601/', 'https://forums.space.com/threads/light-in-the-existence.71766/page-2', 'https://www.sciencenews.org/article/space-missions-in-2024-recap', 'https://forums.space.com/threads/questions-about-the-spacex-launch-of-24th-of-march.70842/', 'https://www.sciencenews.org/topic/astronomy', 'https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star', 'https://www.sciencenews.org/author/mckenzie-prillaman', 'https://www.sciencenews.org/topic/quantum-physics', 'https://www.sciencenews.org/article/quantum-computer-space-physics', 'https://www.sciencenews.org/article/space-missions-in-2024-recap?share=facebook&nb=1', 'https://www.sciencenews.org/article/space-missions-in-2024-recap?share=reddit&nb=1', 'https://www.sciencenews.org/author/lisa-grossman', 'https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end', 'https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole']}
+here1
+here1
+Processing NLP for file: /Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server/filtered_info.txt
+Text content length: 14933 characters
+Extracted 139 entities
+CSV saved to: structured_data.csv
+CSV shape: (34, 8)
+Creating visualization with 139 entities
+Visualization saved to relationships.svg
+SVG size: 11342 characters
+SVG saved to: relationships.svg
+INFO:     127.0.0.1:64512 - "POST /process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50109 - "GET /csv HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "GET /csv HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "GET /svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50109 - "GET /svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50143 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50163 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50192 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50216 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50240 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50247 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50288 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50313 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50336 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50359 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50392 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50404 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50431 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50451 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50494 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50519 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50549 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50561 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50614 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50661 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50666 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50701 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50756 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50768 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50801 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50855 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50866 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50904 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50964 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50975 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51028 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51083 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51108 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51144 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51191 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51213 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51246 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51297 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51321 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51368 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51436 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51475 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51543 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51578 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51604 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51618 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51628 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51630 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51643 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51648 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51661 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51683 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51719 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51722 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51727 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51737 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51740 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51765 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51786 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51788 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51810 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51823 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51845 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51851 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51863 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51870 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51874 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51879 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51881 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51905 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51972 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51982 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52054 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52078 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52096 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52133 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52174 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52179 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52214 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52247 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52255 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52288 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52322 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52334 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52373 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52401 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52408 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52447 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52482 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52496 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52541 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52585 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52595 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52610 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52644 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52661 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52686 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52709 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52716 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52748 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52791 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52806 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52837 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52874 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52887 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52921 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52956 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52964 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52998 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53022 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53036 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53068 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53113 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53122 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53156 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53197 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53205 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53244 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53284 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53297 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53342 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53388 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53392 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53420 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53464 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53469 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53502 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53520 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53529 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53560 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53583 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53585 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53599 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53614 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53616 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53638 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53646 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53652 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53660 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53670 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53672 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53680 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53689 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53775 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53878 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53912 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53915 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53926 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54140 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54177 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54430 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54714 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54727 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54955 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55084 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55094 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55239 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55386 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55391 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55611 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55767 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55774 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55865 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56139 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56150 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56346 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56533 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56549 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56626 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56689 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56691 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56723 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56752 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56755 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56801 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56820 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56822 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56855 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56871 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56873 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56914 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56953 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56955 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56971 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56996 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56998 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57022 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57032 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57046 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57048 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57081 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57114 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57120 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57150 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57160 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57201 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57230 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57274 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57299 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57336 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57358 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57376 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57391 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57405 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57411 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57443 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57466 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57480 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57488 - "GET / HTTP/1.1" 404 Not Found
+Received request: query='python programming' keywords=['python', 'coding'] columns_to_save=['Person', 'Org', 'Date', 'Loc']
+INFO:     127.0.0.1:57490 - "POST /process HTTP/1.1" 500 Internal Server Error
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [16054]
+INFO:     Stopping reloader process [13748]

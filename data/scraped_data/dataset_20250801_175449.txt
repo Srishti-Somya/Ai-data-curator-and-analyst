@@ -1,0 +1,1015 @@
+URL: https://www.geeksforgeeks.org/artificial-intelligence/difference-between-artificial-intelligence-vs-machine-learning-vs-deep-learning/
+==================================================
+Difference Between Artificial Intelligence vs Machine Learning vs Deep Learning
+Artificial Intelligence is basically the mechanism to incorporate human intelligence into machines through a set of rules(algorithm). AI is a combination of two words: "Artificial" meaning something made by humans or non-natural things and "Intelligence" meaning the ability to understand or think accordingly. Another definition could be that "AI is basically the study of training your machine(computers) to mimic a human brain and its thinking capabilities".
+AI focuses on 3 major aspects(skills): learning, reasoning, and self-correction to obtain the maximum efficiency possible.
+Machine Learning is basically the study/process which provides the system(computer) to learn automatically on its own through experiences it had and improve accordingly without being explicitly programmed. ML is an application or subset of AI. ML focuses on the development of programs so that it can access data to use it for itself. The entire process makes observations on data to identify the possible patterns being formed and make better future decisions as per the examples provided to them. The major aim of ML is to allow the systems to learn by themselves through experience without any kind of human intervention or assistance.
+Deep Learning is basically a sub-part of the broader family of Machine Learning which makes use of Neural Networks(similar to the neurons working in our brain) to mimic human brain-like behavior. DL algorithms focus on information processing patterns mechanism to possibly identify the patterns just like our human brain does and classifies the information accordingly. DL works on larger sets of data when compared to ML and the prediction mechanism is self-administered by machines.
+Below is a table of differences between Artificial Intelligence, Machine Learning and Deep Learning:
+AI vs. Machine Learning vs. Deep Learning Examples:
+Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that would normally require human intelligence.
+Some examples of AI include:
+There are numerous examples of AI applications across various industries. Here are some common examples:
+Examples of Machine Learning:
+Machine Learning (ML) is a subset of Artificial Intelligence (AI) that involves the use of algorithms and statistical models to allow a computer system to "learn" from data and improve its performance over time, without being explicitly programmed to do so.
+Here are some examples of Machine Learning:
+Examples of Deep Learning:
+Deep Learning is a type of Machine Learning that uses artificial neural networks with multiple layers to learn and make decisions.
+Here are some examples of Deep Learning:
+AI vs. ML vs. DL works: Is There a Difference?
+Working in AI is not the same as being an ML or DL engineer. Here’s how you can tell those careers apart and decide which one is the right call for you.
+What Does an AI Engineer Do?
+An AI Engineer is a professional who designs, develops, and implements artificial intelligence (AI) systems and solutions. Here are some of the key responsibilities and tasks of an AI Engineer:
+An AI Engineer must have a strong background in computer science, mathematics, and statistics, as well as experience in developing AI algorithms and solutions. They should also be familiar with programming languages, such as Python and R.
+What Does a Machine Learning Engineer Do?
+A Machine Learning Engineer is a professional who designs, develops, and implements machine learning (ML) systems and solutions. Here are some of the key responsibilities and tasks of a Machine Learning Engineer:
+A Machine Learning Engineer must have a strong background in computer science, mathematics, and statistics, as well as experience in developing ML algorithms and solutions. They should also be familiar with programming languages, such as Python and R, and have experience working with ML frameworks and tools.
+What Does a Deep Learning Engineer Do?
+A Deep Learning Engineer is a professional who designs, develops, and implements deep learning (DL) systems and solutions. Here are some of the key responsibilities and tasks of a Deep Learning Engineer:
+- Speech recognition: speech recognition systems use deep learning algorithms to recognize and classify images and speech. These systems are used in a variety of applications, such as self-driving cars, security systems, and medical imaging.
+- Personalized recommendations: E-commerce sites and streaming services like Amazon and Netflix use AI algorithms to analyze users' browsing and viewing history to recommend products and content that they are likely to be interested in.
+- Predictive maintenance: AI-powered predictive maintenance systems analyze data from sensors and other sources to predict when equipment is likely to fail, helping to reduce downtime and maintenance costs.
+- Medical diagnosis: AI-powered medical diagnosis systems analyze medical images and other patient data to help doctors make more accurate diagnoses and treatment plans.
+- Autonomous vehicles: Self-driving cars and other autonomous vehicles use AI algorithms and sensors to analyze their environment and make decisions about speed, direction, and other factors.
+- Virtual Personal Assistants (VPA) like Siri or Alexa - these use natural language processing to understand and respond to user requests, such as playing music, setting reminders, and answering questions.
+- Autonomous vehicles - self-driving cars use AI to analyze sensor data, such as cameras and lidar, to make decisions about navigation, obstacle avoidance, and route planning.
+- Fraud detection - financial institutions use AI to analyze transactions and detect patterns that are indicative of fraud, such as unusual spending patterns or transactions from unfamiliar locations.
+- Image recognition - AI is used in applications such as photo organization, security systems, and autonomous robots to identify objects, people, and scenes in images.
+- Natural language processing - AI is used in chatbots and language translation systems to understand and generate human-like text.
+- Predictive analytics - AI is used in industries such as healthcare and marketing to analyze large amounts of data and make predictions about future events, such as disease outbreaks or consumer behavior.
+- Game-playing AI - AI algorithms have been developed to play games such as chess, Go, and poker at a superhuman level, by analyzing game data and making predictions about the outcomes of moves.
+- Image recognition: Machine learning algorithms are used in image recognition systems to classify images based on their contents. These systems are used in a variety of applications, such as self-driving cars, security systems, and medical imaging.
+- Speech recognition: Machine learning algorithms are used in speech recognition systems to transcribe speech and identify the words spoken. These systems are used in virtual assistants like Siri and Alexa, as well as in call centers and other applications.
+- Natural language processing (NLP): Machine learning algorithms are used in NLP systems to understand and generate human language. These systems are used in chatbots, virtual assistants, and other applications that involve natural language interactions.
+- Recommendation systems: Machine learning algorithms are used in recommendation systems to analyze user data and recommend products or services that are likely to be of interest. These systems are used in e-commerce sites, streaming services, and other applications.
+- Sentiment analysis: Machine learning algorithms are used in sentiment analysis systems to classify the sentiment of text or speech as positive, negative, or neutral. These systems are used in social media monitoring and other applications.
+- Predictive maintenance: Machine learning algorithms are used in predictive maintenance systems to analyze data from sensors and other sources to predict when equipment is likely to fail, helping to reduce downtime and maintenance costs.
+- Spam filters in email - ML algorithms analyze email content and metadata to identify and flag messages that are likely to be spam.
+- Recommendation systems - ML algorithms are used in e-commerce websites and streaming services to make personalized recommendations to users based on their browsing and purchase history.
+- Predictive maintenance - ML algorithms are used in manufacturing to predict when machinery is likely to fail, allowing for proactive maintenance and reducing downtime.
+- Credit risk assessment - ML algorithms are used by financial institutions to assess the credit risk of loan applicants, by analyzing data such as their income, employment history, and credit score.
+- Customer segmentation - ML algorithms are used in marketing to segment customers into different groups based on their characteristics and behavior, allowing for targeted advertising and promotions.
+- Fraud detection - ML algorithms are used in financial transactions to detect patterns of behavior that are indicative of fraud, such as unusual spending patterns or transactions from unfamiliar locations.
+- Speech recognition - ML algorithms are used to transcribe spoken words into text, allowing for voice-controlled interfaces and dictation software.
+- Image and video recognition: Deep learning algorithms are used in image and video recognition systems to classify and analyze visual data. These systems are used in self-driving cars, security systems, and medical imaging.
+- Generative models: Deep learning algorithms are used in generative models to create new content based on existing data. These systems are used in image and video generation, text generation, and other applications.
+- Autonomous vehicles: Deep learning algorithms are used in self-driving cars and other autonomous vehicles to analyze sensor data and make decisions about speed, direction, and other factors.
+- Image classification - Deep Learning algorithms are used to recognize objects and scenes in images, such as recognizing faces in photos or identifying items in an image for an e-commerce website.
+- Speech recognition - Deep Learning algorithms are used to transcribe spoken words into text, allowing for voice-controlled interfaces and dictation software.
+- Natural language processing - Deep Learning algorithms are used for tasks such as sentiment analysis, language translation, and text generation.
+- Recommender systems - Deep Learning algorithms are used in recommendation systems to make personalized recommendations based on users' behavior and preferences.
+- Fraud detection - Deep Learning algorithms are used in financial transactions to detect patterns of behavior that are indicative of fraud, such as unusual spending patterns or transactions from unfamiliar locations.
+- Game-playing AI - Deep Learning algorithms have been used to develop game-playing AI that can compete at a superhuman level, such as the AlphaGo AI that defeated the world champion in the game of Go.
+- Time series forecasting - Deep Learning algorithms are used to forecast future values in time series data, such as stock prices, energy consumption, and weather patterns.
+- Design and development of AI algorithms: AI Engineers design, develop, and implement AI algorithms, such as decision trees, random forests, and neural networks, to solve specific problems.
+- Data analysis: AI Engineers analyze and interpret data, using statistical and mathematical techniques, to identify patterns and relationships that can be used to train AI models.
+- Model training and evaluation: AI Engineers train AI models on large datasets, evaluate their performance, and adjust the parameters of the algorithms to improve accuracy.
+- Deployment and maintenance: AI Engineers deploy AI models into production environments and maintain and update them over time.
+- Collaboration with stakeholders: AI Engineers work closely with stakeholders, including data scientists, software engineers, and business leaders, to understand their requirements and ensure that the AI solutions meet their needs.
+- Research and innovation: AI Engineers stay current with the latest advancements in AI and contribute to the research and development of new AI techniques and algorithms.
+- Communication: AI Engineers communicate the results of their work, including the performance of AI models and their impact on business outcomes, to stakeholders.
+- Design and development of ML algorithms: Machine Learning Engineers design, develop, and implement ML algorithms, such as decision trees, random forests, and neural networks, to solve specific problems.
+- Data analysis: Machine Learning Engineers analyze and interpret data, using statistical and mathematical techniques, to identify patterns and relationships that can be used to train ML models.
+- Model training and evaluation: Machine Learning Engineers train ML models on large datasets, evaluate their performance, and adjust the parameters of the algorithms to improve accuracy.
+- Deployment and maintenance: Machine Learning Engineers deploy ML models into production environments and maintain and update them over time.
+- Collaboration with stakeholders: Machine Learning Engineers work closely with stakeholders, including data scientists, software engineers, and business leaders, to understand their requirements and ensure that the ML solutions meet their needs.
+- Research and innovation: Machine Learning Engineers stay current with the latest advancements in ML and contribute to the research and development of new ML techniques and algorithms.
+- Communication: Machine Learning Engineers communicate the results of their work, including the performance of ML models and their impact on business outcomes, to stakeholders.
+- Design and development of DL algorithms: Deep Learning Engineers design, develop, and implement deep neural networks and other DL algorithms to solve specific problems.
+- Data analysis: Deep Learning Engineers analyze and interpret large datasets, using statistical and mathematical techniques, to identify patterns and relationships that can be used to train DL models.
+- Model training and evaluation: Deep Learning Engineers train DL models on massive datasets, evaluate their performance, and adjust the parameters of the algorithms to improve accuracy.
+- Deployment and maintenance: Deep Learning Engineers deploy DL models into production environments and maintain and update them over time.
+- Collaboration with stakeholders: Deep Learning Engineers work closely with stakeholders, including data scientists, software engineers, and business leaders, to understand their requirements and ensure that the DL solutions meet their needs.
+- Research and innovation: Deep Learning Engineers stay current with the latest advancements in DL and contribute to the research and development of new DL techniques and algorithms.
+- Communication: Deep Learning Engineers communicate the results of their work, including the performance of DL models and their impact on business outcomes, to stakeholders.
+- Artificial Intelligence
+
+--------------------------------------------------
+
+URL: https://www.mdpi.com/2075-4418/13/15/2582
+==================================================
+What Is Machine Learning, Artificial Neural Networks and Deep Learning?—Examples of Practical Applications in Medicine
+3. Data and Its Relevance to Neural Networks
+4. Machine Learning Models
+4.1. Supervised Learning
+4.2. Unsupervised Learning
+5. Classical Methods of Machine Learning
+5.1. k-Nearest Neighbour Algorithms
+5.2. Linear Regression Algorithms
+5.3. Logistic Regression Algorithms
+5.4. Naive Bayes Classifier Algorithms
+5.5. Support Vector Machines (SVMs)
+7.1. Differences between the DNNs and ANNs
+7.2. Deep Neural Network (DNN) Classifiers
+7.3. Convolutional Neural Networks
+7.4. Auto-Encoders (Unsupervised)
+7.5. Segmenting Neural Networks (e.g., UNET and Lung Segmentation)
+7.6. Generative Adversarial Networks
+7.7. Transfer Learning
+7.8. Few-Shot Learning
+7.9. Deep Reinforcement Learning
+7.10. Transformer Neural Networks
+7.11. Attention Mechanism
+8. Examples of AI Applications in Medicine Approved by the US Food and Drug Administration (FDA)
+9. Discussion and Limitations
+11. Summary and Future Research
+Institutional Review Board Statement
+Informed Consent Statement
+Data Availability Statement
+Conflicts of Interest
+Kufel, J.;                     Bargieł-Łączek, K.;                     Kocot, S.;                     Koźlik, M.;                     Bartnikowska, W.;                     Janik, M.;                     Czogalik, Ł.;                     Dudek, P.;                     Magiera, M.;                     Lis, A.;
+et al.    What Is Machine Learning, Artificial Neural Networks and Deep Learning?—Examples of Practical Applications in Medicine. Diagnostics 2023, 13, 2582.
+https://doi.org/10.3390/diagnostics13152582
+Kufel J,                                 Bargieł-Łączek K,                                 Kocot S,                                 Koźlik M,                                 Bartnikowska W,                                 Janik M,                                 Czogalik Ł,                                 Dudek P,                                 Magiera M,                                 Lis A,
+et al.        What Is Machine Learning, Artificial Neural Networks and Deep Learning?—Examples of Practical Applications in Medicine. Diagnostics. 2023; 13(15):2582.
+https://doi.org/10.3390/diagnostics13152582
+Kufel, Jakub,                                 Katarzyna Bargieł-Łączek,                                 Szymon Kocot,                                 Maciej Koźlik,                                 Wiktoria Bartnikowska,                                 Michał Janik,                                 Łukasz Czogalik,                                 Piotr Dudek,                                 Mikołaj Magiera,                                 Anna Lis,
+and et al.        2023. "What Is Machine Learning, Artificial Neural Networks and Deep Learning?—Examples of Practical Applications in Medicine" Diagnostics 13, no. 15: 2582.
+https://doi.org/10.3390/diagnostics13152582
+Kufel, J.,                                 Bargieł-Łączek, K.,                                 Kocot, S.,                                 Koźlik, M.,                                 Bartnikowska, W.,                                 Janik, M.,                                 Czogalik, Ł.,                                 Dudek, P.,                                 Magiera, M.,                                 Lis, A.,                                 Paszkiewicz, I.,                                 Nawrat, Z.,                                 Cebula, M.,                                 & Gruszczyńska, K.
+(2023). What Is Machine Learning, Artificial Neural Networks and Deep Learning?—Examples of Practical Applications in Medicine. Diagnostics, 13(15), 2582.
+https://doi.org/10.3390/diagnostics13152582
+Article Access Statistics
+- Model architecture—describes how the data is processed, transmitted, and analysed within the machine learning algorithm, which influences its efficiency and effectiveness in solving problems.
+- Data exploration—the process of analysing and summarising a large dataset to gain insight into the relationships and patterns that exist within the data.
+- Binary classification—a type of classification in which the aim is to assign one of two possible classes (labels) to an object: positive or negative, true or false, etc.
+- Logistic function—a sigmoidal mathematical function that transforms values from minus infinity into plus infinity to the range (0, 1), allowing not only non-linearity, but also probability, e.g., binary classification.
+- Input variables—also known as independent variables, explanatory variables, predictor variables, etc., and are variables that are used to describe or explain the behaviour, trends, or decisions of the target variables.
+- Target variables—also known as dependent variables, outcome variables, etc., and are variables that are studied or predicted in statistical analysis and machine learning. Target variables are dependent on and are described using explanatory variables.
+- Bayes theory—used to calculate the probability of an event, having prior information about that event.
+- Sentiment analysis—the process of automatically determining emotions, opinions, and moods expressed in the text. This can be in the form of product reviews, comments on online forums, tweets on Twitter, or other forms of textual communication. The purpose of sentiment analysis is to gain an automatic understanding of whether a text is positive, negative, or neutral.
+- Training—the process of formatting a model to interpret the data to perform a specific task with a specific accuracy. In this case, it is the determination of the hyperplane.
+- Hyperplane—a set having n − 1 dimension, relative to the n-dimensional space in which it is contained (for n = two-dimensional space it has one dimension (point); for n = three-dimensional space it has two dimensions (line)).
+- Training objects—a set of objects used to determine the hyperplane with the model.
+- Support vectors—at least two objects at the shortest distance from the hyperplane belonging to two classes.
+- Class—a group, described on numerical ranges, to which an object can be assigned—i.e., classified.
+- Cluster—a hyperplane-limited space in a data system in which the presence of an object determines the class assignment.
+- Neuron—the basic element of a neural network, which connects to other neurons through transmitting data to each other.
+- Weight—the characteristic that the network designer provides to the connections between the neurons to achieve the desired results.
+- Recursion—referring a function to the same function using the network being trained.
+- Layer—a portion of the total network architecture that is differentiated from the other parts due to having a distinctive function.
+- Activation function—takes the input from one or more neurons and maps it to an output value, which is then passed onto the next layer of neurons in the network.
+- Hidden layer—in an artificial neural network, this is defined as the layer between the input and output layers, where the result of their action cannot be directly observed.
+- Input layer—layer where the data are collected and passed onto the next layer.
+- Output layer—layer which gathers the conclusions.
+- Backpropagation—sending signals in the reverse order to calculate the error associated with each individual neuron in an effort to improve the model.
+- Cost function—a function that represents the errors occurring in the training process in the form of a number. It is used for subsequent optimisation.
+- Receptive field—a section of the image that is individually analysed using the filter.
+- Filter—a set of numbers that are used to perform computational operations on the input data on splices. It is used to extract features (e.g., the presence of edges or curvature).
+- Convolution—integral of the product of the two functions after one is reflected about the y-axis and shifted.
+- Pooling—reducing the amount of data representing a given area of the image.
+- Matrix—a mathematical concept; a set of numbers which is used, among other things, to recalculate the data obtained from neurons.
+- Skip connections—a technique used in neural networks that allows information to be passed from one layer of the network to another, while skipping intermediate layers.
+- Perceptron networks: simplest neural networks with an input and output layer composed of perceptrons. Perceptrons assign a value of one or zero based on the activation threshold, dividing the set into two.
+- Layered networks (feed forward): multiple layers of interconnected neurons where the outputs of the previous layer neurons serve as the inputs for the next layer. The neurons of each successive layer always have a +1 input from the previous layer. Enables the classification of non-binary sets, and are used in image, text, and speech recognition.
+- Recurrent networks: neural networks with feedback loops where the output signals feed back into the input neurons. Can generate sequences of phenomena and signals until the output stabilises. Used for sentiment analysis and text generation.
+- Convolutional networks, also known as braided networks, are described in the next paragraph.
+- Gated recurrent unit (GRU) and long short-term memory (LSTM) networks: perform recursive tasks with the output dependent on previous calculations. They have network memory, allowing them to remember data states across different time steps. These networks have longer training times and are applied in time series analysis (e.g., stock prices), autonomous car trajectory prediction, text-to-speech conversion, and language translation.
+- Apple IRNF 2.0: Apple Inc. developed the IRNF 2.0 software for the Apple Watch, utilising CNNs and machine learning algorithms. This software aims to identify cardiac rhythm disorders, particularly atrial fibrillation (AFib). The study conducted by Apple in 2021, with FDA approval, involved over 2500 participants and collected more than 3 million heart rate recordings. The algorithm successfully differentiated between AFib and non-AFib rhythms, with a sensitivity of 88.6% and a specificity of 99.3%. While effective, it is important to note that the app does not replace professional diagnosis nor target individuals that have already been diagnosed with AFib [77].
+- Ultromics: An AI-powered solution detects heart failure with a 90% accuracy, specifically heart failure with preserved ejection fraction (HFpEF). It analyses LV images using an AI ML-based algorithm to accurately measure LV parameters, such as volumes, left ventricular ejection fraction (LVEF), and left ventricular longitudinal strain (LVLS). This software (EchoGo Core 2.0) also classifies echocardiographic views for quality control. AI readings are more consistent than manual readings, regardless of the image quality. Additionally, AI-derived LVEF and LVLS values have been significantly associated with mortality in-hospital and at final follow-up [78].
+- Aidoc: Aidoc is an AI-based platform that permits a fast and accurate analysis of X-rays and CT scans. It detects conditions, like strokes, fractures, and cancerous lesions. Their advanced AI softwares (Aidoc software from 2.0 and above) help radiologists to prioritise their critical cases and expedite patient care. Aidoc has 12 FDA-approved tools, including softwares (Aidoc software from 2.0 and above) for analysing head CT images (detecting intracranial haemorrhage), chest CT studies (identifying aortic dissection), chest X-rays (flagging a suspected pneumothorax), and abdominal CT images (indicating suspected intra-abdominal free gas) [79].
+- Riverain Technologies: This AI-based platform enables an accurate and efficient analysis of lung images for detecting and monitoring lung conditions, like cancer, COPD, and bronchial disease. It includes features such as CT Detect for measuring areas of interest, ClearRead CT Compare for comparing nodules across studies, and ClearRead CT Vessel Suppress for enhancing nodule visibility. This patented technology improves the accuracy and reading performance, and seamlessly integrates processed series with the original CT series for synchronised scrolling [80].
+- Ward, T.M.; Mascagni, P.; Madani, A.; Padoy, N.; Perretta, S.; Hashimoto, D.A. Surgical Data Science and Artificial Intelligence for Surgical Education. J. Surg. Oncol. 2021, 124, 221–230. [Google Scholar] [CrossRef]
+- Mortani Barbosa, E.J.; Gefter, W.B.; Ghesu, F.C.; Liu, S.; Mailhe, B.; Mansoor, A.; Grbic, S.; Vogt, S. Automated Detection and Quantification of COVID-19 Airspace Disease on Chest Radiographs: A Novel Approach Achieving Expert Radiologist-Level Performance Using a Deep Convolutional Neural Network Trained on Digital Reconstructed Radiographs from Computed Tomography-Derived Ground Truth. Investig. Radiol. 2021, 56, 471–479. [Google Scholar] [CrossRef]
+- Gupta, M. Introduction to Data in Machine Learning. GeeksforGeeks. Available online: https://www.geeksforgeeks.org/ml-introduction-data-machine-learning/ (accessed on 1 May 2023).
+- Dorfman, E. How Much Data Is Required for Machine Learning? Postindustria. Available online: https://postindustria.com/how-much-data-is-required-for-machine-learning/ (accessed on 7 May 2023).
+- Patel, H. Data-Centric Approach vs. Model-Centric Approach in Machine Learning. MLOps Blog 2023. Available online: https://neptune.ai/blog/data-centric-vs-model-centric-machine-learning (accessed on 1 May 2023).
+- Brown, S. Machine Learning, Explained. MIT Sloan. Ideas Made to Matter. 2021. Available online: https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained (accessed on 4 May 2023).
+- Christopher, A. K-Nearest Neighbor. Medium. The Startup. 2021. Available online: https://medium.com/swlh/k-nearest-neighbor-ca2593d7a3c4 (accessed on 10 May 2023).
+- Hamed, A.; Sobhy, A.; Nassar, H. Accurate Classification of COVID-19 Based on Incomplete Heterogeneous Data Using a KNN Variant Algorithm. Arab J. Sci. Eng. 2021, 46, 8261–8272. [Google Scholar] [CrossRef]
+- Bellino, G.; Schiaffino, L.; Battisti, M.; Guerrero, J.; Rosado-Muñoz, A. Optimization of the KNN Supervised Classification Algorithm as a Support Tool for the Implantation of Deep Brain Stimulators in Patients with Parkinson’s Disease. Entropy 2019, 21, 346. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+- What Is Linear Regression? IBM. Available online: https://www.ibm.com/topics/linear-regression (accessed on 11 May 2023).
+- Garcia, J.M.V.; Bahloul, M.A.; Laleg-Kirati, T.-M. A Multiple Linear Regression Model for Carotid-to-Femoral Pulse Wave Velocity Estimation Based on Schrodinger Spectrum Characterization. In Proceedings of the 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Glasgow, UK, 11–15 July 2022; pp. 143–147. [Google Scholar]
+- Co to Jest Uczenie Maszynowe? Microsoft Azure. Available online: https://azure.microsoft.com/pl-pl/resources/cloud-computing-dictionary/what-is-machine-learning-platform (accessed on 11 May 2023).
+- Regresja Logistyczna. IBM. Available online: https://www.ibm.com/docs/pl/spss-statistics/28.0.0?topic=regression-logistic (accessed on 14 May 2023).
+- Kleinbaum, D.G.; Klein, M. Logistic Regression. In Statistics for Biology and Health; Springer: New York, NY, USA, 2010; ISBN 978-1-4419-1741-6. [Google Scholar]
+- Gruszczyński, M.; Witkowski, B.; Wiśniowski, A.; Szulc, A.; Owczarczuk, M.; Książek, M.; Bazyl, M. Mikroekonometria. Modele i Metody Analizy Danych Indywidualnych; Akademicka. Ekonomia; II; Wolters Kluwer Polska SA: Gdansk, Poland, 2012; ISBN 978-83-264-5184-3. [Google Scholar]
+- Naiwny Klasyfikator Bayesa. StatSoft Internetowy Podręcznik Statystyki. Available online: https://www.statsoft.pl/textbook/stathome_stat.html?https%3A%2F%2Fwww.statsoft.pl%2Ftextbook%2Fgo_search.html%3Fq%3D%25bayersa (accessed on 2 May 2023).
+- Možina, M.; Demšar, J.; Kattan, M.; Zupan, B. Nomograms for Visualization of Naive Bayesian Classifier. In Knowledge Discovery in Databases: PKDD 2004; Lecture Notes in Computer Science; Boulicaut, J.-F., Esposito, F., Giannotti, F., Pedreschi, D., Eds.;  Springer: Berlin/Heidelberg, Germany, 2004; Volume 3202, pp. 337–348. ISBN 978-3-540-23108-0. [Google Scholar]
+- Minsky, M. Steps toward Artificial Intelligence. Proc. IRE 1961, 49, 8–30. [Google Scholar] [CrossRef]
+- Zhou, S. Sparse SVM for Sufficient Data Reduction. IEEE Trans. Pattern Anal. Mach. Intell. 2021, 44, 5560–5571. [Google Scholar] [CrossRef] [PubMed]
+- Bordes, A.; Ertekin, S.; Weston, J.; Bottou, L. Fast Kernel Classifiers with Online and Active Learning. J. Mach. Learn. 2005, 6, 1579–1619. [Google Scholar]
+- Cortes, C.; Vapnik, V. Support-Vector Networks. Mach. Learn. 1995, 20, 273–297. [Google Scholar] [CrossRef]
+- Noble, W.S. What Is a Support Vector Machine? Nat. Biotechnol. 2006, 24, 1565–1567. [Google Scholar] [CrossRef]
+- Winters-Hilt, S.; Merat, S. SVM Clustering. BMC Bioinform. 2007, 8, S18. [Google Scholar] [CrossRef] [Green Version]
+- Huang, S.; Cai, N.; Pacheco, P.P.; Narrandes, S.; Wang, Y.; Xu, W. Applications of Support Vector Machine (SVM) Learning in Cancer Genomics. Cancer Genom. Proteom. 2018, 15, 41–51. [Google Scholar] [CrossRef] [Green Version]
+- Zhang, J.; Xu, J.; Hu, X.; Chen, Q.; Tu, L.; Huang, J.; Cui, J. Diagnostic Method of Diabetes Based on Support Vector Machine and Tongue Images. BioMed Res. Int. 2017, 2017, 7961494. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+- Schapire, R.E.; Freund, Y. Boosting: Foundations and Algorithms; Adaptive Computation and Machine Learning Series; MIT Press: Cambridge, MA, USA, 2012; ISBN 978-0-262-01718-3. [Google Scholar]
+- Li, S.; Zeng, Y.; Chapman, W.C.; Erfanzadeh, M.; Nandy, S.; Mutch, M.; Zhu, Q. Adaptive Boosting (AdaBoost)-based Multiwavelength Spatial Frequency Domain Imaging and Characterization for Ex Vivo Human Colorectal Tissue Assessment. J. Biophotonics 2020, 13, e201960241. [Google Scholar] [CrossRef]
+- Hatwell, J.; Gaber, M.M.; Atif Azad, R.M. Ada-WHIPS: Explaining AdaBoost Classification with Applications in the Health Sciences. BMC Med. Inform. Decis. Mak. 2020, 20, 250. [Google Scholar] [CrossRef] [PubMed]
+- Baniasadi, A.; Rezaeirad, S.; Zare, H.; Ghassemi, M.M. Two-Step Imputation and AdaBoost-Based Classification for Early Prediction of Sepsis on Imbalanced Clinical Data. Crit. Care Med. 2021, 49, e91–e97. [Google Scholar] [CrossRef] [PubMed]
+- Takemura, A.; Shimizu, A.; Hamamoto, K. Discrimination of Breast Tumors in Ultrasonic Images Using an Ensemble Classifier Based on the AdaBoost Algorithm with Feature Selection. IEEE Trans. Med. Imaging 2010, 29, 598–609. [Google Scholar] [CrossRef]
+- Salcedo-Sanz, S.; Pérez-Aracil, J.; Ascenso, G.; Del Ser, J.; Casillas-Pérez, D.; Kadow, C.; Fister, D.; Barriopedro, D.; García-Herrera, R.; Restelli, M.; et al. Analysis, Characterization, Prediction and Attribution of Extreme Atmospheric Events with Machine Learning: A Review. arXiv 2022, arXiv:2207.07580. [Google Scholar] [CrossRef]
+- Moore, A.; Bell, M. XGBoost, A Novel Explainable AI Technique, in the Prediction of Myocardial Infarction: A UK Biobank Cohort Study. Clin. Med. Insights Cardiol. 2022, 16, 117954682211336. [Google Scholar] [CrossRef]
+- Wang, X.; Zhu, T.; Xia, M.; Liu, Y.; Wang, Y.; Wang, X.; Zhuang, L.; Zhong, D.; Zhu, J.; He, H.; et al. Predicting the Prognosis of Patients in the Coronary Care Unit: A Novel Multi-Category Machine Learning Model Using XGBoost. Front. Cardiovasc. Med. 2022, 9, 764629. [Google Scholar] [CrossRef]
+- Subha Ramakrishnan, M.; Ganapathy, N. Extreme Gradient Boosting Based Improved Classification of Blood-Brain-Barrier Drugs. In Studies in Health Technology and Informatics; Séroussi, B., Weber, P., Dhombres, F., Grouin, C., Liebe, J.-D., Pelayo, S., Pinna, A., Rance, B., Sacchi, L., Ugon, A., et al., Eds.;  IOS Press: Amsterdam, The Netherlands, 2022; ISBN 978-1-64368-284-6. [Google Scholar]
+- Inoue, T.; Ichikawa, D.; Ueno, T.; Cheong, M.; Inoue, T.; Whetstone, W.D.; Endo, T.; Nizuma, K.; Tominaga, T. XGBoost, a Machine Learning Method, Predicts Neurological Recovery in Patients with Cervical Spinal Cord Injury. Neurotrauma Rep. 2020, 1, 8–16. [Google Scholar] [CrossRef]
+- Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A.N.; Kaiser, L.; Polosukhin, I. Attention Is All You Need. In Proceedings of the NIPS 2017, Long Beach, CA, USA, 4–9 December 2017. [Google Scholar] [CrossRef]
+- Shao, R.; Shi, Z.; Yi, J.; Chen, P.-Y.; Hsieh, C.-J. On the Adversarial Robustness of Vision Transformers. arXiv 2021, arXiv:2103.15670. [Google Scholar] [CrossRef]
+- Qureshi, J. What Is the Difference between Neural Networks and Deep Neural Networks? Quora 2018. Available online: https://www.quora.com/What-is-the-difference-between-neural-networks-and-deep-neural-networks (accessed on 3 May 2023).
+- Jeffrey, C. Explainer: What Is Machine Learning? TechSpot 2020. Available online: https://www.techspot.com/article/2048-machine-learning-explained/ (accessed on 3 May 2023).
+- McBee, M.P.; Awan, O.A.; Colucci, A.T.; Ghobadi, C.W.; Kadom, N.; Kansagra, A.P.; Tridandapani, S.; Auffermann, W.F. Deep Learning in Radiology. Acad. Radiol. 2018, 25, 1472–1480. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+- Chan, H.-P.; Samala, R.K.; Hadjiiski, L.M.; Zhou, C. Deep Learning in Medical Image Analysis. In Deep Learning in Medical Image Analysis; Advances in Experimental Medicine and Biology; Lee, G., Fujita, H., Eds.;  Springer International Publishing: Cham, Switzerland, 2020; Volume 1213, pp. 3–21. ISBN 978-3-030-33127-6. [Google Scholar]
+- Kriegeskorte, N.; Golan, T. Neural Network Models and Deep Learning. Curr. Biol. 2019, 29, R231–R236. [Google Scholar] [CrossRef] [PubMed]
+- Bajić, F.; Orel, O.; Habijan, M. A Multi-Purpose Shallow Convolutional Neural Network for Chart Images. Sensors 2022, 22, 7695. [Google Scholar] [CrossRef]
+- Han, R.; Yang, Y.; Li, X.; Ouyang, D. Predicting Oral Disintegrating Tablet Formulations by Neural Network Techniques. Asian J. Pharm. Sci. 2018, 13, 336–342. [Google Scholar] [CrossRef]
+- Egger, J.; Gsaxner, C.; Pepe, A.; Pomykala, K.L.; Jonske, F.; Kurz, M.; Li, J.; Kleesiek, J. Medical Deep Learning—A Systematic Meta-Review. Comput. Methods Programs Biomed. 2022, 221, 106874. [Google Scholar] [CrossRef]
+- Jafari, R.; Spincemaille, P.; Zhang, J.; Nguyen, T.D.; Luo, X.; Cho, J.; Margolis, D.; Prince, M.R.; Wang, Y. Deep Neural Network for Water/Fat Separation: Supervised Training, Unsupervised Training, and No Training. Magn. Reson. Med. 2021, 85, 2263–2277. [Google Scholar] [CrossRef]
+- Hou, J.-J.; Tian, H.-L.; Lu, B. A Deep Neural Network-Based Model for Quantitative Evaluation of the Effects of Swimming Training. Comput. Intell. Neurosci. 2022, 2022, 5508365. [Google Scholar] [CrossRef]
+- Singh, A.; Ardakani, A.A.; Loh, H.W.; Anamika, P.V.; Acharya, U.R.; Kamath, S.; Bhat, A.K. Automated Detection of Scaphoid Fractures Using Deep Neural Networks in Radiographs. Eng. Appl. Artif. Intell. 2023, 122, 106165. [Google Scholar] [CrossRef]
+- Gülmez, B. A Novel Deep Neural Network Model Based Xception and Genetic Algorithm for Detection of COVID-19 from X-Ray Images. Ann. Oper. Res. 2022.  [CrossRef]
+- Tsai, K.-J.; Chou, M.-C.; Li, H.-M.; Liu, S.-T.; Hsu, J.-H.; Yeh, W.-C.; Hung, C.-M.; Yeh, C.-Y.; Hwang, S.-H. A High-Performance Deep Neural Network Model for BI-RADS Classification of Screening Mammography. Sensors 2022, 22, 1160. [Google Scholar] [CrossRef]
+- Sharrock, M.F.; Mould, W.A.; Ali, H.; Hildreth, M.; Awad, I.A.; Hanley, D.F.; Muschelli, J. 3D Deep Neural Network Segmentation of Intracerebral Hemorrhage: Development and Validation for Clinical Trials. Neuroinform 2021, 19, 403–415. [Google Scholar] [CrossRef] [PubMed]
+- Jiao, Y.; Yuan, J.; Sodimu, O.M.; Qiang, Y.; Ding, Y. Deep Neural Network-Aided Histopathological Analysis of Myocardial Injury. Front. Cardiovasc. Med. 2022, 8, 724183. [Google Scholar] [CrossRef]
+- Rajput, J.S.; Sharma, M.; Kumar, T.S.; Acharya, U.R. Automated Detection of Hypertension Using Continuous Wavelet Transform and a Deep Neural Network with Ballistocardiography Signals. IJERPH 2022, 19, 4014. [Google Scholar] [CrossRef] [PubMed]
+- Voigt, I.; Boeckmann, M.; Bruder, O.; Wolf, A.; Schmitz, T.; Wieneke, H. A Deep Neural Network Using Audio Files for Detection of Aortic Stenosis. Clin. Cardiol. 2022, 45, 657–663. [Google Scholar] [CrossRef]
+- Ma, L.; Yang, T. Construction and Evaluation of Intelligent Medical Diagnosis Model Based on Integrated Deep Neural Network. Comput. Intell. Neurosci. 2021, 2021, 7171816. [Google Scholar] [CrossRef]
+- Ragab, M.; AL-Ghamdi, A.S.A.-M.; Fakieh, B.; Choudhry, H.; Mansour, R.F.; Koundal, D. Prediction of Diabetes through Retinal Images Using Deep Neural Network. Comput. Intell. Neurosci. 2022, 2022, 7887908. [Google Scholar] [CrossRef]
+- Min, J.K.; Yang, H.-J.; Kwak, M.S.; Cho, C.W.; Kim, S.; Ahn, K.-S.; Park, S.-K.; Cha, J.M.; Park, D.I. Deep Neural Network-Based Prediction of the Risk of Advanced Colorectal Neoplasia. Gut Liver 2021, 15, 85–91. [Google Scholar] [CrossRef] [PubMed]
+- Anwar, S.M.; Majid, M.; Qayyum, A.; Awais, M.; Alnowami, M.; Khan, M.K. Medical Image Analysis Using Convolutional Neural Networks: A Review. J. Med. Syst. 2018, 42, 226. [Google Scholar] [CrossRef] [Green Version]
+- Mohamed, E.A.; Gaber, T.; Karam, O.; Rashed, E.A. A Novel CNN Pooling Layer for Breast Cancer Segmentation and Classification from Thermograms. PLoS ONE 2022, 17, e0276523. [Google Scholar] [CrossRef]
+- Chamberlin, J.; Kocher, M.R.; Waltz, J.; Snoddy, M.; Stringer, N.F.C.; Stephenson, J.; Sahbaee, P.; Sharma, P.; Rapaka, S.; Schoepf, U.J.; et al. Automated Detection of Lung Nodules and Coronary Artery Calcium Using Artificial Intelligence on Low-Dose CT Scans for Lung Cancer Screening: Accuracy and Prognostic Value. BMC Med. 2021, 19, 55. [Google Scholar] [CrossRef] [PubMed]
+- Alajanbi, M.; Malerba, D.; Liu, H. Distributed Reduced Convolution Neural Networks. Mesopotamian J. Big Data 2021, 2021, 26–29. [Google Scholar] [CrossRef]
+- Le, Q.V. A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks. Google Brain 2015, 20, 1–20. [Google Scholar]
+- Ren, L.; Sun, Y.; Cui, J.; Zhang, L. Bearing Remaining Useful Life Prediction Based on Deep Autoencoder and Deep Neural Networks. J. Manuf. Syst. 2018, 48, 71–77. [Google Scholar] [CrossRef]
+- Dertat, A. Applied Deep Learning-Part 3: Autoencoders. Medium. Towards Data Science. 2017. Available online: https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798 (accessed on 3 May 2023).
+- Baur, C.; Denner, S.; Wiestler, B.; Navab, N.; Albarqouni, S. Autoencoders for Unsupervised Anomaly Segmentation in Brain MR Images: A Comparative Study. Med. Image Anal. 2021, 69, 101952. [Google Scholar] [CrossRef]
+- Cao, H.; Wang, Y.; Chen, J.; Jiang, D.; Zhang, X.; Tian, Q.; Wang, M. Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation. arXiv 2022, arXiv:2105.05537. [Google Scholar] [CrossRef]
+- Shamim, S.; Awan, M.J.; Mohd Zain, A.; Naseem, U.; Mohammed, M.A.; Garcia-Zapirain, B. Automatic COVID-19 Lung Infection Segmentation through Modified Unet Model. J. Healthc. Eng. 2022, 2022, 6566982. [Google Scholar] [CrossRef]
+- Zhang, A.; Wang, H.; Li, S.; Cui, Y.; Liu, Z.; Yang, G.; Hu, J. Transfer Learning with Deep Recurrent Neural Networks for Remaining Useful Life Estimation. Appl. Sci. 2018, 8, 2416. [Google Scholar] [CrossRef] [Green Version]
+- Rios, A.; Kavuluru, R. Neural Transfer Learning for Assigning Diagnosis Codes to EMRs. Artif. Intell. Med. 2019, 96, 116–122. [Google Scholar] [CrossRef]
+- Snell; Swersky, K.; Zemel, R.S. Prototypical Networks for Few-Shot Learning. In Proceedings of the NIPS 2017, Long Beach, CA, USA, 4–9 December 2017. [Google Scholar] [CrossRef]
+- Wang, Y.; Wu, X.-M.; Li, Q.; Gu, J.; Xiang, W.; Zhang, L.; Li, V.O.K. Large Margin Few-Shot Learning. arXiv 2018, arXiv:1807.02872. [Google Scholar]
+- Berger, M.; Yang, Q.; Maier, A. X-ray Imaging. In Medical Imaging Systems; Lecture Notes in Computer Science; Maier, A., Steidl, S., Christlein, V., Hornegger, J., Eds.;  Springer International Publishing: Cham, Switzerland, 2018; Volume 11111, pp. 119–145. ISBN 978-3-319-96519-2. [Google Scholar]
+- Nie, M.; Chen, D.; Wang, D. Reinforcement Learning on Graphs: A Survey. arXiv 2022, arXiv:2204.06127. [Google Scholar] [CrossRef]
+- Giacaglia, G. How Transformers Work. The Neural Network Used by Open AI and DeepMind. Towards Data Science 2019. Available online: https://towardsdatascience.com/transformers-141e32e69591 (accessed on 1 May 2023).
+- Luo, X.; Gandhi, P.; Zhang, Z.; Shao, W.; Han, Z.; Chandrasekaran, V.; Turzhitsky, V.; Bali, V.; Roberts, A.R.; Metzger, M.; et al. Applying Interpretable Deep Learning Models to Identify Chronic Cough Patients Using EHR Data. Comput. Methods Programs Biomed. 2021, 210, 106395. [Google Scholar] [CrossRef] [PubMed]
+- Li, L.; Zhao, J.; Hou, L.; Zhai, Y.; Shi, J.; Cui, F. An Attention-Based Deep Learning Model for Clinical Named Entity Recognition of Chinese Electronic Medical Records. BMC Med. Inform. Decis. Mak. 2019, 19, 235. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+- Available online. Available online: https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212516.pdf (accessed on 5 May 2023).
+- Asch, F.M.; Descamps, T.; Sarwar, R.; Karagodin, I.; Singulane, C.C.; Xie, M.; Tucay, E.S.; Tude Rodrigues, A.C.; Vasquez-Ortiz, Z.Y.; Monaghan, M.J.; et al. Human versus Artificial Intelligence–Based Echocardiographic Analysis as a Predictor of Outcomes: An Analysis from the World Alliance Societies of Echocardiography COVID Study. J. Am. Soc. Echocardiogr. 2022, 35, 1226–1237.e7. [Google Scholar] [CrossRef]
+- Aidoc. Available online: https://www.aidoc.com/solutions/radiology/ (accessed on 5 May 2023).
+- Riverain Technologies. Available online: https://www.riveraintech.com/clearread-ai-solutions/clearread-ct/ (accessed on 5 May 2023).
+- Alzubaidi, L.; Bai, J.; Al-Sabaawi, A.; Santamaría, J.; Albahri, A.S.; Al-dabbagh, B.S.N.; Fadhel, M.A.; Manoufali, M.; Zhang, J.; Al-Timemy, A.H.; et al. A Survey on Deep Learning Tools Dealing with Data Scarcity: Definitions, Challenges, Solutions, Tips, and Applications. J. Big Data 2023, 10, 46. [Google Scholar] [CrossRef]
+- Albahri, A.S.; Duhaim, A.M.; Fadhel, M.A.; Alnoor, A.; Baqer, N.S.; Alzubaidi, L.; Albahri, O.S.; Alamoodi, A.H.; Bai, J.; Salhi, A.; et al. A Systematic Review of Trustworthy and Explainable Artificial Intelligence in Healthcare: Assessment of Quality, Bias Risk, and Data Fusion. Inf. Fusion 2023, 96, 156–191. [Google Scholar] [CrossRef]
+- Hephzipah, J.J.; Vallem, R.R.; Sheela, M.S.; Dhanalakshmi, G. An Efficient Cyber Security System Based on Flow-Based Anomaly Detection Using Artificial Neural Network. Mesopotamian J. Cybersecur. 2023, 2023, 48–56. [Google Scholar] [CrossRef]
+- Oliver, M.; Renou, A.; Allou, N.; Moscatelli, L.; Ferdynus, C.; Allyn, J. Image Augmentation and Automated Measurement of Endotracheal-Tube-to-Carina Distance on Chest Radiographs in Intensive Care Unit Using a Deep Learning Model with External Validation. Crit. Care 2023, 27, 40. [Google Scholar] [CrossRef]
+- Moon, J.-H.; Hwang, H.-W.; Yu, Y.; Kim, M.-G.; Donatelli, R.E.; Lee, S.-J. How Much Deep Learning Is Enough for Automatic Identification to Be Reliable? Angle Orthod. 2020, 90, 823–830. [Google Scholar] [CrossRef]
+- Albrecht, T.; Slabaugh, G.; Alonso, E.; Al-Arif, S.M.R. Deep Learning for Single-Molecule Science. Nanotechnology 2017, 28, 423001. [Google Scholar] [CrossRef]
+- Yang, Z.; Zhang, A.; Sudjianto, A. Enhancing Explainability of Neural Networks Through Architecture Constraints. IEEE Trans. Neural Netw. Learn. Syst. 2021, 32, 2610–2621. [Google Scholar] [CrossRef] [PubMed]
+- Stock, P.; Cisse, M. ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases. arXiv 2017, arXiv:1711.11443. [Google Scholar] [CrossRef]
+- Zheng, Q.; Yang, L.; Zeng, B.; Li, J.; Guo, K.; Liang, Y.; Liao, G. Artificial Intelligence Performance in Detecting Tumor Metastasis from Medical Radiology Imaging: A Systematic Review and Meta-Analysis. EClinicalMedicine 2021, 31, 100669. [Google Scholar] [CrossRef] [PubMed]
+- Ahmad, Z.; Rahim, S.; Zubair, M.; Abdul-Ghafar, J. Artificial Intelligence (AI) in Medicine, Current Applications and Future Role with Special Emphasis on Its Potential and Promise in Pathology: Present and Future Impact, Obstacles Including Costs and Acceptance among Pathologists, Practical and Philosophical Considerations. A Comprehensive Review. Diagn. Pathol. 2021, 16, 24. [Google Scholar] [CrossRef]
+- Syed, A.; Zoga, A. Artificial Intelligence in Radiology: Current Technology and Future Directions. Semin. Musculoskelet. Radiol. 2018, 22, 540–545. [Google Scholar] [CrossRef]
+- McDougall, R.J. Computer Knows Best? The Need for Value-Flexibility in Medical AI. J. Med. Ethics 2019, 45, 156–160. [Google Scholar] [CrossRef]
+- Dave, M.; Patel, N. Artificial Intelligence in Healthcare and Education. Br. Dent. J. 2023, 234, 761–764. [Google Scholar] [CrossRef]
+
+--------------------------------------------------
+
+URL: https://www.sciencedirect.com/science/article/pii/B9780443221323000022
+==================================================
+- Reference number: 96854db328183db1
+- IP Address: 101.0.62.208
+- User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+- Timestamp: 2025-08-01 12:22:52 UTC
+
+--------------------------------------------------
+
+URL: https://eicta.iitk.ac.in/knowledge-hub/artificial-intelligence/ai-vs-ml-vs-deep-learning-vs-genai/
+==================================================
+AI vs ML vs Dl and GenAI have become the most talked-about technology models. The way these technologies have integrated and made our lives easier still feels so fresh.
+Yet, many people still confuse themselves when trying to understand their distinctions and interconnections with each other. What sets them apart? How do they work together?
+In this blog, we have cleared the air on the difference between AI, ML, DL, and generative AI.
+With this guide, you will gain a better understanding of each of them, their scope, and future trends in 2025.
+AI is abbreviated for Artificial Intelligence. It stimulates human intelligence to perform tasks that typically require human cognition, like problem-solving, decision-making, and learning. It allows systems to think, learn, and solve problems without being explicitly programmed for every task.
+Do you want to learn Artificial Intelligence in simple words – Click Here!!
+Examples of AI in 2025:
+Applications of AI in Modern Industries:
+ML stands for Machine Learning, which is, in fact, a subset of AI. It allows systems to learn patterns and make predictions without manual programming. However, it relies on some algorithms to make those decisions. They are:
+Applications of ML in Industries 2025:
+Interested in E&ICT courses? Get a callback !
+Best Artificial Intelligence and Machine Learning Course 2025
+Artificial Intelligence (AI) and Machine Learning (ML) are not just buzzwords—they are the driving forces behind the world’s most significant advancements today. From self-driving cars to personalized healthcare solutions, AI and ML are reshaping every industry, creating a massive demand for skilled professionals.
+If you’re looking to future-proof your career, this is your moment. Our comprehensive AI and ML course is designed to take you from beginner to expert, equipping you with practical skills in Python, data science, deep learning, and more. Join our best AI and ML Online Programs today to master the technologies that are set to dominate the future and become a leader in this high-growth field.
+Best Artificial Intelligence and Machine Learning Online Course with Certification – Enroll Today!!
+What’s the wait for? Enroll now and step into the world of the AI revolution.
+What is Deep Learning?
+Deep learning falls under machine learning, which is itself a part of AI. But mostly, it is a foundation for GEN AI and LLMs. So, what makes deep learning different from ML? Unlike ML’s traditional algorithms that need to be extracted, deep learning uses neural networks that are inspired by the human brain to make decisions. These neural nodes of deep learning help
+Key Applications of Deep Learning:
+What is Generative AI?
+Generative AI is a modern form of AI. It is designed to create new content—text, images, videos, and music. In fact, the future of generative AI sees more opportunities in fields of media and designing.
+Applications of GenAI in Industries:
+What is the Difference Between AI, ML, DL, and Generative AI?
+Machines mimicking human intelligence.
+Algorithms learning patterns from data.
+Neural networks simulating human brain processing.
+Generative AI creating new content like text and images.
+Automation and decision-making.
+Pattern recognition and predictions.
+Complex tasks like image/speech recognition.
+Content creation and creative outputs.
+Specialised subset for content generation.
+Alexa, self-driving cars.
+Netflix recommendations, fraud detection.
+Facial recognition, autonomous driving.
+AI art tools, ChatGPT, DALL-E.
+This comparison clarifies what is the difference between AI ML DL and Generative AI, helping readers understand their distinct roles.
+Future Trends in AI and ML Technologies
+While AI is evolving every moment, here’s what you can probably expect as a trend for AI and ML in 2025:
+1. Explainable AI (XAI)
+While AI gives prompt responses, but what is the reasoning behind this decision? Users now demand transparency in AI decisions. This is where Explainable AI, aka XAI, helps them by explaining why the AI model came to a certain decision.
+Explaining decision trees or linear regression models can be easy, but deep learning models operate as “black boxes.” Their internal workings are not easily interpretable. XAI techniques will evolve to demystify these models so that even a non-expert can understand.
+With the increasing use of AI in every sector, there are growing concerns about Cybersecurity and data compliance. Therefore, the market for AI governance is also on a growing trend, with a projected CAGR of 35.7% by 2030.
+The next few years will see increased focus on ethical AI and privacy laws.
+3. AI in Media and Films
+Generative AI will continue to disrupt industries by automating design, music, and video production. So basically, it’s, in a way, helping make creative tasks faster and easier.
+Making virtual avatars for movies is now possible with AI. Earlier, it would have taken a lot of investment and time to get results, but now production houses are also relying on GenAI. The future is near where Generative AI will produce all movies. Possibility of AI-generated actors and voiceovers for animations.
+4. Advanced Personalisation Engines
+Engines and Platforms are already using AI to give personalized experiences to users. Be it your Netflix recommendations, your Spotify playlists based on your past viewing or listening habits, or your Amazon “also buy” recommendations, AI is offering a personal touch to make the experience feel curated and special.
+But in 2025, we can expect hyper-personalization in terms of –
+Understanding what is the difference between AI ML DL and Generative AI is essential as these technologies shape our future.
+With 2025 poised for breakthroughs, mastering these technologies can open endless possibilities in a career as well.
+Top Artificial Intelligence Techniques in 2025
+How to Choose the Right CTO Program for Your Professional Goals in 2025
+Prompt Engineering Best Practices in 2025: Safe AI Prompting for Developers & Analysts
+What is Prompt Engineering: The AI Skill You Need in 2025
+ML or AI: What Should I Learn in 2025
+Leave A Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+- Self-driving Cars – Auto vehicles by Tesla and Waymo are very common in foreign countries.
+- AI-Powered Chatbots – Tools like ChatGPT, Gemini, and Google Bard are no longer gatekept.
+- Healthcare Diagnostics – AI-based medical imaging for early disease detection.
+- Virtual Assistants – Devices like Alexa and Siri improve daily convenience.
+- Creative Industry
+- Decision Trees
+- Random Forest
+- Linear Regression
+- Neural Networks
+- Logistic Regression
+- It learns from data to improve performance.
+- Adapts to changes over time.
+- Automates repetitive tasks.
+- Supply Chain
+- Media and Entertainment
+- United States+1
+- United Kingdom+44
+- Afghanistan+93
+- Albania+355
+- Algeria+213
+- American Samoa+1
+- Andorra+376
+- Antigua & Barbuda+1
+- Argentina+54
+- Armenia+374
+- Ascension Island+247
+- Australia+61
+- Azerbaijan+994
+- Bahrain+973
+- Bangladesh+880
+- Belarus+375
+- Bolivia+591
+- Bosnia & Herzegovina+387
+- Botswana+267
+- British Indian Ocean Territory+246
+- British Virgin Islands+1
+- Bulgaria+359
+- Burkina Faso+226
+- Burundi+257
+- Cambodia+855
+- Cameroon+237
+- Cape Verde+238
+- Caribbean Netherlands+599
+- Cayman Islands+1
+- Central African Republic+236
+- Christmas Island+61
+- Cocos (Keeling) Islands+61
+- Colombia+57
+- Comoros+269
+- Congo - Brazzaville+242
+- Congo - Kinshasa+243
+- Cook Islands+682
+- Costa Rica+506
+- Croatia+385
+- Curaçao+599
+- Czechia+420
+- Côte d’Ivoire+225
+- Djibouti+253
+- Dominican Republic+1
+- Ecuador+593
+- El Salvador+503
+- Equatorial Guinea+240
+- Eritrea+291
+- Estonia+372
+- Eswatini+268
+- Ethiopia+251
+- Falkland Islands+500
+- Faroe Islands+298
+- Finland+358
+- French Guiana+594
+- French Polynesia+689
+- Georgia+995
+- Gibraltar+350
+- Greenland+299
+- Guadeloupe+590
+- Guatemala+502
+- Guernsey+44
+- Guinea-Bissau+245
+- Honduras+504
+- Hong Kong SAR China+852
+- Iceland+354
+- Indonesia+62
+- Ireland+353
+- Isle of Man+44
+- Kazakhstan+7
+- Kiribati+686
+- Kyrgyzstan+996
+- Lebanon+961
+- Lesotho+266
+- Liberia+231
+- Liechtenstein+423
+- Lithuania+370
+- Luxembourg+352
+- Macao SAR China+853
+- Madagascar+261
+- Malaysia+60
+- Maldives+960
+- Marshall Islands+692
+- Martinique+596
+- Mauritania+222
+- Mauritius+230
+- Mayotte+262
+- Micronesia+691
+- Moldova+373
+- Mongolia+976
+- Montenegro+382
+- Montserrat+1
+- Morocco+212
+- Mozambique+258
+- Myanmar (Burma)+95
+- Namibia+264
+- Netherlands+31
+- New Caledonia+687
+- New Zealand+64
+- Nicaragua+505
+- Nigeria+234
+- Norfolk Island+672
+- North Korea+850
+- North Macedonia+389
+- Northern Mariana Islands+1
+- Pakistan+92
+- Palestinian Territories+970
+- Papua New Guinea+675
+- Paraguay+595
+- Philippines+63
+- Portugal+351
+- Puerto Rico+1
+- Réunion+262
+- San Marino+378
+- Saudi Arabia+966
+- Senegal+221
+- Seychelles+248
+- Sierra Leone+232
+- Singapore+65
+- Sint Maarten+1
+- Slovakia+421
+- Slovenia+386
+- Solomon Islands+677
+- Somalia+252
+- South Africa+27
+- South Korea+82
+- South Sudan+211
+- Sri Lanka+94
+- St. Barthélemy+590
+- St. Helena+290
+- St. Kitts & Nevis+1
+- St. Lucia+1
+- St. Martin+590
+- St. Pierre & Miquelon+508
+- St. Vincent & Grenadines+1
+- Suriname+597
+- Svalbard & Jan Mayen+47
+- Switzerland+41
+- São Tomé & Príncipe+239
+- Tajikistan+992
+- Tanzania+255
+- Thailand+66
+- Timor-Leste+670
+- Tokelau+690
+- Trinidad & Tobago+1
+- Tunisia+216
+- Turkmenistan+993
+- Turks & Caicos Islands+1
+- U.S. Virgin Islands+1
+- Ukraine+380
+- United Arab Emirates+971
+- United Kingdom+44
+- United States+1
+- Uruguay+598
+- Uzbekistan+998
+- Vanuatu+678
+- Vatican City+39
+- Venezuela+58
+- Wallis & Futuna+681
+- Western Sahara+212
+- Zimbabwe+263
+- Åland Islands+358
+- We offer self-paced online courses that you can complete within 40 hours.
+- You gain an in-depth understanding of the subject matter.
+- All programs are certified by IIT Kanpur.
+- Comes with doubt sessions and at least 2 master classes.
+- Processes complex data using multiple layers.
+- Handles large datasets for precise decisions.
+- Requires massive computing power.
+- Speech Recognition – Google Assistant and Siri depend on DL for voice processing.
+- Image Recognition – Used in facial recognition technologies.
+- Autonomous Driving – Self-driving cars rely on DL algorithms for navigation
+- Generates realistic and creative outputs.
+- Learns patterns to produce human-like content.
+- Enhances art, music, and even virtual avatars.
+- Entertainment
+- Emotionally Intelligent Interactions – Future AI systems will detect and respond to user emotions.
+- Predictive Personalization – To know the probable needs of users even before they know or the need arises.
+- Real-time Recommendations: AI will analyze user behavior at the moment and match your current interests and actions.
+- AI mimics human intelligence.
+- ML learns from patterns.
+- DL processes complex tasks through neural networks.
+- Generative AI creates innovative content.
+
+--------------------------------------------------
+
+URL: https://towardsai.net/p/artificial-intelligence/how-do-artificial-intelligence-machine-learning-deep-learning-and-neural-networks-relate-to-each-other
+==================================================
+How do artificial intelligence, machine learning, deep learning and neural networks relate to each other?
+Last Updated on August 22, 2023 by Editorial Team
+Originally published on Towards AI.
+The rapid evolution of technology is molding our everyday existence as businesses turn more and more to sophisticated algorithms for efficiency. Amidst this backdrop, we often hear buzzwords like artificial intelligence (AI), machine learning (ML), deep learning, and neural networks thrown around almost interchangeably. But don’t be fooled — while these terms might appear interchangeable, they each encompass distinct concepts and technologies that contribute to the growing realm of intelligent machines.
+Steering through this intricate landscape requires a keen grasp of the subtle differences that set these technologies apart. This article is your compass, designed to unravel the complexities and shed light on the individualities that differentiate these tech trends. Let’s dive deeper and uncover what sets them apart →
+Imagine a sequence of Russian nesting dolls, each fitting neatly within the other. Similarly, the relationship between artificial intelligence (AI), machine learning (ML), deep learning, and neural networks can be visualized as a hierarchy, where each term encapsulates and builds upon the one before it.
+Now, let’s explore key distinctions to gain a clearer grasp of these AI components, all while remembering the essence of artificial intelligence.
+What Exactly is Artificial Intelligence (AI)?
+AI refers to the incredible capability of machines to mimic various functions of the human mind. This includes tasks like thinking, predicting outcomes, and even managing intricate tasks without requiring human involvement. This technology can be divided into three main types:
+So, that’s a glimpse into the realm of AI — a realm where machines aren’t just tools but companions on our journey into the future. From mastering specific tasks to emulating our general intellect, and who knows, perhaps one day even pushing the boundaries of what we believed to be achievable — that’s the captivating narrative of Artificial Intelligence.
+Deep Learning vs. Machine Learning
+In the world of artificial intelligence, we often encounter two terms: Deep Learning and Machine Learning. Although they might seem similar, they have distinct ways of working with data and learning. To simplify, Deep Learning is a specialized part of Machine Learning, differing in how they process information.
+Think of these as various tools in an AI toolbox. Deep Learning shines with unstructured data, automating the extraction of meaningful patterns. This makes it great for complex tasks. Remember, Deep Learning and Machine Learning aren’t rivals; Deep Learning is just one method within the larger realm of Machine Learning.
+Here’s what sets Deep Learning apart:
+Deep Learning vs. Neural Networks
+The term “deep” in deep learning signifies the depth of layers within a neural network. A neural network with more than three layers, including input and output layers, qualifies as a deep learning algorithm. These deep neural networks can be feed-forward, moving from input to output, or trained using back-propagation, adjusting based on calculated errors. Explore the different types of deep neural networks and interview questions on deep learning.
+Key differences between deep learning and neural networks include:
+AI’s Role in the Equation
+Artificial Intelligence (AI) acts as the overarching idea that encompasses the fields of machine learning, deep learning, and neural networks. AI and machine learning are closely related but maintain their individual identities. Machine learning operates within the realm of AI, and deep learning, in its turn, falls under the umbrella of machine learning.
+Let’s delve deeper into these distinctions:
+In the dynamic and ever-changing world of technology, it’s crucial to have a clear grasp of the differences between artificial intelligence, machine learning, deep learning, and neural networks. Think of them as layers in a hierarchy — AI being the overarching concept, with machine learning, deep learning, and neural networks nested within.
+Mastery of these concepts isn’t just about staying savvy in the digital realm; it’s about unlocking your own potential. Don’t let the intricate terminology deter you. Instead, keep in mind that these technologies collaborate harmoniously, shaping innovative solutions that mold our reality. So, as you embark on your journey through AI, machine learning, deep learning, and neural networks, remember that they’re interconnected pieces propelling the advancement of technology in our era.
+Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a sponsor.
+Published via Towards AI
+Gain exclusive access to top AI tutorials, courses, and books to elevate your skills.
+Take our 85+ lesson From Beginner to Advanced LLM Developer Certification: From choosing a project to deploying a working product this is the most comprehensive and practical LLM course out there!
+Towards AI has published Building LLMs for Production—our 470+ page guide to mastering LLMs with practical projects and expert insights!
+Note: Content contains the views of the contributing authors and not Towards AI.Disclosure: This website may contain sponsored content and affiliate links.
+Towards AI has built a jobs board tailored specifically to Machine Learning and Data Science Jobs and Skills. Our software searches for live AI jobs each hour, labels and categorises them and makes them easily searchable. Explore over 10,000 live jobs today with Towards AI Jobs!
+🔥 Recommended Articles 🔥
+- Artificial Intelligence (AI): At the highest level, we have Artificial Intelligence (AI), representing machines that mimic human intelligence, including problem-solving and learning. AI handles complex tasks like facial recognition, speech analysis, and decision-making through predictions and automation. Within AI, there are categories like Artificial Narrow Intelligence (ANI), which focuses on specific tasks; Artificial General Intelligence (AGI), reaching human-like abilities; and the theoretical concept of Artificial Super Intelligence (ASI), surpassing human capabilities.
+- Machine Learning (ML): Next, machine learning takes the spotlight. ML employs algorithms that learn patterns from data to perform tasks without explicit programming. It powers applications like chatbots, recommendation systems, and fraud detection, residing as a subset within the broader realm of AI.
+- Deep Learning: Delving further, we encounter Deep Learning, a subset of machine learning that streamlines feature extraction, excelling with extensive datasets. This technology employs artificial neural networks, essentially its building blocks, with interconnected layers mirroring the human brain’s structure. This approach benefits complex tasks like virtual assistants and fraud detection due to its error-driven learning capability.
+- Neural Network: Deep learning leverages artificial neural networks, which are the building blocks of this technology. These networks are characterized by their layers of interconnected nodes, simulating the structure of the human brain. Deep learning proves advantageous in complex tasks like virtual assistants and fraud detection due to its ability to automatically learn from errors.
+- Artificial Narrow Intelligence (ANI): Sometimes called “weak” AI, ANI is exceptionally adept at handling specific tasks with a high degree of skill. For example, it’s exceptionally proficient at playing chess or accurately identifying faces in photographs.
+- Artificial General Intelligence (AGI): On the flip side, there’s what we term “strong” AI or AGI. This kind of AI possesses cognitive abilities akin to human thinking. It can execute tasks at a level that’s comparable to human capabilities. Essentially, it’s like having a machine that can think and learn much in the same way we humans do.
+- Artificial Super Intelligence (ASI): Now, envision AI that goes beyond human intelligence and abilities — that’s ASI. At this stage, AI becomes somewhat of a theoretical notion, still awaiting full realization. Think of it as picturing a machine that can outperform humans in nearly every intellectual pursuit.
+- Structure of Algorithms: Deep Learning relies on complex artificial neural networks that consist of multiple layers. These layers function similarly to the interconnected neurons found in the human brain. They process data hierarchically, systematically revealing intricate patterns that might be hidden within the information.
+- Human Involvement: In contrast to traditional Machine Learning methods, Deep Learning minimizes the need for direct human intervention in the process of feature extraction. It possesses the capability to learn from its own errors, progressively enhancing its performance over time without constant manual adjustments by humans.
+- Demand for Data: Deep Learning systems exhibit a substantial appetite for data, which is more pronounced compared to standard Machine Learning algorithms. This elevated requirement is due to the intricate architecture of neural networks, which necessitates a copious amount of data to derive accurate and meaningful insights.
+- So, when we delve into the world of AI and its various approaches, remember that Deep Learning and Machine Learning aren’t adversaries but rather collaborators, each with its own strengths and applications.
+- Complexity: Deep learning networks are notably more intricate compared to traditional neural networks. This complexity arises from their utilization of multiple layers stacked together.
+- Efficiency: When it comes to efficiency and overall effectiveness, deep learning systems have proven to surpass traditional neural networks. They can handle and process complex data more adeptly.
+- Components: Deep learning units demand significant computational resources, such as powerful GPUs and ample RAM. In contrast, neural networks are composed of fundamental elements like neurons, connections, and propagation functions.
+- Training Time: The training process for deep learning networks is lengthier due to their intricate nature, requiring more time to converge. On the other hand, neural networks, being simpler, demand less training time to reach convergence.
+- Artificial Intelligence vs. Machine Learning: Imagine AI as the broader concept of machines acting smart, while machine learning is a specific method within AI. Machine learning deals with algorithms that learn patterns from data, allowing machines to accomplish tasks without explicit programming.
+- Artificial Intelligence vs. Neural Networks: AI involves crafting machines that simulate human thinking. On the other hand, neural networks are intricate structures inspired by the human brain, comprising interconnected artificial neurons. These networks help machines recognize patterns and learn from data.
+- Artificial Intelligence vs. Deep Learning: Picture AI as the grand scheme of creating smart machines. Inside that, deep learning is a specialized part of machine learning. It relies on complex algorithms and vast datasets to teach models intricate patterns. In essence, AI covers a broader scope while deep learning is a powerful technique within it.
+
+--------------------------------------------------
+
+URL: https://www.geeksforgeeks.org/data-science-with-python-tutorial/
+==================================================
+Learn Data Science Tutorial With Python
+Data Science has become one of the fastest-growing fields in recent years, helping organizations to make informed decisions, solve problems and understand human behavior. As the volume of data grows so does the demand for skilled data scientists. The most common languages used for data science are Python and R.
+In this Data Science with Python tutorial will guide you through the fundamentals of both data science and Python programming.
+Before starting the tutorial you can refer to these articles:
+Python Libraries for Data Science
+To gain expertise in data science, you need to have a strong foundation in the following libraries:
+Data loading means importing raw data from various sources and storing it in one place for further analysis.
+Data preprocessing involves cleaning and transforming raw data into a usable format for accurate and reliable analysis.
+Data analysis is the process of inspecting data to discover meaningful insights and trends to make informed decision.
+Data visualization uses graphical representations such as charts and graphs to understand and interpret complex data.
+Data Visualization using Matplotlib
+Data Visualization using Seaborn
+Interactive Visualization
+Machine learning focuses on developing algorithms that helps computers to learn from data and make predictions or decisions without explicit programming.
+Related Courses:  Machine Learning  is an essential skill for any aspiring data analyst and data scientist and also for those who wish to transform a massive amount of raw data into trends and predictions. Learn this skill today with  Machine Learning Foundation - Self Paced Course designed and curated by industry experts having years of expertise in ML and industry-based projects.
+Every organisation now relies on data before making any important decisions regarding their future. So, it is safe to say that Data is really the king now. So why do you want to get left behind? This LIVE course will introduce the learner to advanced concepts like:  Linear Regression, Naive Bayes & KNN, Numpy, Pandas, Matlab  & much more. You will also get to work on real-life projects through the course. So wait no more,  Become a Data Science Expert now.
+Introduction To Data Science
+Introduction to Linear Regression - Machine Learning
+Naive Bayes Classifiers
+Decision Tree in Machine Learning
+Random Forest Algorithm in Machine Learning
+K-Nearest Neighbor(KNN) Algorithm in Machine Learning
+- What is Data Science?
+- Python for Data Science
+- Setting Up Data Science Environment
+- Pandas for Data Manipulation
+- NumPy for Numerical Computing
+- Matplotlib for Data Visualization
+- Seaborn for Data Visualization
+- Scikit-learn for Machine Learning
+- Loading a CSV File into a DataFrame
+- Loading Data from an Excel File
+- Loading Data from JSON File
+- Loading Data from SQL Databases
+- Web Scraping using BeautifulSoup to Scrape Data
+- Loading Data from MongoDB into DataFrame
+- What is Data Preprocessing?
+- Working with Missing Data using Pandas
+- Removing Duplicates using drop_duplicates()
+- Scaling and Normalization of Data
+- Aggregating and Grouping Data
+- Feature Selection using Sklearn
+- Handling Categorical Data using Label Encoding
+- Handling Categorical Data using One-Hot Encoding
+- Detecting outlier using Z score
+- Detecting outlier using Interquartile Range
+- Handling Imbalanced Data
+- Efficient Preprocessing for Large Datasets
+- What is Data Processing?
+- Exploratory Data Analysis in Python
+- Univariate and Multivariate Analysis
+- Calculating Correlation
+- Hypothesis testing using Python
+- One-sample t-test using Python
+- Two Sample t-test using Python
+- ANOVA (Analysis of Variance) in Python
+- Mann-Whitney U Test in Python
+- Z-test in Python
+- Chi-Square Test
+- PCA with Python
+- Shapiro-Wilk Test in Python
+- Wilcoxon Signed-Rank Test in Python
+- Scatter Plot
+- Violin Plot
+- KDE Plot (Kernel Density Estimate)
+- Scatter Plot
+- Animated Data Visualization
+- Choropleth Maps using
+- Interactive Visualization using Bokeh
+- Visualizing Geospatial Data using Folium
+- Machine Learning Tutorial
+- Deep Learning Tutorial
+- Data Science
+
+--------------------------------------------------
+
+URL: https://www.geeksforgeeks.org/top-data-science-projects/
+==================================================
+Top 65+ Data Science Projects with Source Code
+Dive into the exciting world of data science with our Top 65+ Data Science Projects with Source Code. These projects are designed to help you gain hands-on experience and sharpen your skills, whether you’re a beginner or looking to upscale your data science knowledge.
+Covering everything from trend predictions to data visualizations, these projects let you work with real-world datasets and tackle practical challenges. Perfect for students, job seekers, and data enthusiasts, these projects will help you stand out in the competitive field of data science. Let’s dive in and start building!
+Explore cutting-edge data science projects with complete source code for 2025. These top Data Science Projects cover a range of applications, from machine learning and predictive analytics to natural language processing and computer vision. Dive into real-world examples to enhance your skills and understanding of data science.
+Best Data Science Projects With Source Code
+Here are the best Data Science Projects with source code for beginners and experts to give a great learning experience. These projects help you understand the applications of data science by providing real world problems and solutions.
+These projects use various technologies like Pandas, Matplotlib, Scikit-learn, TensorFlow, and many more. Deep learning projects commonly use TensorFlow and PyTorch, while NLP projects leverage NLTK, SpaCy, and TensorFlow.
+We have categorized these projects into 6 categories. This will help you understand data science and it's uses in different field. You can specialize in a particular field or build a diverse portfolio for job hunting.
+Web Scraping Projects
+Explore the fascinating world of web scraping by building these data science projects with these exciting examples.
+Data Analysis & Visualizations
+Go through on a data-driven journey with these captivating exploratory data analysis and visualization projects.
+Machine Learning Projects
+Dive into the world of machine learning with these real world data science practical projects.
+Time Series & Forecasting
+Data Sceince Projects on time series and forecasting-
+Deep Learning Projects
+Dive into these Data Science projects on Deep Learning to see how smart computers can get!
+Prediction of Wine type using Deep Learning
+IPL Score Prediction Using Deep Learning
+Handwritten Digit Recognition using Neural Network
+Predict Fuel Efficiency Using Tensorflow in Python
+Identifying handwritten digits using Logistic Regression in PyTorch
+Explore fascinating Data Science projects with OpenCV, a cool tool for playing with images and videos. You can do fun tasks like recognizing faces, tracking objects, and even creating your own Snapchat-like filters. Let's unleash the power of computer vision together!
+OCR of Handwritten digits | OpenCV
+Cartooning an Image using OpenCV – Python
+Count number of Object using Python-OpenCV
+Count number of Faces using Python – OpenCV
+Text Detection and Extraction using OpenCV and OCR
+Discover the magic of NLP (Natural Language Processing) projects, where computers learn to understand human language. Dive into exciting tasks like sentiment analysis, chatbots, and language translation. Join the adventure of teaching computers to speak our language through these exciting projects.
+In this journey through data science projects, we've explored a vast array of fascinating topics and applications. From uncovering insights in web scraping and exploratory data analysis to solving real-world problems with machine learning, deep learning, OpenCV, and NLP, we've witnessed the power of data-driven insights.
+Whether it's predicting wine quality or detecting fraud, analyzing sentiments or forecasting sales, each project showcases how data science transforms raw data into actionable knowledge. With these projects, we've unlocked the potential of technology to make smarter decisions, improve processes, and enrich our understanding of the world around us.
+Diabetes Prediction in Machine Learning using Python
+House Price Prediction using Machine Learning in Python
+Handwritten Digit Recognition using Neural Network
+Fake News Detection using Machine Learning
+Twitter Sentiment Analysis Using Python
+- Best Data Science Projects With Source Code
+- Web Scraping Projects
+- Data Analysis & Visualizations
+- Machine Learning Projects
+- Time Series & Forecasting
+- Deep Learning Projects
+- OpenCV Projects
+- NLP Projects
+- Quote Scraping
+- Wikipedia Text Scraping and cleaning
+- Movies Review Scraping And Analysis
+- Product Price Scraping and Analysis
+- News Scraping and Analysis
+- Real Estate Property Scraping and visualization, You can download the dataset from : https://www.kaggle.com/datasets/fredgirod/web-crawler-for-real-estate-market
+- Geeksforgeeks Job Portal Web Scraping for Job Search
+- YouTube Channel Videos Web Scrapping
+- Real-time Share Price scrapping and analysis
+- Zomato Data Analysis Using Python
+- IPL Data Analysis
+- Airbnb Data Analysis
+- Global Covid-19 Data Analysis and Visualizations
+- Housing Price Analysis & Predictions
+- Market Basket Analysis
+- Titanic Dataset Analysis and Survival Predictions
+- Iris Flower Dataset Analysis and Predictions
+- Customer Churn Analysis
+- Car Price Prediction Analysis
+- Indian Election Data Analysis
+- HR Analytics to Track Employee Performance
+- Product Recommendation Analysis
+- Credit Card Approvals Analysis & Predictions
+- Uber Trips Data Analysis
+- iPhone Sales Analysis
+- Google Search Analysis
+- World Happiness Report Analysis & Visualization
+- Apple Smart Watch Data Analysis, You can download the dataset from  : https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data.
+- Analyze International Debt Statistics, You can download the dataset from : https://www.kaggle.com/datasets/theworldbank/international-debt-statistics
+- Time Series Analysis with Stock Price Data
+- Weather Data Analysis
+- Time Series Analysis with Cryptocurrency Data
+- Climate Change Data Analysis
+- Anomaly Detection in Time Series Data
+- Sales Forecast Prediction – Python
+- Predictive Modeling for Sales or Demand Forecasting
+- Air Quality Data Analysis and Dynamic Visualizations
+- Gold Price Analysis and Forcasting Over Time
+- Food Price Forecasting
+- Time wise Unemployement Data Analysis
+- Dogecoin Price Prediction with Machine Learning
+- Data Science
+- AI-ML-DS With Python
+- Data Science Proejcts
+
+--------------------------------------------------
+
+URL: https://www.geeksforgeeks.org/data-analysis-tutorial/
+==================================================
+Data Analysis (Analytics) Tutorial
+Data Analytics is a process of examining, cleaning, transforming and interpreting data to discover useful information, draw conclusions and support decision-making. It helps businesses and organizations understand their data better, identify patterns, solve problems and improve overall performance.
+This Data Analytics tutorial provides a complete guide to key concepts, techniques and tools used in the field along with hands-on projects based on real-world scenarios.
+Do you wish to learn Data Analytics in scheduled manner? Try our ongoing free course Data Analytics Skillup with weekly topic coverage, notes, daily quizzes and coding problems.
+Tools & Skills for Data Analytics
+To strong skill for Data Analysis we needs to learn this resources to have a best practice in this domains.
+Data Analysis Libraries
+Gain hands-on experience with the most powerful Python libraries:
+Understanding the Data
+Before starting any analysis it’s important to understand the type and structure of your data. This helps you choose the right methods for cleaning, exploring and analyzing it.
+Reading and Loading Datasets
+Reading and Loading Datasets is the first step in data analysis where you import data from files like CSV, Excel or databases into your working environment such as Python or Excel so you can explore, clean and analyze it.
+Data preprocessing involves cleaning and transforming raw data into a usable format. It includes handling missing values, removing duplicates, converting data types and making sure the data is in the right format for accurate results.
+Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA) in data analytics is the initial step of analyzing data through statistical summaries and visualizations to understand its structure, find patterns and prepare it for further analysis or decision-making.
+Multivariate Analysis
+Data visualization uses graphical representations such as charts and graphs to understand and interpret complex data.
+Probability & Statistics in Data Analytics
+It help you understand data, find patterns and make smart decisions. Probability deals with chances and likelihoods, while statistics helps you collect, organize and interpret data to see what it tells you.
+Time Series Data Analysis
+Time Series Data Analysis is the process of studying data points collected or recorded over timelike daily sales, monthly temperatures or yearly profits to find patterns, trends and seasonal changes that help in forecasting and decision-making.
+You are now ready to explore real-world projects. For detailed guidance and project ideas refer to below article:
+Data Analytics Projects [With Source code]
+- Python For Data Analytics
+- SQL For Data Analytics
+- Excel for Data Analytics
+- Power BI / Tableau
+- Mathematics & Statistics for Data Analysis
+- Pandas: Data manipulation and analysis
+- NumPy: Numerical operations and matrix handling
+- Matplotlib/Seaborn: Data visualization
+- Scikit-learn: Data preprocessing and statistical modeling
+- What is Data?
+- Sample vs Population
+- Qualitative vs Quantitative Data
+- Univariate vs Multivariate Data
+- Nominal, Ordinal, Interval and Ratio Scales
+- Reading CSV, Excel and JSON files
+- Exporting dataframes to CSV/JSON
+- Slicing, Indexing, Manipulating and Cleaning DataFrames
+- Data Preprocessing
+- What is Data Cleaning?
+- Handling Missing Data
+- Handling outliers
+- Data Transformation
+- Feature Engineering
+- Data Sampling
+- Exploratory Data Analysis in Python
+- Measures of Central Tendency
+- Measures of spread, IQR
+- Skewness & Kurtosis
+- Visualization: Histograms, Boxplots, Q-Q plots
+- Correlation and Covariance
+- Cross-tabulation
+- Cluster Analysis, MANOVA(Multivariate Analysis of Variance), Factor and Canonical Correlation Analysis
+- What is Data Visualization and Why is It Important?
+- Visualization with Matplotlib
+- Visualization using Seaborn
+- Visualization using Plotly
+- PowerBI and Tableau
+- Probability Distributions
+- Central Limit Theorem
+- Confidence Intervals
+- Z-score, T-distribution
+- P-Values & Hypothesis Testing
+- One-Tailed vs Two-Tailed Tests
+- Chi-Squared Tests
+- Point Estimation
+- Define Time Series Data
+- Data and Time function in Python
+- Time Series Data Plotting
+- Deal with missing values in a Time series
+- Moving Averages :  Stationarity, Seasonality, Trend
+- Augmented Dickey-Fuller Test
+- Autocorrelation
+- Data Analysis
+- AI-ML-DS With Python
+
+--------------------------------------------------
+
+URL: https://www.geeksforgeeks.org/python-data-visualization-tutorial/
+==================================================
+Python - Data visualization tutorial
+Data visualization is a crucial aspect of data analysis, helping to transform analyzed data into meaningful insights through graphical representations. This comprehensive tutorial will guide you through the fundamentals of data visualization using Python. We'll explore various libraries, including Matplotlib, Seaborn, Pandas, Plotly, Plotnine, Altair, Bokeh, Pygal, and Geoplotlib. Each library offers unique features and advantages, catering to different visualization needs and preferences.
+Introduction to Data Visualization
+After analyzing data, it is important to visualize the data to uncover patterns, trends, outliers, and insights that may not be apparent in raw data using visual elements like charts, graphs, and maps. Choosing the right type of chart is crucial for effectively communicating your data. Different charts serve different purposes and can highlight various aspects of your data. For a deeper dive into selecting the best chart for your data, check out this comprehensive guide on:
+Equally important is selecting the right colors for your visualizations. Proper color choices highlight key information, improve readability, and make visuals more engaging. For expert advice on choosing the best colors for your charts, visit How to select Colors for Data Visualizations?
+Python Libraries for Data Visualization
+Python offers numerous libraries for data visualization, each with unique features and advantages. Below are some of the most popular libraries:
+Here are some of the most popular ones:
+Getting Started - Data Visualization with Matplotlib
+Matplotlib is a great way to begin visualizing data in Python, essential for data visualization in data science. It is a versatile library that designed to help users visualize data in a variety of formats. Well-suited for creating a wide range of static, animated, and interactive plots.
+Example: Plotting a Linear Relationship with Matplotlib
+Effective Data Visualization With Seaborn
+Seaborn is a Python library that simplifies the creation of attractive and informative statistical graphics. It integrates seamlessly with Pandas DataFrames and offers a range of functions tailored for visualizing statistical relationships and distributions. This chapter will guide you through using Seaborn to create effective data visualizations.
+Example: Scatter Plot Analysis with Seaborn
+Data Visualization with Pandas
+Pandas is a powerful data manipulation library in Python that also offers some basic data visualization capabilities. While it may not be as feature-rich as dedicated visualization libraries like Matplotlib or Seaborn, Pandas' built-in plotting is convenient for quick and simple visualizations.
+Examples: Visualizing Spread and Outliers
+Box plots are useful for visualizing the spread and outliers in your data. They provide a graphical summary of the data distribution, highlighting the median, quartiles, and potential outliers. Let's create box plot with Pandas:
+Data Visualization with Plotly
+Plotly is a versatile library for creating interactive and aesthetically pleasing visualizations. This chapter will introduce you to Plotly and guide you through creating basic visualizations.
+We'll create a simple bar plot. For this example, we'll use the same 'tips' dataset we used with Seaborn.
+Plotly allows for extensive customizations, including updating layouts, adding annotations, and incorporating dropdowns and sliders.
+Data Visualization with Plotnine
+Plotnine is a Python library that implements the Grammar of Graphics, inspired by R's ggplot2. It provides a coherent and consistent way to create complex visualizations with minimal code.. This chapter will introduce you to Plotnine in Python, demonstrating how they can be used to create various types of plots.
+Plotnine Example: Creating Line Plots
+Data Visualizations with Altair
+Altair is a declarative statistical visualization library for Python, designed to provide an intuitive way to create interactive and informative charts. Built on Vega and Vega-Lite, Altair allows users to build complex visualizations through simple and expressive syntax.
+Altair Example: Creating Charts
+Interactive Data Visualization with Bokeh
+Bokeh is a powerful Python library for creating interactive data visualization and highly customizable visualizations. It is designed for modern web browsers and allows for the creation of complex visualizations with ease. Bokeh supports a wide range of plot types and interactivity features, making it a popular choice for interactive data visualization.
+Example : Basic Plotting with Bokeh- Adding Hover Tool
+Mastering Advanced Data Visualization with Pygal
+In this final chapter, we will delve into advanced techniques for data visualization using Pygal. It is known for its ease of use and ability to create beautiful, interactive charts that can be embedded in web applications.
+Example: Creating Advanced Charts with Pygal
+Firstly, you'll need to install pygal, you can install it using pip:
+Choosing the Right Data Visualization Library
+To create impactful and engaging data visualizations. Start by selecting the appropriate chart type—bar charts for comparisons, line charts for trends, and pie charts for proportions.
+For a more detailed exploration of these techniques consider below resources:
+- What is Data Visualization and Why is It Important?
+- Types of Data Visualization Charts
+- Choosing the Right Chart Type
+- Introduction to Matplotlib
+- Setting up Python Environment for installation
+- Pyplot in Matplotlib
+- Matplotlib – Axes Class
+- Data Visualization With Matplotlib
+- Data Visualization with Python Seaborn
+- Data visualization with Seaborn Pairplot
+- Data Visualization with FacetGrid in Seaborn
+- Time Series Visualization with Seaborn : Line Plot
+- Data Visualization With Pandas
+- Visualizing Time Series Data with pandas
+- Plotting Geospatial Data using GeoPandas
+- Introduction to Plotly
+- Data Visualization with Plotly
+- Introduction to Concept of Grammar of Graphics
+- Data Visualization using Plotnine
+- Data Visualization with Altair
+- Aggregating Data for Large Datasets
+- Sharing and Publishing Visualizations with Altair
+- Introduction to Bokeh in Python
+- Interactive Data Visualization with Bokeh
+- Practical Examples for Mastering Data Visualization with Bokeh
+- Data Visualization with Pygal: With Pygal, you can create a wide range of charts including line charts, bar charts, pie charts, and more, all with interactive capabilities.
+- Simplify your visualizations to focus on key insights.
+- Use annotations to guide the viewer’s attention.
+- Strategically use color to differentiate categories or highlight important data, but avoid overuse to prevent confusion.
+- 6 Tips for Creating Effective Data Visualizations
+- Data Visualization in Infographics: Techniques and Examples
+- 5 Best Practices for Effective and Good Data Visualizations
+- Bad Data Visualization Examples Explained
+- Data Visualization
+- AI-ML-DS With Python
+- Python Data Visualization
+
+--------------------------------------------------
+
+URL: https://www.mdpi.com/2075-4418/13/15/2583
+==================================================
+Optimized Xception Learning Model and XgBoost Classifier for Detection of Multiclass Chest Disease from X-ray Images
+1.1. Limitation and Main Contributions
+1.2. Paper Organization
+2. Methodological Background and Related Studies
+3. Materials and Methods
+3.1. Data Acquisition
+3.2. Proposed Methodology
+3.2.1. Pre-Processing Steps
+3.2.2. Data Augmentation to Control Class Imbalance
+3.2.3. Proposed Model for Features Extraction
+3.2.4. Formulation of the Classification Model
+4. Experimental Results
+4.1. Performance Evaluation Metrics
+4.2. Results Analysis
+5.1. Advantages of Current Study
+5.2. Limitations and Challenges of Current Study
+Institutional Review Board Statement
+Informed Consent Statement
+Data Availability Statement
+Conflicts of Interest
+Shaheed, K.;                     Abbas, Q.;                     Hussain, A.;                     Qureshi, I.
+Optimized Xception Learning Model and XgBoost Classifier for Detection of Multiclass Chest Disease from X-ray Images. Diagnostics 2023, 13, 2583.
+https://doi.org/10.3390/diagnostics13152583
+Shaheed K,                                 Abbas Q,                                 Hussain A,                                 Qureshi I.
+Optimized Xception Learning Model and XgBoost Classifier for Detection of Multiclass Chest Disease from X-ray Images. Diagnostics. 2023; 13(15):2583.
+https://doi.org/10.3390/diagnostics13152583
+Shaheed, Kashif,                                 Qaisar Abbas,                                 Ayyaz Hussain,                                 and Imran Qureshi.
+2023. "Optimized Xception Learning Model and XgBoost Classifier for Detection of Multiclass Chest Disease from X-ray Images" Diagnostics 13, no. 15: 2583.
+https://doi.org/10.3390/diagnostics13152583
+Shaheed, K.,                                 Abbas, Q.,                                 Hussain, A.,                                 & Qureshi, I.
+(2023). Optimized Xception Learning Model and XgBoost Classifier for Detection of Multiclass Chest Disease from X-ray Images. Diagnostics, 13(15), 2583.
+https://doi.org/10.3390/diagnostics13152583
+Article Access Statistics
+- Data augmentation and preprocessing steps are performed to make a dataset balanced and enhance the regions of the lungs for a better feature extraction step.
+- Current solutions rely on the Inception model, which is incapable of creating space behavior and extracting feature maps from noisy areas. This is due to the significant number of false positives generated by the model, which, in the end, diminishes the model’s overall effectiveness. This is taken care of by the Xception architecture, which, in the model that has been proposed, essentially pulls features from all noisy-level portions while also enhancing the performance of the model in comparison to the one that came before it.
+- Xception Net suffers from an overfitting problem due to a lack of regularization, which produces flash results on an unseen dataset and causes model performance scores to decline. To overcome this problem, regularization is used in the proposed model to improve scores and show that log functions work perfectly. The m-Xception model incorporates depth-separable convolution layers within the convolution layer, interlinked by linear residuals.
+- The proposed model employs the Xception architecture as the backbone. Features are extracted from the images, and then Xception with 2D convolutional layers manages the robust features. The features pass them as input into the last layer, where the XgBoost classifier recognizes them.
+- Accuracy, precision, recall, and the F1 score were used to evaluate the performance of the results. In addition, a comparison was made between the proposed work and existing methodologies to classify lung-related diseases.
+- We were unable to perform the accuracy comparison on faster processing units because we lacked the processing capacity to do so. That would have allowed us to utilize hyperparameters, which would have allowed us to adjust the learning rates, processing volumes, etc. We believe that additional experiments with hyperparameters would have led to greater precision.
+- However, if these parameters are computed using the CPU as opposed to the GPU, the process can take days.
+- Nearly all image enhancement methods incorrectly categorized chest X-rays in a sample case as normal, viral pneumonia, lung opacity, or normal. Gamma enhancement surpasses other enhancement methods, which is an interesting observation. As depicted in Figure 13, the Grade-Cam score indicates that the proposed TL model outperformed and clearly made a difference among lung diseases. In conclusion, this study’s detection performance for COVID-19 and other lung infections (Table 3, Table 4, Table 5 and Table 6) is consistent with that reported in recent literature. However, this research adds context that has been lacking in other recent studies. Furthermore, no article has ever reported results utilizing such massive chest X-Ray images before. Since the models in this work were trained and validated using a sizable dataset, the obtained findings are competitive with state-of-the-art methods, trustworthy, and applicable beyond the scope of the current study.
+- An FPGA-based implementation [43] of the described model can provide performance boosts in terms of faster inference times, hardware acceleration, reduced power consumption, and optimized resource usage. However, it requires expertise in FPGA programming and careful consideration of cost and resource constraints. The potential advantages of FPGA-based implementations are particularly attractive for applications with real-time processing needs or resource-constrained environments. However, this is not primarily concerned with this research. This point of view will be addressed in future applications of this proposed model.
+- This paper used the Xception TL model as the backbone of the architecture. However, the Xception model is an improvement over InceptionV3 in several aspects. Both models are based on the concept of “Inception” modules, which use multiple filters of different sizes to capture features at various scales. However, Xception improves upon InceptionV3 by introducing depthwise separable convolutions, resulting in better efficiency, improved representation learning, and a smaller model size, while maintaining or even surpassing the performance of InceptionV3. Therefore, the implementation of the m-Xception model should be tested on an application in a resource-constrained environment.
+- Lu, H.; Stratton, C.W.; Tang, Y.W. Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle. J. Med. Virol. 2020, 92, 401–402. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+- Shaheed, K.; Szczuko, P.; Abbas, Q.; Hussain, A.; Albathan, M. Computer-Aided Diagnosis of COVID-19 from Chest X-ray Images Using Hybrid-Features and Random Forest Classifier. Healthcare 2023, 11, 837. [Google Scholar] [CrossRef] [PubMed]
+- Turkoglu, M. COVIDetectioNet: COVID-19 diagnosis system based on X-ray images using features selected from pre-learned deep features ensemble. Appl. Intell. 2021, 51, 1213–1226. [Google Scholar] [CrossRef] [PubMed]
+- Gaur, L.; Bhatia, U.; Jhanjhi, N.Z.; Muhammad, G.; Masud, M. Medical image-based detection of COVID-19 using deep convolution neural networks. Multimed. Syst. 2023, 29, 1729–1738. [Google Scholar] [CrossRef] [PubMed]
+- Cai, C.; Gou, B.; Khishe, M.; Mohammadi, M.; Rashidi, S.; Moradpour, R.; Mirjalili, S. Improved deep convolutional neural networks using chimp optimization algorithm for Covid19 diagnosis from the X-ray images. Expert Syst. Appl. 2023, 213, 119206. [Google Scholar] [CrossRef]
+- Kathamuthu, N.D.; Subramaniam, S.; Le, Q.H.; Muthusamy, S.; Panchal, H.; Sundararajan, S.C.M.; Alrubaieg, A.J.; Zahra, M.M.A. A deep transfer learning-based convolution neural network model for COVID-19 detection using computed tomography scan images for medical applications. Adv. Eng. Softw. 2023, 175, 1–20. [Google Scholar] [CrossRef]
+- Qureshi, I.; Yan, J.; Abbas, Q.; Shaheed, K.; Riaz, A.B.; Wahid, A.; Khan, M.W.; Szczuko, P. Medical image segmentation using deep semantic-based methods: A review of techniques, applications and emerging trends. Inf. Fusion 2022, 90, 316–352. [Google Scholar]
+- Karnati, M.; Seal, A.; Sahu, G.; Yazidi, A.; Krejcar, O. A novel multi-scale based deep convolutional neural network for detecting COVID-19 from X-rays. Appl. Soft Comput. 2022, 125, 109109. [Google Scholar] [CrossRef] [PubMed]
+- Chen, H.; Guo, S.; Hao, Y.; Fang, Y.; Fang, Z.; Wu, W.; Liu, Z.; Li, S. Auxiliary diagnosis for COVID-19 with deep transfer learning. J. Digit. Imaging 2021, 34, 231–241. [Google Scholar] [CrossRef]
+- Girshick, R. Fast r-cnn. In Proceedings of the IEEE International Conference on Computer Vision, Santiago, Chile, 7–13 December 2015; pp. 1440–1448. [Google Scholar]
+- Wei, X.-S.; Xie, C.-W.; Wu, J.; Shen, C. Mask-CNN: Localizing parts and selecting descriptors for fine-grained bird species categorization. Pattern Recognit. 2018, 76, 704–714. [Google Scholar] [CrossRef]
+- Himeur, Y.; Al-Maadeed, S.; Varlamis, I.; Al-Maadeed, N.; Abualsaud, K.; Mohamed, A. Face mask detection in smart cities using deep and transfer learning: Lessons learned from the COVID-19 pandemic. Systems 2023, 11, 107. [Google Scholar]
+- George, G.S.; Mishra, P.R.; Sinha, P.; Prusty, M.R. COVID-19 detection on chest X-ray images using Homomorphic Transformation and VGG inspired deep convolutional neural network. Biocybern. Biomed. Eng. 2023, 43, 1–16. [Google Scholar] [CrossRef] [PubMed]
+- Ismael, A.M.; Şengür, A. Deep learning approaches for COVID-19 detection based on chest X-ray images. Expert Syst. Appl. 2021, 164, 114054. [Google Scholar] [CrossRef] [PubMed]
+- Yoo, S.H.; Geng, H.; Chiu, T.L.; Yu, S.K.; Cho, D.C.; Heo, J.; Choi, M.S.; Choi, I.H.; Cung Van, C.; Nhung, N.V. Deep learning-based decision-tree classifier for COVID-19 diagnosis from chest X-ray imaging. Front. Med. 2020, 7, 427. [Google Scholar] [CrossRef] [PubMed]
+- Kumar, N.; Gupta, M.; Gupta, D.; Tiwari, S. Novel deep transfer learning model for COVID-19 patient detection using X-ray chest images. J. Ambient Intell. Humaniz. Comput. 2023, 14, 469–478. [Google Scholar] [CrossRef]
+- Poola, R.G.; Pl, L. COVID-19 diagnosis: A comprehensive review of pre-trained deep learning models based on feature extraction algorithm. Results Eng. 2023, 18, 101020. [Google Scholar] [CrossRef]
+- Wang, L.; Lin, Z.Q.; Wong, A. COVID-net: A tailored deep convolutional neural network design for detection of COVID-19 cases from chest X-ray images. Sci. Rep. 2020, 10, 19549. [Google Scholar] [CrossRef]
+- Rahman, T.; Chowdhury, M.E.H.; Khandakar, A.; Islam, K.R.; Islam, K.F.; Mahbub, Z.B.; Kadir, M.A.; Kashem, S. Transfer Learning with Deep Convolutional Neural Network (CNN) for Pneumonia Detection Using Chest X-ray. Appl. Sci. 2020, 10, 3233. [Google Scholar] [CrossRef]
+- Mzoughi, H.; Njeh, I.; Slima, M.B.; BenHamida, A. Deep efficient-nets with transfer learning assisted detection of COVID-19 using chest X-ray radiology imaging. Multimed. Tools Appl. 2023. [Google Scholar] [CrossRef]
+- Sahin, M.E.; Ulutas, H.; Yuce, E.; Erkoc, M.F. Detection and classification of COVID-19 by using faster R-CNN and mask R-CNN on CT images. Neural Comput. Appl. 2023, 35, 13597–13611. [Google Scholar] [CrossRef]
+- Tang, S.; Wang, C.; Nie, J.; Kumar, N.; Zhang, Y.; Xiong, Z.; Barnawi, A. EDL-COVID: Ensemble deep learning for COVID-19 case detection from chest x-ray images. IEEE Trans. Ind. Inform. 2021, 17, 6539–6549. [Google Scholar] [CrossRef]
+- Sahlol, A.T.; Yousri, D.; Ewees, A.A.; Al-qaness, M.A.A.; Damasevicius, R.; Elaziz, M.A. COVID-19 image classification using deep features and fractional-order marine predators algorithm. Sci. Rep. 2020, 10, 15364. [Google Scholar] [CrossRef]
+- Sharma, A.; Rani, S.; Gupta, D. Artificial intelligence-based classification of chest X-ray images into COVID-19 and other infectious diseases. Int. J. Biomed. Imaging 2020, 2020, 8889023. [Google Scholar] [CrossRef] [PubMed]
+- Bougourzi, F.; Dornaika, F.; Mokrani, K.; Taleb-Ahmed, A.; Ruichek, Y. Fusion Transformed Deep and Shallow features (FTDS) for Image-Based Facial Expression Recognition. Expert Syst. Appl. 2020, 156, 113459. [Google Scholar] [CrossRef]
+- Bougourzi, F.; Mokrani, K.; Ruichek, Y.; Dornaika, F.; Ouafi, A.; Taleb-Ahmed, A. Fusion of transformed shallow features for facial expression recognition. IET Image Process. 2019, 13, 1479–1489. [Google Scholar] [CrossRef]
+- Apostolopoulos, I.D.; Mpesiana, T.A. COVID-19: Automatic detection from X-ray images utilizing transfer learning with convolutional neural networks. Phys. Eng. Sci. Med. 2020, 43, 635–640. [Google Scholar] [CrossRef] [PubMed] [Green Version]
+- Hemdan, E.E.D.; Shouman, M.A.; Karar, M.E. Covidx-net: A framework of deep learning classifiers to diagnose COVID-19 in X-ray images. arXiv 2020, arXiv:2003.11055. [Google Scholar]
+- Simonyan, K.; Zisserman, A. Very deep convolutional networks for large-scale image recognition. arXiv 2014, arXiv:1409.1556. [Google Scholar]
+- Huang, G.; Liu, Z.; Van Der Maaten, L.; Weinberger, K.Q. Densely connected convolutional networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Honolulu, HI, USA, 21–26 July 2017; pp. 4700–4708. [Google Scholar]
+- Szegedy, C.; Vanhoucke, V.; Ioffe, S.; Shlens, J.; Wojna, Z. Rethinking the inception architecture for computer vision. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, NV, USA, 27–30 June 2016; pp. 2818–2826. [Google Scholar]
+- He, K.; Zhang, X.; Ren, S.; Sun, J. Deep residual learning for image recognition. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, NV, USA, 27–30 June 2016; pp. 770–778. [Google Scholar]
+- Szegedy, C.; Ioffe, S.; Vanhoucke, V.; Alemi, A. Inception-v4, inception-resnet and the impact of residual connections on learning. In Proceedings of the AAAI Conference on Artificial Intelligence, San Francisco, CA, USA, 4–9 February 2017. [Google Scholar]
+- Sahin, M.E. Deep learning-based approach for detecting COVID-19 in chest X-rays. Biomed. Signal Process. Control 2022, 78, 103977. [Google Scholar] [CrossRef]
+- Mangal, A.; Kalia, S.; Rajgopal, H.; Rangarajan, K.; Namboodiri, V.; Banerjee, S.; Arora, C. CovidAID: COVID-19 Detection Using Chest X-ray. arXiv 2020, arXiv:2004.09803. [Google Scholar]
+- Al-Waisy, A.S.; Al-Fahdawi, S.; Mohammed, M.A.; Abdulkareem, K.H.; Mostafa, S.A.; Maashi, M.S.; Arif, M.; Garcia-Zapirain, B. COVID-CheXNet: Hybrid deep learning framework for identifying COVID-19 virus in chest X-rays images. Soft Comput. 2023, 27, 2657–2672. [Google Scholar] [CrossRef] [PubMed]
+- Wang, X.; Peng, Y.; Lu, L.; Lu, Z.; Bagheri, M.; Summers, R.M. Chestx-ray8: Hospital-scale chest X-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Honolulu, HI, USA, 21–26 July 2017; pp. 2097–2106. [Google Scholar]
+- Vantaggiato, E.; Paladini, E.; Bougourzi, F.; Distante, C.; Hadid, A.; Taleb-Ahmed, A. COVID-19 recognition using ensemble-cnns in two new chest x-ray databases. Sensors 2021, 21, 1742. [Google Scholar] [CrossRef] [PubMed]
+- Chollet, F. Xception: Deep learning with depthwise separable convolutions. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Honolulu, HI, USA, 21–26 July 2017; pp. 1251–1258. [Google Scholar]
+- Chen, T.; Guestrin, C. Xgboost: A scalable tree boosting system. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Francisco, CA, USA, 13–17 August 2016; pp. 785–794. [Google Scholar]
+- Gupta, K.; Bajaj, V. Deep learning models-based CT-scan image classification for automated screening of COVID-19. Biomed. Signal Process. Control. 2023, 80, 104268. [Google Scholar] [CrossRef] [PubMed]
+- Ur Rehman, T. COVID-19 Radiography Database. Kaggle. Available online: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database (accessed on 20 July 2023).
+- Xiyuan, P.; Jinxiang, Y.; Bowen, Y.; Liansheng, L.; Yu, P. A Review of FPGA-Based Custom Computing Architecture for Convolutional Neural Network Inference. Chin. J. Electron. 2021, 30, 1–17. [Google Scholar] [CrossRef]
+
+--------------------------------------------------
+

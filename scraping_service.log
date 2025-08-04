@@ -1,0 +1,410 @@
+INFO:     Will watch for changes in these directories: ['/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server/Scrapping_modules_init']
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+INFO:     Started reloader process [46302] using StatReload
+INFO:     Started server process [46306]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Initializing Chrome WebDriver for Google search...
+Setting up Chrome options...
+Creating Chrome WebDriver...
+Chrome WebDriver created successfully
+Chrome WebDriver initialized successfully
+INFO:     127.0.0.1:49415 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49456 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49460 - "GET /docs HTTP/1.1" 200 OK
+Received scraping request: query='artificial intelligence trends 2024' keyword=['AI', 'machine learning']
+Cleared previous data
+Starting Google search...
+
+Performing web search for query: artificial intelligence trends 2024
+Keywords: ['AI', 'machine learning']
+Full search query: artificial intelligence trends 2024 AI machine learning
+Trying search engine: https://www.bing.com/search?q=
+Search page loaded
+No cookie consent found or already accepted
+Found 10 results using selector: li.b_algo h2 a
+Result 1: http://www.alacampagne.jp/patisserie/cafe/517/
+Result 2: https://tabelog.com/aichi/A2301/A230103/23001390/
+Result 3: https://www.mitsukoshi.mistore.jp/nagoya/shops/restaurant/alacampagne.html
+Result 4: https://retty.me/area/PRE23/ARE63/SUB6304/100000054398/
+Result 5: https://modyco.jp/2020/06/09/post107/
+Successfully extracted 5 URLs
+Found 5 initial URLs from Google: ['http://www.alacampagne.jp/patisserie/cafe/517/', 'https://tabelog.com/aichi/A2301/A230103/23001390/', 'https://www.mitsukoshi.mistore.jp/nagoya/shops/restaurant/alacampagne.html', 'https://retty.me/area/PRE23/ARE63/SUB6304/100000054398/', 'https://modyco.jp/2020/06/09/post107/']
+Initialized queue with 5 URLs
+Processing URL 1: http://www.alacampagne.jp/patisserie/cafe/517/ at depth 0
+
+Scraping page: http://www.alacampagne.jp/patisserie/cafe/517/
+Total visited URLs: 1
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+INFO:     127.0.0.1:49538 - "GET / HTTP/1.1" 404 Not Found
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 7 text elements
+Found 2 lists
+Extracted content length: 180
+Content preview: ア・ラ・カンパーニュのカフェは、オーナー自ら買い付けたアンティーク家具たちが中心となり、南フランスの田舎のように、飾らない、ゆったりとした時間を演出してくれます。
+こだわりのタルトはもちろん、パスタなどのフードメニューも好評。ランチにもぜひお使いください。
+※営業時間につきましては、予告なく変更となる場合がございます。詳しくはNewsよりご確認くださいませ。...
+Content preview (first 200 chars): ア・ラ・カンパーニュのカフェは、オーナー自ら買い付けたアンティーク家具たちが中心となり、南フランスの田舎のように、飾らない、ゆったりとした時間を演出してくれます。
+こだわりのタルトはもちろん、パスタなどのフードメニューも好評。ランチにもぜひお使いください。
+※営業時間につきましては、予告なく変更となる場合がございます。詳しくはNewsよりご確認くださいませ。...
+Keywords to search for: ['AI', 'machine learning']
+Has keywords: False
+Has substantial content: True
+Content meets criteria - adding to dataset
+Total items in dataset: 1
+Found 7 links on page
+Adding link to queue: https://www.alacampagne.jp/weborder/
+Adding link to queue: https://www.alacampagne.jp/patisserie/
+Adding link to queue: https://www.alacampagne.jp/patisserie/cafe/
+Added 3 links to queue
+Dataset now has 1 items
+Processing URL 2: https://tabelog.com/aichi/A2301/A230103/23001390/ at depth 0
+
+Scraping page: https://tabelog.com/aichi/A2301/A230103/23001390/
+Total visited URLs: 2
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 191 text elements
+Found 41 lists
+Extracted content length: 3557
+Content preview: ア・ラ・カンパーニュ 名古屋三越栄本店（a la campagne） - 栄（名古屋）（カフェ）
+該当するエリア・駅がありません。入力内容をご確認ください。
+該当のエリア・駅が見つかりませんでした。入力内容を変更して、再度検索してください。
+お店の営業情報は店舗関係者によって公開されています。
+最新の情報は直接店舗へお問い合わせください。
+好みのあう人をフォローすると、その人のオススメのお店から探...
+Content preview (first 200 chars): ア・ラ・カンパーニュ 名古屋三越栄本店（a la campagne） - 栄（名古屋）（カフェ）
+該当するエリア・駅がありません。入力内容をご確認ください。
+該当のエリア・駅が見つかりませんでした。入力内容を変更して、再度検索してください。
+お店の営業情報は店舗関係者によって公開されています。
+最新の情報は直接店舗へお問い合わせください。
+好みのあう人をフォローすると、その人のオススメのお店から探...
+Keywords to search for: ['AI', 'machine learning']
+Has keywords: False
+Has substantial content: True
+Content meets criteria - adding to dataset
+Total items in dataset: 2
+Found 286 links on page
+Adding link to queue: https://tabelog.com/account/carrier_payment_session/
+Adding link to queue: https://tabelog.com/account/temp_login_form/
+Adding link to queue: https://tabelog.com/help/beginner/
+Added 3 links to queue
+Dataset now has 2 items
+Processing URL 3: https://www.mitsukoshi.mistore.jp/nagoya/shops/restaurant/alacampagne.html at depth 0
+
+Scraping page: https://www.mitsukoshi.mistore.jp/nagoya/shops/restaurant/alacampagne.html
+Total visited URLs: 3
+Loading page with Chrome WebDriver...
+INFO:     127.0.0.1:49868 - "GET / HTTP/1.1" 404 Not Found
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 61 text elements
+Found 18 lists
+Extracted content length: 723
+Content preview: パティスリー＆カフェ ア・ラ・カンパーニュ
+午前10時～午後8時（お食事は午前11時から）※ラストオーダー：午後7時30分
+神戸発信のパティスリー「ア・ラ・カンパーニュ」。
+厳選された素材の良さとフランス・プロヴァンス地方の
+ジャン＝ポール・エヴァン バー ア ショコラ
+パティスリー＆カフェ ア・ラ・カンパーニュ
+© 2025 ISETAN MITSUKOSHI
+- ショップ・レストラン検索
+- ...
+Content preview (first 200 chars): パティスリー＆カフェ ア・ラ・カンパーニュ
+午前10時～午後8時（お食事は午前11時から）※ラストオーダー：午後7時30分
+神戸発信のパティスリー「ア・ラ・カンパーニュ」。
+厳選された素材の良さとフランス・プロヴァンス地方の
+ジャン＝ポール・エヴァン バー ア ショコラ
+パティスリー＆カフェ ア・ラ・カンパーニュ
+© 2025 ISETAN MITSUKOSHI
+- ショップ・レストラン検索
+- ...
+Keywords to search for: ['AI', 'machine learning']
+Has keywords: False
+Has substantial content: True
+Content meets criteria - adding to dataset
+Total items in dataset: 3
+Found 81 links on page
+Adding link to queue: https://www.mitsukoshi.mistore.jp/nagoya/access.html
+Adding link to queue: https://www.mitsukoshi.mistore.jp/nagoya/event_calendar.html
+Adding link to queue: https://www.mitsukoshi.mistore.jp/nagoya/shops.html
+Added 3 links to queue
+Dataset now has 3 items
+Processing URL 4: https://retty.me/area/PRE23/ARE63/SUB6304/100000054398/ at depth 0
+
+Scraping page: https://retty.me/area/PRE23/ARE63/SUB6304/100000054398/
+Total visited URLs: 4
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 56 text elements
+Found 32 lists
+Extracted content length: 3069
+Content preview: 名古屋三越内にある美味しいタルトやケーキが食べられるカフェ
+名古屋三越B1Fのタルト屋さん
+かわいいラテがあったので
+お茶だけいただきました(* ´ ▽ ` *)
+・メープルココナッツラテ
+スタッフさんの対応がすごく感じよかったです。
+今度はタルトもいただかないと♪
+#冬季限定　#季節限定メニュー #スイーツ女子  #目でも楽しめる料理  #お一人様OK
+名古屋三越とラシックの間にある『アラカンパ...
+Content preview (first 200 chars): 名古屋三越内にある美味しいタルトやケーキが食べられるカフェ
+名古屋三越B1Fのタルト屋さん
+かわいいラテがあったので
+お茶だけいただきました(* ´ ▽ ` *)
+・メープルココナッツラテ
+スタッフさんの対応がすごく感じよかったです。
+今度はタルトもいただかないと♪
+#冬季限定　#季節限定メニュー #スイーツ女子  #目でも楽しめる料理  #お一人様OK
+名古屋三越とラシックの間にある『アラカンパ...
+Keywords to search for: ['AI', 'machine learning']
+Has keywords: True
+Has substantial content: True
+Content meets criteria - adding to dataset
+Total items in dataset: 4
+Found 47 links on page
+Adding link to queue: https://retty.me/area/PRE23/ARE63/SUB6304/100000054398/photos/
+Adding link to queue: https://retty.me/tag/34908
+Adding link to queue: https://retty.me/tag/47578
+Added 3 links to queue
+Dataset now has 4 items
+Processing URL 5: https://modyco.jp/2020/06/09/post107/ at depth 0
+
+Scraping page: https://modyco.jp/2020/06/09/post107/
+Total visited URLs: 5
+Loading page with Chrome WebDriver...
+INFO:     127.0.0.1:49951 - "GET / HTTP/1.1" 404 Not Found
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: article
+Found 0 text elements
+Found 0 lists
+Extracted content length: 0
+Content preview: ...
+Content preview (first 200 chars): ...
+Keywords to search for: ['AI', 'machine learning']
+Has keywords: False
+Has substantial content: False
+Content does not meet criteria - skipping
+Dataset now has 4 items
+Processing URL 6: https://www.alacampagne.jp/weborder/ at depth 1
+
+Scraping page: https://www.alacampagne.jp/weborder/
+Total visited URLs: 6
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 29 text elements
+Found 21 lists
+Extracted content length: 2145
+Content preview: PC、スマートフォンで24時間ご予約頂けます。
+事前のご予約で、お待ち頂くことなくお受け取りが可能です。
+受け取り店舗の営業時間内であれば、お客様のお好きな時間にお受け取りいただけます。
+ご希望の商品とオプションをお選びください。
+ご選択いただける決済方法は店舗によって異なります。
+決済完了後にお届けするメールに記載しているご予約番号をご確認ください。
+ご予約日時に、お選びいただいた店舗へお越しく...
+Content preview (first 200 chars): PC、スマートフォンで24時間ご予約頂けます。
+事前のご予約で、お待ち頂くことなくお受け取りが可能です。
+受け取り店舗の営業時間内であれば、お客様のお好きな時間にお受け取りいただけます。
+ご希望の商品とオプションをお選びください。
+ご選択いただける決済方法は店舗によって異なります。
+決済完了後にお届けするメールに記載しているご予約番号をご確認ください。
+ご予約日時に、お選びいただいた店舗へお越しく...
+Keywords to search for: ['AI', 'machine learning']
+Has keywords: False
+Has substantial content: True
+Content meets criteria - adding to dataset
+Total items in dataset: 5
+Found 40 links on page
+Added 0 links to queue
+Dataset now has 5 items
+Finished processing. Total URLs processed: 6
+Final dataset size: 5
+Saving data to dataset_20250801_144804.txt...
+Full path: ../../Server/scraped_data/dataset_20250801_144804.txt
+Number of items to save: 5
+Data saved successfully
+Saved 5 pages to ../../Server/scraped_data/dataset_20250801_144804.txt
+INFO:     127.0.0.1:49478 - "POST /scrape HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49990 - "GET / HTTP/1.1" 404 Not Found
+Received scraping request: query='test' keyword=['test']
+Cleared previous data
+Starting Google search...
+
+Performing web search for query: test
+Keywords: ['test']
+Full search query: test test
+Trying search engine: https://www.bing.com/search?q=
+Search page loaded
+No cookie consent found or already accepted
+Found 10 results using selector: li.b_algo h2 a
+Result 1: https://speedtest.mybroadband.co.za/
+Result 2: https://www.zhihu.com/question/58340035
+Result 3: https://www.zhihu.com/question/638135119
+Result 4: https://www.zhihu.com/question/306567535
+Result 5: https://mybroadband.co.za/news/industrynews/533831-how-to-test-your-internet-speed-in-south-africa.html
+Successfully extracted 5 URLs
+Found 5 initial URLs from Google: ['https://speedtest.mybroadband.co.za/', 'https://www.zhihu.com/question/58340035', 'https://www.zhihu.com/question/638135119', 'https://www.zhihu.com/question/306567535', 'https://mybroadband.co.za/news/industrynews/533831-how-to-test-your-internet-speed-in-south-africa.html']
+Initialized queue with 5 URLs
+Processing URL 1: https://speedtest.mybroadband.co.za/ at depth 0
+
+Scraping page: https://speedtest.mybroadband.co.za/
+Total visited URLs: 1
+Loading page with Chrome WebDriver...
+INFO:     127.0.0.1:50047 - "GET / HTTP/1.1" 404 Not Found
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 3 text elements
+Found 2 lists
+Extracted content length: 191
+Content preview: Want more? Get the Speed Test app
+Unlock advanced metrics, download results, and do much more by downloading the ad-free MyBroadband Speed Test app
+- 51-100 Mbps
+- 101-200 Mbps
+- 201-500 Mbps...
+Content preview (first 200 chars): Want more? Get the Speed Test app
+Unlock advanced metrics, download results, and do much more by downloading the ad-free MyBroadband Speed Test app
+- 51-100 Mbps
+- 101-200 Mbps
+- 201-500 Mbps...
+Keywords to search for: ['test']
+Has keywords: True
+Has substantial content: True
+Content meets criteria - adding to dataset
+Total items in dataset: 1
+Found 4 links on page
+Added 0 links to queue
+Dataset now has 1 items
+Processing URL 2: https://www.zhihu.com/question/58340035 at depth 0
+
+Scraping page: https://www.zhihu.com/question/58340035
+Total visited URLs: 2
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 0 text elements
+Found 0 lists
+Extracted content length: 0
+Content preview: ...
+Content preview (first 200 chars): ...
+Keywords to search for: ['test']
+Has keywords: False
+Has substantial content: False
+Content does not meet criteria - skipping
+Dataset now has 1 items
+Processing URL 3: https://www.zhihu.com/question/638135119 at depth 0
+
+Scraping page: https://www.zhihu.com/question/638135119
+Total visited URLs: 3
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+INFO:     127.0.0.1:50127 - "GET / HTTP/1.1" 404 Not Found
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 0 text elements
+Found 0 lists
+Extracted content length: 0
+Content preview: ...
+Content preview (first 200 chars): ...
+Keywords to search for: ['test']
+Has keywords: False
+Has substantial content: False
+Content does not meet criteria - skipping
+Dataset now has 1 items
+Processing URL 4: https://www.zhihu.com/question/306567535 at depth 0
+
+Scraping page: https://www.zhihu.com/question/306567535
+Total visited URLs: 4
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 0 text elements
+Found 0 lists
+Extracted content length: 0
+Content preview: ...
+Content preview (first 200 chars): ...
+Keywords to search for: ['test']
+Has keywords: False
+Has substantial content: False
+Content does not meet criteria - skipping
+Dataset now has 1 items
+Processing URL 5: https://mybroadband.co.za/news/industrynews/533831-how-to-test-your-internet-speed-in-south-africa.html at depth 0
+
+Scraping page: https://mybroadband.co.za/news/industrynews/533831-how-to-test-your-internet-speed-in-south-africa.html
+Total visited URLs: 5
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 2 text elements
+Found 0 lists
+Extracted content length: 52
+Content preview: Verify you are human by completing the action below....
+Content preview (first 200 chars): Verify you are human by completing the action below....
+Keywords to search for: ['test']
+Has keywords: False
+Has substantial content: False
+Content does not meet criteria - skipping
+Dataset now has 1 items
+Finished processing. Total URLs processed: 5
+Final dataset size: 1
+Saving data to dataset_20250801_144931.txt...
+Full path: ../../Server/scraped_data/dataset_20250801_144931.txt
+Number of items to save: 1
+Data saved successfully
+Saved 1 pages to ../../Server/scraped_data/dataset_20250801_144931.txt
+INFO:     127.0.0.1:50030 - "POST /scrape HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50208 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50385 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50510 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50535 - "GET / HTTP/1.1" 404 Not Found
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [46306]
+INFO:     Stopping reloader process [46302]

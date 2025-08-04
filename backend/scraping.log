@@ -1,0 +1,1471 @@
+INFO:     Will watch for changes in these directories: ['/Users/hardiksharma/Ai_tool_for_dataCuration_analysis/Server/Scrapping_modules_init']
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Started reloader process [13479] using StatReload
+INFO:     Started server process [13569]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:64074 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64091 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64095 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64141 - "GET / HTTP/1.1" 404 Not Found
+
+=== SCRAPING REQUEST ===
+Query: artificial intelligence trends 2024
+Keywords: ['machine learning', 'AI development']
+
+Performing web search for query: artificial intelligence trends 2024
+Keywords: ['machine learning', 'AI development']
+Full search query: artificial intelligence trends 2024 machine learning AI development
+Trying search engine: https://www.bing.com/search?q=
+Search page loaded
+No cookie consent found or already accepted
+Found 10 results using selector: li.b_algo h2 a
+Result 1: https://www.artificialaiming.net/forum/index.php
+Result 2: https://www.artificialaiming.net/forum/client_livesupport.php
+Result 3: https://www.artificialaiming.net/forum/search.php
+Result 4: https://www.artificialaiming.net/forum/german-speaking-forum/98858-hwid-spoofer.html
+Result 5: https://www.artificialaiming.net/forum/register.php
+Successfully extracted 5 URLs
+Found 5 URLs to scrape
+Starting crawl with max_depth=3, max_pages=10
+
+Processing URL 1/10: https://www.artificialaiming.net/forum/index.php
+
+Scraping page: https://www.artificialaiming.net/forum/index.php
+Total visited URLs: 1
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 2 text elements
+Found 0 lists
+Extracted content length: 77
+Content preview: www.artificialaiming.net
+Verify you are human by completing the action below....
+Warning: Very little English content found
+Content preview (first 200 chars): ...
+Keywords to search for: ['machine learning', 'AI development']
+Has keywords: False
+Has substantial content: False
+Content length: 0
+Content does not meet criteria - skipping
+
+Processing URL 1/10: https://www.artificialaiming.net/forum/client_livesupport.php
+
+Scraping page: https://www.artificialaiming.net/forum/client_livesupport.php
+Total visited URLs: 2
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 2 text elements
+Found 0 lists
+Extracted content length: 77
+Content preview: www.artificialaiming.net
+Verify you are human by completing the action below....
+Warning: Very little English content found
+Content preview (first 200 chars): ...
+Keywords to search for: ['machine learning', 'AI development']
+Has keywords: False
+Has substantial content: False
+Content length: 0
+Content does not meet criteria - skipping
+
+Processing URL 1/10: https://www.artificialaiming.net/forum/search.php
+
+Scraping page: https://www.artificialaiming.net/forum/search.php
+Total visited URLs: 3
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 2 text elements
+Found 0 lists
+Extracted content length: 77
+Content preview: www.artificialaiming.net
+Verify you are human by completing the action below....
+Warning: Very little English content found
+Content preview (first 200 chars): ...
+Keywords to search for: ['machine learning', 'AI development']
+Has keywords: False
+Has substantial content: False
+Content length: 0
+Content does not meet criteria - skipping
+
+Processing URL 1/10: https://www.artificialaiming.net/forum/german-speaking-forum/98858-hwid-spoofer.html
+
+Scraping page: https://www.artificialaiming.net/forum/german-speaking-forum/98858-hwid-spoofer.html
+Total visited URLs: 4
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 2 text elements
+Found 0 lists
+Extracted content length: 77
+Content preview: www.artificialaiming.net
+Verify you are human by completing the action below....
+Warning: Very little English content found
+Content preview (first 200 chars): ...
+Keywords to search for: ['machine learning', 'AI development']
+Has keywords: False
+Has substantial content: False
+Content length: 0
+Content does not meet criteria - skipping
+
+Processing URL 1/10: https://www.artificialaiming.net/forum/register.php
+
+Scraping page: https://www.artificialaiming.net/forum/register.php
+Total visited URLs: 5
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 2 text elements
+Found 0 lists
+Extracted content length: 77
+Content preview: www.artificialaiming.net
+Verify you are human by completing the action below....
+Warning: Very little English content found
+Content preview (first 200 chars): ...
+Keywords to search for: ['machine learning', 'AI development']
+Has keywords: False
+Has substantial content: False
+Content length: 0
+Content does not meet criteria - skipping
+
+Crawling completed. Total pages scraped: 0
+Error during scraping: 404: No relevant content found
+INFO:     127.0.0.1:64166 - "POST /scrape HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:64182 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64204 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  StatReload detected changes in 'scrapper.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [13569]
+INFO:     Started server process [15913]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:64291 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  StatReload detected changes in 'scrapper.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15913]
+INFO:     Started server process [15971]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15971]
+INFO:     Started server process [16053]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:64364 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64383 - "GET / HTTP/1.1" 404 Not Found
+
+=== SCRAPING REQUEST ===
+Query: python programming
+Keywords: ['python']
+
+Performing web search for query: python programming
+Keywords: ['python']
+Full search query: python programming python
+Trying search engine: https://www.bing.com/search?q=
+Search page loaded
+No cookie consent found or already accepted
+Found 10 results using selector: li.b_algo h2 a
+Result 1: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean
+Result 2: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python
+Result 3: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement
+Result 4: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch
+Result 5: https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python
+Successfully extracted 5 URLs
+Found 5 URLs to scrape
+Starting crawl with max_depth=2, max_pages=15
+
+Processing URL 1/15: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean
+
+Scraping page: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean
+Total visited URLs: 1
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 49 text elements
+Found 10 lists
+Extracted content length: 5889
+Content preview: What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Pytho...
+Content preview (first 200 chars): What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Pytho...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 5889
+Content meets criteria - adding to dataset
+Total items in dataset: 1
+Found 200 links on page
+Adding link to queue: https://stackoverflow.com/collectives
+Adding link to queue: https://stackoverflow.com/questions/ask
+Adding link to queue: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean?lastactivity
+Adding link to queue: https://stackoverflow.com/questions/tagged/python
+Adding link to queue: https://stackoverflow.com/questions/tagged/colon-equals
+Added 5 links to queue
+
+Processing URL 2/15: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python
+
+Scraping page: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python
+Total visited URLs: 2
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 123 text elements
+Found 22 lists
+Extracted content length: 14619
+Content preview: What does the @ symbol do in Python?
+An @ symbol at the beginning of a line is used for class and function decorators:
+Python Decorators - Python Wiki
+The most common Python decorators are:
+An @ in th...
+Content preview (first 200 chars): What does the @ symbol do in Python?
+An @ symbol at the beginning of a line is used for class and function decorators:
+Python Decorators - Python Wiki
+The most common Python decorators are:
+An @ in th...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 14619
+Content meets criteria - adding to dataset
+Total items in dataset: 2
+Found 275 links on page
+Adding link to queue: https://stackoverflow.com/collectives
+Adding link to queue: https://stackoverflow.com/questions/ask
+Adding link to queue: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python?lastactivity
+Adding link to queue: https://stackoverflow.com/questions/tagged/python
+Adding link to queue: https://stackoverflow.com/questions/tagged/syntax
+Added 5 links to queue
+
+Processing URL 3/15: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement
+
+Scraping page: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement
+Total visited URLs: 3
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 52 text elements
+Found 12 lists
+Extracted content length: 7002
+Content preview: Use and instead of &&.
+Python uses and and or conditionals.
+I'm getting an error in the IF conditional. What am I doing wrong?
+There reason that you get a SyntaxError is that there is no && operator i...
+Content preview (first 200 chars): Use and instead of &&.
+Python uses and and or conditionals.
+I'm getting an error in the IF conditional. What am I doing wrong?
+There reason that you get a SyntaxError is that there is no && operator i...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 7002
+Content meets criteria - adding to dataset
+Total items in dataset: 3
+Found 229 links on page
+Adding link to queue: https://stackoverflow.com/collectives
+Adding link to queue: https://stackoverflow.com/questions/ask
+Adding link to queue: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement?lastactivity
+Adding link to queue: https://stackoverflow.com/questions/tagged/python
+Adding link to queue: https://stackoverflow.com/questions/tagged/logical-and
+Added 5 links to queue
+
+Processing URL 4/15: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch
+
+Scraping page: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch
+Total visited URLs: 4
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 83 text elements
+Found 16 lists
+Extracted content length: 16726
+Content preview: Could you explain to me what the difference is between calling
+It seems in both cases mymod1.py is called and sys.argv is
+So what is the -m switch for?
+Despite this question having been asked and answ...
+Content preview (first 200 chars): Could you explain to me what the difference is between calling
+It seems in both cases mymod1.py is called and sys.argv is
+So what is the -m switch for?
+Despite this question having been asked and answ...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 16726
+Content meets criteria - adding to dataset
+Total items in dataset: 4
+Found 224 links on page
+Adding link to queue: https://stackoverflow.com/collectives
+Adding link to queue: https://stackoverflow.com/questions/ask
+Adding link to queue: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch?lastactivity
+Adding link to queue: https://stackoverflow.com/questions/tagged/python
+Adding link to queue: https://stackoverflow.com/questions/tagged/command-line
+Added 5 links to queue
+
+Processing URL 5/15: https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python
+
+Scraping page: https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python
+Total visited URLs: 5
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 30 text elements
+Found 8 lists
+Extracted content length: 5173
+Content preview: Does * have a special meaning in Python as it does in C? I saw a function like this in the Python Cookbook:
+Would you please explain it to me or point out where I can find an answer (Google interprets...
+Content preview (first 200 chars): Does * have a special meaning in Python as it does in C? I saw a function like this in the Python Cookbook:
+Would you please explain it to me or point out where I can find an answer (Google interprets...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 5173
+Content meets criteria - adding to dataset
+Total items in dataset: 5
+Found 172 links on page
+Adding link to queue: https://stackoverflow.com/collectives
+Adding link to queue: https://stackoverflow.com/questions/ask
+Adding link to queue: https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python?lastactivity
+Adding link to queue: https://stackoverflow.com/questions/tagged/python
+Adding link to queue: https://stackoverflow.com/q/400739
+Added 5 links to queue
+
+Processing URL 6/15: https://stackoverflow.com/collectives
+
+Scraping page: https://stackoverflow.com/collectives
+Total visited URLs: 6
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 41 text elements
+Found 0 lists
+Extracted content length: 3451
+Content preview: Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Content preview (first 200 chars): Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Keywords to search for: ['python']
+Has keywords: False
+Has substantial content: True
+Content length: 3451
+Content meets criteria - adding to dataset
+Total items in dataset: 6
+Found 19 links on page
+Adding link to queue: https://stackoverflow.com/collectives/azure
+Adding link to queue: https://stackoverflow.com/collectives/google-cloud
+Adding link to queue: https://stackoverflow.com/collectives/php
+Adding link to queue: https://stackoverflow.com/collectives/r-language
+Adding link to queue: https://stackoverflow.com/collectives/nlp
+Added 5 links to queue
+
+Processing URL 7/15: https://stackoverflow.com/questions/ask
+
+Scraping page: https://stackoverflow.com/questions/ask
+Total visited URLs: 7
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 5 text elements
+Found 0 lists
+Extracted content length: 81
+Content preview: You must be logged in to ask a question on Stack Overflow
+Log in below or sign up...
+Content preview (first 200 chars): You must be logged in to ask a question on Stack Overflow
+Log in below or sign up...
+Keywords to search for: ['python']
+Has keywords: False
+Has substantial content: True
+Content length: 81
+Content meets criteria - adding to dataset
+Total items in dataset: 7
+Found 6 links on page
+Adding link to queue: https://stackoverflow.com/users/signup?ssrc=anon_ask&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2fask
+Adding link to queue: https://stackoverflow.com/users/account-recovery
+Adding link to queue: https://stackoverflow.com/users/signup?ssrc=anon_ask&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2fask
+Adding link to queue: https://stackoverflow.com/legal/cookie-policy
+Added 4 links to queue
+
+Processing URL 8/15: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean?lastactivity
+
+Scraping page: https://stackoverflow.com/questions/26000198/what-does-colon-equal-in-python-mean?lastactivity
+Total visited URLs: 8
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 49 text elements
+Found 10 lists
+Extracted content length: 5889
+Content preview: What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Pytho...
+Content preview (first 200 chars): What does the := operand mean, more specifically for Python?
+Can someone explain how to read this snippet of code?
+In the context of the question, we are dealing with pseudocode, but starting in Pytho...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 5889
+Content meets criteria - adding to dataset
+Total items in dataset: 8
+Found 200 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/python
+Adding link to queue: https://stackoverflow.com/questions/tagged/colon-equals
+Adding link to queue: https://stackoverflow.com/questions/tagged/python-assignment-expression
+Adding link to queue: https://stackoverflow.com/q/26000198
+Adding link to queue: https://stackoverflow.com/posts/26000198/edit
+Added 5 links to queue
+
+Processing URL 9/15: https://stackoverflow.com/questions/tagged/python
+
+Scraping page: https://stackoverflow.com/questions/tagged/python
+Total visited URLs: 9
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 21 text elements
+Found 33 lists
+Extracted content length: 3528
+Content preview: Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Content preview (first 200 chars): Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 3528
+Content meets criteria - adding to dataset
+Total items in dataset: 9
+Found 153 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/python?tab=Newest
+Adding link to queue: https://stackoverflow.com/questions/tagged/python?tab=Active
+Adding link to queue: https://stackoverflow.com/questions/tagged/python?tab=Bounties
+Adding link to queue: https://stackoverflow.com/questions/tagged/python?tab=Unanswered
+Adding link to queue: https://stackoverflow.com/questions/tagged/python?tab=Bounties
+Added 5 links to queue
+
+Processing URL 10/15: https://stackoverflow.com/questions/tagged/colon-equals
+
+Scraping page: https://stackoverflow.com/questions/tagged/colon-equals
+Total visited URLs: 10
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 21 text elements
+Found 33 lists
+Extracted content length: 3374
+Content preview: Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Content preview (first 200 chars): Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Keywords to search for: ['python']
+Has keywords: False
+Has substantial content: True
+Content length: 3374
+Content meets criteria - adding to dataset
+Total items in dataset: 10
+Found 154 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/colon-equals?tab=Newest
+Adding link to queue: https://stackoverflow.com/questions/tagged/colon-equals?tab=Active
+Adding link to queue: https://stackoverflow.com/questions/tagged/colon-equals?tab=Bounties
+Adding link to queue: https://stackoverflow.com/questions/tagged/colon-equals?tab=Unanswered
+Adding link to queue: https://stackoverflow.com/questions/tagged/colon-equals?tab=Bounties
+Added 5 links to queue
+
+Processing URL 11/15: https://stackoverflow.com/collectives
+
+Scraping page: https://stackoverflow.com/collectives
+URL already visited, skipping
+
+Processing URL 11/15: https://stackoverflow.com/questions/ask
+
+Scraping page: https://stackoverflow.com/questions/ask
+URL already visited, skipping
+
+Processing URL 11/15: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python?lastactivity
+
+Scraping page: https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python?lastactivity
+Total visited URLs: 11
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 123 text elements
+Found 22 lists
+Extracted content length: 14619
+Content preview: What does the @ symbol do in Python?
+An @ symbol at the beginning of a line is used for class and function decorators:
+Python Decorators - Python Wiki
+The most common Python decorators are:
+An @ in th...
+Content preview (first 200 chars): What does the @ symbol do in Python?
+An @ symbol at the beginning of a line is used for class and function decorators:
+Python Decorators - Python Wiki
+The most common Python decorators are:
+An @ in th...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 14619
+Content meets criteria - adding to dataset
+Total items in dataset: 11
+Found 275 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/syntax
+Adding link to queue: https://stackoverflow.com/q/6392739
+Adding link to queue: https://stackoverflow.com/posts/6392739/edit
+Adding link to queue: https://stackoverflow.com/posts/6392739/revisions
+Adding link to queue: https://stackoverflow.com/users/4518341/wjandrea
+Added 5 links to queue
+
+Processing URL 12/15: https://stackoverflow.com/questions/tagged/python
+
+Scraping page: https://stackoverflow.com/questions/tagged/python
+URL already visited, skipping
+
+Processing URL 12/15: https://stackoverflow.com/questions/tagged/syntax
+
+Scraping page: https://stackoverflow.com/questions/tagged/syntax
+Total visited URLs: 12
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 21 text elements
+Found 33 lists
+Extracted content length: 3160
+Content preview: Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Content preview (first 200 chars): Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 3160
+Content meets criteria - adding to dataset
+Total items in dataset: 12
+Found 162 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/syntax?tab=Newest
+Adding link to queue: https://stackoverflow.com/questions/tagged/syntax?tab=Active
+Adding link to queue: https://stackoverflow.com/questions/tagged/syntax?tab=Bounties
+Adding link to queue: https://stackoverflow.com/questions/tagged/syntax?tab=Unanswered
+Adding link to queue: https://stackoverflow.com/questions/tagged/syntax?tab=Bounties
+Added 5 links to queue
+
+Processing URL 13/15: https://stackoverflow.com/collectives
+
+Scraping page: https://stackoverflow.com/collectives
+URL already visited, skipping
+
+Processing URL 13/15: https://stackoverflow.com/questions/ask
+
+Scraping page: https://stackoverflow.com/questions/ask
+URL already visited, skipping
+
+Processing URL 13/15: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement?lastactivity
+
+Scraping page: https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement?lastactivity
+Total visited URLs: 13
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 52 text elements
+Found 12 lists
+Extracted content length: 7002
+Content preview: Use and instead of &&.
+Python uses and and or conditionals.
+I'm getting an error in the IF conditional. What am I doing wrong?
+There reason that you get a SyntaxError is that there is no && operator i...
+Content preview (first 200 chars): Use and instead of &&.
+Python uses and and or conditionals.
+I'm getting an error in the IF conditional. What am I doing wrong?
+There reason that you get a SyntaxError is that there is no && operator i...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 7002
+Content meets criteria - adding to dataset
+Total items in dataset: 13
+Found 229 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/logical-and
+Adding link to queue: https://stackoverflow.com/q/2485466
+Adding link to queue: https://stackoverflow.com/posts/2485466/edit
+Adding link to queue: https://stackoverflow.com/posts/2485466/revisions
+Adding link to queue: https://stackoverflow.com/users/10749567/ola-str%c3%b6m
+Added 5 links to queue
+
+Processing URL 14/15: https://stackoverflow.com/questions/tagged/python
+
+Scraping page: https://stackoverflow.com/questions/tagged/python
+URL already visited, skipping
+
+Processing URL 14/15: https://stackoverflow.com/questions/tagged/logical-and
+
+Scraping page: https://stackoverflow.com/questions/tagged/logical-and
+Total visited URLs: 14
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 21 text elements
+Found 33 lists
+Extracted content length: 3724
+Content preview: Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Content preview (first 200 chars): Collectives™ on Stack Overflow
+Find centralized, trusted content and collaborate around the technologies you use most.
+Connect and share knowledge within a single location that is structured and easy ...
+Keywords to search for: ['python']
+Has keywords: False
+Has substantial content: True
+Content length: 3724
+Content meets criteria - adding to dataset
+Total items in dataset: 14
+Found 169 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/logical-and?tab=Newest
+Adding link to queue: https://stackoverflow.com/questions/tagged/logical-and?tab=Active
+Adding link to queue: https://stackoverflow.com/questions/tagged/logical-and?tab=Bounties
+Adding link to queue: https://stackoverflow.com/questions/tagged/logical-and?tab=Unanswered
+Adding link to queue: https://stackoverflow.com/questions/tagged/logical-and?tab=Bounties
+Added 5 links to queue
+
+Processing URL 15/15: https://stackoverflow.com/collectives
+
+Scraping page: https://stackoverflow.com/collectives
+URL already visited, skipping
+
+Processing URL 15/15: https://stackoverflow.com/questions/ask
+
+Scraping page: https://stackoverflow.com/questions/ask
+URL already visited, skipping
+
+Processing URL 15/15: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch?lastactivity
+
+Scraping page: https://stackoverflow.com/questions/7610001/what-is-the-purpose-of-the-m-switch?lastactivity
+Total visited URLs: 15
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 83 text elements
+Found 16 lists
+Extracted content length: 16726
+Content preview: Could you explain to me what the difference is between calling
+It seems in both cases mymod1.py is called and sys.argv is
+So what is the -m switch for?
+Despite this question having been asked and answ...
+Content preview (first 200 chars): Could you explain to me what the difference is between calling
+It seems in both cases mymod1.py is called and sys.argv is
+So what is the -m switch for?
+Despite this question having been asked and answ...
+Keywords to search for: ['python']
+Has keywords: True
+Has substantial content: True
+Content length: 16726
+Content meets criteria - adding to dataset
+Total items in dataset: 15
+Found 224 links on page
+Adding link to queue: https://stackoverflow.com/questions/tagged/command-line
+Adding link to queue: https://stackoverflow.com/questions/tagged/module
+Adding link to queue: https://stackoverflow.com/questions/tagged/package
+Adding link to queue: https://stackoverflow.com/q/7610001
+Adding link to queue: https://stackoverflow.com/posts/7610001/edit
+Added 5 links to queue
+
+Crawling completed. Total pages scraped: 15
+Saving data to dataset_20250803_000548.txt...
+Full path: ../../Server/scraped_data/dataset_20250803_000548.txt
+Number of items to save: 15
+Data saved successfully
+Data saved to: ../../Server/scraped_data/dataset_20250803_000548.txt
+Total content length: 110963 characters
+INFO:     127.0.0.1:64408 - "POST /scrape HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64473 - "GET / HTTP/1.1" 404 Not Found
+
+=== SCRAPING REQUEST ===
+Query: space exploration missions 2024
+Keywords: ['NASA', 'Mars', 'satellite']
+
+Performing web search for query: space exploration missions 2024
+Keywords: ['NASA', 'Mars', 'satellite']
+Full search query: space exploration missions 2024 NASA Mars satellite
+Trying search engine: https://www.bing.com/search?q=
+Search page loaded
+No cookie consent found or already accepted
+Found 10 results using selector: li.b_algo h2 a
+Result 1: https://www.sciencenews.org/topic/space
+Result 2: https://forums.space.com/threads/hypercone-hypothesis-rethinking-light-cones-in-a-hyperspherical-universe.71601/
+Result 3: https://forums.space.com/threads/light-in-the-existence.71766/page-2
+Result 4: https://www.sciencenews.org/article/space-missions-in-2024-recap
+Result 5: https://forums.space.com/threads/questions-about-the-spacex-launch-of-24th-of-march.70842/
+Successfully extracted 5 URLs
+Found 5 URLs to scrape
+Starting crawl with max_depth=2, max_pages=15
+
+Processing URL 1/15: https://www.sciencenews.org/topic/space
+
+Scraping page: https://www.sciencenews.org/topic/space
+Total visited URLs: 1
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 26 text elements
+Found 1 lists
+Extracted content length: 4502
+Content preview: The Webb space telescope spies its first black holes snacking on stars
+These star-shredding black holes sit within dusty galaxies that block many telescopes’ views. That’s not an issue for JWST.
+A qua...
+Content preview (first 200 chars): The Webb space telescope spies its first black holes snacking on stars
+These star-shredding black holes sit within dusty galaxies that block many telescopes’ views. That’s not an issue for JWST.
+A qua...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: True
+Has substantial content: True
+Content length: 4502
+Content meets criteria - adding to dataset
+Total items in dataset: 1
+Found 53 links on page
+Adding link to queue: https://www.sciencenews.org/topic/astronomy
+Adding link to queue: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star
+Adding link to queue: https://www.sciencenews.org/author/mckenzie-prillaman
+Adding link to queue: https://www.sciencenews.org/topic/quantum-physics
+Adding link to queue: https://www.sciencenews.org/article/quantum-computer-space-physics
+Added 5 links to queue
+
+Processing URL 2/15: https://forums.space.com/threads/hypercone-hypothesis-rethinking-light-cones-in-a-hyperspherical-universe.71601/
+
+Scraping page: https://forums.space.com/threads/hypercone-hypothesis-rethinking-light-cones-in-a-hyperspherical-universe.71601/
+Total visited URLs: 2
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: article
+Found 1 text elements
+Found 0 lists
+Extracted content length: 177
+Content preview: A large lunar crater featured in the iconic 'Earthrise' photo has just helped the European JUICE spacecraft hone its alien-hunting instruments during a once-in-a-lifetime flyby....
+Content preview (first 200 chars): A large lunar crater featured in the iconic 'Earthrise' photo has just helped the European JUICE spacecraft hone its alien-hunting instruments during a once-in-a-lifetime flyby....
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 177
+Content meets criteria - adding to dataset
+Total items in dataset: 2
+Found 71 links on page
+Added 0 links to queue
+
+Processing URL 3/15: https://forums.space.com/threads/light-in-the-existence.71766/page-2
+
+Scraping page: https://forums.space.com/threads/light-in-the-existence.71766/page-2
+Total visited URLs: 3
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: article
+Found 1 text elements
+Found 0 lists
+Extracted content length: 177
+Content preview: A large lunar crater featured in the iconic 'Earthrise' photo has just helped the European JUICE spacecraft hone its alien-hunting instruments during a once-in-a-lifetime flyby....
+Content preview (first 200 chars): A large lunar crater featured in the iconic 'Earthrise' photo has just helped the European JUICE spacecraft hone its alien-hunting instruments during a once-in-a-lifetime flyby....
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 177
+Content meets criteria - adding to dataset
+Total items in dataset: 3
+Found 68 links on page
+Added 0 links to queue
+
+Processing URL 4/15: https://www.sciencenews.org/article/space-missions-in-2024-recap
+
+Scraping page: https://www.sciencenews.org/article/space-missions-in-2024-recap
+Total visited URLs: 4
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 37 text elements
+Found 3 lists
+Extracted content length: 7517
+Content preview: December 6, 2024 at 1:00 pm
+From monitoring Mercury to launching a new adventure to an icy moon of Jupiter, spacecraft and astronauts made great strides in 2024. Here are some of the highlights of thi...
+Content preview (first 200 chars): December 6, 2024 at 1:00 pm
+From monitoring Mercury to launching a new adventure to an icy moon of Jupiter, spacecraft and astronauts made great strides in 2024. Here are some of the highlights of thi...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: True
+Has substantial content: True
+Content length: 7517
+Content meets criteria - adding to dataset
+Total items in dataset: 4
+Found 57 links on page
+Adding link to queue: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=facebook&nb=1
+Adding link to queue: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=reddit&nb=1
+Adding link to queue: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=twitter&nb=1
+Adding link to queue: https://www.sciencenews.org/author/lisa-grossman
+Adding link to queue: https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end
+Added 5 links to queue
+
+Processing URL 5/15: https://forums.space.com/threads/questions-about-the-spacex-launch-of-24th-of-march.70842/
+
+Scraping page: https://forums.space.com/threads/questions-about-the-spacex-launch-of-24th-of-march.70842/
+Total visited URLs: 5
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: article
+Found 1 text elements
+Found 0 lists
+Extracted content length: 177
+Content preview: A large lunar crater featured in the iconic 'Earthrise' photo has just helped the European JUICE spacecraft hone its alien-hunting instruments during a once-in-a-lifetime flyby....
+Content preview (first 200 chars): A large lunar crater featured in the iconic 'Earthrise' photo has just helped the European JUICE spacecraft hone its alien-hunting instruments during a once-in-a-lifetime flyby....
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 177
+Content meets criteria - adding to dataset
+Total items in dataset: 5
+Found 68 links on page
+Added 0 links to queue
+
+Processing URL 6/15: https://www.sciencenews.org/topic/astronomy
+
+Scraping page: https://www.sciencenews.org/topic/astronomy
+Total visited URLs: 6
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 23 text elements
+Found 1 lists
+Extracted content length: 4359
+Content preview: The Webb space telescope spies its first black holes snacking on stars
+These star-shredding black holes sit within dusty galaxies that block many telescopes’ views. That’s not an issue for JWST.
+Two c...
+Content preview (first 200 chars): The Webb space telescope spies its first black holes snacking on stars
+These star-shredding black holes sit within dusty galaxies that block many telescopes’ views. That’s not an issue for JWST.
+Two c...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 4359
+Content meets criteria - adding to dataset
+Total items in dataset: 6
+Found 49 links on page
+Adding link to queue: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star
+Adding link to queue: https://www.sciencenews.org/author/mckenzie-prillaman
+Adding link to queue: https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole
+Adding link to queue: https://www.sciencenews.org/author/mckenzie-prillaman
+Adding link to queue: https://www.sciencenews.org/article/betelgeuse-companion-star-revealed
+Added 5 links to queue
+
+Processing URL 7/15: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star
+
+Scraping page: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star
+Total visited URLs: 7
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 19 text elements
+Found 3 lists
+Extracted content length: 4000
+Content preview: By McKenzie Prillaman
+August 1, 2025 at 11:00 am
+The James Webb Space Telescope has taken its first look at black holes secretly snacking on stars within dusty galaxies. JWST’s ability to pick up deta...
+Content preview (first 200 chars): By McKenzie Prillaman
+August 1, 2025 at 11:00 am
+The James Webb Space Telescope has taken its first look at black holes secretly snacking on stars within dusty galaxies. JWST’s ability to pick up deta...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 4000
+Content meets criteria - adding to dataset
+Total items in dataset: 7
+Found 45 links on page
+Adding link to queue: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star?share=facebook&nb=1
+Adding link to queue: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star?share=reddit&nb=1
+Adding link to queue: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star?share=twitter&nb=1
+Adding link to queue: https://www.sciencenews.org/author/mckenzie-prillaman
+Adding link to queue: https://www.sciencenews.org/article/black-hole-megastars-explosions-nuclear
+Added 5 links to queue
+
+Processing URL 8/15: https://www.sciencenews.org/author/mckenzie-prillaman
+
+Scraping page: https://www.sciencenews.org/author/mckenzie-prillaman
+Total visited URLs: 8
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 27 text elements
+Found 1 lists
+Extracted content length: 5627
+Content preview: Trustworthy journalism comes at a price.
+Scientists and journalists share a core belief in questioning, observing and verifying to reach the truth. Science News reports on crucial research and discove...
+Content preview (first 200 chars): Trustworthy journalism comes at a price.
+Scientists and journalists share a core belief in questioning, observing and verifying to reach the truth. Science News reports on crucial research and discove...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 5627
+Content meets criteria - adding to dataset
+Total items in dataset: 8
+Found 40 links on page
+Adding link to queue: https://www.sciencenews.org/subscribe1?key=9MTRUST&utm_source=cta&utm_medium=story&utm_campaign=trustworthy_journalism
+Adding link to queue: https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole
+Adding link to queue: https://www.sciencenews.org/topic/planetary-science
+Adding link to queue: https://www.sciencenews.org/article/star-earliest-birth-planet-solar-system
+Adding link to queue: https://www.sciencenews.org/topic/planetary-science
+Added 5 links to queue
+
+Processing URL 9/15: https://www.sciencenews.org/topic/quantum-physics
+
+Scraping page: https://www.sciencenews.org/topic/quantum-physics
+Total visited URLs: 9
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 23 text elements
+Found 1 lists
+Extracted content length: 4252
+Content preview: A quantum computer goes to space
+Quantum computers in space could be useful for communications networks or for testing fundamental physics.
+‘Magic’ states empower error-resistant quantum computing
+The...
+Content preview (first 200 chars): A quantum computer goes to space
+Quantum computers in space could be useful for communications networks or for testing fundamental physics.
+‘Magic’ states empower error-resistant quantum computing
+The...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 4252
+Content meets criteria - adding to dataset
+Total items in dataset: 9
+Found 49 links on page
+Adding link to queue: https://www.sciencenews.org/article/quantum-computer-space-physics
+Adding link to queue: https://www.sciencenews.org/author/emily-conover
+Adding link to queue: https://www.sciencenews.org/article/magic-error-quantum-computing
+Adding link to queue: https://www.sciencenews.org/author/emily-conover
+Adding link to queue: https://www.sciencenews.org/topic/computing
+Added 5 links to queue
+
+Processing URL 10/15: https://www.sciencenews.org/article/quantum-computer-space-physics
+
+Scraping page: https://www.sciencenews.org/article/quantum-computer-space-physics
+Total visited URLs: 10
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 20 text elements
+Found 3 lists
+Extracted content length: 3719
+Content preview: July 30, 2025 at 9:00 am
+A quantum computer has reached new heights.
+The first quantum computer in space is now orbiting Earth on a satellite, scientists report. Launched on June 23, the computer had ...
+Content preview (first 200 chars): July 30, 2025 at 9:00 am
+A quantum computer has reached new heights.
+The first quantum computer in space is now orbiting Earth on a satellite, scientists report. Launched on June 23, the computer had ...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: True
+Has substantial content: True
+Content length: 3719
+Content meets criteria - adding to dataset
+Total items in dataset: 10
+Found 44 links on page
+Adding link to queue: https://www.sciencenews.org/article/quantum-computer-space-physics?share=facebook&nb=1
+Adding link to queue: https://www.sciencenews.org/article/quantum-computer-space-physics?share=reddit&nb=1
+Adding link to queue: https://www.sciencenews.org/article/quantum-computer-space-physics?share=twitter&nb=1
+Adding link to queue: https://www.sciencenews.org/author/emily-conover
+Adding link to queue: https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer
+Added 5 links to queue
+
+Processing URL 11/15: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=facebook&nb=1
+
+Scraping page: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=facebook&nb=1
+Total visited URLs: 11
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: div[role="main"]
+Found 2 text elements
+Found 1 lists
+Extracted content length: 57
+Content preview: You are not logged in
+You are not logged in
+- Return home...
+Content preview (first 200 chars): You are not logged in
+You are not logged in
+- Return home...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 57
+Content meets criteria - adding to dataset
+Total items in dataset: 11
+Found 43 links on page
+Adding link to queue: https://www.sciencenews.org/r.php?locale=en_GB
+Adding link to queue: https://www.sciencenews.org/
+Adding link to queue: https://www.sciencenews.org/reg/
+Adding link to queue: https://www.sciencenews.org/login/
+Adding link to queue: https://www.sciencenews.org/lite/
+Added 5 links to queue
+
+Processing URL 12/15: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=reddit&nb=1
+
+Scraping page: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=reddit&nb=1
+Total visited URLs: 12
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: body
+Found 6 text elements
+Found 0 lists
+Extracted content length: 297
+Content preview: By continuing, you agree to our
+User Agreement
+and acknowledge that you understand the
+Privacy Policy.
+Enter the 6-digit code from your authenticator app
+You’ve set up two-factor authentication for th...
+Content preview (first 200 chars): By continuing, you agree to our
+User Agreement
+and acknowledge that you understand the
+Privacy Policy.
+Enter the 6-digit code from your authenticator app
+You’ve set up two-factor authentication for th...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 297
+Content meets criteria - adding to dataset
+Total items in dataset: 12
+Found 5 links on page
+Added 0 links to queue
+
+Processing URL 13/15: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=twitter&nb=1
+
+Scraping page: https://www.sciencenews.org/article/space-missions-in-2024-recap?share=twitter&nb=1
+Total visited URLs: 13
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 0 text elements
+Found 0 lists
+Extracted content length: 0
+Content preview: ...
+Warning: Very little English content found
+Content preview (first 200 chars): ...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: False
+Content length: 0
+Content does not meet criteria - skipping
+
+Processing URL 13/15: https://www.sciencenews.org/author/lisa-grossman
+
+Scraping page: https://www.sciencenews.org/author/lisa-grossman
+Total visited URLs: 14
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 27 text elements
+Found 1 lists
+Extracted content length: 5375
+Content preview: Trustworthy journalism comes at a price.
+Scientists and journalists share a core belief in questioning, observing and verifying to reach the truth. Science News reports on crucial research and discove...
+Content preview (first 200 chars): Trustworthy journalism comes at a price.
+Scientists and journalists share a core belief in questioning, observing and verifying to reach the truth. Science News reports on crucial research and discove...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: True
+Has substantial content: True
+Content length: 5375
+Content meets criteria - adding to dataset
+Total items in dataset: 13
+Found 40 links on page
+Adding link to queue: https://www.sciencenews.org/subscribe1?key=9MTRUST&utm_source=cta&utm_medium=story&utm_campaign=trustworthy_journalism
+Adding link to queue: https://www.sciencenews.org/article/soviet-spacecraft-crash-earth
+Adding link to queue: https://www.sciencenews.org/article/alien-life-biosignature-claim
+Adding link to queue: https://www.sciencenews.org/article/nasa-curiosity-rover-mars-missing-carbon
+Adding link to queue: https://www.sciencenews.org/topic/planetary-science
+Added 5 links to queue
+
+Processing URL 14/15: https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end
+
+Scraping page: https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end
+Total visited URLs: 15
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 5 text elements
+Found 1 lists
+Extracted content length: 363
+Content preview: February 28, 2024 at 3:44 pm
+Updated March 26, 2024 at 1:15 pm
+Odysseus has exceeded engineers’ expectations during its odyssey on the moon.
+- Share via email (Opens in new window)
+- Click to share on...
+Content preview (first 200 chars): February 28, 2024 at 3:44 pm
+Updated March 26, 2024 at 1:15 pm
+Odysseus has exceeded engineers’ expectations during its odyssey on the moon.
+- Share via email (Opens in new window)
+- Click to share on...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 363
+Content meets criteria - adding to dataset
+Total items in dataset: 14
+Found 12 links on page
+Adding link to queue: https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end?share=facebook&nb=1
+Adding link to queue: https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end?share=reddit&nb=1
+Adding link to queue: https://www.sciencenews.org/article/odysseus-moon-mission-lunar-lander-end?share=twitter&nb=1
+Adding link to queue: https://www.sciencenews.org/author/adam-mann
+Adding link to queue: https://www.sciencenews.org/terms-of-service
+Added 5 links to queue
+
+Processing URL 15/15: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star
+
+Scraping page: https://www.sciencenews.org/article/webb-telescope-jwst-black-hole-star
+URL already visited, skipping
+
+Processing URL 15/15: https://www.sciencenews.org/author/mckenzie-prillaman
+
+Scraping page: https://www.sciencenews.org/author/mckenzie-prillaman
+URL already visited, skipping
+
+Processing URL 15/15: https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole
+
+Scraping page: https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole
+Total visited URLs: 16
+Loading page with Chrome WebDriver...
+Page loaded successfully
+Interacting with UI elements...
+No expandable sections found
+Parsing page with BeautifulSoup...
+Extracting content from soup...
+Found main content using selector: main
+Found 4 text elements
+Found 1 lists
+Extracted content length: 338
+Content preview: By McKenzie Prillaman
+July 29, 2025 at 11:00 am
+Something unusual may have risen from the ashes of an epic smashup.
+- Share via email (Opens in new window)
+- Click to share on Facebook (Opens in new w...
+Content preview (first 200 chars): By McKenzie Prillaman
+July 29, 2025 at 11:00 am
+Something unusual may have risen from the ashes of an epic smashup.
+- Share via email (Opens in new window)
+- Click to share on Facebook (Opens in new w...
+Keywords to search for: ['NASA', 'Mars', 'satellite']
+Has keywords: False
+Has substantial content: True
+Content length: 338
+Content meets criteria - adding to dataset
+Total items in dataset: 15
+Found 12 links on page
+Adding link to queue: https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole?share=facebook&nb=1
+Adding link to queue: https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole?share=reddit&nb=1
+Adding link to queue: https://www.sciencenews.org/article/infinity-galaxy-collision-black-hole?share=twitter&nb=1
+Adding link to queue: https://www.sciencenews.org/terms-of-service
+Adding link to queue: https://www.sciencenews.org/privacy-policy
+Added 5 links to queue
+
+Crawling completed. Total pages scraped: 15
+Saving data to dataset_20250803_000946.txt...
+Full path: ../../Server/scraped_data/dataset_20250803_000946.txt
+Number of items to save: 15
+Data saved successfully
+Data saved to: ../../Server/scraped_data/dataset_20250803_000946.txt
+Total content length: 40937 characters
+INFO:     127.0.0.1:64520 - "POST /scrape HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64892 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50164 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50217 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50248 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50314 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50361 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50405 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50452 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50520 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50562 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50615 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50662 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50702 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50757 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50802 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50856 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50905 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50965 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51029 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51084 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51145 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51192 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51247 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51298 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51369 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51437 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51544 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51579 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51619 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51629 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51644 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51649 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51684 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51720 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51728 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51738 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51766 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51787 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51811 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51824 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51852 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51864 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51875 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51880 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51906 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51973 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52055 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52079 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52134 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52175 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52215 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52248 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52289 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52323 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52374 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52402 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52449 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52483 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52542 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52586 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52613 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52645 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52687 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52710 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52749 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52792 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52838 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52875 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52922 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52957 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52999 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53023 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53069 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53114 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53157 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53198 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53245 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53286 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53343 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53389 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53421 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53465 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53503 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53521 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53561 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53584 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53600 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53615 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53639 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53647 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53661 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53671 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53681 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53690 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53879 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53913 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53927 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54141 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54431 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54715 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54956 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55085 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55240 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55387 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55612 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55768 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55866 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56140 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56347 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56534 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56627 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56690 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56724 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56753 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56802 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56821 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56856 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56872 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56915 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56954 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56972 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56997 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57023 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57033 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57047 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57082 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57122 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57151 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57202 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57231 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57275 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57300 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57337 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57359 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57377 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57392 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57406 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57412 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57444 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57467 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57481 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57489 - "GET / HTTP/1.1" 404 Not Found
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [16053]
+INFO:     Stopping reloader process [13479]
